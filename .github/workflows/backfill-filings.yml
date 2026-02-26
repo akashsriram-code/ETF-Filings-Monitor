@@ -1,15 +1,18 @@
-name: Poll SEC Filings
+name: Backfill SEC Filings
 
 on:
-  schedule:
-    - cron: "*/10 * * * *"
   workflow_dispatch:
+    inputs:
+      backfill_days:
+        description: "Number of days to backfill from SEC daily master index"
+        required: true
+        default: "7"
 
 permissions:
   contents: write
 
 jobs:
-  poll:
+  backfill:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -23,7 +26,7 @@ jobs:
       - name: Install dependencies
         run: pip install -r requirements.txt
 
-      - name: Poll filings
+      - name: Backfill filings
         env:
           SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
           REPORTER_EMAIL: ${{ secrets.REPORTER_EMAIL }}
@@ -31,7 +34,7 @@ jobs:
           RESEND_FROM_EMAIL: ${{ secrets.RESEND_FROM_EMAIL }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: gemini-1.5-pro
-        run: python scripts/poll_filings.py --backfill-days 0
+        run: python scripts/poll_filings.py --backfill-days "${{ github.event.inputs.backfill_days }}"
 
       - name: Commit updated data
         run: |
@@ -39,6 +42,6 @@ jobs:
             git config user.name "github-actions[bot]"
             git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
             git add data/alerts.json data/state.json data/status.json
-            git commit -m "chore: update filing alerts data"
+            git commit -m "chore: backfill filing alerts data"
             git push
           fi

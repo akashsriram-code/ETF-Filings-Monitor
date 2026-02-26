@@ -98,6 +98,7 @@ It supports partial TCP chunks by returning unconsumed `remainder` for next read
 
 Workflow file:
 - `.github/workflows/poll-filings.yml`
+- `.github/workflows/backfill-filings.yml`
 
 Add these repository secrets:
 - `SEC_USER_AGENT`
@@ -115,8 +116,8 @@ Then:
 ### One-Week Backfill
 
 To backfill the past week:
-1. Go to `Actions -> Poll SEC Filings -> Run workflow`.
-2. Set `backfill_days` to `7`.
+1. Go to `Actions -> Backfill SEC Filings -> Run workflow`.
+2. Set `backfill_days` to `7` (or another number).
 3. Run the workflow.
 
 The run will combine:
