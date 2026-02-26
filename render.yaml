@@ -1,0 +1,24 @@
+services:
+  - type: web
+    name: etf-filings-monitor
+    env: docker
+    plan: starter
+    autoDeploy: true
+    healthCheckPath: /api/health
+    envVars:
+      - key: AUTO_START_STREAM
+        value: "true"
+      - key: PDS_HOST
+        sync: false
+      - key: PDS_PORT
+        sync: false
+      - key: SEC_USER_AGENT
+        sync: false
+      - key: REPORTER_EMAIL
+        sync: false
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: RESEND_API_KEY
+        sync: false
+      - key: RESEND_FROM_EMAIL
+        sync: false

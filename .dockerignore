@@ -1,0 +1,9 @@
+.env
+.git
+.gitignore
+.pytest_cache
+.vscode
+.venv
+__pycache__
+generated_pdfs
+tests

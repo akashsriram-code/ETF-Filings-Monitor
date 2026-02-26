@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{{ title }}</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;500;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/static/styles.css" />
+</head>
+<body>
+  <div class="stage-glow"></div>
+  <main class="dashboard">
+    <header class="masthead">
+      <div>
+        <p class="eyebrow">Reuters ETF Desk</p>
+        <h1>ETF Filing Radar</h1>
+        <p class="subtitle">A focused dashboard for flagged ETF filings with synopsis-level triage and one-click SEC links.</p>
+      </div>
+      <div class="mode-chip" id="modeChip">Mode: Detecting...</div>
+    </header>
+
+    <section class="metrics-grid">
+      <article class="metric-card">
+        <p class="metric-label">Flagged Filings</p>
+        <p class="metric-value" id="metricTotal">0</p>
+      </article>
+      <article class="metric-card">
+        <p class="metric-label">Crypto S-1</p>
+        <p class="metric-value" id="metricCrypto">0</p>
+      </article>
+      <article class="metric-card">
+        <p class="metric-label">Regular 485</p>
+        <p class="metric-value" id="metricRegular">0</p>
+      </article>
+      <article class="metric-card">
+        <p class="metric-label">Email Success</p>
+        <p class="metric-value" id="metricSent">0</p>
+      </article>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <h2>System Pulse</h2>
+        <div class="action-row">
+          <button id="refreshBtn" class="refresh-btn">Refresh</button>
+          <button id="startBtn">Start Listener</button>
+          <button id="stopBtn" class="alt-btn">Stop Listener</button>
+        </div>
+      </div>
+      <p id="status" class="status-line">Loading status...</p>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head filing-head">
+        <h2>Latest Flagged Filings</h2>
+        <div class="filters">
+          <input id="searchInput" type="search" placeholder="Search company, CIK, accession, synopsis" />
+          <select id="formFilter">
+            <option value="ALL">All Forms</option>
+            <option value="485APOS">485APOS</option>
+            <option value="485BPOS">485BPOS</option>
+            <option value="S-1">S-1</option>
+          </select>
+        </div>
+      </div>
+      <p class="meta-line"><span id="visibleCount">0</span> filings shown</p>
+      <div id="alerts" class="filings-list"></div>
+    </section>
+  </main>
+
+  <script src="/static/app.js"></script>
+</body>
+</html>
