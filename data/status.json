@@ -1,11 +1,11 @@
 {
-  "last_run": "2026-02-26T20:42:00.482072+00:00",
-  "last_error": "Resend error 429: {\"statusCode\":429,\"name\":\"rate_limit_exceeded\",\"message\":\"Too many requests. You can only make 2 requests per second. See rate limit response headers for more information. Or contact support to increase rate limit.\"}",
-  "fetched_entries": 71,
+  "last_run": "2026-02-26T21:21:01.152035+00:00",
+  "last_error": null,
+  "fetched_entries": 68,
   "feed_entries": 100,
   "backfill_entries": 0,
   "backfill_days": 0,
-  "new_alerts": 5,
-  "total_alerts": 30,
+  "new_alerts": 1,
+  "total_alerts": 31,
   "mode": "github-pages-scheduled-poller"
 }
