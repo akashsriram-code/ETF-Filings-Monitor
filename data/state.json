@@ -1,5 +1,5 @@
 {
   "seen_accessions": [],
-  "last_run": "2026-02-26T17:02:44.267098+00:00",
-  "last_error": null
+  "last_run": "2026-02-26T17:56:11.392900+00:00",
+  "last_error": "Client error '403 Forbidden' for url 'https://www.sec.gov/Archives/edgar/daily-index/2026/QTR1/master.20260226.idx'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403"
 }
