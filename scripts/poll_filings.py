@@ -4,7 +4,7 @@ import argparse
 import json
 import os
 import re
-from datetime import datetime, timezone
+from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 from urllib.parse import urljoin
@@ -55,6 +55,92 @@ def build_index_url(cik: str, accession_number: str) -> str:
     clean_cik = str(int("".join(ch for ch in cik if ch.isdigit())))
     clean_accession = "".join(ch for ch in accession_number if ch.isdigit())
     return f"https://www.sec.gov/Archives/edgar/data/{clean_cik}/{clean_accession}/index.html"
+
+
+def quarter_for_date(day: date) -> int:
+    return ((day.month - 1) // 3) + 1
+
+
+def master_index_url_for_date(day: date) -> str:
+    return f"https://www.sec.gov/Archives/edgar/daily-index/{day.year}/QTR{quarter_for_date(day)}/master.{day:%Y%m%d}.idx"
+
+
+def extract_accession_from_filename(filename: str) -> str:
+    # Example filename: edgar/data/320193/0000320193-24-000123.txt
+    match = re.search(r"/(\d{10}-\d{2}-\d{6})\.(?:txt|nc)$", filename, flags=re.IGNORECASE)
+    if match:
+        return match.group(1)
+    return ""
+
+
+def parse_master_index_line(line: str) -> dict[str, str] | None:
+    parts = line.strip().split("|")
+    if len(parts) < 5:
+        return None
+
+    cik, company_name, form_type, date_filed, filename = [part.strip() for part in parts[:5]]
+    normalized_form = normalize_form_type(form_type)
+    accession_number = extract_accession_from_filename(filename)
+    filing_link = f"https://www.sec.gov/Archives/{filename}" if filename else ""
+
+    return {
+        "form_type": normalized_form,
+        "company_name": company_name,
+        "cik": cik,
+        "accession_number": accession_number,
+        "filing_link": filing_link,
+        "updated": date_filed,
+    }
+
+
+def fetch_master_index_entries(user_agent: str, day: date) -> list[dict[str, str]]:
+    headers = {"User-Agent": user_agent}
+    url = master_index_url_for_date(day)
+    with httpx.Client(timeout=30, follow_redirects=True, headers=headers) as client:
+        response = client.get(url)
+
+    if response.status_code == 404:
+        return []
+    response.raise_for_status()
+
+    entries: list[dict[str, str]] = []
+    for raw_line in response.text.splitlines():
+        if "|" not in raw_line:
+            continue
+        parsed = parse_master_index_line(raw_line)
+        if parsed:
+            entries.append(parsed)
+    return entries
+
+
+def fetch_backfill_entries(user_agent: str, backfill_days: int) -> list[dict[str, str]]:
+    if backfill_days <= 0:
+        return []
+
+    today = datetime.now(timezone.utc).date()
+    merged: list[dict[str, str]] = []
+    for offset in range(backfill_days):
+        day = today - timedelta(days=offset)
+        day_entries = fetch_master_index_entries(user_agent, day)
+        merged.extend(day_entries)
+    return merged
+
+
+def dedupe_entries(entries: list[dict[str, str]]) -> list[dict[str, str]]:
+    seen_keys: set[str] = set()
+    deduped: list[dict[str, str]] = []
+
+    for entry in entries:
+        accession = entry.get("accession_number", "").strip()
+        cik = entry.get("cik", "").strip()
+        fallback_key = f"{entry.get('form_type', '')}|{entry.get('company_name', '')}|{entry.get('filing_link', '')}"
+        key = accession or f"{cik}:{fallback_key}"
+        if key in seen_keys:
+            continue
+        seen_keys.add(key)
+        deduped.append(entry)
+
+    return deduped
 
 
 def fetch_feed_entries(user_agent: str) -> list[dict[str, str]]:
@@ -216,7 +302,7 @@ def send_resend_email(
     return True, None
 
 
-def run_once(dry_run: bool = False) -> int:
+def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
     user_agent = os.getenv("SEC_USER_AGENT", "").strip()
     reporter_email = os.getenv("REPORTER_EMAIL", "").strip()
     resend_from_email = os.getenv("RESEND_FROM_EMAIL", "").strip()
@@ -238,11 +324,19 @@ def run_once(dry_run: bool = False) -> int:
     seen = set(state.get("seen_accessions", []))
 
     fetched_entries = 0
+    feed_entries_count = 0
+    backfill_entries_count = 0
     new_alerts: list[dict[str, Any]] = []
     last_error: str | None = None
 
     try:
-        entries = fetch_feed_entries(user_agent)
+        feed_entries = fetch_feed_entries(user_agent)
+        feed_entries_count = len(feed_entries)
+
+        backfill_entries = fetch_backfill_entries(user_agent, backfill_days)
+        backfill_entries_count = len(backfill_entries)
+
+        entries = dedupe_entries(feed_entries + backfill_entries)
         fetched_entries = len(entries)
         for entry in entries:
             form_type = normalize_form_type(entry.get("form_type", ""))
@@ -316,6 +410,9 @@ def run_once(dry_run: bool = False) -> int:
         "last_run": state_payload["last_run"],
         "last_error": last_error,
         "fetched_entries": fetched_entries,
+        "feed_entries": feed_entries_count,
+        "backfill_entries": backfill_entries_count,
+        "backfill_days": backfill_days,
         "new_alerts": len(new_alerts),
         "total_alerts": len(merged_alerts),
         "mode": "github-pages-scheduled-poller",
@@ -324,7 +421,11 @@ def run_once(dry_run: bool = False) -> int:
     save_json(ALERTS_PATH, merged_alerts)
     save_json(STATE_PATH, state_payload)
     save_json(STATUS_PATH, status_payload)
-    print(f"Fetched entries: {fetched_entries}; new alerts: {len(new_alerts)}")
+    print(
+        f"Fetched entries: {fetched_entries} (feed={feed_entries_count}, "
+        f"backfill={backfill_entries_count}, backfill_days={backfill_days}); "
+        f"new alerts: {len(new_alerts)}"
+    )
     if last_error:
         print(f"Last error: {last_error}")
     return 0
@@ -333,12 +434,18 @@ def run_once(dry_run: bool = False) -> int:
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Poll SEC current filings and alert on ETF forms.")
     parser.add_argument("--dry-run", action="store_true", help="Run without sending emails.")
+    parser.add_argument(
+        "--backfill-days",
+        type=int,
+        default=int(os.getenv("BACKFILL_DAYS", "0") or "0"),
+        help="Include SEC daily master indexes for the last N days.",
+    )
     return parser.parse_args()
 
 
 def main() -> int:
     args = parse_args()
-    return run_once(dry_run=args.dry_run)
+    return run_once(dry_run=args.dry_run, backfill_days=max(args.backfill_days, 0))
 
 
 if __name__ == "__main__":

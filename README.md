@@ -112,6 +112,22 @@ Then:
 3. Run `Poll SEC Filings` workflow once manually via `workflow_dispatch`.
 4. Confirm `data/status.json` and `data/alerts.json` are updating.
 
+### One-Week Backfill
+
+To backfill the past week:
+1. Go to `Actions -> Poll SEC Filings -> Run workflow`.
+2. Set `backfill_days` to `7`.
+3. Run the workflow.
+
+The run will combine:
+- Current feed entries
+- SEC daily master index entries for the last 7 days
+
+Status output in `data/status.json` includes:
+- `feed_entries`
+- `backfill_entries`
+- `backfill_days`
+
 ## Hosting Notes
 
 - GitHub Pages mode works for scheduled polling only.

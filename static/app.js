@@ -118,6 +118,9 @@ function updateStatusLine(status) {
 
   const summary =
     `scheduler=every_10m fetched=${fmtNumber(status.fetched_entries)} ` +
+    `feed=${fmtNumber(status.feed_entries)} ` +
+    `backfill=${fmtNumber(status.backfill_entries)} ` +
+    `backfill_days=${fmtNumber(status.backfill_days)} ` +
     `new_alerts=${fmtNumber(status.new_alerts)} ` +
     `total_alerts=${fmtNumber(status.total_alerts)} ` +
     `last_run=${fmtDate(status.last_run)}`;
