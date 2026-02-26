@@ -1,11 +1,11 @@
 {
-  "last_run": "2026-02-26T18:00:55.118764+00:00",
-  "last_error": "Resend error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (channelcarrera@gmail.com). To send emails to other recipients, please verify a domain at resend.com/domains, and change the `from` address to an email using this domain.\"}",
-  "fetched_entries": 74,
+  "last_run": "2026-02-26T18:10:19.899991+00:00",
+  "last_error": "Client error '403 Forbidden' for url 'https://www.sec.gov/Archives/edgar/daily-index/2026/QTR1/master.20260226.idx'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/403",
+  "fetched_entries": 0,
   "feed_entries": 100,
   "backfill_entries": 0,
-  "backfill_days": 0,
-  "new_alerts": 22,
+  "backfill_days": 7,
+  "new_alerts": 0,
   "total_alerts": 22,
   "mode": "github-pages-scheduled-poller"
 }
