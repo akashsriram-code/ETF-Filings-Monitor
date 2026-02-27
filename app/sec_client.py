@@ -23,7 +23,7 @@ def _clean_accession_for_path(accession_number: str) -> str:
 def build_sec_index_url(cik: str, accession_number: str) -> str:
     clean_cik = _clean_cik_for_path(cik)
     clean_accession = _clean_accession_for_path(accession_number)
-    return f"https://www.sec.gov/Archives/edgar/data/{clean_cik}/{clean_accession}/index.html"
+    return f"https://www.sec.gov/Archives/edgar/data/{clean_cik}/{clean_accession}/{accession_number}-index.html"
 
 
 def _select_primary_document_url(index_url: str, index_html: str, form_type: str | None = None) -> str:
@@ -36,6 +36,11 @@ def _select_primary_document_url(index_url: str, index_html: str, form_type: str
 
         parsed = urlparse(candidate)
         if parsed.path.startswith("/ixviewer/ix.html"):
+            query = parse_qs(parsed.query)
+            doc = (query.get("doc") or [""])[0]
+            if doc.startswith("/Archives/"):
+                return f"https://www.sec.gov{doc}"
+        if parsed.path == "/ix":
             query = parse_qs(parsed.query)
             doc = (query.get("doc") or [""])[0]
             if doc.startswith("/Archives/"):
@@ -58,6 +63,7 @@ def _select_primary_document_url(index_url: str, index_html: str, form_type: str
         return absolute
 
     normalized_form = "".join((form_type or "").upper().split())
+    form_token = re.sub(r"[^a-z0-9]+", "", normalized_form.lower())
 
     for table in soup.select("table.tableFile"):
         preferred_rows = []
@@ -79,6 +85,44 @@ def _select_primary_document_url(index_url: str, index_html: str, form_type: str
                 resolved = normalize_sec_doc_url(link.get("href", ""))
                 if resolved:
                     return resolved
+
+    best_candidate: str | None = None
+    best_score = -1.0
+    for row in soup.select("tr"):
+        link = row.select_one("a[href]")
+        if not link:
+            continue
+        resolved = normalize_sec_doc_url(link.get("href", ""))
+        if not resolved:
+            continue
+        filename = resolved.rsplit("/", 1)[-1].lower()
+        if "index" in filename or "header" in filename or "filingsummary" in filename:
+            continue
+
+        score = 0.0
+        if filename.endswith((".htm", ".html")):
+            score += 30.0
+        elif filename.endswith(".txt"):
+            score += 10.0
+
+        compact_name = re.sub(r"[^a-z0-9]+", "", filename)
+        if form_token and form_token in compact_name:
+            score += 120.0
+        if "ex" in compact_name:
+            score -= 5.0
+
+        cells = row.select("td")
+        if len(cells) >= 2:
+            size_text = cells[1].get_text(" ", strip=True).replace(",", "")
+            if size_text.isdigit():
+                score += min(int(size_text) / 100000.0, 50.0)
+
+        if score > best_score:
+            best_score = score
+            best_candidate = resolved
+
+    if best_candidate:
+        return best_candidate
 
     for link in soup.select("a[href]"):
         resolved = normalize_sec_doc_url(link.get("href", ""))
@@ -136,7 +180,13 @@ async def collect_sec_artifacts(
 
     async with httpx.AsyncClient(timeout=timeout, follow_redirects=True) as client:
         index_response = await client.get(index_url, headers=headers)
-        index_response.raise_for_status()
+        if index_response.status_code == 404 and index_url.endswith("-index.html"):
+            fallback_index_url = index_url.rsplit("/", 1)[0] + "/index.html"
+            index_response = await client.get(fallback_index_url, headers=headers)
+            index_response.raise_for_status()
+            index_url = fallback_index_url
+        else:
+            index_response.raise_for_status()
         primary_url = _select_primary_document_url(index_url, index_response.text, form_type=form_type)
         result["primary_document_url"] = primary_url
 

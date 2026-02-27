@@ -1,6 +1,7 @@
 from datetime import date
 
 from scripts.poll_filings import (
+    build_index_url,
     clean_extracted_text,
     crypto_gate,
     extract_accession_from_filename,
@@ -52,6 +53,11 @@ def test_master_index_url_for_date() -> None:
     assert url.endswith("/2026/QTR1/master.20260220.idx")
 
 
+def test_build_index_url_uses_accession_index_page() -> None:
+    url = build_index_url("000820892", "0001193125-26-079024")
+    assert url.endswith("/820892/000119312526079024/0001193125-26-079024-index.html")
+
+
 def test_select_primary_document_url_prefers_ixviewer_doc_link() -> None:
     html = """
     <html><body>
@@ -79,6 +85,19 @@ def test_select_primary_document_url_rejects_sec_home_index() -> None:
     index_url = "https://www.sec.gov/Archives/edgar/data/123/000000000026000001/index.html"
     url = select_primary_document_url(index_url, html, "485BPOS")
     assert url == index_url
+
+
+def test_select_primary_document_url_from_directory_listing_prefers_real_doc() -> None:
+    html = """
+    <html><body><table>
+      <tr><td><a href="0001193125-26-079024-index-headers.html">headers</a></td><td>1234</td></tr>
+      <tr><td><a href="d86423d485bpos.htm">main</a></td><td>5091852</td></tr>
+      <tr><td><a href="d86423d485bpos_htm.xml">xml</a></td><td>779371</td></tr>
+    </table></body></html>
+    """
+    index_url = "https://www.sec.gov/Archives/edgar/data/820892/000119312526079024/index.html"
+    url = select_primary_document_url(index_url, html, "485BPOS")
+    assert url.endswith("/d86423d485bpos.htm")
 
 
 def test_clean_extracted_text_removes_sec_boilerplate() -> None:

@@ -54,7 +54,7 @@ def save_json(path: Path, payload: Any) -> None:
 def build_index_url(cik: str, accession_number: str) -> str:
     clean_cik = str(int("".join(ch for ch in cik if ch.isdigit())))
     clean_accession = "".join(ch for ch in accession_number if ch.isdigit())
-    return f"https://www.sec.gov/Archives/edgar/data/{clean_cik}/{clean_accession}/index.html"
+    return f"https://www.sec.gov/Archives/edgar/data/{clean_cik}/{clean_accession}/{accession_number}-index.html"
 
 
 def quarter_for_date(day: date) -> int:
@@ -237,6 +237,11 @@ def select_primary_document_url(index_url: str, index_html: str, form_type: str 
             doc = (query.get("doc") or [""])[0]
             if doc.startswith("/Archives/"):
                 return f"https://www.sec.gov{doc}"
+        if parsed.path == "/ix":
+            query = parse_qs(parsed.query)
+            doc = (query.get("doc") or [""])[0]
+            if doc.startswith("/Archives/"):
+                return f"https://www.sec.gov{doc}"
 
         if candidate.startswith("/ixviewer/ix.html?doc=/Archives/"):
             doc = candidate.split("doc=", 1)[1]
@@ -255,6 +260,7 @@ def select_primary_document_url(index_url: str, index_html: str, form_type: str 
         return absolute
 
     normalized_form = normalize_form_type(form_type or "")
+    form_token = re.sub(r"[^a-z0-9]+", "", normalized_form.lower())
 
     # Prefer document table rows first; they map to the filing's actual documents.
     for table in soup.select("table.tableFile"):
@@ -277,6 +283,45 @@ def select_primary_document_url(index_url: str, index_html: str, form_type: str 
                 if resolved:
                     return resolved
 
+    # SEC archive directory listing fallback (when index URL resolves to folder listing).
+    best_candidate: str | None = None
+    best_score = -1.0
+    for row in soup.select("tr"):
+        link = row.select_one("a[href]")
+        if not link:
+            continue
+        resolved = normalize_sec_doc_url(link.get("href", ""))
+        if not resolved:
+            continue
+        filename = resolved.rsplit("/", 1)[-1].lower()
+        if "index" in filename or "header" in filename or "filingsummary" in filename:
+            continue
+
+        score = 0.0
+        if filename.endswith((".htm", ".html")):
+            score += 30.0
+        elif filename.endswith(".txt"):
+            score += 10.0
+
+        compact_name = re.sub(r"[^a-z0-9]+", "", filename)
+        if form_token and form_token in compact_name:
+            score += 120.0
+        if "ex" in compact_name:
+            score -= 5.0
+
+        cells = row.select("td")
+        if len(cells) >= 2:
+            size_text = cells[1].get_text(" ", strip=True).replace(",", "")
+            if size_text.isdigit():
+                score += min(int(size_text) / 100000.0, 50.0)
+
+        if score > best_score:
+            best_score = score
+            best_candidate = resolved
+
+    if best_candidate:
+        return best_candidate
+
     for link in soup.select("a[href]"):
         resolved = normalize_sec_doc_url(link.get("href", ""))
         if resolved:
@@ -288,7 +333,13 @@ def fetch_primary_document(index_url: str, user_agent: str, form_type: str | Non
     headers = {"User-Agent": user_agent}
     with httpx.Client(timeout=30, follow_redirects=True, headers=headers) as client:
         index_response = client.get(index_url)
-        index_response.raise_for_status()
+        if index_response.status_code == 404 and index_url.endswith("-index.html"):
+            fallback_index_url = index_url.rsplit("/", 1)[0] + "/index.html"
+            index_response = client.get(fallback_index_url)
+            index_response.raise_for_status()
+            index_url = fallback_index_url
+        else:
+            index_response.raise_for_status()
         primary_url = select_primary_document_url(index_url, index_response.text, form_type=form_type)
 
         primary_response = client.get(primary_url)

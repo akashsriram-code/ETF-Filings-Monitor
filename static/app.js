@@ -57,9 +57,10 @@ function normalizeAccessionDigits(accession) {
 
 function buildEdgarIndexUrl(cik, accession) {
   const cleanCik = normalizeCik(cik);
+  const rawAccession = String(accession || "").trim();
   const cleanAccession = normalizeAccessionDigits(accession);
-  if (!cleanCik || !cleanAccession) return "";
-  return `https://www.sec.gov/Archives/edgar/data/${cleanCik}/${cleanAccession}/index.html`;
+  if (!cleanCik || !cleanAccession || !rawAccession) return "";
+  return `https://www.sec.gov/Archives/edgar/data/${cleanCik}/${cleanAccession}/${rawAccession}-index.html`;
 }
 
 function isUsableSecFilingUrl(url) {
