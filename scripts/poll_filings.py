@@ -163,8 +163,29 @@ def normalize_alert_links(alert: dict[str, Any]) -> dict[str, Any]:
     return normalized
 
 
-def repair_existing_alert_links(alerts: list[dict[str, Any]], user_agent: str, max_repairs: int = 30) -> tuple[list[dict[str, Any]], int]:
+def needs_synopsis_refresh(alert: dict[str, Any]) -> bool:
+    synopsis = (alert.get("synopsis") or "").strip()
+    if not synopsis:
+        return True
+    lower = synopsis.lower()
+    signals = [
+        "fund name: not clearly stated",
+        "strategy: sec.gov",
+        "skip to search field",
+        "official websites use .gov",
+    ]
+    return any(signal in lower for signal in signals)
+
+
+def repair_existing_alert_links(
+    alerts: list[dict[str, Any]],
+    user_agent: str,
+    gemini_api_key: str,
+    gemini_model: str,
+    max_repairs: int = 30,
+) -> tuple[list[dict[str, Any]], int, int]:
     repaired_count = 0
+    refreshed_synopsis_count = 0
     repaired_alerts: list[dict[str, Any]] = []
 
     for alert in alerts:
@@ -180,18 +201,23 @@ def repair_existing_alert_links(alerts: list[dict[str, Any]], user_agent: str, m
             if cik and accession:
                 index_url = build_index_url(cik, accession)
                 try:
-                    primary_url, _ = fetch_primary_document(index_url, user_agent, form_type=form_type)
+                    primary_url, filing_text = fetch_primary_document(index_url, user_agent, form_type=form_type)
                     if is_valid_archive_url(primary_url):
                         current["sec_index_url"] = index_url
                         current["primary_document_url"] = primary_url
                         current["sec_filing_url"] = to_ix_url(primary_url)
                         repaired_count += 1
+
+                    if needs_synopsis_refresh(current):
+                        is_crypto = bool(current.get("is_crypto")) or normalize_form_type(form_type) == "S-1"
+                        current["synopsis"] = generate_synopsis(filing_text, gemini_api_key, gemini_model, is_crypto)
+                        refreshed_synopsis_count += 1
                 except Exception:
                     pass
 
         repaired_alerts.append(current)
 
-    return repaired_alerts, repaired_count
+    return repaired_alerts, repaired_count, refreshed_synopsis_count
 
 
 def fetch_feed_entries(user_agent: str) -> list[dict[str, str]]:
@@ -525,11 +551,17 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
     feed_entries_count = 0
     backfill_entries_count = 0
     repaired_links_count = 0
+    refreshed_synopsis_count = 0
     new_alerts: list[dict[str, Any]] = []
     last_error: str | None = None
 
     try:
-        existing_alerts, repaired_links_count = repair_existing_alert_links(existing_alerts, user_agent=user_agent)
+        existing_alerts, repaired_links_count, refreshed_synopsis_count = repair_existing_alert_links(
+            existing_alerts,
+            user_agent=user_agent,
+            gemini_api_key=gemini_api_key,
+            gemini_model=gemini_model,
+        )
 
         feed_entries = fetch_feed_entries(user_agent)
         feed_entries_count = len(feed_entries)
@@ -619,6 +651,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
         "backfill_entries": backfill_entries_count,
         "backfill_days": backfill_days,
         "repaired_links": repaired_links_count,
+        "refreshed_synopsis": refreshed_synopsis_count,
         "new_alerts": len(new_alerts),
         "total_alerts": len(merged_alerts),
         "mode": "github-pages-scheduled-poller",
@@ -630,7 +663,8 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
     print(
         f"Fetched entries: {fetched_entries} (feed={feed_entries_count}, "
         f"backfill={backfill_entries_count}, backfill_days={backfill_days}); "
-        f"new alerts: {len(new_alerts)}; repaired_links: {repaired_links_count}"
+        f"new alerts: {len(new_alerts)}; repaired_links: {repaired_links_count}; "
+        f"refreshed_synopsis: {refreshed_synopsis_count}"
     )
     if last_error:
         print(f"Last error: {last_error}")

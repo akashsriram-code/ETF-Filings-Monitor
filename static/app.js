@@ -232,6 +232,7 @@ function updateStatusLine(status) {
     `backfill=${fmtNumber(status.backfill_entries)} ` +
     `backfill_days=${fmtNumber(status.backfill_days)} ` +
     `repaired_links=${fmtNumber(status.repaired_links)} ` +
+    `refreshed_synopsis=${fmtNumber(status.refreshed_synopsis)} ` +
     `new_alerts=${fmtNumber(status.new_alerts)} ` +
     `total_alerts=${fmtNumber(status.total_alerts)} ` +
     `last_run=${fmtDate(status.last_run)}`;
