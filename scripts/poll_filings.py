@@ -155,7 +155,7 @@ def normalize_alert_links(alert: dict[str, Any]) -> dict[str, Any]:
     if not is_valid_archive_url(primary):
         primary = ""
     if not is_valid_archive_url(sec_filing):
-        sec_filing = primary if is_valid_archive_url(primary) else index_url
+        sec_filing = to_ix_url(primary) if is_valid_archive_url(primary) else index_url
 
     normalized["sec_index_url"] = index_url
     normalized["primary_document_url"] = primary or None
@@ -184,7 +184,7 @@ def repair_existing_alert_links(alerts: list[dict[str, Any]], user_agent: str, m
                     if is_valid_archive_url(primary_url):
                         current["sec_index_url"] = index_url
                         current["primary_document_url"] = primary_url
-                        current["sec_filing_url"] = primary_url
+                        current["sec_filing_url"] = to_ix_url(primary_url)
                         repaired_count += 1
                 except Exception:
                     pass
@@ -403,6 +403,18 @@ def is_valid_archive_url(url: str | None) -> bool:
     return True
 
 
+def to_ix_url(url: str | None) -> str:
+    candidate = (url or "").strip()
+    if not candidate:
+        return ""
+    parsed = urlparse(candidate)
+    if parsed.path == "/ix":
+        return candidate
+    if is_valid_archive_url(candidate):
+        return f"https://www.sec.gov/ix?doc={parsed.path}"
+    return candidate
+
+
 def clean_extracted_text(text: str) -> str:
     cleaned = " ".join(text.split())
     boilerplate_patterns = [
@@ -574,7 +586,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
                 "company_name": company_name,
                 "accession_number": accession_number,
                 "sec_index_url": index_url,
-                "sec_filing_url": primary_doc_url if is_valid_archive_url(primary_doc_url) else index_url,
+                "sec_filing_url": to_ix_url(primary_doc_url) if is_valid_archive_url(primary_doc_url) else index_url,
                 "primary_document_url": primary_doc_url,
                 "matched_keywords": matched_keywords,
                 "is_crypto": is_crypto,

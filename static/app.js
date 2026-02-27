@@ -72,6 +72,11 @@ function canonicalizeSecUrl(url, alert) {
 
     const path = parsed.pathname || "";
     const lowerPath = path.toLowerCase();
+    if (lowerPath === "/ix") {
+      const docPath = parsed.searchParams.get("doc") || "";
+      if (docPath.toLowerCase().startsWith("/archives/")) return parsed.toString();
+      return "";
+    }
     if (!lowerPath.includes("/archives/")) return "";
 
     const last = lowerPath.split("/").filter(Boolean).pop() || "";
@@ -97,6 +102,10 @@ function isUsableSecFilingUrl(url) {
     const path = parsed.pathname || "";
     if (path === "/" || path === "") return false;
     const lowerPath = path.toLowerCase();
+    if (lowerPath === "/ix") {
+      const docPath = parsed.searchParams.get("doc") || "";
+      return docPath.toLowerCase().startsWith("/archives/");
+    }
     if (!lowerPath.includes("/archives/")) return false;
 
     const last = lowerPath.split("/").filter(Boolean).pop() || "";
@@ -105,6 +114,24 @@ function isUsableSecFilingUrl(url) {
     return true;
   } catch (_) {
     return false;
+  }
+}
+
+function toIxViewerUrl(url) {
+  const value = String(url || "").trim();
+  if (!value) return "";
+  try {
+    const parsed = new URL(value);
+    if (!/sec\.gov$/i.test(parsed.hostname)) return "";
+    const lowerPath = parsed.pathname.toLowerCase();
+    if (lowerPath === "/ix") return parsed.toString();
+    if (!lowerPath.includes("/archives/")) return "";
+    const last = lowerPath.split("/").filter(Boolean).pop() || "";
+    if (!last.includes(".")) return "";
+    if (last === "index.html" || last === "index.htm") return "";
+    return `https://www.sec.gov/ix?doc=${parsed.pathname}`;
+  } catch (_) {
+    return "";
   }
 }
 
@@ -120,10 +147,11 @@ function resolveLinks(alert) {
 
   const primaryCandidate = canonicalizeSecUrl(alert.primary_document_url, alert);
   const primary = isUsableSecFilingUrl(primaryCandidate) ? primaryCandidate : "";
+  const viewer = toIxViewerUrl(best);
 
   return {
-    secLink: best,
-    primaryLink: primary && primary !== best ? primary : "",
+    secLink: viewer || best,
+    primaryLink: primary && primary !== (viewer || best) ? primary : "",
   };
 }
 
