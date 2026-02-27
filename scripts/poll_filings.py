@@ -143,6 +143,25 @@ def dedupe_entries(entries: list[dict[str, str]]) -> list[dict[str, str]]:
     return deduped
 
 
+def normalize_alert_links(alert: dict[str, Any]) -> dict[str, Any]:
+    normalized = dict(alert)
+    cik = str(normalized.get("cik", "")).strip()
+    accession = str(normalized.get("accession_number", "")).strip()
+    index_url = normalized.get("sec_index_url") or (build_index_url(cik, accession) if cik and accession else "")
+    primary = normalized.get("primary_document_url")
+    sec_filing = normalized.get("sec_filing_url")
+
+    if not is_valid_archive_url(primary):
+        primary = index_url if is_valid_archive_url(index_url) else ""
+    if not is_valid_archive_url(sec_filing):
+        sec_filing = primary if is_valid_archive_url(primary) else index_url
+
+    normalized["sec_index_url"] = index_url
+    normalized["primary_document_url"] = primary or None
+    normalized["sec_filing_url"] = sec_filing or index_url
+    return normalized
+
+
 def fetch_feed_entries(user_agent: str) -> list[dict[str, str]]:
     headers = {"User-Agent": user_agent}
     with httpx.Client(timeout=30, follow_redirects=True, headers=headers) as client:
@@ -227,7 +246,9 @@ def select_primary_document_url(index_url: str, index_html: str, form_type: str 
         low = absolute.lower()
         if low in {"https://www.sec.gov", "https://www.sec.gov/", "http://www.sec.gov", "http://www.sec.gov/"}:
             return None
-        if "/index.html" in low and low.rstrip("/").endswith("/index.html"):
+        if "/archives/" not in low:
+            return None
+        if low.endswith("/index.html") or low.endswith("/index.htm"):
             return None
         if not low.endswith((".htm", ".html", ".txt", ".xml")):
             return None
@@ -276,6 +297,11 @@ def fetch_primary_document(index_url: str, user_agent: str, form_type: str | Non
         text = soup.get_text(separator=" ", strip=True)
         text = clean_extracted_text(text)
         return primary_url, text
+
+
+def is_valid_archive_url(url: str | None) -> bool:
+    candidate = (url or "").strip().lower()
+    return candidate.startswith("https://www.sec.gov/archives/") or candidate.startswith("http://www.sec.gov/archives/")
 
 
 def clean_extracted_text(text: str) -> str:
@@ -381,7 +407,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
         raise RuntimeError(f"Missing required env vars: {', '.join(missing)}")
 
     state = load_json(STATE_PATH, {"seen_accessions": [], "last_run": None, "last_error": None})
-    existing_alerts = load_json(ALERTS_PATH, [])
+    existing_alerts = [normalize_alert_links(item) for item in load_json(ALERTS_PATH, [])]
     seen = set(state.get("seen_accessions", []))
 
     fetched_entries = 0
@@ -407,6 +433,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
             accession_number = entry.get("accession_number", "")
             cik = entry.get("cik", "")
             company_name = entry.get("company_name", "")
+            filing_link = entry.get("filing_link", "")
             if not accession_number or not cik:
                 continue
             if accession_number in seen:
@@ -416,6 +443,8 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
 
             try:
                 primary_doc_url, filing_text = fetch_primary_document(index_url, user_agent, form_type=form_type)
+                if not is_valid_archive_url(primary_doc_url):
+                    primary_doc_url = filing_link if is_valid_archive_url(filing_link) else index_url
             except Exception as exc:
                 last_error = f"Failed to fetch filing content for {accession_number}: {exc}"
                 continue
@@ -443,7 +472,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
                 "company_name": company_name,
                 "accession_number": accession_number,
                 "sec_index_url": index_url,
-                "sec_filing_url": primary_doc_url,
+                "sec_filing_url": primary_doc_url if is_valid_archive_url(primary_doc_url) else index_url,
                 "primary_document_url": primary_doc_url,
                 "matched_keywords": matched_keywords,
                 "is_crypto": is_crypto,

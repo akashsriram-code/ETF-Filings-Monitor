@@ -69,6 +69,18 @@ def test_select_primary_document_url_prefers_ixviewer_doc_link() -> None:
     assert url == "https://www.sec.gov/Archives/edgar/data/123/0000000000-26-000001.htm"
 
 
+def test_select_primary_document_url_rejects_sec_home_index() -> None:
+    html = """
+    <html><body>
+      <a href="/index.htm">SEC Home</a>
+      <a href="https://www.sec.gov/index.htm">SEC Home Absolute</a>
+    </body></html>
+    """
+    index_url = "https://www.sec.gov/Archives/edgar/data/123/000000000026000001/index.html"
+    url = select_primary_document_url(index_url, html, "485BPOS")
+    assert url == index_url
+
+
 def test_clean_extracted_text_removes_sec_boilerplate() -> None:
     dirty = (
         "SEC.gov | Home Skip to main content An official website of the United States government "

@@ -49,7 +49,9 @@ def _select_primary_document_url(index_url: str, index_html: str, form_type: str
         low = absolute.lower()
         if low in {"https://www.sec.gov", "https://www.sec.gov/", "http://www.sec.gov", "http://www.sec.gov/"}:
             return None
-        if "/index.html" in low and low.rstrip("/").endswith("/index.html"):
+        if "/archives/" not in low:
+            return None
+        if low.endswith("/index.html") or low.endswith("/index.htm"):
             return None
         if not low.endswith((".htm", ".html", ".txt", ".xml")):
             return None
