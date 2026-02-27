@@ -147,12 +147,13 @@ def normalize_alert_links(alert: dict[str, Any]) -> dict[str, Any]:
     normalized = dict(alert)
     cik = str(normalized.get("cik", "")).strip()
     accession = str(normalized.get("accession_number", "")).strip()
-    index_url = normalized.get("sec_index_url") or (build_index_url(cik, accession) if cik and accession else "")
+    canonical_index_url = build_index_url(cik, accession) if cik and accession else ""
+    index_url = canonical_index_url or normalized.get("sec_index_url") or ""
     primary = normalized.get("primary_document_url")
     sec_filing = normalized.get("sec_filing_url")
 
     if not is_valid_archive_url(primary):
-        primary = index_url if is_valid_archive_url(index_url) else ""
+        primary = ""
     if not is_valid_archive_url(sec_filing):
         sec_filing = primary if is_valid_archive_url(primary) else index_url
 
@@ -160,6 +161,37 @@ def normalize_alert_links(alert: dict[str, Any]) -> dict[str, Any]:
     normalized["primary_document_url"] = primary or None
     normalized["sec_filing_url"] = sec_filing or index_url
     return normalized
+
+
+def repair_existing_alert_links(alerts: list[dict[str, Any]], user_agent: str, max_repairs: int = 30) -> tuple[list[dict[str, Any]], int]:
+    repaired_count = 0
+    repaired_alerts: list[dict[str, Any]] = []
+
+    for alert in alerts:
+        current = normalize_alert_links(alert)
+        needs_repair = not is_valid_archive_url(current.get("primary_document_url")) or not is_valid_archive_url(
+            current.get("sec_filing_url")
+        )
+
+        if needs_repair and repaired_count < max_repairs:
+            cik = str(current.get("cik", "")).strip()
+            accession = str(current.get("accession_number", "")).strip()
+            form_type = str(current.get("form_type", "")).strip()
+            if cik and accession:
+                index_url = build_index_url(cik, accession)
+                try:
+                    primary_url, _ = fetch_primary_document(index_url, user_agent, form_type=form_type)
+                    if is_valid_archive_url(primary_url):
+                        current["sec_index_url"] = index_url
+                        current["primary_document_url"] = primary_url
+                        current["sec_filing_url"] = primary_url
+                        repaired_count += 1
+                except Exception:
+                    pass
+
+        repaired_alerts.append(current)
+
+    return repaired_alerts, repaired_count
 
 
 def fetch_feed_entries(user_agent: str) -> list[dict[str, str]]:
@@ -351,8 +383,24 @@ def fetch_primary_document(index_url: str, user_agent: str, form_type: str | Non
 
 
 def is_valid_archive_url(url: str | None) -> bool:
-    candidate = (url or "").strip().lower()
-    return candidate.startswith("https://www.sec.gov/archives/") or candidate.startswith("http://www.sec.gov/archives/")
+    candidate = (url or "").strip()
+    if not candidate:
+        return False
+    parsed = urlparse(candidate)
+    host = parsed.netloc.lower()
+    path = parsed.path.lower()
+
+    if not host.endswith("sec.gov"):
+        return False
+    if "/archives/" not in path:
+        return False
+
+    last_segment = path.rstrip("/").split("/")[-1]
+    if "." not in last_segment:
+        return False
+    if last_segment in {"index.html", "index.htm"}:
+        return False
+    return True
 
 
 def clean_extracted_text(text: str) -> str:
@@ -464,10 +512,13 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
     fetched_entries = 0
     feed_entries_count = 0
     backfill_entries_count = 0
+    repaired_links_count = 0
     new_alerts: list[dict[str, Any]] = []
     last_error: str | None = None
 
     try:
+        existing_alerts, repaired_links_count = repair_existing_alert_links(existing_alerts, user_agent=user_agent)
+
         feed_entries = fetch_feed_entries(user_agent)
         feed_entries_count = len(feed_entries)
 
@@ -555,6 +606,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
         "feed_entries": feed_entries_count,
         "backfill_entries": backfill_entries_count,
         "backfill_days": backfill_days,
+        "repaired_links": repaired_links_count,
         "new_alerts": len(new_alerts),
         "total_alerts": len(merged_alerts),
         "mode": "github-pages-scheduled-poller",
@@ -566,7 +618,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
     print(
         f"Fetched entries: {fetched_entries} (feed={feed_entries_count}, "
         f"backfill={backfill_entries_count}, backfill_days={backfill_days}); "
-        f"new alerts: {len(new_alerts)}"
+        f"new alerts: {len(new_alerts)}; repaired_links: {repaired_links_count}"
     )
     if last_error:
         print(f"Last error: {last_error}")

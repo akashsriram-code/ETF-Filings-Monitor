@@ -63,6 +63,31 @@ function buildEdgarIndexUrl(cik, accession) {
   return `https://www.sec.gov/Archives/edgar/data/${cleanCik}/${cleanAccession}/${rawAccession}-index.html`;
 }
 
+function canonicalizeSecUrl(url, alert) {
+  const value = String(url || "").trim();
+  if (!value) return "";
+  try {
+    const parsed = new URL(value);
+    if (!/sec\.gov$/i.test(parsed.hostname)) return "";
+
+    const path = parsed.pathname || "";
+    const lowerPath = path.toLowerCase();
+    if (!lowerPath.includes("/archives/")) return "";
+
+    const last = lowerPath.split("/").filter(Boolean).pop() || "";
+    if (last === "index.html" || last === "index.htm") {
+      return buildEdgarIndexUrl(alert.cik, alert.accession_number);
+    }
+
+    if (!last.includes(".")) {
+      return buildEdgarIndexUrl(alert.cik, alert.accession_number);
+    }
+    return parsed.toString();
+  } catch (_) {
+    return "";
+  }
+}
+
 function isUsableSecFilingUrl(url) {
   const value = String(url || "").trim();
   if (!value) return false;
@@ -71,22 +96,33 @@ function isUsableSecFilingUrl(url) {
     if (!/sec\.gov$/i.test(parsed.hostname)) return false;
     const path = parsed.pathname || "";
     if (path === "/" || path === "") return false;
-    return path.toLowerCase().includes("/archives/");
+    const lowerPath = path.toLowerCase();
+    if (!lowerPath.includes("/archives/")) return false;
+
+    const last = lowerPath.split("/").filter(Boolean).pop() || "";
+    if (!last.includes(".")) return false;
+    if (last === "index.html" || last === "index.htm") return false;
+    return true;
   } catch (_) {
     return false;
   }
 }
 
 function resolveLinks(alert) {
-  const candidates = [alert.sec_filing_url, alert.primary_document_url, alert.sec_index_url];
-  const best = candidates.find((item) => isUsableSecFilingUrl(item)) || buildEdgarIndexUrl(alert.cik, alert.accession_number);
+  const candidates = [
+    canonicalizeSecUrl(alert.primary_document_url, alert),
+    canonicalizeSecUrl(alert.sec_filing_url, alert),
+    canonicalizeSecUrl(alert.sec_index_url, alert),
+  ];
+  const best = candidates.find((item) => isUsableSecFilingUrl(item))
+    || buildEdgarIndexUrl(alert.cik, alert.accession_number)
+    || "#";
 
-  const primary = isUsableSecFilingUrl(alert.primary_document_url)
-    ? alert.primary_document_url
-    : (isUsableSecFilingUrl(alert.sec_filing_url) ? alert.sec_filing_url : "");
+  const primaryCandidate = canonicalizeSecUrl(alert.primary_document_url, alert);
+  const primary = isUsableSecFilingUrl(primaryCandidate) ? primaryCandidate : "";
 
   return {
-    secLink: best || "#",
+    secLink: best,
     primaryLink: primary && primary !== best ? primary : "",
   };
 }
@@ -167,6 +203,7 @@ function updateStatusLine(status) {
     `feed=${fmtNumber(status.feed_entries)} ` +
     `backfill=${fmtNumber(status.backfill_entries)} ` +
     `backfill_days=${fmtNumber(status.backfill_days)} ` +
+    `repaired_links=${fmtNumber(status.repaired_links)} ` +
     `new_alerts=${fmtNumber(status.new_alerts)} ` +
     `total_alerts=${fmtNumber(status.total_alerts)} ` +
     `last_run=${fmtDate(status.last_run)}`;

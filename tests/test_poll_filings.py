@@ -7,6 +7,7 @@ from scripts.poll_filings import (
     extract_accession_from_filename,
     extract_accession_from_link,
     extract_company_and_cik_from_title,
+    is_valid_archive_url,
     master_index_url_for_date,
     parse_master_index_line,
     select_primary_document_url,
@@ -109,3 +110,8 @@ def test_clean_extracted_text_removes_sec_boilerplate() -> None:
     assert "SEC.gov | Home" not in cleaned
     assert "Skip to main content" not in cleaned
     assert "Real filing content starts here." in cleaned
+
+
+def test_is_valid_archive_url_rejects_directory_index() -> None:
+    assert not is_valid_archive_url("https://www.sec.gov/Archives/edgar/data/1293967/000089418926006377/index.html")
+    assert is_valid_archive_url("https://www.sec.gov/Archives/edgar/data/1293967/000089418926006377/0000894189-26-006377-index.html")
