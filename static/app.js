@@ -45,6 +45,51 @@ function synopsisPreview(text) {
   return flat.length > 340 ? `${flat.slice(0, 340)}...` : flat;
 }
 
+function normalizeCik(cik) {
+  const digits = String(cik || "").replace(/\D+/g, "");
+  if (!digits) return "";
+  return String(Number.parseInt(digits, 10));
+}
+
+function normalizeAccessionDigits(accession) {
+  return String(accession || "").replace(/\D+/g, "");
+}
+
+function buildEdgarIndexUrl(cik, accession) {
+  const cleanCik = normalizeCik(cik);
+  const cleanAccession = normalizeAccessionDigits(accession);
+  if (!cleanCik || !cleanAccession) return "";
+  return `https://www.sec.gov/Archives/edgar/data/${cleanCik}/${cleanAccession}/index.html`;
+}
+
+function isUsableSecFilingUrl(url) {
+  const value = String(url || "").trim();
+  if (!value) return false;
+  try {
+    const parsed = new URL(value);
+    if (!/sec\.gov$/i.test(parsed.hostname)) return false;
+    const path = parsed.pathname || "";
+    if (path === "/" || path === "") return false;
+    return path.toLowerCase().includes("/archives/");
+  } catch (_) {
+    return false;
+  }
+}
+
+function resolveLinks(alert) {
+  const candidates = [alert.sec_filing_url, alert.primary_document_url, alert.sec_index_url];
+  const best = candidates.find((item) => isUsableSecFilingUrl(item)) || buildEdgarIndexUrl(alert.cik, alert.accession_number);
+
+  const primary = isUsableSecFilingUrl(alert.primary_document_url)
+    ? alert.primary_document_url
+    : (isUsableSecFilingUrl(alert.sec_filing_url) ? alert.sec_filing_url : "");
+
+  return {
+    secLink: best || "#",
+    primaryLink: primary && primary !== best ? primary : "",
+  };
+}
+
 async function jsonFetch(url, method = "GET", body = null) {
   const opts = { method, headers: { "Content-Type": "application/json" } };
   if (body) opts.body = JSON.stringify(body);
@@ -175,8 +220,9 @@ function renderAlerts(alerts) {
         ? escapeHtml(alert.matched_keywords.join(", "))
         : "none";
       const synopsis = escapeHtml(synopsisPreview(alert.synopsis));
-      const secLink = escapeHtml(alert.sec_filing_url || alert.primary_document_url || alert.sec_index_url || "#");
-      const primaryLink = alert.primary_document_url ? escapeHtml(alert.primary_document_url) : "";
+      const links = resolveLinks(alert);
+      const secLink = escapeHtml(links.secLink);
+      const primaryLink = links.primaryLink ? escapeHtml(links.primaryLink) : "";
       const hasError = Boolean(alert.error);
 
       return `
