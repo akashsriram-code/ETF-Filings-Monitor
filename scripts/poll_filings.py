@@ -7,7 +7,7 @@ import re
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
-from urllib.parse import urljoin
+from urllib.parse import parse_qs, urljoin, urlparse
 from xml.etree import ElementTree as ET
 
 import httpx
@@ -204,32 +204,93 @@ def extract_accession_from_link(link: str) -> str:
     return ""
 
 
-def select_primary_document_url(index_url: str, index_html: str) -> str:
+def select_primary_document_url(index_url: str, index_html: str, form_type: str | None = None) -> str:
     soup = BeautifulSoup(index_html, "html.parser")
+
+    def normalize_sec_doc_url(href: str) -> str | None:
+        candidate = href.strip()
+        if not candidate:
+            return None
+
+        parsed = urlparse(candidate)
+        if parsed.path.startswith("/ixviewer/ix.html"):
+            query = parse_qs(parsed.query)
+            doc = (query.get("doc") or [""])[0]
+            if doc.startswith("/Archives/"):
+                return f"https://www.sec.gov{doc}"
+
+        if candidate.startswith("/ixviewer/ix.html?doc=/Archives/"):
+            doc = candidate.split("doc=", 1)[1]
+            return f"https://www.sec.gov{doc}"
+
+        absolute = candidate if candidate.startswith(("http://", "https://")) else urljoin(index_url, candidate)
+        low = absolute.lower()
+        if low in {"https://www.sec.gov", "https://www.sec.gov/", "http://www.sec.gov", "http://www.sec.gov/"}:
+            return None
+        if "/index.html" in low and low.rstrip("/").endswith("/index.html"):
+            return None
+        if not low.endswith((".htm", ".html", ".txt", ".xml")):
+            return None
+        return absolute
+
+    normalized_form = normalize_form_type(form_type or "")
+
+    # Prefer document table rows first; they map to the filing's actual documents.
+    for table in soup.select("table.tableFile"):
+        preferred_rows = []
+        fallback_rows = []
+        for row in table.select("tr"):
+            cols = row.select("td")
+            if not cols:
+                continue
+            type_cell = cols[3].get_text(" ", strip=True) if len(cols) >= 4 else ""
+            if normalized_form and normalize_form_type(type_cell).startswith(normalized_form):
+                preferred_rows.append(row)
+            else:
+                fallback_rows.append(row)
+
+        for row in preferred_rows + fallback_rows:
+            link = row.select_one("a[href]")
+            if link:
+                resolved = normalize_sec_doc_url(link.get("href", ""))
+                if resolved:
+                    return resolved
+
     for link in soup.select("a[href]"):
-        href = (link.get("href") or "").strip()
-        if not href:
-            continue
-        low = href.lower()
-        if low.endswith((".htm", ".html")) and not low.endswith("/index.html"):
-            if low.startswith(("http://", "https://")):
-                return href
-            return urljoin(index_url, href)
+        resolved = normalize_sec_doc_url(link.get("href", ""))
+        if resolved:
+            return resolved
     return index_url
 
 
-def fetch_primary_document(index_url: str, user_agent: str) -> tuple[str, str]:
+def fetch_primary_document(index_url: str, user_agent: str, form_type: str | None = None) -> tuple[str, str]:
     headers = {"User-Agent": user_agent}
     with httpx.Client(timeout=30, follow_redirects=True, headers=headers) as client:
         index_response = client.get(index_url)
         index_response.raise_for_status()
-        primary_url = select_primary_document_url(index_url, index_response.text)
+        primary_url = select_primary_document_url(index_url, index_response.text, form_type=form_type)
 
         primary_response = client.get(primary_url)
         primary_response.raise_for_status()
         soup = BeautifulSoup(primary_response.text, "html.parser")
         text = soup.get_text(separator=" ", strip=True)
+        text = clean_extracted_text(text)
         return primary_url, text
+
+
+def clean_extracted_text(text: str) -> str:
+    cleaned = " ".join(text.split())
+    boilerplate_patterns = [
+        r"SEC\.gov\s*\|\s*Home",
+        r"Skip to main content",
+        r"An official website of the United States government",
+        r"Here's how you know",
+        r"Official websites use \.gov",
+        r"A \.gov website belongs to an official government organization in the United States",
+    ]
+    for pattern in boilerplate_patterns:
+        cleaned = re.sub(pattern, " ", cleaned, flags=re.IGNORECASE)
+    return " ".join(cleaned.split())
 
 
 def crypto_gate(form_type: str, filing_text: str) -> tuple[bool, list[str], bool]:
@@ -354,7 +415,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
             index_url = build_index_url(cik, accession_number)
 
             try:
-                primary_doc_url, filing_text = fetch_primary_document(index_url, user_agent)
+                primary_doc_url, filing_text = fetch_primary_document(index_url, user_agent, form_type=form_type)
             except Exception as exc:
                 last_error = f"Failed to fetch filing content for {accession_number}: {exc}"
                 continue
@@ -382,6 +443,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
                 "company_name": company_name,
                 "accession_number": accession_number,
                 "sec_index_url": index_url,
+                "sec_filing_url": primary_doc_url,
                 "primary_document_url": primary_doc_url,
                 "matched_keywords": matched_keywords,
                 "is_crypto": is_crypto,

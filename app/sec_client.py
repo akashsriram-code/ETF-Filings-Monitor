@@ -1,6 +1,6 @@
 import re
 from pathlib import Path
-from urllib.parse import urljoin
+from urllib.parse import parse_qs, urljoin, urlparse
 
 import httpx
 from bs4 import BeautifulSoup
@@ -26,27 +26,79 @@ def build_sec_index_url(cik: str, accession_number: str) -> str:
     return f"https://www.sec.gov/Archives/edgar/data/{clean_cik}/{clean_accession}/index.html"
 
 
-def _select_primary_document_url(index_url: str, index_html: str) -> str:
+def _select_primary_document_url(index_url: str, index_html: str, form_type: str | None = None) -> str:
     soup = BeautifulSoup(index_html, "html.parser")
 
+    def normalize_sec_doc_url(href: str) -> str | None:
+        candidate = href.strip()
+        if not candidate:
+            return None
+
+        parsed = urlparse(candidate)
+        if parsed.path.startswith("/ixviewer/ix.html"):
+            query = parse_qs(parsed.query)
+            doc = (query.get("doc") or [""])[0]
+            if doc.startswith("/Archives/"):
+                return f"https://www.sec.gov{doc}"
+
+        if candidate.startswith("/ixviewer/ix.html?doc=/Archives/"):
+            doc = candidate.split("doc=", 1)[1]
+            return f"https://www.sec.gov{doc}"
+
+        absolute = candidate if candidate.startswith(("http://", "https://")) else urljoin(index_url, candidate)
+        low = absolute.lower()
+        if low in {"https://www.sec.gov", "https://www.sec.gov/", "http://www.sec.gov", "http://www.sec.gov/"}:
+            return None
+        if "/index.html" in low and low.rstrip("/").endswith("/index.html"):
+            return None
+        if not low.endswith((".htm", ".html", ".txt", ".xml")):
+            return None
+        return absolute
+
+    normalized_form = "".join((form_type or "").upper().split())
+
+    for table in soup.select("table.tableFile"):
+        preferred_rows = []
+        fallback_rows = []
+        for row in table.select("tr"):
+            cols = row.select("td")
+            if not cols:
+                continue
+            type_cell = cols[3].get_text(" ", strip=True) if len(cols) >= 4 else ""
+            normalized_type = "".join(type_cell.upper().split())
+            if normalized_form and normalized_type.startswith(normalized_form):
+                preferred_rows.append(row)
+            else:
+                fallback_rows.append(row)
+
+        for row in preferred_rows + fallback_rows:
+            link = row.select_one("a[href]")
+            if link:
+                resolved = normalize_sec_doc_url(link.get("href", ""))
+                if resolved:
+                    return resolved
+
     for link in soup.select("a[href]"):
-        href = link.get("href", "").strip()
-        if not href:
-            continue
-        lower_href = href.lower()
-        if lower_href.endswith((".htm", ".html")) and not lower_href.endswith("/index.html"):
-            if lower_href.startswith("http://") or lower_href.startswith("https://"):
-                return href
-            if lower_href.startswith("/"):
-                return f"https://www.sec.gov{href}"
-            return urljoin(index_url, href)
+        resolved = normalize_sec_doc_url(link.get("href", ""))
+        if resolved:
+            return resolved
 
     return index_url
 
 
 def _extract_text_from_html(html_content: str) -> str:
     soup = BeautifulSoup(html_content, "html.parser")
-    return soup.get_text(separator=" ", strip=True)
+    cleaned = soup.get_text(separator=" ", strip=True)
+    for pattern in [
+        r"SEC\.gov\s*\|\s*Home",
+        r"Skip to main content",
+        r"An official website of the United States government",
+        r"Here's how you know",
+        r"Official websites use \.gov",
+        r"A \.gov website belongs to an official government organization in the United States",
+    ]:
+        cleaned = re.sub(pattern, " ", cleaned, flags=re.IGNORECASE)
+    return " ".join(cleaned.split())
 
 
 async def _render_pdf_with_playwright(target_url: str, output_path: Path) -> None:
@@ -62,6 +114,7 @@ async def collect_sec_artifacts(
     cik: str,
     accession_number: str,
     settings: Settings,
+    form_type: str | None = None,
 ) -> dict[str, str | None]:
     index_url = build_sec_index_url(cik, accession_number)
     headers = {"User-Agent": settings.sec_user_agent}
@@ -82,7 +135,7 @@ async def collect_sec_artifacts(
     async with httpx.AsyncClient(timeout=timeout, follow_redirects=True) as client:
         index_response = await client.get(index_url, headers=headers)
         index_response.raise_for_status()
-        primary_url = _select_primary_document_url(index_url, index_response.text)
+        primary_url = _select_primary_document_url(index_url, index_response.text, form_type=form_type)
         result["primary_document_url"] = primary_url
 
         primary_response = await client.get(primary_url, headers=headers)

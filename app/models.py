@@ -23,6 +23,7 @@ class AlertRecord(BaseModel):
     company_name: str
     accession_number: str
     sec_index_url: str
+    sec_filing_url: str | None = None
     primary_document_url: str | None = None
     matched_keywords: list[str] = Field(default_factory=list)
     is_crypto: bool = False

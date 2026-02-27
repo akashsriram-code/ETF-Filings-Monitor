@@ -139,7 +139,12 @@ class FilingEngine:
         artifact_error: str | None = None
 
         try:
-            artifacts = await collect_sec_artifacts(filing.cik, filing.accession_number, self.settings)
+            artifacts = await collect_sec_artifacts(
+                filing.cik,
+                filing.accession_number,
+                self.settings,
+                form_type=filing.form_type,
+            )
             sec_index_url = artifacts.get("index_url") or sec_index_url
             primary_document_url = artifacts.get("primary_document_url")
             primary_text = artifacts.get("primary_text") or filing.raw_text
@@ -167,6 +172,7 @@ class FilingEngine:
             company_name=filing.company_name,
             accession_number=filing.accession_number,
             sec_index_url=sec_index_url,
+            sec_filing_url=primary_document_url,
             primary_document_url=primary_document_url,
             matched_keywords=matched_keywords,
             is_crypto=is_crypto,

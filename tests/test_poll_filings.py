@@ -1,12 +1,14 @@
 from datetime import date
 
 from scripts.poll_filings import (
+    clean_extracted_text,
     crypto_gate,
     extract_accession_from_filename,
     extract_accession_from_link,
     extract_company_and_cik_from_title,
     master_index_url_for_date,
     parse_master_index_line,
+    select_primary_document_url,
 )
 
 
@@ -48,3 +50,31 @@ def test_parse_master_index_line() -> None:
 def test_master_index_url_for_date() -> None:
     url = master_index_url_for_date(date(2026, 2, 20))
     assert url.endswith("/2026/QTR1/master.20260220.idx")
+
+
+def test_select_primary_document_url_prefers_ixviewer_doc_link() -> None:
+    html = """
+    <html><body>
+      <table class="tableFile">
+        <tr><th>Seq</th><th>Description</th><th>Document</th><th>Type</th></tr>
+        <tr>
+          <td>1</td><td>Main</td>
+          <td><a href="/ixviewer/ix.html?doc=/Archives/edgar/data/123/0000000000-26-000001.htm">doc</a></td>
+          <td>485BPOS</td>
+        </tr>
+      </table>
+    </body></html>
+    """
+    url = select_primary_document_url("https://www.sec.gov/Archives/edgar/data/123/000000000026000001/index.html", html, "485BPOS")
+    assert url == "https://www.sec.gov/Archives/edgar/data/123/0000000000-26-000001.htm"
+
+
+def test_clean_extracted_text_removes_sec_boilerplate() -> None:
+    dirty = (
+        "SEC.gov | Home Skip to main content An official website of the United States government "
+        "Here's how you know Official websites use .gov Real filing content starts here."
+    )
+    cleaned = clean_extracted_text(dirty)
+    assert "SEC.gov | Home" not in cleaned
+    assert "Skip to main content" not in cleaned
+    assert "Real filing content starts here." in cleaned

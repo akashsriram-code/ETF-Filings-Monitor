@@ -175,7 +175,7 @@ function renderAlerts(alerts) {
         ? escapeHtml(alert.matched_keywords.join(", "))
         : "none";
       const synopsis = escapeHtml(synopsisPreview(alert.synopsis));
-      const secLink = escapeHtml(alert.sec_index_url || "#");
+      const secLink = escapeHtml(alert.sec_filing_url || alert.primary_document_url || alert.sec_index_url || "#");
       const primaryLink = alert.primary_document_url ? escapeHtml(alert.primary_document_url) : "";
       const hasError = Boolean(alert.error);
 
