@@ -4,9 +4,12 @@ from scripts.poll_filings import (
     build_index_url,
     clean_extracted_text,
     crypto_gate,
+    extract_structured_fields,
     extract_accession_from_filename,
     extract_accession_from_link,
     extract_company_and_cik_from_title,
+    extract_fund_name,
+    is_low_quality_summary,
     is_valid_archive_url,
     master_index_url_for_date,
     parse_master_index_line,
@@ -122,3 +125,51 @@ def test_to_ix_url_wraps_archive_document() -> None:
     url = "https://www.sec.gov/Archives/edgar/data/820892/000119312526079024/d86423d485bpos.htm"
     ix = to_ix_url(url)
     assert ix == "https://www.sec.gov/ix?doc=/Archives/edgar/data/820892/000119312526079024/d86423d485bpos.htm"
+
+
+def test_extract_structured_fields_pulls_core_values() -> None:
+    text = (
+        "Fund Name: Example Municipal Bond Fund "
+        "Ticker Symbols: Class A-EXMA, Class I-EXMB "
+        "Total Annual Fund Operating Expenses 0.42% "
+        "Custodian: Coinbase Custody"
+    )
+    fields = extract_structured_fields(text, is_crypto=True)
+    assert fields["fund_name"] == "Example Municipal Bond Fund"
+    assert fields["ticker"] == "EXMB"
+    assert fields["expense_ratio"] == "0.42%"
+    assert "Coinbase" in fields["custodian"]
+
+
+def test_extract_fund_name_from_prospectus_list() -> None:
+    text = (
+        "This SAI relates to, and should be read in conjunction with, the Prospectus dated February 27, 2026 "
+        "for Nuveen Dividend Value Fund, Nuveen Large Cap Select Fund and Nuveen Small Cap Select Fund."
+    )
+    assert extract_fund_name(text) == "Nuveen Dividend Value Fund"
+
+
+def test_extract_fund_name_rejects_generic_placeholder() -> None:
+    assert extract_fund_name("Fund Name: The Funds") == "Unknown"
+
+
+def test_extract_structured_fields_from_class_table_and_strategy_sections() -> None:
+    text = (
+        "Fund Name Class A Class C Class R6 Class I "
+        "Nuveen Dividend Value Fund FFEIX FFECX FFEFX FAQIX "
+        "Investment Objective The investment objective of the Fund is long-term growth of capital and income. "
+        "Fees and Expenses of the Fund "
+        "Total Annual Fund Operating Expenses After Fee Waivers and/or Expense Reimbursements 0.95% "
+        "Principal Investment Strategy Under normal circumstances, the Fund invests at least 80% of its assets in dividend-paying equities. "
+        "Principal Risks Equity market risk."
+    )
+    fields = extract_structured_fields(text, is_crypto=False)
+    assert fields["fund_name"] == "Nuveen Dividend Value Fund"
+    assert fields["ticker"] == "FAQIX"
+    assert fields["expense_ratio"] == "0.95%"
+    assert "long-term growth of capital and income" in fields["strategy"].lower()
+
+
+def test_is_low_quality_summary_detects_boilerplate() -> None:
+    low = "Fund Name: Not clearly stated Strategy: Skip to search field Official websites use .gov"
+    assert is_low_quality_summary(low) is True

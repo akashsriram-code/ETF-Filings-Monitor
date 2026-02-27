@@ -14,12 +14,58 @@ import httpx
 from bs4 import BeautifulSoup
 
 SYSTEM_INSTRUCTION = (
-    "Summarize this ETF filing for a financial reporter. Include: Fund Name, "
-    "Ticker (if present), Expense Ratio, and a 2-sentence breakdown of the "
-    "investment strategy. If it's a crypto ETF, specifically highlight the custodian."
+    "You are assisting a financial reporter. Output concise, factual filing summaries. "
+    "Never include SEC website navigation or .gov boilerplate text."
 )
 TARGET_FORMS = {"485APOS", "485BPOS", "S-1"}
 CRYPTO_KEYWORDS = ["Bitcoin", "Ethereum", "Digital Asset", "Spot", "Coinbase Custody"]
+NARRATIVE_MARKERS = [
+    "summary prospectus",
+    "fund summary",
+    "investment objective",
+    "principal investment strategy",
+    "principal investment strategies",
+    "investment strategy",
+    "principal risks",
+    "fees and expenses",
+    "management",
+]
+NARRATIVE_KEYWORDS = [
+    "fund",
+    "etf",
+    "investment",
+    "strategy",
+    "objective",
+    "portfolio",
+    "index",
+    "benchmark",
+    "risk",
+    "expense",
+    "advisor",
+    "custodian",
+    "bitcoin",
+    "ethereum",
+    "digital asset",
+]
+NOISE_TOKENS = [
+    "us-gaap",
+    "xbrl",
+    "xbrli",
+    "xbrldi",
+    "contextref",
+    "unitref",
+    "xmlns",
+    "schema",
+    "defref",
+]
+GENERIC_FUND_NAMES = {
+    "the fund",
+    "the funds",
+    "fund",
+    "funds",
+    "trust",
+    "etf",
+}
 FEED_URL = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&count=100&output=atom"
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
@@ -453,7 +499,64 @@ def clean_extracted_text(text: str) -> str:
     ]
     for pattern in boilerplate_patterns:
         cleaned = re.sub(pattern, " ", cleaned, flags=re.IGNORECASE)
+    cleaned = re.sub(r"\b(?:us-gaap|xbrli|xbrldi|dei|link|xlink)\b[:\w\-]*", " ", cleaned, flags=re.IGNORECASE)
     return " ".join(cleaned.split())
+
+
+def extract_narrative_text(text: str, max_chars: int = 25_000) -> str:
+    cleaned = clean_extracted_text(text)
+    if not cleaned:
+        return ""
+
+    lower = cleaned.lower()
+    windows: list[str] = []
+    seen: set[tuple[int, int]] = set()
+    for marker in NARRATIVE_MARKERS:
+        for match in re.finditer(re.escape(marker), lower):
+            start = max(0, match.start() - 1_500)
+            end = min(len(cleaned), match.end() + 5_000)
+            key = (start, end)
+            if key in seen:
+                continue
+            seen.add(key)
+            windows.append(cleaned[start:end])
+            if len(windows) >= 8:
+                break
+        if len(windows) >= 8:
+            break
+
+    source = " ".join(windows).strip() if windows else cleaned[: max_chars * 2]
+    sentences = re.split(r"(?<=[.!?])\s+", source)
+    scored: list[tuple[float, int, str]] = []
+    for idx, sentence in enumerate(sentences):
+        s = sentence.strip()
+        if len(s) < 50 or len(s) > 600:
+            continue
+        s_lower = s.lower()
+        if any(token in s_lower for token in NOISE_TOKENS):
+            continue
+
+        digits = sum(ch.isdigit() for ch in s)
+        digit_ratio = digits / max(len(s), 1)
+        if digit_ratio > 0.25:
+            continue
+
+        score = 0.0
+        for kw in NARRATIVE_KEYWORDS:
+            if kw in s_lower:
+                score += 2.0
+        score += max(0.0, min(len(s), 260) / 260.0)
+        scored.append((score, idx, s))
+
+    if not scored:
+        return source[:max_chars]
+
+    top = sorted(scored, key=lambda item: item[0], reverse=True)[:40]
+    ordered = [item[2] for item in sorted(top, key=lambda item: item[1])]
+    narrative = " ".join(ordered).strip()
+    if len(narrative) < 1_200:
+        narrative = source[:max_chars]
+    return narrative[:max_chars]
 
 
 def crypto_gate(form_type: str, filing_text: str) -> tuple[bool, list[str], bool]:
@@ -467,41 +570,349 @@ def crypto_gate(form_type: str, filing_text: str) -> tuple[bool, list[str], bool
     return bool(matched_keywords), matched_keywords, True
 
 
-def generate_synopsis(filing_text: str, gemini_api_key: str, gemini_model: str, is_crypto: bool) -> str:
-    text = filing_text.strip()
+def extract_first(patterns: list[str], text: str, default: str = "Unknown") -> str:
+    for pattern in patterns:
+        match = re.search(pattern, text, flags=re.IGNORECASE)
+        if match:
+            value = match.group(1).strip(" .;:,")
+            if value:
+                return value
+    return default
+
+
+def sanitize_name(value: str, default: str = "Unknown") -> str:
+    cleaned = " ".join(value.split()).strip(" .;:,")
+    cleaned = re.sub(r"^(?:The\s+)?Prospectus\s+for\s+", "", cleaned, flags=re.IGNORECASE)
+    cleaned = re.sub(r"^(?:The\s+)?Statement of Additional Information\s+for\s+", "", cleaned, flags=re.IGNORECASE)
+    cleaned = re.sub(r"^(?:Class\s+[A-Z0-9]+\s+)+", "", cleaned, flags=re.IGNORECASE)
+    if not cleaned:
+        return default
+    if len(cleaned) > 120:
+        return default
+    if cleaned[0].islower():
+        return default
+    bad_fragments = ["reports and certain other information", "skip to", "official website"]
+    if any(fragment in cleaned.lower() for fragment in bad_fragments):
+        return default
+    if cleaned.lower() in GENERIC_FUND_NAMES:
+        return default
+    return cleaned
+
+
+def collapse_to_single_fund_name(value: str) -> str:
+    parts = re.split(r",| and ", value)
+    for part in parts:
+        candidate = part.strip(" .;:,")
+        if re.search(r"\b(Fund|Trust|ETF)\b", candidate):
+            sanitized = sanitize_name(candidate)
+            if sanitized != "Unknown":
+                return sanitized
+    return sanitize_name(value)
+
+
+def extract_fund_name(text: str) -> str:
+    direct = extract_first(
+        [
+            r"(?:Fund Name|Series Name|Name of Fund)\s*[:\-]\s*([^\n\r:]{3,120}?)(?=\s(?:Ticker|Ticker Symbol|Expense Ratio|Strategy|$))",
+            r"\b([A-Z][A-Za-z0-9&,\-\.]*(?:\s+[A-Z][A-Za-z0-9&,\-\.]*){0,8}\s(?:Fund|Trust|ETF)(?:,\s*Inc\.)?)\b",
+        ],
+        text,
+        default="Unknown",
+    )
+    direct_clean = sanitize_name(direct)
+    if direct_clean != "Unknown":
+        return collapse_to_single_fund_name(direct_clean)
+
+    prospectus_block = extract_first(
+        [
+            r"Prospectus dated [^.]{0,120} for ([^.]{20,500})\.",
+            r"read in conjunction with[^.]{0,80}for ([^.]{20,500})\.",
+        ],
+        text,
+        default="",
+    )
+    if prospectus_block:
+        for match in re.finditer(r"([A-Z][A-Za-z0-9&,\-\. ]{2,80}\s(?:Fund|Trust|ETF))", prospectus_block):
+            candidate = sanitize_name(match.group(1))
+            if candidate != "Unknown":
+                return collapse_to_single_fund_name(candidate)
+
+    return "Unknown"
+
+
+def fund_context(text: str, fund_name: str, window: int = 12_000) -> str:
     if not text:
+        return ""
+    if fund_name and fund_name != "Unknown":
+        idx = text.lower().find(fund_name.lower())
+        if idx >= 0:
+            start = max(0, idx - 800)
+            end = min(len(text), idx + window)
+            return text[start:end]
+    return text[:window]
+
+
+def extract_ticker(text: str, fund_name: str) -> str:
+    context = fund_context(text, fund_name)
+    if fund_name and fund_name != "Unknown":
+        row_match = re.search(
+            rf"{re.escape(fund_name)}(?:\s*\([^)]{{1,120}}\))?\s+([A-Z\?]{{2,6}})\s+([A-Z\?]{{1,6}})\s+([A-Z\?]{{1,6}})\s+([A-Z\?]{{2,6}})",
+            context,
+            flags=re.IGNORECASE,
+        )
+        if row_match:
+            class_i = row_match.group(4).upper()
+            if class_i != "?":
+                return class_i
+            for idx in [1, 2, 3]:
+                v = row_match.group(idx).upper()
+                if v != "?":
+                    return v
+
+    for pattern in [
+        r"Ticker Symbols?\s*[:\-]\s*([^\n]{5,500})",
+        r"(?:Ticker|Ticker Symbol)\s*[:\-]\s*([A-Z]{1,6})",
+    ]:
+        match = re.search(pattern, context, flags=re.IGNORECASE)
+        if not match:
+            continue
+        value = match.group(1).strip()
+        class_i = re.search(r"Class\s+I[—–\-:\s]*([A-Z]{2,6})", value, flags=re.IGNORECASE)
+        if class_i:
+            return class_i.group(1).upper()
+        symbols = re.findall(r"\b[A-Z]{2,6}\b", value)
+        if symbols:
+            return symbols[0].upper()
+    return "Unknown"
+
+
+def extract_expense_ratio(text: str, fund_name: str) -> str:
+    context = fund_context(text, fund_name)
+    match = re.search(
+        r"Total Annual Fund Operating Expenses After Fee Waivers[^%]{0,120}?([0-9]+(?:\.[0-9]+)?\s*%)",
+        context,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        return match.group(1).replace(" ", "")
+    match = re.search(
+        r"Total Annual Fund Operating Expenses[^%]{0,120}?([0-9]+(?:\.[0-9]+)?\s*%)",
+        context,
+        flags=re.IGNORECASE,
+    )
+    if match:
+        return match.group(1).replace(" ", "")
+    match = re.search(r"Expense Ratio\s*[:\-]?\s*([0-9]+(?:\.[0-9]+)?\s*%)", context, flags=re.IGNORECASE)
+    if match:
+        return match.group(1).replace(" ", "")
+    return "Unknown"
+
+
+def extract_strategy_hint(text: str, fund_name: str) -> str:
+    context = fund_context(text, fund_name, window=20_000)
+    objective = extract_first(
+        [
+            r"Investment Objective\s+(.{30,600}?)(?=\s+Fees and Expenses|\s+Principal Investment Strateg(?:y|ies)|\s+Principal Risks)",
+        ],
+        context,
+        default="",
+    )
+    principal = extract_first(
+        [
+            r"Principal Investment Strateg(?:y|ies)\s+(.{30,900}?)(?=\s+Principal Risks|\s+Portfolio Managers|\s+Management|\s+Purchase and Sale)",
+        ],
+        context,
+        default="",
+    )
+    bits = []
+    if objective:
+        bits.append(normalize_strategy_text(objective))
+    if principal:
+        bits.append(normalize_strategy_text(principal))
+    merged = " ".join(bits).strip()
+    return normalize_strategy_text(merged) if merged else "Not available."
+
+
+def normalize_strategy_text(value: str) -> str:
+    text = " ".join(value.split())
+    if not text:
+        return "Not available."
+    chunks = re.split(r"(?<=[.!?])\s+", text)
+    if len(chunks) < 2:
+        chunks = re.split(r"[;:]\s+", text)
+    chosen = " ".join(chunks[:2]).strip()
+    if len(chosen) > 420:
+        chosen = chosen[:420].rstrip() + "..."
+    return chosen or "Not available."
+
+
+def normalize_summary(summary: str, is_crypto: bool, hints: dict[str, str] | None = None) -> str:
+    lines = [line.strip() for line in summary.splitlines() if line.strip()]
+    parsed: dict[str, str] = {}
+    for line in lines:
+        if ":" not in line:
+            continue
+        key, value = line.split(":", 1)
+        parsed[key.strip().lower()] = value.strip()
+
+    hints = hints or {}
+    fund_name = sanitize_name(parsed.get("fund name", "Unknown"))
+    if fund_name == "Unknown" and hints.get("fund_name"):
+        fund_name = sanitize_name(hints.get("fund_name", "Unknown"))
+
+    ticker = parsed.get("ticker", "Unknown").strip() or "Unknown"
+    if ticker == "Unknown" and hints.get("ticker"):
+        ticker = hints["ticker"]
+
+    expense_ratio = parsed.get("expense ratio", "Unknown").strip() or "Unknown"
+    if expense_ratio == "Unknown" and hints.get("expense_ratio"):
+        expense_ratio = hints["expense_ratio"]
+    strategy = normalize_strategy_text(parsed.get("strategy", ""))
+    if (
+        strategy == "Not available."
+        or "statement of additional information" in strategy.lower()
+        or "should be read in conjunction with" in strategy.lower()
+    ) and hints.get("strategy"):
+        strategy = normalize_strategy_text(hints["strategy"])
+
+    output = [
+        f"Fund Name: {fund_name}",
+        f"Ticker: {ticker}",
+        f"Expense Ratio: {expense_ratio}",
+        f"Strategy: {strategy}",
+    ]
+    if is_crypto:
+        custodian = sanitize_name(parsed.get("custodian", "Unknown"))
+        output.append(f"Custodian: {custodian}")
+    return "\n".join(output)
+
+
+def extract_structured_fields(text: str, is_crypto: bool) -> dict[str, str]:
+    fund_name = extract_fund_name(text)
+    ticker = extract_ticker(text, fund_name)
+    expense_ratio = extract_expense_ratio(text, fund_name)
+    strategy = extract_strategy_hint(text, fund_name)
+    custodian = extract_first(
+        [
+            r"(?:Custodian|Crypto Custodian)\s*[:\-]\s*([A-Za-z0-9&,\-\. ]{3,120})",
+            r"(Coinbase Custody)",
+        ],
+        text,
+        default="Unknown" if is_crypto else "N/A",
+    )
+    return {
+        "fund_name": fund_name,
+        "ticker": ticker,
+        "expense_ratio": expense_ratio,
+        "custodian": custodian,
+        "strategy": strategy,
+    }
+
+
+def build_chunks(text: str, chunk_size: int = 7000, overlap: int = 600, max_chunks: int = 3) -> list[str]:
+    chunks: list[str] = []
+    cursor = 0
+    n = len(text)
+    while cursor < n and len(chunks) < max_chunks:
+        end = min(cursor + chunk_size, n)
+        chunk = text[cursor:end].strip()
+        if chunk:
+            chunks.append(chunk)
+        if end >= n:
+            break
+        cursor = max(end - overlap, 0)
+    return chunks
+
+
+def is_low_quality_summary(summary: str) -> bool:
+    if not summary.strip() or len(summary.strip()) < 80:
+        return True
+    lower = summary.lower()
+    bad_signals = [
+        "skip to search field",
+        "official websites use .gov",
+        "sec.gov | home",
+        "an official website of the united states government",
+    ]
+    if any(signal in lower for signal in bad_signals):
+        return True
+    if lower.count("not found") >= 2:
+        return True
+    return False
+
+
+def _call_gemini(model_name: str, api_key: str, prompt: str) -> str:
+    import google.generativeai as genai
+
+    genai.configure(api_key=api_key)
+    model = genai.GenerativeModel(model_name=model_name, system_instruction=SYSTEM_INSTRUCTION)
+    response = model.generate_content(prompt)
+    return (getattr(response, "text", "") or "").strip()
+
+
+def generate_synopsis(filing_text: str, gemini_api_key: str, gemini_model: str, is_crypto: bool) -> str:
+    source_text = clean_extracted_text(filing_text.strip())
+    text = extract_narrative_text(filing_text.strip())
+    if not source_text:
         return "No filing text available."
     if not gemini_api_key:
-        return fallback_synopsis(text, is_crypto)
+        return fallback_synopsis(source_text, is_crypto)
 
     try:
-        import google.generativeai as genai
+        fields = extract_structured_fields(source_text, is_crypto)
+        chunks = build_chunks(text, chunk_size=5000, overlap=500, max_chunks=2)
+        chunk_summaries: list[str] = []
+        for idx, chunk in enumerate(chunks, start=1):
+            chunk_prompt = (
+                "Summarize the investment strategy and key filing facts in 2 short sentences. "
+                "Exclude SEC site boilerplate.\n\n"
+                f"Chunk {idx}:\n{chunk}"
+            )
+            chunk_summary = _call_gemini(gemini_model, gemini_api_key, chunk_prompt)
+            if chunk_summary:
+                chunk_summaries.append(chunk_summary)
 
-        genai.configure(api_key=gemini_api_key)
-        model = genai.GenerativeModel(model_name=gemini_model, system_instruction=SYSTEM_INSTRUCTION)
-        prompt = (
-            f"Crypto ETF context: {'yes' if is_crypto else 'no'}\n\n"
-            "Filing text:\n"
-            f"{text[:25_000]}"
+        final_prompt = (
+            "Return exactly these lines:\n"
+            "Fund Name: <value>\n"
+            "Ticker: <value or Unknown>\n"
+            "Expense Ratio: <value or Unknown>\n"
+            "Strategy: <exactly 2 sentences>\n"
+            + ("Custodian: <value or Unknown>\n" if is_crypto else "")
+            + "Do not include SEC.gov navigation text.\n\n"
+            f"Extracted hints:\n"
+            f"- Fund Name hint: {fields['fund_name']}\n"
+            f"- Ticker hint: {fields['ticker']}\n"
+            f"- Expense Ratio hint: {fields['expense_ratio']}\n"
+            f"- Strategy hint: {fields['strategy']}\n"
+            + (f"- Custodian hint: {fields['custodian']}\n" if is_crypto else "")
+            + "\nChunk summaries:\n"
+            + "\n".join(f"- {item}" for item in chunk_summaries)
         )
-        response = model.generate_content(prompt)
-        summary = (getattr(response, "text", "") or "").strip()
-        return summary or fallback_synopsis(text, is_crypto)
+        summary = _call_gemini(gemini_model, gemini_api_key, final_prompt)
+        if is_low_quality_summary(summary):
+            summary = _call_gemini(gemini_model, gemini_api_key, final_prompt + "\n\nRetry with cleaner output.")
+        if not summary:
+            return fallback_synopsis(source_text, is_crypto)
+        return normalize_summary(summary, is_crypto, hints=fields)
     except Exception:
-        return fallback_synopsis(text, is_crypto)
+        return fallback_synopsis(source_text, is_crypto)
 
 
 def fallback_synopsis(text: str, is_crypto: bool) -> str:
-    preview = " ".join(text.split())[:450]
+    cleaned = extract_narrative_text(text)
+    fields = extract_structured_fields(cleaned, is_crypto)
+    sentences = re.split(r"(?<=[.!?])\s+", cleaned)
+    preview = fields.get("strategy", "").strip() or " ".join(sentences[:2]).strip() or cleaned[:450]
     lines = [
-        "Fund Name: Not clearly stated",
-        "Ticker: Not found",
-        "Expense Ratio: Not found",
+        f"Fund Name: {fields['fund_name']}",
+        f"Ticker: {fields['ticker']}",
+        f"Expense Ratio: {fields['expense_ratio']}",
         f"Strategy: {preview}",
     ]
     if is_crypto:
-        lines.append("Custodian: Review filing text for named custodian.")
-    return "\n".join(lines)
+        lines.append(f"Custodian: {fields['custodian']}")
+    return normalize_summary("\n".join(lines), is_crypto, hints=fields)
 
 
 def send_resend_email(
