@@ -1,11 +1,8 @@
 import asyncio
-import base64
 import mimetypes
 import smtplib
 from email.message import EmailMessage
 from pathlib import Path
-
-import httpx
 
 from app.config import Settings
 
@@ -64,48 +61,6 @@ def _send_via_smtp(
     return True, None
 
 
-async def _send_via_resend(
-    settings: Settings,
-    to_email: str,
-    subject: str,
-    body: str,
-    attachment_path: str | None,
-) -> tuple[bool, str | None]:
-    from_email = settings.resend_from_email or settings.from_email
-    payload: dict[str, object] = {
-        "from": from_email,
-        "to": [to_email],
-        "subject": subject,
-        "text": body,
-    }
-
-    if attachment_path:
-        path = Path(attachment_path)
-        if path.exists():
-            payload["attachments"] = [
-                {
-                    "content": base64.b64encode(path.read_bytes()).decode("utf-8"),
-                    "filename": path.name,
-                }
-            ]
-
-    headers = {
-        "Authorization": f"Bearer {settings.resend_api_key}",
-        "Content-Type": "application/json",
-    }
-
-    async with httpx.AsyncClient(timeout=30) as client:
-        response = await client.post(
-            "https://api.resend.com/emails",
-            headers=headers,
-            json=payload,
-        )
-    if response.status_code >= 400:
-        return False, f"Resend error {response.status_code}: {response.text}"
-
-    return True, None
-
-
 async def send_email_alert(
     settings: Settings,
     to_email: str,
@@ -114,8 +69,6 @@ async def send_email_alert(
     attachment_path: str | None,
 ) -> tuple[bool, str | None]:
     try:
-        if settings.resend_api_key:
-            return await _send_via_resend(settings, to_email, subject, body, attachment_path)
         return await asyncio.to_thread(
             _send_via_smtp,
             settings,

@@ -4,7 +4,9 @@ import argparse
 import json
 import os
 import re
+import smtplib
 from datetime import date, datetime, timedelta, timezone
+from email.message import EmailMessage
 from pathlib import Path
 from typing import Any
 from urllib.parse import parse_qs, urljoin, urlparse
@@ -915,8 +917,12 @@ def fallback_synopsis(text: str, is_crypto: bool) -> str:
     return normalize_summary("\n".join(lines), is_crypto, hints=fields)
 
 
-def send_resend_email(
-    resend_api_key: str,
+def send_smtp_email(
+    smtp_host: str,
+    smtp_port: int,
+    smtp_username: str,
+    smtp_password: str,
+    smtp_use_tls: bool,
     from_email: str,
     to_email: str,
     subject: str,
@@ -925,30 +931,42 @@ def send_resend_email(
 ) -> tuple[bool, str | None]:
     if dry_run:
         return True, None
-    if not resend_api_key:
-        return False, "RESEND_API_KEY is missing."
+    if not smtp_host:
+        return False, "SMTP_HOST is missing."
 
-    payload = {"from": from_email, "to": [to_email], "subject": subject, "text": body}
-    headers = {"Authorization": f"Bearer {resend_api_key}", "Content-Type": "application/json"}
-    with httpx.Client(timeout=30, follow_redirects=True) as client:
-        response = client.post("https://api.resend.com/emails", headers=headers, json=payload)
-    if response.status_code >= 400:
-        return False, f"Resend error {response.status_code}: {response.text}"
+    message = EmailMessage()
+    message["From"] = from_email
+    message["To"] = to_email
+    message["Subject"] = subject
+    message.set_content(body)
+
+    with smtplib.SMTP(smtp_host, smtp_port, timeout=30) as server:
+        if smtp_use_tls:
+            server.starttls()
+        if smtp_username:
+            server.login(smtp_username, smtp_password)
+        server.send_message(message)
     return True, None
 
 
 def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
     user_agent = os.getenv("SEC_USER_AGENT", "").strip()
     reporter_email = os.getenv("REPORTER_EMAIL", "").strip()
-    resend_from_email = os.getenv("RESEND_FROM_EMAIL", "").strip()
-    resend_api_key = os.getenv("RESEND_API_KEY", "").strip()
+    smtp_host = os.getenv("SMTP_HOST", "smtp.gmail.com").strip()
+    smtp_port = int((os.getenv("SMTP_PORT", "587") or "587").strip())
+    smtp_username = os.getenv("SMTP_USERNAME", "").strip()
+    smtp_password = os.getenv("SMTP_PASSWORD", "").strip()
+    smtp_use_tls = (os.getenv("SMTP_USE_TLS", "true").strip().lower() != "false")
+    from_email = os.getenv("FROM_EMAIL", smtp_username).strip()
     gemini_api_key = os.getenv("GEMINI_API_KEY", "").strip()
     gemini_model = os.getenv("GEMINI_MODEL", "gemini-1.5-pro").strip()
 
     required = {
         "SEC_USER_AGENT": user_agent,
         "REPORTER_EMAIL": reporter_email,
-        "RESEND_FROM_EMAIL": resend_from_email,
+        "SMTP_USERNAME": smtp_username,
+        "SMTP_PASSWORD": smtp_password,
+        "FROM_EMAIL": from_email,
     }
     missing = [name for name, value in required.items() if not value]
     if missing:
@@ -1013,9 +1031,13 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
             synopsis = generate_synopsis(filing_text, gemini_api_key, gemini_model, is_crypto)
             subject = f"[ETF ALERT] {form_type} Filed by {company_name}"
             body = f"{synopsis}\n\nSEC Link: {index_url}"
-            email_sent, email_error = send_resend_email(
-                resend_api_key=resend_api_key,
-                from_email=resend_from_email,
+            email_sent, email_error = send_smtp_email(
+                smtp_host=smtp_host,
+                smtp_port=smtp_port,
+                smtp_username=smtp_username,
+                smtp_password=smtp_password,
+                smtp_use_tls=smtp_use_tls,
+                from_email=from_email,
                 to_email=reporter_email,
                 subject=subject,
                 body=body,

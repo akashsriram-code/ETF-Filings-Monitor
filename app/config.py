@@ -35,9 +35,6 @@ class Settings(BaseSettings):
     smtp_use_tls: bool = True
     from_email: str = "alerts@localhost"
 
-    resend_api_key: str = ""
-    resend_from_email: str = ""
-
     reporter_email: str = "reporter@example.com"
     alerts_retention: int = 200
     pdf_output_dir: Path = Path("generated_pdfs")

@@ -20,7 +20,7 @@ This mode uses a scheduled GitHub Action (`*/10 * * * *`) to poll SEC current fi
   - `Spot`
   - `Coinbase Custody`
 - Synopsis generation via Gemini API
-- Email delivery via Resend
+- Email delivery via Gmail SMTP (App Password)
 - Dashboard reads:
   - `data/status.json`
   - `data/alerts.json`
@@ -51,23 +51,12 @@ SEC_USER_AGENT=ETF-Filings-Monitor/1.0 (reporter@example.com)
 GEMINI_API_KEY=
 GEMINI_MODEL=gemini-1.5-pro
 
-SMTP_HOST=smtp.yourmail.com
+SMTP_HOST=smtp.gmail.com
 SMTP_PORT=587
-SMTP_USERNAME=
-SMTP_PASSWORD=
+SMTP_USERNAME=your.gmail@gmail.com
+SMTP_PASSWORD=your_16_char_app_password
 SMTP_USE_TLS=true
-FROM_EMAIL=alerts@yourdomain.com
-
-RESEND_API_KEY=
-RESEND_FROM_EMAIL=alerts@yourdomain.com
-
-# Optional SMTP fallback:
-# SMTP_HOST=smtp.yourmail.com
-# SMTP_PORT=587
-# SMTP_USERNAME=
-# SMTP_PASSWORD=
-# SMTP_USE_TLS=true
-# FROM_EMAIL=alerts@yourdomain.com
+FROM_EMAIL=your.gmail@gmail.com
 ```
 
 3. Run:
@@ -103,8 +92,9 @@ Workflow file:
 Add these repository secrets:
 - `SEC_USER_AGENT`
 - `REPORTER_EMAIL`
-- `RESEND_API_KEY`
-- `RESEND_FROM_EMAIL`
+- `SMTP_USERNAME` (your Gmail address)
+- `SMTP_PASSWORD` (Gmail App Password)
+- `FROM_EMAIL` (same Gmail address)
 - `GEMINI_API_KEY`
 
 Then:
@@ -148,7 +138,8 @@ Steps:
    - `SEC_USER_AGENT`
    - `REPORTER_EMAIL`
    - `GEMINI_API_KEY`
-   - `RESEND_API_KEY`, `RESEND_FROM_EMAIL`
+   - `SMTP_HOST=smtp.gmail.com`, `SMTP_PORT=587`, `SMTP_USE_TLS=true`
+   - `SMTP_USERNAME`, `SMTP_PASSWORD`, `FROM_EMAIL`
 4. Ensure `AUTO_START_STREAM=true` in production.
 
 ### Docker Run (Any Host)
