@@ -1,6 +1,8 @@
 import asyncio
 import re
 
+import httpx
+
 from app.config import Settings
 
 SYSTEM_INSTRUCTION = (
@@ -243,7 +245,7 @@ def _extract_ticker(text: str, fund_name: str) -> str:
             continue
         value = match.group(1).strip()
         # Prefer Class I when available, otherwise first symbol.
-        class_i = re.search(r"Class\s+I[—–\-:\s]*([A-Z]{2,6})", value, flags=re.IGNORECASE)
+        class_i = re.search(r"Class\s+I[^\w]*([A-Z]{2,6})", value, flags=re.IGNORECASE)
         if class_i:
             return class_i.group(1).upper()
         symbols = re.findall(r"\b[A-Z]{2,6}\b", value)
@@ -427,19 +429,53 @@ def _fallback_summary(text: str, is_crypto: bool) -> str:
     return _normalize_summary("\n".join(lines), is_crypto, hints=fields)
 
 
-def _call_gemini(model_name: str, api_key: str, prompt: str) -> str:
-    import google.generativeai as genai
+def _extract_openarena_answer(payload: dict) -> str:
+    result = payload.get("result") or {}
+    answer = result.get("answer")
+    if isinstance(answer, str):
+        return answer.strip()
+    if isinstance(answer, dict):
+        # OpenArena often returns { "<node_name>": "<answer>" }.
+        for value in answer.values():
+            if isinstance(value, str) and value.strip():
+                return value.strip()
+    return ""
 
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel(model_name=model_name, system_instruction=SYSTEM_INSTRUCTION)
-    response = model.generate_content(prompt)
-    response_text = (getattr(response, "text", "") or "").strip()
-    if not response_text:
-        raise RuntimeError("Gemini returned an empty response.")
-    return response_text
+
+def _call_openarena(
+    base_url: str,
+    bearer_token: str,
+    workflow_id: str,
+    prompt: str,
+    timeout_seconds: int,
+) -> str:
+    headers = {
+        "Authorization": f"Bearer {bearer_token}",
+        "Content-Type": "application/json",
+    }
+    payload = {
+        "query": prompt,
+        "workflow_id": workflow_id,
+        "is_persistence_allowed": False,
+    }
+    with httpx.Client(timeout=timeout_seconds, follow_redirects=True, headers=headers) as client:
+        response = client.post(f"{base_url.rstrip('/')}/v2/inference", json=payload)
+        response.raise_for_status()
+        response_json = response.json()
+    answer = _extract_openarena_answer(response_json if isinstance(response_json, dict) else {})
+    if not answer:
+        raise RuntimeError("OpenArena returned an empty answer.")
+    return answer
 
 
-def _synthesize_with_gemini(model_name: str, api_key: str, filing_text: str, is_crypto: bool) -> str:
+def _synthesize_with_openarena(
+    base_url: str,
+    bearer_token: str,
+    workflow_id: str,
+    timeout_seconds: int,
+    filing_text: str,
+    is_crypto: bool,
+) -> str:
     cleaned_full = _clean_text(filing_text)
     narrative = _extract_narrative_text(filing_text)
     fields = _extract_structured_fields(cleaned_full, is_crypto)
@@ -452,7 +488,9 @@ def _synthesize_with_gemini(model_name: str, api_key: str, filing_text: str, is_
             "Exclude SEC site boilerplate.\n\n"
             f"Chunk {idx}:\n{chunk}"
         )
-        chunk_summaries.append(_call_gemini(model_name, api_key, chunk_prompt))
+        chunk_summaries.append(
+            _call_openarena(base_url, bearer_token, workflow_id, chunk_prompt, timeout_seconds)
+        )
 
     final_prompt = (
         "Return exactly these lines:\n"
@@ -471,10 +509,10 @@ def _synthesize_with_gemini(model_name: str, api_key: str, filing_text: str, is_
         + "\nChunk summaries:\n"
         + "\n".join(f"- {item}" for item in chunk_summaries)
     )
-    summary = _call_gemini(model_name, api_key, final_prompt)
+    summary = _call_openarena(base_url, bearer_token, workflow_id, final_prompt, timeout_seconds)
     if _is_low_quality_summary(summary):
         retry_prompt = final_prompt + "\n\nRetry with cleaner output and no boilerplate text."
-        summary = _call_gemini(model_name, api_key, retry_prompt)
+        summary = _call_openarena(base_url, bearer_token, workflow_id, retry_prompt, timeout_seconds)
     return _normalize_summary(summary, is_crypto, hints=fields)
 
 
@@ -482,14 +520,16 @@ async def generate_synopsis(filing_text: str, is_crypto: bool, settings: Setting
     if not filing_text.strip():
         return _fallback_summary(filing_text, is_crypto)
 
-    if not settings.gemini_api_key:
+    if not settings.openarena_bearer_token or not settings.openarena_workflow_id:
         return _fallback_summary(filing_text, is_crypto)
 
     try:
         summary = await asyncio.to_thread(
-            _synthesize_with_gemini,
-            settings.gemini_model,
-            settings.gemini_api_key,
+            _synthesize_with_openarena,
+            settings.openarena_base_url,
+            settings.openarena_bearer_token,
+            settings.openarena_workflow_id,
+            settings.openarena_timeout_seconds,
             filing_text,
             is_crypto,
         )

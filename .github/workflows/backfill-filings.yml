@@ -36,8 +36,10 @@ jobs:
           SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-1.5-pro
+          OPENARENA_BASE_URL: https://aiopenarena.gcs.int.thomsonreuters.com
+          OPENARENA_BEARER_TOKEN: ${{ secrets.OPENARENA_BEARER_TOKEN }}
+          OPENARENA_WORKFLOW_ID: ${{ secrets.OPENARENA_WORKFLOW_ID }}
+          OPENARENA_TIMEOUT_SECONDS: "60"
         run: python scripts/poll_filings.py --backfill-days "${{ github.event.inputs.backfill_days }}"
 
       - name: Commit updated data

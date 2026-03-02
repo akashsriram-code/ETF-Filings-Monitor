@@ -25,8 +25,10 @@ class Settings(BaseSettings):
     sec_user_agent: str = "ETF-Filings-Monitor/1.0 (reporter@example.com)"
     request_timeout_seconds: int = 30
 
-    gemini_api_key: str = ""
-    gemini_model: str = "gemini-1.5-pro"
+    openarena_base_url: str = "https://aiopenarena.gcs.int.thomsonreuters.com"
+    openarena_bearer_token: str = ""
+    openarena_workflow_id: str = ""
+    openarena_timeout_seconds: int = 60
 
     smtp_host: str = ""
     smtp_port: int = 587

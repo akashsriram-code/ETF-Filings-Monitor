@@ -19,7 +19,7 @@ This mode uses a scheduled GitHub Action (`*/10 * * * *`) to poll SEC current fi
   - `Digital Asset`
   - `Spot`
   - `Coinbase Custody`
-- Synopsis generation via Gemini API
+- Synopsis generation via Thomson Reuters OpenArena workflow API
 - Email delivery via Gmail SMTP (App Password)
 - Dashboard reads:
   - `data/status.json`
@@ -48,8 +48,10 @@ REPORTER_EMAIL=reporter@example.com
 
 SEC_USER_AGENT=ETF-Filings-Monitor/1.0 (reporter@example.com)
 
-GEMINI_API_KEY=
-GEMINI_MODEL=gemini-1.5-pro
+OPENARENA_BASE_URL=https://aiopenarena.gcs.int.thomsonreuters.com
+OPENARENA_BEARER_TOKEN=
+OPENARENA_WORKFLOW_ID=
+OPENARENA_TIMEOUT_SECONDS=60
 
 SMTP_HOST=smtp.gmail.com
 SMTP_PORT=587
@@ -83,6 +85,23 @@ It supports partial TCP chunks by returning unconsumed `remainder` for next read
 - `POST /api/stop`
 - `POST /api/ingest` with JSON `{ "payload": "<raw pds text>" }`
 
+## OpenArena Workflow Discovery
+
+If you only have a bearer token and need a valid `workflow_id`:
+
+```bash
+$env:OPENARENA_BEARER_TOKEN="<your_token>"
+python scripts/list_openarena_workflows.py --only-accessible --page-size 50
+```
+
+Filter by title keyword:
+
+```bash
+python scripts/list_openarena_workflows.py --title-contains etf --title-contains filing
+```
+
+The script prints a suggested `OPENARENA_WORKFLOW_ID` from top keyword match.
+
 ## GitHub Actions Setup (Required for Pages Mode)
 
 Workflow file:
@@ -95,7 +114,8 @@ Add these repository secrets:
 - `SMTP_USERNAME` (your Gmail address)
 - `SMTP_PASSWORD` (Gmail App Password)
 - `FROM_EMAIL` (same Gmail address)
-- `GEMINI_API_KEY`
+- `OPENARENA_BEARER_TOKEN`
+- `OPENARENA_WORKFLOW_ID`
 
 Then:
 1. Push to GitHub.
@@ -137,9 +157,9 @@ Steps:
    - `PDS_HOST`, `PDS_PORT`
    - `SEC_USER_AGENT`
    - `REPORTER_EMAIL`
-   - `GEMINI_API_KEY`
    - `SMTP_HOST=smtp.gmail.com`, `SMTP_PORT=587`, `SMTP_USE_TLS=true`
    - `SMTP_USERNAME`, `SMTP_PASSWORD`, `FROM_EMAIL`
+   - `OPENARENA_BEARER_TOKEN`, `OPENARENA_WORKFLOW_ID`
 4. Ensure `AUTO_START_STREAM=true` in production.
 
 ### Docker Run (Any Host)

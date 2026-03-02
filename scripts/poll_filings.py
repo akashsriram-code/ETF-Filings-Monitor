@@ -228,8 +228,10 @@ def needs_synopsis_refresh(alert: dict[str, Any]) -> bool:
 def repair_existing_alert_links(
     alerts: list[dict[str, Any]],
     user_agent: str,
-    gemini_api_key: str,
-    gemini_model: str,
+    openarena_base_url: str,
+    openarena_bearer_token: str,
+    openarena_workflow_id: str,
+    openarena_timeout_seconds: int,
     max_repairs: int = 30,
 ) -> tuple[list[dict[str, Any]], int, int]:
     repaired_count = 0
@@ -258,7 +260,14 @@ def repair_existing_alert_links(
 
                     if needs_synopsis_refresh(current):
                         is_crypto = bool(current.get("is_crypto")) or normalize_form_type(form_type) == "S-1"
-                        current["synopsis"] = generate_synopsis(filing_text, gemini_api_key, gemini_model, is_crypto)
+                        current["synopsis"] = generate_synopsis(
+                            filing_text=filing_text,
+                            openarena_base_url=openarena_base_url,
+                            openarena_bearer_token=openarena_bearer_token,
+                            openarena_workflow_id=openarena_workflow_id,
+                            openarena_timeout_seconds=openarena_timeout_seconds,
+                            is_crypto=is_crypto,
+                        )
                         refreshed_synopsis_count += 1
                 except Exception:
                     pass
@@ -679,7 +688,7 @@ def extract_ticker(text: str, fund_name: str) -> str:
         if not match:
             continue
         value = match.group(1).strip()
-        class_i = re.search(r"Class\s+I[—–\-:\s]*([A-Z]{2,6})", value, flags=re.IGNORECASE)
+        class_i = re.search(r"Class\s+I[^\w]*([A-Z]{2,6})", value, flags=re.IGNORECASE)
         if class_i:
             return class_i.group(1).upper()
         symbols = re.findall(r"\b[A-Z]{2,6}\b", value)
@@ -843,21 +852,57 @@ def is_low_quality_summary(summary: str) -> bool:
     return False
 
 
-def _call_gemini(model_name: str, api_key: str, prompt: str) -> str:
-    import google.generativeai as genai
+def _extract_openarena_answer(payload: dict) -> str:
+    result = payload.get("result") or {}
+    answer = result.get("answer")
+    if isinstance(answer, str):
+        return answer.strip()
+    if isinstance(answer, dict):
+        for value in answer.values():
+            if isinstance(value, str) and value.strip():
+                return value.strip()
+    return ""
 
-    genai.configure(api_key=api_key)
-    model = genai.GenerativeModel(model_name=model_name, system_instruction=SYSTEM_INSTRUCTION)
-    response = model.generate_content(prompt)
-    return (getattr(response, "text", "") or "").strip()
+
+def _call_openarena(
+    base_url: str,
+    bearer_token: str,
+    workflow_id: str,
+    prompt: str,
+    timeout_seconds: int,
+) -> str:
+    headers = {
+        "Authorization": f"Bearer {bearer_token}",
+        "Content-Type": "application/json",
+    }
+    payload = {
+        "query": prompt,
+        "workflow_id": workflow_id,
+        "is_persistence_allowed": False,
+    }
+    with httpx.Client(timeout=timeout_seconds, follow_redirects=True, headers=headers) as client:
+        response = client.post(f"{base_url.rstrip('/')}/v2/inference", json=payload)
+        response.raise_for_status()
+        response_json = response.json()
+    answer = _extract_openarena_answer(response_json if isinstance(response_json, dict) else {})
+    if not answer:
+        raise RuntimeError("OpenArena returned an empty answer.")
+    return answer
 
 
-def generate_synopsis(filing_text: str, gemini_api_key: str, gemini_model: str, is_crypto: bool) -> str:
+def generate_synopsis(
+    filing_text: str,
+    openarena_base_url: str,
+    openarena_bearer_token: str,
+    openarena_workflow_id: str,
+    openarena_timeout_seconds: int,
+    is_crypto: bool,
+) -> str:
     source_text = clean_extracted_text(filing_text.strip())
     text = extract_narrative_text(filing_text.strip())
     if not source_text:
         return "No filing text available."
-    if not gemini_api_key:
+    if not openarena_bearer_token or not openarena_workflow_id:
         return fallback_synopsis(source_text, is_crypto)
 
     try:
@@ -870,7 +915,13 @@ def generate_synopsis(filing_text: str, gemini_api_key: str, gemini_model: str, 
                 "Exclude SEC site boilerplate.\n\n"
                 f"Chunk {idx}:\n{chunk}"
             )
-            chunk_summary = _call_gemini(gemini_model, gemini_api_key, chunk_prompt)
+            chunk_summary = _call_openarena(
+                openarena_base_url,
+                openarena_bearer_token,
+                openarena_workflow_id,
+                chunk_prompt,
+                openarena_timeout_seconds,
+            )
             if chunk_summary:
                 chunk_summaries.append(chunk_summary)
 
@@ -891,9 +942,21 @@ def generate_synopsis(filing_text: str, gemini_api_key: str, gemini_model: str, 
             + "\nChunk summaries:\n"
             + "\n".join(f"- {item}" for item in chunk_summaries)
         )
-        summary = _call_gemini(gemini_model, gemini_api_key, final_prompt)
+        summary = _call_openarena(
+            openarena_base_url,
+            openarena_bearer_token,
+            openarena_workflow_id,
+            final_prompt,
+            openarena_timeout_seconds,
+        )
         if is_low_quality_summary(summary):
-            summary = _call_gemini(gemini_model, gemini_api_key, final_prompt + "\n\nRetry with cleaner output.")
+            summary = _call_openarena(
+                openarena_base_url,
+                openarena_bearer_token,
+                openarena_workflow_id,
+                final_prompt + "\n\nRetry with cleaner output.",
+                openarena_timeout_seconds,
+            )
         if not summary:
             return fallback_synopsis(source_text, is_crypto)
         return normalize_summary(summary, is_crypto, hints=fields)
@@ -958,8 +1021,10 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
     smtp_password = os.getenv("SMTP_PASSWORD", "").strip()
     smtp_use_tls = (os.getenv("SMTP_USE_TLS", "true").strip().lower() != "false")
     from_email = os.getenv("FROM_EMAIL", smtp_username).strip()
-    gemini_api_key = os.getenv("GEMINI_API_KEY", "").strip()
-    gemini_model = os.getenv("GEMINI_MODEL", "gemini-1.5-pro").strip()
+    openarena_base_url = os.getenv("OPENARENA_BASE_URL", "https://aiopenarena.gcs.int.thomsonreuters.com").strip()
+    openarena_bearer_token = os.getenv("OPENARENA_BEARER_TOKEN", "").strip()
+    openarena_workflow_id = os.getenv("OPENARENA_WORKFLOW_ID", "").strip()
+    openarena_timeout_seconds = int((os.getenv("OPENARENA_TIMEOUT_SECONDS", "60") or "60").strip())
 
     required = {
         "SEC_USER_AGENT": user_agent,
@@ -967,6 +1032,8 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
         "SMTP_USERNAME": smtp_username,
         "SMTP_PASSWORD": smtp_password,
         "FROM_EMAIL": from_email,
+        "OPENARENA_BEARER_TOKEN": openarena_bearer_token,
+        "OPENARENA_WORKFLOW_ID": openarena_workflow_id,
     }
     missing = [name for name, value in required.items() if not value]
     if missing:
@@ -988,8 +1055,10 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
         existing_alerts, repaired_links_count, refreshed_synopsis_count = repair_existing_alert_links(
             existing_alerts,
             user_agent=user_agent,
-            gemini_api_key=gemini_api_key,
-            gemini_model=gemini_model,
+            openarena_base_url=openarena_base_url,
+            openarena_bearer_token=openarena_bearer_token,
+            openarena_workflow_id=openarena_workflow_id,
+            openarena_timeout_seconds=openarena_timeout_seconds,
         )
 
         feed_entries = fetch_feed_entries(user_agent)
@@ -1028,7 +1097,14 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
             if not should_alert:
                 continue
 
-            synopsis = generate_synopsis(filing_text, gemini_api_key, gemini_model, is_crypto)
+            synopsis = generate_synopsis(
+                filing_text=filing_text,
+                openarena_base_url=openarena_base_url,
+                openarena_bearer_token=openarena_bearer_token,
+                openarena_workflow_id=openarena_workflow_id,
+                openarena_timeout_seconds=openarena_timeout_seconds,
+                is_crypto=is_crypto,
+            )
             subject = f"[ETF ALERT] {form_type} Filed by {company_name}"
             body = f"{synopsis}\n\nSEC Link: {index_url}"
             email_sent, email_error = send_smtp_email(
