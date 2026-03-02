@@ -163,6 +163,9 @@ def fetch_master_index_entries(user_agent: str, day: date) -> list[dict[str, str
 
     if response.status_code == 404:
         return []
+    if response.status_code == 403:
+        # SEC can deny some daily-index requests; skip this date without failing the full run.
+        return []
     response.raise_for_status()
 
     entries: list[dict[str, str]] = []
