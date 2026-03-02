@@ -1,13 +1,14 @@
 {
-  "last_run": "2026-03-02T13:34:46.383714+00:00",
+  "last_run": "2026-03-02T14:28:00.586597+00:00",
   "last_error": null,
-  "fetched_entries": 91,
+  "fetched_entries": 82,
   "feed_entries": 100,
   "backfill_entries": 0,
   "backfill_days": 0,
   "repaired_links": 30,
   "refreshed_synopsis": 0,
   "force_refresh_synopsis": false,
+  "suppress_email": false,
   "new_alerts": 0,
   "total_alerts": 53,
   "mode": "github-pages-scheduled-poller"
