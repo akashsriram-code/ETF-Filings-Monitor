@@ -77,6 +77,20 @@ ALERTS_PATH = DATA_DIR / "alerts.json"
 STATUS_PATH = DATA_DIR / "status.json"
 
 
+def is_generic_fund_name(value: str) -> bool:
+    lower = " ".join(value.lower().split())
+    if not lower:
+        return True
+    generic_signals = [
+        "the fund",
+        "the funds",
+        "fund is an etf",
+        "is an etf",
+        "unknown",
+    ]
+    return lower in GENERIC_FUND_NAMES or any(sig in lower for sig in generic_signals)
+
+
 def now_iso() -> str:
     return datetime.now(timezone.utc).isoformat()
 
@@ -767,20 +781,25 @@ def normalize_summary(summary: str, is_crypto: bool, hints: dict[str, str] | Non
         parsed[key.strip().lower()] = value.strip()
 
     hints = hints or {}
-    fund_name = sanitize_name(parsed.get("fund name", "Unknown"))
-    if fund_name == "Unknown" and hints.get("fund_name"):
-        fund_name = sanitize_name(hints.get("fund_name", "Unknown"))
+    raw_fund_name = parsed.get("fund name", "Unknown")
+    fund_name = sanitize_name(raw_fund_name)
+    hint_fund_name = sanitize_name(hints.get("fund_name", "Unknown"))
+    if hint_fund_name != "Unknown" and (fund_name == "Unknown" or is_generic_fund_name(raw_fund_name)):
+        fund_name = hint_fund_name
 
     ticker = parsed.get("ticker", "Unknown").strip() or "Unknown"
-    if ticker == "Unknown" and hints.get("ticker"):
-        ticker = hints["ticker"]
+    hint_ticker = (hints.get("ticker") or "").strip()
+    if hint_ticker and hint_ticker != "Unknown":
+        ticker = hint_ticker
 
     expense_ratio = parsed.get("expense ratio", "Unknown").strip() or "Unknown"
-    if expense_ratio == "Unknown" and hints.get("expense_ratio"):
-        expense_ratio = hints["expense_ratio"]
+    hint_expense = (hints.get("expense_ratio") or "").strip()
+    if hint_expense and hint_expense != "Unknown":
+        expense_ratio = hint_expense
     strategy = normalize_strategy_text(parsed.get("strategy", ""))
     if (
         strategy == "Not available."
+        or strategy.lower().startswith("by using")
         or "statement of additional information" in strategy.lower()
         or "should be read in conjunction with" in strategy.lower()
     ) and hints.get("strategy"):
@@ -926,13 +945,15 @@ def generate_synopsis(
                 chunk_summaries.append(chunk_summary)
 
         final_prompt = (
+            "Strict extraction task. Ignore generic placeholders and return concrete filing facts only.\n"
             "Return exactly these lines:\n"
             "Fund Name: <value>\n"
             "Ticker: <value or Unknown>\n"
             "Expense Ratio: <value or Unknown>\n"
             "Strategy: <exactly 2 sentences>\n"
             + ("Custodian: <value or Unknown>\n" if is_crypto else "")
-            + "Do not include SEC.gov navigation text.\n\n"
+            + "Do not include SEC.gov navigation text.\n"
+            + "Do NOT use generic names like 'The Fund' unless no specific name exists.\n\n"
             f"Extracted hints:\n"
             f"- Fund Name hint: {fields['fund_name']}\n"
             f"- Ticker hint: {fields['ticker']}\n"

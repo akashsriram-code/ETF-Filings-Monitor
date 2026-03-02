@@ -37,10 +37,13 @@ jobs:
           SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
           FROM_EMAIL: ${{ secrets.FROM_EMAIL }}
           OPENARENA_BASE_URL: https://aiopenarena.gcs.int.thomsonreuters.com
-          OPENARENA_BEARER_TOKEN: ${{ secrets.OPENARENA_BEARER_TOKEN }}
-          OPENARENA_WORKFLOW_ID: ${{ secrets.OPENARENA_WORKFLOW_ID }}
+          OPENARENA_BEARER_TOKEN: ${{ secrets.OPENARENA_BEARER_TOKEN || vars.OPENARENA_BEARER_TOKEN }}
+          OPENARENA_WORKFLOW_ID: ${{ secrets.OPENARENA_WORKFLOW_ID || vars.OPENARENA_WORKFLOW_ID }}
           OPENARENA_TIMEOUT_SECONDS: "60"
-        run: python scripts/poll_filings.py --backfill-days "${{ github.event.inputs.backfill_days }}"
+        run: |
+          test -n "$OPENARENA_BEARER_TOKEN" || (echo "Missing OPENARENA_BEARER_TOKEN (set repo Secret or Variable)." && exit 1)
+          test -n "$OPENARENA_WORKFLOW_ID" || (echo "Missing OPENARENA_WORKFLOW_ID (set repo Secret or Variable)." && exit 1)
+          python scripts/poll_filings.py --backfill-days "${{ github.event.inputs.backfill_days }}"
 
       - name: Commit updated data
         run: |
