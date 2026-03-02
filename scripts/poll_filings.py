@@ -250,6 +250,8 @@ def repair_existing_alert_links(
     openarena_workflow_id: str,
     openarena_timeout_seconds: int,
     max_repairs: int = 30,
+    force_refresh_synopsis: bool = False,
+    max_synopsis_refresh: int = 30,
 ) -> tuple[list[dict[str, Any]], int, int]:
     repaired_count = 0
     refreshed_synopsis_count = 0
@@ -260,8 +262,11 @@ def repair_existing_alert_links(
         needs_repair = not is_valid_archive_url(current.get("primary_document_url")) or not is_valid_archive_url(
             current.get("sec_filing_url")
         )
+        should_refresh_synopsis = force_refresh_synopsis or needs_synopsis_refresh(current)
 
-        if needs_repair and repaired_count < max_repairs:
+        can_repair = needs_repair and repaired_count < max_repairs
+        can_refresh = should_refresh_synopsis and refreshed_synopsis_count < max_synopsis_refresh
+        if can_repair or can_refresh:
             cik = str(current.get("cik", "")).strip()
             accession = str(current.get("accession_number", "")).strip()
             form_type = str(current.get("form_type", "")).strip()
@@ -269,13 +274,13 @@ def repair_existing_alert_links(
                 index_url = build_index_url(cik, accession)
                 try:
                     primary_url, filing_text = fetch_primary_document(index_url, user_agent, form_type=form_type)
-                    if is_valid_archive_url(primary_url):
+                    if can_repair and is_valid_archive_url(primary_url):
                         current["sec_index_url"] = index_url
                         current["primary_document_url"] = primary_url
                         current["sec_filing_url"] = to_ix_url(primary_url)
                         repaired_count += 1
 
-                    if needs_synopsis_refresh(current):
+                    if can_refresh:
                         is_crypto = bool(current.get("is_crypto")) or normalize_form_type(form_type) == "S-1"
                         current["synopsis"] = generate_synopsis(
                             filing_text=filing_text,
@@ -1074,6 +1079,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
     refreshed_synopsis_count = 0
     new_alerts: list[dict[str, Any]] = []
     last_error: str | None = None
+    force_refresh_synopsis = backfill_days > 0
 
     try:
         existing_alerts, repaired_links_count, refreshed_synopsis_count = repair_existing_alert_links(
@@ -1083,6 +1089,8 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
             openarena_bearer_token=openarena_bearer_token,
             openarena_workflow_id=openarena_workflow_id,
             openarena_timeout_seconds=openarena_timeout_seconds,
+            force_refresh_synopsis=force_refresh_synopsis,
+            max_synopsis_refresh=(len(existing_alerts) if force_refresh_synopsis else 30),
         )
 
         feed_entries = fetch_feed_entries(user_agent)
@@ -1185,6 +1193,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
         "backfill_days": backfill_days,
         "repaired_links": repaired_links_count,
         "refreshed_synopsis": refreshed_synopsis_count,
+        "force_refresh_synopsis": force_refresh_synopsis,
         "new_alerts": len(new_alerts),
         "total_alerts": len(merged_alerts),
         "mode": "github-pages-scheduled-poller",
