@@ -1080,6 +1080,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
     new_alerts: list[dict[str, Any]] = []
     last_error: str | None = None
     force_refresh_synopsis = backfill_days > 0
+    suppress_email = backfill_days > 0
 
     try:
         existing_alerts, repaired_links_count, refreshed_synopsis_count = repair_existing_alert_links(
@@ -1139,18 +1140,21 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
             )
             subject = f"[ETF ALERT] {form_type} Filed by {company_name}"
             body = f"{synopsis}\n\nSEC Link: {index_url}"
-            email_sent, email_error = send_smtp_email(
-                smtp_host=smtp_host,
-                smtp_port=smtp_port,
-                smtp_username=smtp_username,
-                smtp_password=smtp_password,
-                smtp_use_tls=smtp_use_tls,
-                from_email=from_email,
-                to_email=reporter_email,
-                subject=subject,
-                body=body,
-                dry_run=dry_run,
-            )
+            if suppress_email:
+                email_sent, email_error = False, "Email suppressed during backfill run."
+            else:
+                email_sent, email_error = send_smtp_email(
+                    smtp_host=smtp_host,
+                    smtp_port=smtp_port,
+                    smtp_username=smtp_username,
+                    smtp_password=smtp_password,
+                    smtp_use_tls=smtp_use_tls,
+                    from_email=from_email,
+                    to_email=reporter_email,
+                    subject=subject,
+                    body=body,
+                    dry_run=dry_run,
+                )
 
             alert = {
                 "created_at": now_iso(),
@@ -1194,6 +1198,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
         "repaired_links": repaired_links_count,
         "refreshed_synopsis": refreshed_synopsis_count,
         "force_refresh_synopsis": force_refresh_synopsis,
+        "suppress_email": suppress_email,
         "new_alerts": len(new_alerts),
         "total_alerts": len(merged_alerts),
         "mode": "github-pages-scheduled-poller",
