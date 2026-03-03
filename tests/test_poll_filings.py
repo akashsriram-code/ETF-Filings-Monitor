@@ -129,16 +129,15 @@ def test_to_ix_url_wraps_archive_document() -> None:
 
 def test_extract_structured_fields_pulls_core_values() -> None:
     text = (
-        "Fund Name: Example Municipal Bond Fund "
-        "Ticker Symbols: Class A-EXMA, Class I-EXMB "
-        "Total Annual Fund Operating Expenses 0.42% "
-        "Custodian: Coinbase Custody"
+        "COMPANY CONFORMED NAME: Example ETF Trust "
+        "Fund Name: Example Municipal Bond ETF "
+        "Investment Objective The Example Municipal Bond ETF seeks current income and tax-exempt yield. "
+        "Principal Investment Strategy Under normal circumstances, the fund invests at least 80% of assets in municipal bonds."
     )
     fields = extract_structured_fields(text, is_crypto=True)
-    assert fields["fund_name"] == "Example Municipal Bond Fund"
-    assert fields["ticker"] == "EXMB"
-    assert fields["expense_ratio"] == "0.42%"
-    assert "Coinbase" in fields["custodian"]
+    assert fields["filer_name"] == "Example ETF Trust"
+    assert fields["etf_name"] == "Example Municipal Bond ETF"
+    assert "seeks current income" in fields["strategy"].lower()
 
 
 def test_extract_fund_name_from_prospectus_list() -> None:
@@ -163,13 +162,12 @@ def test_extract_structured_fields_from_class_table_and_strategy_sections() -> N
         "Principal Investment Strategy Under normal circumstances, the Fund invests at least 80% of its assets in dividend-paying equities. "
         "Principal Risks Equity market risk."
     )
-    fields = extract_structured_fields(text, is_crypto=False)
-    assert fields["fund_name"] == "Nuveen Dividend Value Fund"
-    assert fields["ticker"] == "FAQIX"
-    assert fields["expense_ratio"] == "0.95%"
+    fields = extract_structured_fields(text, is_crypto=False, filer_name_hint="Nuveen Fund Advisors")
+    assert fields["filer_name"] == "Nuveen Fund Advisors"
+    assert fields["etf_name"] == "Nuveen Dividend Value Fund"
     assert "long-term growth of capital and income" in fields["strategy"].lower()
 
 
 def test_is_low_quality_summary_detects_boilerplate() -> None:
-    low = "Fund Name: Not clearly stated Strategy: Skip to search field Official websites use .gov"
+    low = "Filer: Unknown ETF Name: Unknown Strategy: Skip to search field Official websites use .gov"
     assert is_low_quality_summary(low) is True

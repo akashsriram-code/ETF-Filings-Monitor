@@ -153,7 +153,12 @@ class FilingEngine:
         except Exception as exc:
             artifact_error = str(exc)
 
-        synopsis = await generate_synopsis(primary_text, is_crypto, self.settings)
+        synopsis = await generate_synopsis(
+            primary_text,
+            is_crypto,
+            self.settings,
+            filer_name=filing.company_name,
+        )
         subject = f"[ETF ALERT] {filing.form_type} Filed by {filing.company_name}"
         body = f"{synopsis}\n\nSEC Link: {sec_index_url}"
 

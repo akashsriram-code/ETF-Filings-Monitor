@@ -17,7 +17,8 @@ from bs4 import BeautifulSoup
 
 SYSTEM_INSTRUCTION = (
     "You are assisting a financial reporter. Output concise, factual filing summaries. "
-    "Never include SEC website navigation or .gov boilerplate text."
+    "Never include SEC website navigation or .gov boilerplate text. "
+    "Return only three fields from ETF filings: Filer, ETF Name, and Strategy."
 )
 TARGET_FORMS = {"485APOS", "485BPOS", "S-1"}
 CRYPTO_KEYWORDS = ["Bitcoin", "Ethereum", "Digital Asset", "Spot", "Coinbase Custody"]
@@ -42,9 +43,7 @@ NARRATIVE_KEYWORDS = [
     "index",
     "benchmark",
     "risk",
-    "expense",
     "advisor",
-    "custodian",
     "bitcoin",
     "ethereum",
     "digital asset",
@@ -68,6 +67,28 @@ GENERIC_FUND_NAMES = {
     "trust",
     "etf",
 }
+NAME_NOISE_FRAGMENTS = [
+    "table of contents",
+    "fund summary",
+    "additional information about the fund",
+    "fees and expenses",
+    "summary prospectus",
+    "statement of additional information",
+    "principal risks",
+    "portfolio managers",
+    "skip to",
+    "official website",
+    "sec.gov",
+]
+STRATEGY_NOISE_FRAGMENTS = [
+    "table of contents",
+    "annual fund operating expenses",
+    "fees and expenses",
+    "distribution and service",
+    "example assumes that your investment",
+    "skip to main content",
+    "official websites use .gov",
+]
 FEED_URL = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&count=100&output=atom"
 
 ROOT_DIR = Path(__file__).resolve().parent.parent
@@ -87,6 +108,8 @@ def is_generic_fund_name(value: str) -> bool:
         "fund is an etf",
         "is an etf",
         "unknown",
+        "not clearly stated",
+        "table of contents",
     ]
     return lower in GENERIC_FUND_NAMES or any(sig in lower for sig in generic_signals)
 
@@ -235,6 +258,8 @@ def needs_synopsis_refresh(alert: dict[str, Any]) -> bool:
     lower = synopsis.lower()
     signals = [
         "fund name: not clearly stated",
+        "etf name: unknown",
+        "filer: unknown",
         "strategy: sec.gov",
         "skip to search field",
         "official websites use .gov",
@@ -289,6 +314,8 @@ def repair_existing_alert_links(
                             openarena_workflow_id=openarena_workflow_id,
                             openarena_timeout_seconds=openarena_timeout_seconds,
                             is_crypto=is_crypto,
+                            filer_name=str(current.get("company_name", "")).strip(),
+                            require_openarena=True,
                         )
                         refreshed_synopsis_count += 1
                 except Exception:
@@ -613,23 +640,54 @@ def extract_first(patterns: list[str], text: str, default: str = "Unknown") -> s
     return default
 
 
-def sanitize_name(value: str, default: str = "Unknown") -> str:
+def sanitize_name(value: str, default: str = "Unknown", *, allow_generic: bool = False) -> str:
     cleaned = " ".join(value.split()).strip(" .;:,")
+    cleaned = re.sub(
+        r"^(?:Filer|Filer Name|Company Name|Company Conformed Name|ETF Name|Fund Name|Series Name|Name of Fund)\s*[:\-]\s*",
+        "",
+        cleaned,
+        flags=re.IGNORECASE,
+    )
+    cleaned = re.sub(r"^(?:Table of Contents|Contents)\s+", "", cleaned, flags=re.IGNORECASE)
     cleaned = re.sub(r"^(?:The\s+)?Prospectus\s+for\s+", "", cleaned, flags=re.IGNORECASE)
     cleaned = re.sub(r"^(?:The\s+)?Statement of Additional Information\s+for\s+", "", cleaned, flags=re.IGNORECASE)
     cleaned = re.sub(r"^(?:Class\s+[A-Z0-9]+\s+)+", "", cleaned, flags=re.IGNORECASE)
+    cleaned = cleaned.strip(" .;:,")
     if not cleaned:
         return default
-    if len(cleaned) > 120:
+    if len(cleaned) < 3 or len(cleaned) > 140:
         return default
     if cleaned[0].islower():
         return default
-    bad_fragments = ["reports and certain other information", "skip to", "official website"]
-    if any(fragment in cleaned.lower() for fragment in bad_fragments):
+    lower = cleaned.lower()
+    bad_fragments = ["reports and certain other information", "should be read in conjunction with", "unknown"]
+    if any(fragment in lower for fragment in bad_fragments):
         return default
-    if cleaned.lower() in GENERIC_FUND_NAMES:
+    if any(fragment in lower for fragment in NAME_NOISE_FRAGMENTS):
+        return default
+    if re.search(r"\b(seeks|invests|tracks|is an etf|is an exchange-traded fund)\b", lower):
+        return default
+    if sum(ch.isdigit() for ch in cleaned) / max(len(cleaned), 1) > 0.25:
+        return default
+    if not allow_generic and is_generic_fund_name(cleaned):
         return default
     return cleaned
+
+
+def candidate_score_etf_name(value: str) -> int:
+    lower = value.lower()
+    score = 0
+    if " etf" in lower:
+        score += 5
+    if " fund" in lower:
+        score += 3
+    if " trust" in lower:
+        score += 1
+    if 2 <= len(value.split()) <= 12:
+        score += 2
+    if is_generic_fund_name(value):
+        score -= 20
+    return score
 
 
 def collapse_to_single_fund_name(value: str) -> str:
@@ -644,17 +702,36 @@ def collapse_to_single_fund_name(value: str) -> str:
 
 
 def extract_fund_name(text: str) -> str:
-    direct = extract_first(
-        [
-            r"(?:Fund Name|Series Name|Name of Fund)\s*[:\-]\s*([^\n\r:]{3,120}?)(?=\s(?:Ticker|Ticker Symbol|Expense Ratio|Strategy|$))",
-            r"\b([A-Z][A-Za-z0-9&,\-\.]*(?:\s+[A-Z][A-Za-z0-9&,\-\.]*){0,8}\s(?:Fund|Trust|ETF)(?:,\s*Inc\.)?)\b",
-        ],
-        text,
-        default="Unknown",
-    )
-    direct_clean = sanitize_name(direct)
-    if direct_clean != "Unknown":
-        return collapse_to_single_fund_name(direct_clean)
+    scored_candidates: list[tuple[int, int, str]] = []
+
+    def add_candidate(raw_value: str, pattern_weight: int, idx: int) -> None:
+        sanitized = collapse_to_single_fund_name(sanitize_name(raw_value))
+        if sanitized == "Unknown":
+            return
+        score = pattern_weight + candidate_score_etf_name(sanitized)
+        scored_candidates.append((score, idx, sanitized))
+
+    patterns: list[tuple[str, int]] = [
+        (
+            r"(?:ETF Name|Fund Name|Series Name|Name of Fund)\s*[:\-]\s*([^\n\r:]{3,140}?)(?=\s(?:Ticker|Ticker Symbol|Strategy|Investment Objective|Principal|Fees|Annual|$))",
+            12,
+        ),
+        (
+            r"\b([A-Z][A-Za-z0-9&,\-\.']*(?:\s+[A-Z][A-Za-z0-9&,\-\.']*){1,10}\s(?:ETF|Fund|Trust))\s*\(\s*(?:the\s+)?[\"']?Fund[\"']?\s*\)",
+            11,
+        ),
+        (
+            r"\b([A-Z][A-Za-z0-9&,\-\.']*(?:\s+[A-Z][A-Za-z0-9&,\-\.']*){1,10}\s(?:ETF|Fund|Trust))\s+seeks\b",
+            10,
+        ),
+        (
+            r"\b([A-Z][A-Za-z0-9&,\-\.']*(?:\s+[A-Z][A-Za-z0-9&,\-\.']*){1,10}\s(?:ETF|Fund|Trust)(?:,\s*Inc\.)?)\b",
+            6,
+        ),
+    ]
+    for pattern, weight in patterns:
+        for idx, match in enumerate(re.finditer(pattern, text, flags=re.IGNORECASE)):
+            add_candidate(match.group(1), weight, idx)
 
     prospectus_block = extract_first(
         [
@@ -665,12 +742,33 @@ def extract_fund_name(text: str) -> str:
         default="",
     )
     if prospectus_block:
-        for match in re.finditer(r"([A-Z][A-Za-z0-9&,\-\. ]{2,80}\s(?:Fund|Trust|ETF))", prospectus_block):
-            candidate = sanitize_name(match.group(1))
-            if candidate != "Unknown":
-                return collapse_to_single_fund_name(candidate)
+        for idx, match in enumerate(
+            re.finditer(r"([A-Z][A-Za-z0-9&,\-\. ']{2,90}\s(?:Fund|Trust|ETF))", prospectus_block)
+        ):
+            add_candidate(match.group(1), 9, idx)
 
-    return "Unknown"
+    if not scored_candidates:
+        return "Unknown"
+    best = sorted(scored_candidates, key=lambda item: (-item[0], item[1], len(item[2])))[0]
+    return best[2]
+
+
+def extract_filer_name(text: str, fallback: str = "Unknown") -> str:
+    extracted = extract_first(
+        [
+            r"<COMPANY-NAME>\s*([^<\r\n]{3,140})",
+            r"COMPANY-NAME:\s*([^\r\n]{3,140}?)(?=\s(?:CIK|ETF Name|Fund Name|Series Name|Investment Objective|Principal|Ticker|$)|$)",
+            r"COMPANY CONFORMED NAME:\s*([^\r\n]{3,140}?)(?=\s(?:CIK|ETF Name|Fund Name|Series Name|Investment Objective|Principal|Ticker|$)|$)",
+            r"(?:Filer Name|Name of Registrant|Registrant Name|Company Name)\s*[:\-]\s*([^\r\n]{3,140}?)(?=\s(?:CIK|ETF Name|Fund Name|Series Name|Investment Objective|Principal|Ticker|$)|$)",
+        ],
+        text,
+        default="",
+    )
+    candidate = sanitize_name(extracted, allow_generic=True) if extracted else "Unknown"
+    if candidate != "Unknown":
+        return candidate
+    fallback_clean = sanitize_name(fallback, allow_generic=True)
+    return fallback_clean if fallback_clean != "Unknown" else "Unknown"
 
 
 def fund_context(text: str, fund_name: str, window: int = 12_000) -> str:
@@ -745,35 +843,86 @@ def extract_strategy_hint(text: str, fund_name: str) -> str:
     context = fund_context(text, fund_name, window=20_000)
     objective = extract_first(
         [
-            r"Investment Objective\s+(.{30,600}?)(?=\s+Fees and Expenses|\s+Principal Investment Strateg(?:y|ies)|\s+Principal Risks)",
+            r"Investment Objective\s+(.{30,700}?)(?=\s+Fees and Expenses|\s+Principal Investment Strateg(?:y|ies)|\s+Principal Risks|\s+Performance)",
         ],
         context,
         default="",
     )
     principal = extract_first(
         [
-            r"Principal Investment Strateg(?:y|ies)\s+(.{30,900}?)(?=\s+Principal Risks|\s+Portfolio Managers|\s+Management|\s+Purchase and Sale)",
+            r"Principal Investment Strateg(?:y|ies)\s+(.{30,1100}?)(?=\s+Principal Risks|\s+Portfolio Managers|\s+Management|\s+Purchase and Sale|\s+Fund Performance)",
         ],
         context,
         default="",
     )
-    bits = []
+    bits: list[str] = []
     if objective:
-        bits.append(normalize_strategy_text(objective))
+        bits.append(objective)
     if principal:
-        bits.append(normalize_strategy_text(principal))
-    merged = " ".join(bits).strip()
-    return normalize_strategy_text(merged) if merged else "Not available."
+        bits.append(principal)
+    merged = normalize_strategy_text(" ".join(bits))
+    if merged != "Not available.":
+        return merged
+
+    sentences = re.split(r"(?<=[.!?])\s+", context)
+    scored: list[tuple[float, int, str]] = []
+    for idx, sentence in enumerate(sentences):
+        s = " ".join(sentence.split()).strip()
+        if len(s) < 45 or len(s) > 420:
+            continue
+        lower = s.lower()
+        if any(fragment in lower for fragment in STRATEGY_NOISE_FRAGMENTS):
+            continue
+        if sum(ch.isdigit() for ch in s) / max(len(s), 1) > 0.12:
+            continue
+        score = 0.0
+        if fund_name != "Unknown" and fund_name.lower() in lower:
+            score += 2.0
+        if " seeks " in f" {lower} " or lower.startswith("seeks "):
+            score += 4.0
+        if "investment objective" in lower:
+            score += 4.0
+        if "principal investment strategy" in lower or "investment strategy" in lower:
+            score += 3.0
+        if "invests" in lower or "index" in lower or "portfolio" in lower:
+            score += 2.0
+        if score > 0:
+            scored.append((score, idx, s))
+
+    if not scored:
+        return "Not available."
+
+    top = sorted(scored, key=lambda item: item[0], reverse=True)[:4]
+    ordered = [item[2] for item in sorted(top, key=lambda item: item[1])][:2]
+    return normalize_strategy_text(" ".join(ordered))
 
 
 def normalize_strategy_text(value: str) -> str:
     text = " ".join(value.split())
     if not text:
         return "Not available."
+    text = re.sub(r"(?i)\b(?:table of contents|fund summary)\b", " ", text)
     chunks = re.split(r"(?<=[.!?])\s+", text)
-    if len(chunks) < 2:
-        chunks = re.split(r"[;:]\s+", text)
-    chosen = " ".join(chunks[:2]).strip()
+    selected: list[str] = []
+    for chunk in chunks:
+        sentence = " ".join(chunk.split()).strip(" .")
+        if len(sentence) < 35 or len(sentence) > 420:
+            continue
+        lower = sentence.lower()
+        if any(fragment in lower for fragment in STRATEGY_NOISE_FRAGMENTS):
+            continue
+        if not re.search(r"\b(seeks?|invests?|objective|strategy|index|portfolio|exposure|tracks?)\b", lower):
+            continue
+        selected.append(sentence)
+        if len(selected) == 2:
+            break
+
+    if not selected and chunks:
+        fallback = " ".join(chunks[:2]).strip()
+        if fallback and not any(fragment in fallback.lower() for fragment in STRATEGY_NOISE_FRAGMENTS):
+            selected = [fallback]
+
+    chosen = " ".join(selected).strip()
     if len(chosen) > 420:
         chosen = chosen[:420].rstrip() + "..."
     return chosen or "Not available."
@@ -789,21 +938,18 @@ def normalize_summary(summary: str, is_crypto: bool, hints: dict[str, str] | Non
         parsed[key.strip().lower()] = value.strip()
 
     hints = hints or {}
-    raw_fund_name = parsed.get("fund name", "Unknown")
-    fund_name = sanitize_name(raw_fund_name)
-    hint_fund_name = sanitize_name(hints.get("fund_name", "Unknown"))
-    if hint_fund_name != "Unknown" and (fund_name == "Unknown" or is_generic_fund_name(raw_fund_name)):
-        fund_name = hint_fund_name
+    raw_filer_name = parsed.get("filer", parsed.get("filer name", parsed.get("company name", "Unknown")))
+    filer_name = sanitize_name(raw_filer_name, allow_generic=True)
+    hint_filer_name = sanitize_name(hints.get("filer_name", "Unknown"), allow_generic=True)
+    if hint_filer_name != "Unknown" and filer_name == "Unknown":
+        filer_name = hint_filer_name
 
-    ticker = parsed.get("ticker", "Unknown").strip() or "Unknown"
-    hint_ticker = (hints.get("ticker") or "").strip()
-    if hint_ticker and hint_ticker != "Unknown":
-        ticker = hint_ticker
+    raw_etf_name = parsed.get("etf name", parsed.get("fund name", "Unknown"))
+    etf_name = sanitize_name(raw_etf_name)
+    hint_etf_name = sanitize_name(hints.get("etf_name", hints.get("fund_name", "Unknown")))
+    if hint_etf_name != "Unknown" and (etf_name == "Unknown" or is_generic_fund_name(raw_etf_name)):
+        etf_name = hint_etf_name
 
-    expense_ratio = parsed.get("expense ratio", "Unknown").strip() or "Unknown"
-    hint_expense = (hints.get("expense_ratio") or "").strip()
-    if hint_expense and hint_expense != "Unknown":
-        expense_ratio = hint_expense
     strategy = normalize_strategy_text(parsed.get("strategy", ""))
     if (
         strategy == "Not available."
@@ -814,35 +960,21 @@ def normalize_summary(summary: str, is_crypto: bool, hints: dict[str, str] | Non
         strategy = normalize_strategy_text(hints["strategy"])
 
     output = [
-        f"Fund Name: {fund_name}",
-        f"Ticker: {ticker}",
-        f"Expense Ratio: {expense_ratio}",
+        f"Filer: {filer_name}",
+        f"ETF Name: {etf_name}",
         f"Strategy: {strategy}",
     ]
-    if is_crypto:
-        custodian = sanitize_name(parsed.get("custodian", "Unknown"))
-        output.append(f"Custodian: {custodian}")
     return "\n".join(output)
 
 
-def extract_structured_fields(text: str, is_crypto: bool) -> dict[str, str]:
-    fund_name = extract_fund_name(text)
-    ticker = extract_ticker(text, fund_name)
-    expense_ratio = extract_expense_ratio(text, fund_name)
-    strategy = extract_strategy_hint(text, fund_name)
-    custodian = extract_first(
-        [
-            r"(?:Custodian|Crypto Custodian)\s*[:\-]\s*([A-Za-z0-9&,\-\. ]{3,120})",
-            r"(Coinbase Custody)",
-        ],
-        text,
-        default="Unknown" if is_crypto else "N/A",
-    )
+def extract_structured_fields(text: str, is_crypto: bool, filer_name_hint: str = "Unknown") -> dict[str, str]:
+    _ = is_crypto
+    filer_name = extract_filer_name(text, fallback=filer_name_hint)
+    etf_name = extract_fund_name(text)
+    strategy = extract_strategy_hint(text, etf_name)
     return {
-        "fund_name": fund_name,
-        "ticker": ticker,
-        "expense_ratio": expense_ratio,
-        "custodian": custodian,
+        "filer_name": filer_name,
+        "etf_name": etf_name,
         "strategy": strategy,
     }
 
@@ -863,7 +995,7 @@ def build_chunks(text: str, chunk_size: int = 7000, overlap: int = 600, max_chun
 
 
 def is_low_quality_summary(summary: str) -> bool:
-    if not summary.strip() or len(summary.strip()) < 80:
+    if not summary.strip():
         return True
     lower = summary.lower()
     bad_signals = [
@@ -873,6 +1005,15 @@ def is_low_quality_summary(summary: str) -> bool:
         "an official website of the united states government",
     ]
     if any(signal in lower for signal in bad_signals):
+        return True
+    required = ["filer:", "etf name:", "strategy:"]
+    if all(label in lower for label in required):
+        has_unknown_names = "filer: unknown" in lower and "etf name: unknown" in lower
+        has_no_strategy = "strategy: not available." in lower
+        if has_unknown_names and has_no_strategy:
+            return True
+        return False
+    if len(summary.strip()) < 80:
         return True
     if lower.count("not found") >= 2:
         return True
@@ -924,16 +1065,20 @@ def generate_synopsis(
     openarena_workflow_id: str,
     openarena_timeout_seconds: int,
     is_crypto: bool,
+    filer_name: str = "Unknown",
+    require_openarena: bool = False,
 ) -> str:
     source_text = clean_extracted_text(filing_text.strip())
     text = extract_narrative_text(filing_text.strip())
     if not source_text:
         return "No filing text available."
     if not openarena_bearer_token or not openarena_workflow_id:
-        return fallback_synopsis(source_text, is_crypto)
+        if require_openarena:
+            raise RuntimeError("OpenArena credentials are required for synopsis extraction.")
+        return fallback_synopsis(source_text, is_crypto, filer_name_hint=filer_name)
 
     try:
-        fields = extract_structured_fields(source_text, is_crypto)
+        fields = extract_structured_fields(source_text, is_crypto, filer_name_hint=filer_name)
         chunks = build_chunks(text, chunk_size=5000, overlap=500, max_chunks=2)
         chunk_summaries: list[str] = []
         for idx, chunk in enumerate(chunks, start=1):
@@ -953,21 +1098,18 @@ def generate_synopsis(
                 chunk_summaries.append(chunk_summary)
 
         final_prompt = (
-            "Strict extraction task. Ignore generic placeholders and return concrete filing facts only.\n"
+            "Strict extraction task. Ignore generic placeholders, headings, and table-of-contents text.\n"
             "Return exactly these lines:\n"
-            "Fund Name: <value>\n"
-            "Ticker: <value or Unknown>\n"
-            "Expense Ratio: <value or Unknown>\n"
+            "Filer: <value or Unknown>\n"
+            "ETF Name: <value or Unknown>\n"
             "Strategy: <exactly 2 sentences>\n"
-            + ("Custodian: <value or Unknown>\n" if is_crypto else "")
             + "Do not include SEC.gov navigation text.\n"
-            + "Do NOT use generic names like 'The Fund' unless no specific name exists.\n\n"
+            + "Do NOT use generic names like 'The Fund' unless no specific name exists.\n"
+            + "Do not include any extra lines.\n\n"
             f"Extracted hints:\n"
-            f"- Fund Name hint: {fields['fund_name']}\n"
-            f"- Ticker hint: {fields['ticker']}\n"
-            f"- Expense Ratio hint: {fields['expense_ratio']}\n"
+            f"- Filer hint: {fields['filer_name']}\n"
+            f"- ETF Name hint: {fields['etf_name']}\n"
             f"- Strategy hint: {fields['strategy']}\n"
-            + (f"- Custodian hint: {fields['custodian']}\n" if is_crypto else "")
             + "\nChunk summaries:\n"
             + "\n".join(f"- {item}" for item in chunk_summaries)
         )
@@ -986,26 +1128,27 @@ def generate_synopsis(
                 final_prompt + "\n\nRetry with cleaner output.",
                 openarena_timeout_seconds,
             )
-        if not summary:
-            return fallback_synopsis(source_text, is_crypto)
+        if not summary or is_low_quality_summary(summary):
+            if require_openarena:
+                raise RuntimeError("OpenArena returned low-quality synopsis output.")
+            return fallback_synopsis(source_text, is_crypto, filer_name_hint=filer_name)
         return normalize_summary(summary, is_crypto, hints=fields)
     except Exception:
-        return fallback_synopsis(source_text, is_crypto)
+        if require_openarena:
+            raise
+        return fallback_synopsis(source_text, is_crypto, filer_name_hint=filer_name)
 
 
-def fallback_synopsis(text: str, is_crypto: bool) -> str:
+def fallback_synopsis(text: str, is_crypto: bool, filer_name_hint: str = "Unknown") -> str:
     cleaned = extract_narrative_text(text)
-    fields = extract_structured_fields(cleaned, is_crypto)
+    fields = extract_structured_fields(cleaned, is_crypto, filer_name_hint=filer_name_hint)
     sentences = re.split(r"(?<=[.!?])\s+", cleaned)
     preview = fields.get("strategy", "").strip() or " ".join(sentences[:2]).strip() or cleaned[:450]
     lines = [
-        f"Fund Name: {fields['fund_name']}",
-        f"Ticker: {fields['ticker']}",
-        f"Expense Ratio: {fields['expense_ratio']}",
+        f"Filer: {fields['filer_name']}",
+        f"ETF Name: {fields['etf_name']}",
         f"Strategy: {preview}",
     ]
-    if is_crypto:
-        lines.append(f"Custodian: {fields['custodian']}")
     return normalize_summary("\n".join(lines), is_crypto, hints=fields)
 
 
@@ -1130,14 +1273,20 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
             if not should_alert:
                 continue
 
-            synopsis = generate_synopsis(
-                filing_text=filing_text,
-                openarena_base_url=openarena_base_url,
-                openarena_bearer_token=openarena_bearer_token,
-                openarena_workflow_id=openarena_workflow_id,
-                openarena_timeout_seconds=openarena_timeout_seconds,
-                is_crypto=is_crypto,
-            )
+            try:
+                synopsis = generate_synopsis(
+                    filing_text=filing_text,
+                    openarena_base_url=openarena_base_url,
+                    openarena_bearer_token=openarena_bearer_token,
+                    openarena_workflow_id=openarena_workflow_id,
+                    openarena_timeout_seconds=openarena_timeout_seconds,
+                    is_crypto=is_crypto,
+                    filer_name=company_name,
+                    require_openarena=True,
+                )
+            except Exception as exc:
+                last_error = f"Failed OpenArena synopsis extraction for {accession_number}: {exc}"
+                continue
             subject = f"[ETF ALERT] {form_type} Filed by {company_name}"
             body = f"{synopsis}\n\nSEC Link: {index_url}"
             if suppress_email:
