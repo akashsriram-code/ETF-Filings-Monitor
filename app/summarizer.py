@@ -7,7 +7,7 @@ from app.config import Settings
 
 SYSTEM_INSTRUCTION = (
     "You are assisting a financial reporter. Output concise, factual filing summaries. "
-    "Never include SEC website navigation or .gov boilerplate text."
+    "Never include SEC website navigation or .gov boilerplate text. I want three main factors from ETF Filings - Fund name, Filer and Strategy or Theme of the ETF."
 )
 
 BOILERPLATE_PATTERNS = [
