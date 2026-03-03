@@ -5,7 +5,7 @@ This repo now supports two operating modes:
 - Backend mode (FastAPI + stream listener): `app/` for persistent TCP PDS ingestion.
 - GitHub Pages mode (static + scheduled poller): `scripts/poll_filings.py` + `data/*.json` updated by GitHub Actions every 10 minutes.
 
-## GitHub Pages Mode (What You Asked For)
+## GitHub Pages Mode
 
 GitHub Pages cannot run a persistent listener.  
 This mode uses a scheduled GitHub Action (`*/10 * * * *`) to poll SEC current filings feed, apply ETF logic, send emails, and publish results to static JSON.
@@ -102,7 +102,7 @@ python scripts/list_openarena_workflows.py --title-contains etf --title-contains
 
 The script prints a suggested `OPENARENA_WORKFLOW_ID` from top keyword match.
 
-## GitHub Actions Setup (Required for Pages Mode)
+## GitHub Actions Setup
 
 Workflow file:
 - `.github/workflows/poll-filings.yml`
@@ -138,11 +138,6 @@ Status output in `data/status.json` includes:
 - `feed_entries`
 - `backfill_entries`
 - `backfill_days`
-
-## Hosting Notes
-
-- GitHub Pages mode works for scheduled polling only.
-- If you need true real-time TCP PDS listening, use an always-on backend host (Render/Railway/Fly/VM).
 
 ### Render Deployment
 
