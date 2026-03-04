@@ -1,5 +1,30 @@
 [
   {
+    "created_at": "2026-03-04T18:09:52.283665+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-005021",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126005021/0001999371-26-005021-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126005021/sil-485apos_030426.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126005021/sil-485apos_030426.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Filer: Tidal Trust II\nETF Name: Portfolio Building Block 1X Inverse Developed Markets Ex US Daily Target ETF\nStrategy: Named in the filing as a new series being added via amendment; based solely on the fund name, this appears to seek daily inverse (-1x) exposure to Developed Markets excluding the United States No explicit investment objective language was present in the provided filing text beyond the fund name and amendment reference",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Portfolio Building Block 1X Inverse Developed Markets Ex US Daily Target ETF",
+        "strategy": "Named in the filing as a new series being added via amendment; based solely on the fund name, this appears to seek daily inverse (-1x) exposure to Developed Markets excluding the United States No explicit investment objective language was present in the provided filing text beyond the fund name and amendment reference",
+        "is_alert_worthy": "UNKNOWN"
+      }
+    ],
+    "wire_recommendation": "UNKNOWN",
+    "why_this_matters": [],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-04T12:36:55.962684+00:00",
     "form_type": "485APOS",
     "cik": "1771146",
@@ -85,7 +110,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Filer: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund seeks to track the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S It is managed by BlackRock Fund Advisors using a passive representative-sampling approach, holding a subset of index securities rather than full replication",
+    "synopsis": "Filer: BlackRock Fund Advisors (BFA)\nETF Name: Term Muni Bond ETF\nStrategy: Seeks to track the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S The fund employs representative sampling rather than full replication to mirror the index's investment profile",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
