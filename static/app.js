@@ -17,6 +17,7 @@ const stopBtn = document.getElementById("stopBtn");
 let mode = "api";
 let cachedStatus = null;
 let allAlerts = [];
+const ALERT_ORDER = { UNKNOWN: 0, LOW: 1, MEDIUM: 2, HIGH: 3 };
 
 function escapeHtml(value) {
   return String(value || "")
@@ -43,6 +44,94 @@ function synopsisPreview(text) {
   if (!raw) return "No synopsis generated for this filing yet.";
   const flat = raw.replace(/\s+/g, " ");
   return flat.length > 340 ? `${flat.slice(0, 340)}...` : flat;
+}
+
+function normalizeAlertLevel(value) {
+  const upper = String(value || "").toUpperCase();
+  if (upper.includes("CRITICAL")) return "HIGH";
+  for (const level of ["HIGH", "MEDIUM", "LOW"]) {
+    if (upper.includes(level)) return level;
+  }
+  return "UNKNOWN";
+}
+
+function parseSynopsisSections(text) {
+  const raw = String(text || "");
+  if (!raw.trim()) {
+    return { items: [], whyThisMatters: [], wireRecommendation: "UNKNOWN" };
+  }
+
+  const splitRegex = /^\s*Synopsis\s+\d+\s*$/gim;
+  const matches = [...raw.matchAll(splitRegex)];
+  const blocks = [];
+
+  if (!matches.length) {
+    blocks.push(raw);
+  } else {
+    for (let i = 0; i < matches.length; i += 1) {
+      const start = matches[i].index + matches[i][0].length;
+      const end = i + 1 < matches.length ? matches[i + 1].index : raw.length;
+      blocks.push(raw.slice(start, end));
+    }
+  }
+
+  const labels = ["Filer", "ETF Name", "Strategy", "IS ALERT WORTHY", "Why this matters", "Synopsis"];
+  const items = blocks
+    .map((block) => {
+      const extract = (label) => {
+        const next = labels.join("|");
+        const regex = new RegExp(`^\\s*${label}\\s*:\\s*([\\s\\S]*?)(?=^\\s*(?:${next})\\s*:?\\s*|$)`, "im");
+        const match = block.match(regex);
+        return match ? match[1].replace(/\s+/g, " ").trim() : "";
+      };
+      const filer = extract("Filer") || "Unknown";
+      const etfName = extract("ETF Name") || "Unknown";
+      const strategy = extract("Strategy") || "Not available.";
+      const isAlertWorthy = normalizeAlertLevel(extract("IS ALERT WORTHY"));
+      if ((filer === "Unknown") && (etfName === "Unknown") && (strategy === "Not available.")) {
+        return null;
+      }
+      return { filer, etf_name: etfName, strategy, is_alert_worthy: isAlertWorthy };
+    })
+    .filter(Boolean);
+
+  let whyThisMatters = [];
+  const headingMatch = raw.match(/^\s*Why this matters\s*:?\s*$/im);
+  const bulletZone = headingMatch ? raw.slice(headingMatch.index + headingMatch[0].length) : raw;
+  whyThisMatters = bulletZone
+    .split("\n")
+    .map((line) => line.match(/^\s*[-*•]\s+(.+)$/))
+    .filter(Boolean)
+    .map((m) => m[1].replace(/\s+/g, " ").trim())
+    .filter(Boolean)
+    .slice(0, 3);
+
+  let wireRecommendation = "UNKNOWN";
+  for (const item of items) {
+    const level = normalizeAlertLevel(item.is_alert_worthy);
+    if ((ALERT_ORDER[level] || 0) > (ALERT_ORDER[wireRecommendation] || 0)) {
+      wireRecommendation = level;
+    }
+  }
+
+  return { items, whyThisMatters, wireRecommendation };
+}
+
+function getStructuredSynopsis(alert) {
+  const items = Array.isArray(alert.synopsis_items) ? alert.synopsis_items : [];
+  const whyThisMatters = Array.isArray(alert.why_this_matters) ? alert.why_this_matters : [];
+  const wireRecommendation = normalizeAlertLevel(alert.wire_recommendation);
+
+  if (items.length || whyThisMatters.length || wireRecommendation !== "UNKNOWN") {
+    let best = wireRecommendation;
+    for (const item of items) {
+      const level = normalizeAlertLevel(item.is_alert_worthy);
+      if ((ALERT_ORDER[level] || 0) > (ALERT_ORDER[best] || 0)) best = level;
+    }
+    return { items, whyThisMatters, wireRecommendation: best };
+  }
+
+  return parseSynopsisSections(alert.synopsis);
 }
 
 function normalizeCik(cik) {
@@ -203,7 +292,10 @@ async function fetchAlerts() {
 function updateMetrics(alerts) {
   const total = alerts.length;
   const crypto = alerts.filter((alert) => Boolean(alert.is_crypto)).length;
-  const regular = alerts.filter((alert) => ["485APOS", "485BPOS"].includes((alert.form_type || "").toUpperCase())).length;
+  const regular = alerts.filter((alert) => {
+    const structured = getStructuredSynopsis(alert);
+    return ["MEDIUM", "HIGH", "CRITICAL"].includes(structured.wireRecommendation);
+  }).length;
   const sent = alerts.filter((alert) => Boolean(alert.email_sent)).length;
 
   if (metricTotalEl) metricTotalEl.textContent = fmtNumber(total);
@@ -286,11 +378,39 @@ function renderAlerts(alerts) {
       const keywords = Array.isArray(alert.matched_keywords) && alert.matched_keywords.length
         ? escapeHtml(alert.matched_keywords.join(", "))
         : "none";
+      const structured = getStructuredSynopsis(alert);
       const synopsis = escapeHtml(synopsisPreview(alert.synopsis));
       const links = resolveLinks(alert);
       const secLink = escapeHtml(links.secLink);
       const primaryLink = links.primaryLink ? escapeHtml(links.primaryLink) : "";
       const hasError = Boolean(alert.error);
+      const wireBadge = structured.wireRecommendation !== "UNKNOWN"
+        ? `<span class="tag wire ${structured.wireRecommendation.toLowerCase()}">WIRE ${escapeHtml(structured.wireRecommendation)}</span>`
+        : "";
+
+      const structuredHtml = structured.items.length
+        ? `
+          <div class="synopsis-structured">
+            ${structured.items.map((item, index) => `
+              <section class="synopsis-item">
+                <p class="synopsis-item-title">Synopsis ${index + 1}</p>
+                <p><strong>Filer:</strong> ${escapeHtml(item.filer || "Unknown")}</p>
+                <p><strong>ETF Name:</strong> ${escapeHtml(item.etf_name || "Unknown")}</p>
+                <p><strong>Strategy:</strong> ${escapeHtml(item.strategy || "Not available.")}</p>
+                <p><strong>Is Alert Worthy:</strong> ${escapeHtml(normalizeAlertLevel(item.is_alert_worthy))}</p>
+              </section>
+            `).join("")}
+            ${structured.whyThisMatters.length ? `
+              <section class="why-matters">
+                <p class="synopsis-item-title">Why This Matters</p>
+                <ul>
+                  ${structured.whyThisMatters.map((bullet) => `<li>${escapeHtml(bullet)}</li>`).join("")}
+                </ul>
+              </section>
+            ` : ""}
+          </div>
+        `
+        : `<p class="synopsis">${synopsis}</p>`;
 
       return `
       <article class="filing-card">
@@ -302,11 +422,12 @@ function renderAlerts(alerts) {
           <div class="tag-row">
             <span class="tag form">${form}</span>
             ${alert.is_crypto ? '<span class="tag crypto">CRYPTO</span>' : ""}
+            ${wireBadge}
             <span class="tag ${alert.email_sent ? "sent" : "error"}">${alert.email_sent ? "EMAIL SENT" : "EMAIL ISSUE"}</span>
           </div>
         </div>
         <p class="filing-meta">Matched Keywords: ${keywords}</p>
-        <p class="synopsis">${synopsis}</p>
+        ${structuredHtml}
         <div class="link-row">
           <a class="link-btn" href="${secLink}" target="_blank" rel="noreferrer">Open SEC Filing</a>
           ${primaryLink ? `<a class="link-btn secondary" href="${primaryLink}" target="_blank" rel="noreferrer">Open Primary Doc</a>` : ""}

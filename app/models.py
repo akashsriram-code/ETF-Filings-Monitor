@@ -15,6 +15,13 @@ class ParsedFiling(BaseModel):
     created_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
 
 
+class SynopsisItem(BaseModel):
+    filer: str = "Unknown"
+    etf_name: str = "Unknown"
+    strategy: str = "Not available."
+    is_alert_worthy: str = "UNKNOWN"
+
+
 class AlertRecord(BaseModel):
     id: str = Field(default_factory=lambda: str(uuid4()))
     created_at: datetime = Field(default_factory=lambda: datetime.now(timezone.utc))
@@ -28,6 +35,9 @@ class AlertRecord(BaseModel):
     matched_keywords: list[str] = Field(default_factory=list)
     is_crypto: bool = False
     synopsis: str = ""
+    synopsis_items: list[SynopsisItem] = Field(default_factory=list)
+    wire_recommendation: str = "UNKNOWN"
+    why_this_matters: list[str] = Field(default_factory=list)
     pdf_path: str | None = None
     email_sent: bool = False
     error: str | None = None

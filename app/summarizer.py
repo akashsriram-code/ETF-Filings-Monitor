@@ -4,6 +4,7 @@ import re
 import httpx
 
 from app.config import Settings
+from app.synopsis_output import format_synopsis_output, parse_synopsis_output
 
 SYSTEM_INSTRUCTION = (
     "You are assisting a financial reporter. Output concise, factual filing summaries. "
@@ -477,28 +478,35 @@ def _normalize_strategy_text(value: str) -> str:
 
 
 def _normalize_summary(summary: str, is_crypto: bool, hints: dict[str, str] | None = None) -> str:
+    structured = parse_synopsis_output(summary)
+    if structured["items"]:
+        return format_synopsis_output(structured["items"], structured["why_this_matters"])
+
     lines = [line.strip() for line in summary.splitlines() if line.strip()]
-    parsed: dict[str, str] = {}
+    parsed_fields: dict[str, str] = {}
     for line in lines:
         if ":" not in line:
             continue
         key, value = line.split(":", 1)
-        parsed[key.strip().lower()] = value.strip()
+        parsed_fields[key.strip().lower()] = value.strip()
 
     hints = hints or {}
-    raw_filer_name = parsed.get("filer", parsed.get("filer name", parsed.get("company name", "Unknown")))
+    raw_filer_name = parsed_fields.get(
+        "filer",
+        parsed_fields.get("filer name", parsed_fields.get("company name", "Unknown")),
+    )
     filer_name = _sanitize_name(raw_filer_name, allow_generic=True)
     hint_filer_name = _sanitize_name(hints.get("filer_name", "Unknown"), allow_generic=True)
     if hint_filer_name != "Unknown" and filer_name == "Unknown":
         filer_name = hint_filer_name
 
-    raw_etf_name = parsed.get("etf name", parsed.get("fund name", "Unknown"))
+    raw_etf_name = parsed_fields.get("etf name", parsed_fields.get("fund name", "Unknown"))
     etf_name = _sanitize_name(raw_etf_name)
     hint_etf_name = _sanitize_name(hints.get("etf_name", hints.get("fund_name", "Unknown")))
     if hint_etf_name != "Unknown" and (etf_name == "Unknown" or _is_generic_fund_name(raw_etf_name)):
         etf_name = hint_etf_name
 
-    strategy = _normalize_strategy_text(parsed.get("strategy", ""))
+    strategy = _normalize_strategy_text(parsed_fields.get("strategy", ""))
     if (
         strategy == "Not available."
         or strategy.lower().startswith("by using")
@@ -507,12 +515,19 @@ def _normalize_summary(summary: str, is_crypto: bool, hints: dict[str, str] | No
     ) and hints.get("strategy"):
         strategy = _normalize_strategy_text(hints["strategy"])
 
-    output = [
-        f"Filer: {filer_name}",
-        f"ETF Name: {etf_name}",
-        f"Strategy: {strategy}",
+    fallback_items = [
+        {
+            "filer": filer_name,
+            "etf_name": etf_name,
+            "strategy": strategy,
+            "is_alert_worthy": "MEDIUM" if is_crypto else "LOW",
+        }
     ]
-    return "\n".join(output)
+    fallback_bullets = [
+        "This filing has been captured for reporter triage and email alerting.",
+        "Review structural changes, strategy shifts, and issuer relevance before wire publication.",
+    ]
+    return format_synopsis_output(fallback_items, fallback_bullets)
 
 
 def _extract_structured_fields(text: str, is_crypto: bool, filer_name_hint: str = "Unknown") -> dict[str, str]:
@@ -554,11 +569,17 @@ def _is_low_quality_summary(summary: str) -> bool:
     ]
     if any(signal in lower for signal in bad_signals):
         return True
-    required = ["filer:", "etf name:", "strategy:"]
-    if all(label in lower for label in required):
-        has_unknown_names = "filer: unknown" in lower and "etf name: unknown" in lower
-        has_no_strategy = "strategy: not available." in lower
-        if has_unknown_names and has_no_strategy:
+    parsed = parse_synopsis_output(summary)
+    if parsed["items"]:
+        unknown_count = 0
+        for item in parsed["items"]:
+            if (
+                item.get("filer", "").strip().lower() == "unknown"
+                and item.get("etf_name", "").strip().lower() == "unknown"
+                and item.get("strategy", "").strip().lower() in {"", "not available."}
+            ):
+                unknown_count += 1
+        if unknown_count == len(parsed["items"]):
             return True
         return False
     if len(summary.strip()) < 80:
@@ -576,12 +597,19 @@ def _fallback_summary(text: str, is_crypto: bool, filer_name_hint: str = "Unknow
     if not preview:
         preview = "No filing text was available for summary."
 
-    lines = [
-        f"Filer: {fields['filer_name']}",
-        f"ETF Name: {fields['etf_name']}",
-        f"Strategy: {preview}",
+    fallback_items = [
+        {
+            "filer": fields["filer_name"],
+            "etf_name": fields["etf_name"],
+            "strategy": preview,
+            "is_alert_worthy": "MEDIUM" if is_crypto else "LOW",
+        }
     ]
-    return _normalize_summary("\n".join(lines), is_crypto, hints=fields)
+    fallback_bullets = [
+        "The filing has been routed for mandatory email alerting to the ETF desk.",
+        "Wire escalation depends on whether the strategy or structure change is materially newsworthy.",
+    ]
+    return format_synopsis_output(fallback_items, fallback_bullets)
 
 
 def _extract_openarena_answer(payload: dict) -> str:

@@ -15,6 +15,8 @@ from xml.etree import ElementTree as ET
 import httpx
 from bs4 import BeautifulSoup
 
+from app.synopsis_output import format_email_body, parse_synopsis_output
+
 SYSTEM_INSTRUCTION = (
     "You are assisting a financial reporter. Output concise, factual filing summaries. "
     "Never include SEC website navigation or .gov boilerplate text. "
@@ -1287,8 +1289,15 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
             except Exception as exc:
                 last_error = f"Failed OpenArena synopsis extraction for {accession_number}: {exc}"
                 continue
-            subject = f"[ETF ALERT] {form_type} Filed by {company_name}"
-            body = f"{synopsis}\n\nSEC Link: {index_url}"
+            parsed_synopsis = parse_synopsis_output(synopsis)
+            wire_recommendation = parsed_synopsis["wire_recommendation"]
+            wire_tag = (
+                f"[WIRE {wire_recommendation}] "
+                if wire_recommendation in {"LOW", "MEDIUM", "HIGH"}
+                else ""
+            )
+            subject = f"[ETF ALERT] {wire_tag}{form_type} Filed by {company_name}"
+            body = format_email_body(synopsis, index_url)
             if suppress_email:
                 email_sent, email_error = False, "Email suppressed during backfill run."
             else:
@@ -1317,6 +1326,9 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
                 "matched_keywords": matched_keywords,
                 "is_crypto": is_crypto,
                 "synopsis": synopsis,
+                "synopsis_items": parsed_synopsis["items"],
+                "wire_recommendation": wire_recommendation,
+                "why_this_matters": parsed_synopsis["why_this_matters"],
                 "email_sent": email_sent,
                 "error": email_error,
             }

@@ -283,6 +283,26 @@ input[type="search"] {
   color: var(--ok);
 }
 
+.tag.wire {
+  background: #e8edf8;
+  color: #2a3f7d;
+}
+
+.tag.wire.low {
+  background: #edf2f8;
+  color: #445c73;
+}
+
+.tag.wire.medium {
+  background: #fff2dc;
+  color: #9a6100;
+}
+
+.tag.wire.high {
+  background: #ffe6cf;
+  color: #b64a00;
+}
+
 .tag.error {
   background: var(--warn-bg);
   color: var(--warn);
@@ -300,6 +320,40 @@ input[type="search"] {
   line-height: 1.5;
   color: #1b2a3d;
   font-size: 0.95rem;
+}
+
+.synopsis-structured {
+  margin-top: 10px;
+  display: grid;
+  gap: 10px;
+}
+
+.synopsis-item,
+.why-matters {
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 10px;
+  background: rgba(245, 250, 255, 0.65);
+}
+
+.synopsis-item-title {
+  margin: 0 0 8px;
+  font-family: "JetBrains Mono", monospace;
+  font-size: 12px;
+  color: var(--ink-soft);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+
+.synopsis-item p,
+.why-matters ul {
+  margin: 6px 0 0;
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+.why-matters ul {
+  padding-left: 18px;
 }
 
 .link-row {

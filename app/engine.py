@@ -9,6 +9,7 @@ from app.filters import evaluate_filing_gate
 from app.models import AlertRecord, ParsedFiling, StreamStatus
 from app.parser import process_pds_stream
 from app.sec_client import build_sec_index_url, collect_sec_artifacts
+from app.synopsis_output import format_email_body, parse_synopsis_output
 from app.summarizer import generate_synopsis
 
 
@@ -159,8 +160,15 @@ class FilingEngine:
             self.settings,
             filer_name=filing.company_name,
         )
-        subject = f"[ETF ALERT] {filing.form_type} Filed by {filing.company_name}"
-        body = f"{synopsis}\n\nSEC Link: {sec_index_url}"
+        parsed_synopsis = parse_synopsis_output(synopsis)
+        wire_recommendation = parsed_synopsis["wire_recommendation"]
+        wire_tag = (
+            f"[WIRE {wire_recommendation}] "
+            if wire_recommendation in {"LOW", "MEDIUM", "HIGH"}
+            else ""
+        )
+        subject = f"[ETF ALERT] {wire_tag}{filing.form_type} Filed by {filing.company_name}"
+        body = format_email_body(synopsis, sec_index_url)
 
         email_sent, email_error = await send_email_alert(
             settings=self.settings,
@@ -182,6 +190,9 @@ class FilingEngine:
             matched_keywords=matched_keywords,
             is_crypto=is_crypto,
             synopsis=synopsis,
+            synopsis_items=parsed_synopsis["items"],
+            wire_recommendation=wire_recommendation,
+            why_this_matters=parsed_synopsis["why_this_matters"],
             pdf_path=pdf_path,
             email_sent=email_sent,
             error=error_text,
