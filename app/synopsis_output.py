@@ -27,7 +27,7 @@ def normalize_alert_level(value: str) -> str:
 
 
 def _extract_field(block: str, label: str) -> str:
-    other_labels = r"(?:Filer|ETF Name|Strategy|IS ALERT WORTHY|Why this matters|Synopsis\s+\d+)"
+    other_labels = r"(?:Filer|ETF Name|ETF\s+\d+|Strategy|IS ALERT WORTHY|Why this matters|Synopsis\s+\d+)"
     pattern = rf"(?ims)^\s*{label}\s*:\s*(.+?)(?=^\s*{other_labels}\s*:?\s*|\Z)"
     match = re.search(pattern, block)
     if not match:
@@ -46,6 +46,34 @@ def _split_synopsis_blocks(text: str) -> list[str]:
         end = matches[idx + 1].start() if idx + 1 < len(matches) else len(text)
         blocks.append(text[start:end].strip())
     return blocks
+
+
+def _parse_numbered_etf_sections(text: str) -> list[dict[str, str]]:
+    matches = list(re.finditer(r"(?im)^\s*ETF\s+\d+\s*:\s*(.+?)\s*$", text))
+    if not matches:
+        return []
+
+    filer = _extract_field(text, "Filer") or "Unknown"
+    items: list[dict[str, str]] = []
+    for idx, match in enumerate(matches):
+        etf_name = _clean_line(match.group(1))
+        section_start = match.end()
+        section_end = matches[idx + 1].start() if idx + 1 < len(matches) else len(text)
+        section = text[section_start:section_end]
+
+        strategy = _extract_field(section, "Strategy") or "Not available."
+        alert_level = normalize_alert_level(_extract_field(section, "IS ALERT WORTHY"))
+        if not etf_name:
+            continue
+        items.append(
+            {
+                "filer": filer,
+                "etf_name": etf_name,
+                "strategy": strategy,
+                "is_alert_worthy": alert_level,
+            }
+        )
+    return items
 
 
 def _extract_why_this_matters(text: str, max_bullets: int = 3) -> list[str]:
@@ -78,7 +106,14 @@ def parse_synopsis_output(text: str) -> dict[str, Any]:
     if not raw:
         return {"items": [], "why_this_matters": [], "wire_recommendation": "UNKNOWN"}
 
-    items: list[dict[str, str]] = []
+    items: list[dict[str, str]] = _parse_numbered_etf_sections(raw)
+    if items:
+        return {
+            "items": items,
+            "why_this_matters": _extract_why_this_matters(raw),
+            "wire_recommendation": _best_wire_level(items),
+        }
+
     for block in _split_synopsis_blocks(raw):
         filer = _extract_field(block, "Filer")
         etf_name = _extract_field(block, "ETF Name")
