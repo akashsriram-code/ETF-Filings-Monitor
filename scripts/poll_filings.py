@@ -5,6 +5,7 @@ import json
 import os
 import re
 import smtplib
+import sys
 from datetime import date, datetime, timedelta, timezone
 from email.message import EmailMessage
 from pathlib import Path
@@ -14,6 +15,11 @@ from xml.etree import ElementTree as ET
 
 import httpx
 from bs4 import BeautifulSoup
+
+# Ensure local `app` package imports work regardless of current working directory.
+ROOT_DIR = Path(__file__).resolve().parent.parent
+if str(ROOT_DIR) not in sys.path:
+    sys.path.insert(0, str(ROOT_DIR))
 
 from app.synopsis_output import format_email_body, parse_synopsis_output
 
@@ -93,7 +99,6 @@ STRATEGY_NOISE_FRAGMENTS = [
 ]
 FEED_URL = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&count=100&output=atom"
 
-ROOT_DIR = Path(__file__).resolve().parent.parent
 DATA_DIR = ROOT_DIR / "data"
 STATE_PATH = DATA_DIR / "state.json"
 ALERTS_PATH = DATA_DIR / "alerts.json"
