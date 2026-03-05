@@ -28,7 +28,7 @@ SYSTEM_INSTRUCTION = (
     "Never include SEC website navigation or .gov boilerplate text. "
     "Return only three fields from ETF filings: Filer, ETF Name, and Strategy."
 )
-TARGET_FORMS = {"485APOS", "485BPOS", "S-1"}
+TARGET_FORMS = {"485APOS", "485BPOS", "486BPOS", "S-1"}
 CRYPTO_KEYWORDS = ["Bitcoin", "Ethereum", "Digital Asset", "Spot", "Coinbase Custody"]
 NARRATIVE_MARKERS = [
     "summary prospectus",
@@ -627,7 +627,7 @@ def extract_narrative_text(text: str, max_chars: int = 25_000) -> str:
 
 
 def crypto_gate(form_type: str, filing_text: str) -> tuple[bool, list[str], bool]:
-    if form_type in {"485APOS", "485BPOS"}:
+    if form_type in {"485APOS", "485BPOS", "486BPOS"}:
         return True, [], False
     if form_type != "S-1":
         return False, [], False

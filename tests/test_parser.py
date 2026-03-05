@@ -51,3 +51,14 @@ def test_s1_crypto_keyword_gate() -> None:
     assert is_crypto is True
     assert "Bitcoin" in matched_keywords
     assert "Spot" in matched_keywords
+
+
+def test_486bpos_gate_always_alerts_as_non_crypto() -> None:
+    should_alert, matched_keywords, is_crypto = evaluate_filing_gate(
+        "486BPOS",
+        "Any filing text should pass for ETF amendment forms.",
+        ["Bitcoin", "Ethereum", "Digital Asset", "Spot", "Coinbase Custody"],
+    )
+    assert should_alert is True
+    assert matched_keywords == []
+    assert is_crypto is False

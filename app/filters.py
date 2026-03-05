@@ -1,4 +1,4 @@
-TARGET_FORMS = {"485APOS", "485BPOS", "S-1"}
+TARGET_FORMS = {"485APOS", "485BPOS", "486BPOS", "S-1"}
 
 
 def normalize_form_type(form_type: str) -> str:
@@ -14,7 +14,7 @@ def evaluate_filing_gate(
     if normalized_form not in TARGET_FORMS:
         return False, [], False
 
-    if normalized_form in {"485APOS", "485BPOS"}:
+    if normalized_form in {"485APOS", "485BPOS", "486BPOS"}:
         return True, [], False
 
     searchable_text = raw_text[:10_000].lower()

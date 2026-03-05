@@ -37,6 +37,13 @@ def test_crypto_gate_for_s1_requires_keyword() -> None:
     assert "Bitcoin" in keywords
 
 
+def test_crypto_gate_for_486bpos_is_non_crypto_pass() -> None:
+    should_alert, keywords, is_crypto = crypto_gate("486BPOS", "Generic ETF filing narrative.")
+    assert should_alert is True
+    assert keywords == []
+    assert is_crypto is False
+
+
 def test_extract_accession_from_filename() -> None:
     filename = "edgar/data/1234567/0001234567-26-000222.txt"
     accession = extract_accession_from_filename(filename)

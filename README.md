@@ -12,7 +12,7 @@ This mode uses a scheduled GitHub Action (`*/10 * * * *`) to poll SEC current fi
 
 ### Logic in Pages Mode
 
-- Target forms: `485APOS`, `485BPOS`, `S-1`
+- Target forms: `485APOS`, `485BPOS`, `486BPOS`, `S-1`
 - `S-1` filter scans first 10,000 chars for:
   - `Bitcoin`
   - `Ethereum`
