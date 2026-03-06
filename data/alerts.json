@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-06T14:57:53.127675+00:00",
+    "form_type": "485APOS",
+    "cik": "0000906352",
+    "company_name": "FIRST EAGLE FUNDS",
+    "accession_number": "0000930413-26-000692",
+    "filed_date": "2026-03-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/906352/000093041326000692/0000930413-26-000692-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/906352/000093041326000692/c115732_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/906352/000093041326000692/c115732_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: First Eagle Funds\nETF Name: First Eagle Overseas Fund\nStrategy: The fund seeks long-term growth of capital by investing primarily in equities issued by non-U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "First Eagle Funds",
+        "etf_name": "First Eagle Overseas Fund",
+        "strategy": "The fund seeks long-term growth of capital by investing primarily in equities issued by non-U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-06T14:58:48.129491+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000880195",
+    "company_name": "FIDELITY ABERDEEN STREET TRUST",
+    "accession_number": "0001133228-26-003150",
+    "filed_date": "2026-03-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/880195/000113322826003150/0001133228-26-003150-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/880195/000113322826003150/fast-efp23073_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/880195/000113322826003150/fast-efp23073_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Fidelity Aberdeen Street Trust\nETF Name: Fidelity Freedom Blend Retirement Fund\nStrategy: A target-date retirement fund-of-funds that invests in a blend of actively and passively managed underlying Fidelity funds spanning U.S The fund seeks high total return until its target retirement date, then shifts emphasis to high current income and capital appreciation, with the adviser permitted to tactically tilt asset-class exposures up to \u00b110% from the neutral allocation\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Fidelity Aberdeen Street Trust",
+        "etf_name": "Fidelity Freedom Blend Retirement Fund",
+        "strategy": "A target-date retirement fund-of-funds that invests in a blend of actively and passively managed underlying Fidelity funds spanning U.S The fund seeks high total return until its target retirement date, then shifts emphasis to high current income and capital appreciation, with the adviser permitted to tactically tilt asset-class exposures up to \u00b110% from the neutral allocation",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-06T14:07:34.571415+00:00",
     "form_type": "485APOS",
     "cik": "0001795351",
@@ -593,7 +651,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Seeks to passively track the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
