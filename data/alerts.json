@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-06T19:38:40.454926+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001350487",
+    "company_name": "WisdomTree Trust",
+    "accession_number": "0001214659-26-002914",
+    "filed_date": "2026-03-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1350487/000121465926002914/0001214659-26-002914-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1350487/000121465926002914/pea98334262485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1350487/000121465926002914/pea98334262485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: WisdomTree Trust\nETF Name: WisdomTree U.S. Adaptive Moving Average Fund\nStrategy: The Fund employs a passive indexing approach using representative sampling to track a WisdomTree-designed adaptive moving average index, investing at least 80% of net assets in index constituents or economically similar U.S The strategy features flexibility to concentrate in specific industries to the extent the underlying index does, with high portfolio turnover expected due to the adaptive methodology\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "WisdomTree Trust",
+        "etf_name": "WisdomTree U.S. Adaptive Moving Average Fund",
+        "strategy": "The Fund employs a passive indexing approach using representative sampling to track a WisdomTree-designed adaptive moving average index, investing at least 80% of net assets in index constituents or economically similar U.S The strategy features flexibility to concentrate in specific industries to the extent the underlying index does, with high portfolio turnover expected due to the adaptive methodology",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-06T19:39:36.670874+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001919700",
+    "company_name": "Touchstone ETF Trust",
+    "accession_number": "0001193125-26-096122",
+    "filed_date": "2026-03-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1919700/000119312526096122/0001193125-26-096122-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1919700/000119312526096122/d105139d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1919700/000119312526096122/d105139d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Touchstone ETF Trust\nETF Name: Touchstone Large Company Growth ETF\nStrategy: large-cap growth equity fund benchmarked to the Russell 3000 Index, with the Russell 1000 Growth Index as a secondary comparison, running a concentrated, high-conviction portfolio of roughly 27 holdings The fund is a mutual-fund-to-ETF conversion of a predecessor fund and may concentrate in specific sectors or invest in other ETFs to implement its growth-oriented strategy\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Touchstone ETF Trust",
+        "etf_name": "Touchstone Large Company Growth ETF",
+        "strategy": "large-cap growth equity fund benchmarked to the Russell 3000 Index, with the Russell 1000 Growth Index as a secondary comparison, running a concentrated, high-conviction portfolio of roughly 27 holdings The fund is a mutual-fund-to-ETF conversion of a predecessor fund and may concentrate in specific sectors or invest in other ETFs to implement its growth-oriented strategy",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-06T17:54:02.562646+00:00",
     "form_type": "485BPOS",
     "cik": "0001350487",
@@ -680,7 +738,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, AMT-free U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
