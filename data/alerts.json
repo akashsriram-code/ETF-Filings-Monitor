@@ -1,5 +1,83 @@
 [
   {
+    "created_at": "2026-03-06T10:52:28.647430+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000822632",
+    "company_name": "WILLIAM BLAIR FUNDS",
+    "accession_number": "0001193125-26-094206",
+    "filed_date": "2026-03-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/822632/000119312526094206/0001193125-26-094206-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/822632/000119312526094206/d56769d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/822632/000119312526094206/d56769d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Filer: William Blair Funds\nETF Name: William Blair Global Leaders Fund\nStrategy: The fund seeks long-term capital appreciation by investing at least 80% of total assets in global equity securities of companies across all market capitalizations that the Adviser considers leaders in their country, industry, or globally based on above-average growth, profitability, and quality",
+    "synopsis_items": [
+      {
+        "filer": "William Blair Funds",
+        "etf_name": "William Blair Global Leaders Fund",
+        "strategy": "The fund seeks long-term capital appreciation by investing at least 80% of total assets in global equity securities of companies across all market capitalizations that the Adviser considers leaders in their country, industry, or globally based on above-average growth, profitability, and quality",
+        "is_alert_worthy": "UNKNOWN"
+      }
+    ],
+    "wire_recommendation": "UNKNOWN",
+    "why_this_matters": [],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-06T10:54:20.003828+00:00",
+    "form_type": "485APOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-000519",
+    "filed_date": "2026-03-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000519/0001771146-26-000519-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000519/tuttlecapitalphotonicsetfs.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000519/tuttlecapitalphotonicsetfs.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Filer: ETF Opportunities Trust\nETF Name: TUTTLE CAPITAL PURE PLAY PHOTONICS ETF TUTTLE CAPITAL PHOTONICS INCOME BLAST ETF\nStrategy: is to seek long-term capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: Name of Fund 1 Year 3 Years Tuttle Capital Pure Play Photonics ETF $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund is an actively managed exchange-traded fund (\u201cETF\u201d)",
+    "synopsis_items": [
+      {
+        "filer": "ETF Opportunities Trust",
+        "etf_name": "TUTTLE CAPITAL PURE PLAY PHOTONICS ETF TUTTLE CAPITAL PHOTONICS INCOME BLAST ETF",
+        "strategy": "is to seek long-term capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: Name of Fund 1 Year 3 Years Tuttle Capital Pure Play Photonics ETF $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund is an actively managed exchange-traded fund (\u201cETF\u201d)",
+        "is_alert_worthy": "UNKNOWN"
+      }
+    ],
+    "wire_recommendation": "UNKNOWN",
+    "why_this_matters": [],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-06T10:56:05.419888+00:00",
+    "form_type": "485APOS",
+    "cik": "0001424958",
+    "company_name": "Direxion Shares ETF Trust",
+    "accession_number": "0001193125-26-094160",
+    "filed_date": "2026-03-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526094160/0001193125-26-094160-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1424958/000119312526094160/d72693d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526094160/d72693d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Filer: Direxion Shares ETF Trust\nETF Name: Direxion Shares ETF Trust Prospectus Fund\nStrategy: In these instances, the Fund may have investment exposure to OpenAI that is significantly greater or significantly less than its stated investment objective",
+    "synopsis_items": [
+      {
+        "filer": "Direxion Shares ETF Trust",
+        "etf_name": "Direxion Shares ETF Trust Prospectus Fund",
+        "strategy": "In these instances, the Fund may have investment exposure to OpenAI that is significantly greater or significantly less than its stated investment objective",
+        "is_alert_worthy": "UNKNOWN"
+      }
+    ],
+    "wire_recommendation": "UNKNOWN",
+    "why_this_matters": [],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-05T14:31:01.792572+00:00",
     "form_type": "485APOS",
     "cik": "0001924868",
@@ -460,7 +538,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Filer: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S",
+    "synopsis": "Filer: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
