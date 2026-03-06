@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-06T21:49:26.081981+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001350487",
+    "company_name": "WisdomTree Trust",
+    "accession_number": "0001214659-26-002940",
+    "filed_date": "2026-03-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1350487/000121465926002940/0001214659-26-002940-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1350487/000121465926002940/pea98434263485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1350487/000121465926002940/pea98434263485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: WisdomTree Trust\nETF Name: WisdomTree International Adaptive Moving Average Fund\nStrategy: The Fund passively tracks a proprietary WisdomTree index using an adaptive strategy that shifts allocations between international equity and fixed-income securities in response to rising or falling market trends It invests at least 80% of net assets in index constituents or economically similar instruments, including other ETFs and U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "WisdomTree Trust",
+        "etf_name": "WisdomTree International Adaptive Moving Average Fund",
+        "strategy": "The Fund passively tracks a proprietary WisdomTree index using an adaptive strategy that shifts allocations between international equity and fixed-income securities in response to rising or falling market trends It invests at least 80% of net assets in index constituents or economically similar instruments, including other ETFs and U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-06T21:50:45.769201+00:00",
+    "form_type": "485APOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-000534",
+    "filed_date": "2026-03-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000534/0001771146-26-000534-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000534/portercompanyindexetf485af.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000534/portercompanyindexetf485af.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Each Fund is a series of the ETF Opportunities Trust\nStrategy: accounts managed by the portfolio managers, and the portfolio managers\u2019 ownership in the Funds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Opportunities Trust",
+        "etf_name": "Each Fund is a series of the ETF Opportunities Trust",
+        "strategy": "accounts managed by the portfolio managers, and the portfolio managers\u2019 ownership in the Funds",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-06T21:17:38.247378+00:00",
     "form_type": "485BPOS",
     "cik": "0001378872",
