@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-03-06T22:53:40.454860+00:00",
+    "form_type": "485APOS",
+    "cik": "0001424958",
+    "company_name": "Direxion Shares ETF Trust",
+    "accession_number": "0001193125-26-096957",
+    "filed_date": "2026-03-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526096957/0001193125-26-096957-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1424958/000119312526096957/d47384d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526096957/d47384d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Direxion Shares ETF Trust\nETF Name: Direxion Daily Anduril Bull 2X ETF / Direxion Daily Anduril Bear 2X ETF\nStrategy: Single-stock leveraged ETFs seeking daily investment results of +200% (Bull) and \u2013200% (Bear) the daily performance of Anduril Industries common shares, using swaps, derivatives, and at least 80% of net assets in Anduril securities or instruments referencing them. Designed exclusively for active, sophisticated traders who monitor and manage positions daily, not for buy-and-hold investors.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Direxion Shares ETF Trust",
+        "etf_name": "Direxion Daily Anduril Bull 2X ETF / Direxion Daily Anduril Bear 2X ETF",
+        "strategy": "Single-stock leveraged ETFs seeking daily investment results of +200% (Bull) and \u2013200% (Bear) the daily performance of Anduril Industries common shares, using swaps, derivatives, and at least 80% of net assets in Anduril securities or instruments referencing them. Designed exclusively for active, sophisticated traders who monitor and manage positions daily, not for buy-and-hold investors.",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-06T22:54:30.122788+00:00",
+    "form_type": "485APOS",
+    "cik": "0000710124",
+    "company_name": "NORTHERN INSTITUTIONAL FUNDS",
+    "accession_number": "0001193125-26-096954",
+    "filed_date": "2026-03-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/710124/000119312526096954/0001193125-26-096954-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/710124/000119312526096954/d43599d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/710124/000119312526096954/d43599d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Northern Institutional Funds\nETF Name: Treasury Portfolio \u2014 Admin Shares; Treasury Instruments Portfolio \u2014 Admin Shares; Government Select Portfolio \u2014 Admin Shares\nStrategy: Government money market funds operating under Rule 2a-7 that invest primarily in cash and short-term U.S Government Select Portfolio additionally targets at least 50% of assets in securities paying state-tax-exempt interest, while all three portfolios limit holdings to eligible securities presenting minimal credit risk\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Northern Institutional Funds",
+        "etf_name": "Treasury Portfolio \u2014 Admin Shares; Treasury Instruments Portfolio \u2014 Admin Shares; Government Select Portfolio \u2014 Admin Shares",
+        "strategy": "Government money market funds operating under Rule 2a-7 that invest primarily in cash and short-term U.S Government Select Portfolio additionally targets at least 50% of assets in securities paying state-tax-exempt interest, while all three portfolios limit holdings to eligible securities presenting minimal credit risk",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-06T22:55:53.119522+00:00",
+    "form_type": "485APOS",
+    "cik": "0001424958",
+    "company_name": "Direxion Shares ETF Trust",
+    "accession_number": "0001193125-26-096943",
+    "filed_date": "2026-03-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526096943/0001193125-26-096943-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1424958/000119312526096943/d113878d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526096943/d113878d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Direxion Shares ETF Trust (Rafferty Asset Management, LLC)\nETF Name: Direxion Daily Databricks Bear 2X ETF\nStrategy: Table 2 below indicates the exposure to the underlying security that an intra-day purchase of the Bull Fund would be expected to provide based upon the movement in the value of the Bull Fund\u2019s underlying security from the close of the market on the prior trading day Such exposure holds until a subsequent sale on that same trading day or until the close of the market on that trading day\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Direxion Shares ETF Trust (Rafferty Asset Management, LLC)",
+        "etf_name": "Direxion Daily Databricks Bear 2X ETF",
+        "strategy": "Table 2 below indicates the exposure to the underlying security that an intra-day purchase of the Bull Fund would be expected to provide based upon the movement in the value of the Bull Fund\u2019s underlying security from the close of the market on the prior trading day Such exposure holds until a subsequent sale on that same trading day or until the close of the market on that trading day",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-06T22:15:36.937882+00:00",
     "form_type": "485BPOS",
     "cik": "0001314414",
@@ -970,7 +1057,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
