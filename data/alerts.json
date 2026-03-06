@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-06T22:15:36.937882+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001314414",
+    "company_name": "Northern Lights Fund Trust",
+    "accession_number": "0001580642-26-001606",
+    "filed_date": "2026-03-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1314414/000158064226001606/0001580642-26-001606-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1314414/000158064226001606/toews-hedged_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1314414/000158064226001606/toews-hedged_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust\nETF Name: Toews Hedged Opportunity Fund\nStrategy: The fund seeks long-term capital growth while limiting downside risk by investing in U.S equity index futures, short-selling equity ETFs, and using derivatives such as futures and swaps\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Northern Lights Fund Trust",
+        "etf_name": "Toews Hedged Opportunity Fund",
+        "strategy": "The fund seeks long-term capital growth while limiting downside risk by investing in U.S equity index futures, short-selling equity ETFs, and using derivatives such as futures and swaps",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-06T22:16:40.872242+00:00",
+    "form_type": "485APOS",
+    "cik": "0001727074",
+    "company_name": "PGIM ETF TRUST",
+    "accession_number": "0001727074-26-000003",
+    "filed_date": "2026-03-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1727074/000172707426000003/0001727074-26-000003-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1727074/000172707426000003/f44335d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1727074/000172707426000003/f44335d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PGIM ETF Trust\nETF Name: PGIM Jennison U.S. Core Equity ETF\nStrategy: Manages risk factor exposures relative to the Russell 1000 Index\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PGIM ETF Trust",
+        "etf_name": "PGIM Jennison U.S. Core Equity ETF",
+        "strategy": "Manages risk factor exposures relative to the Russell 1000 Index",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-06T21:49:26.081981+00:00",
     "form_type": "485BPOS",
     "cik": "0001350487",
