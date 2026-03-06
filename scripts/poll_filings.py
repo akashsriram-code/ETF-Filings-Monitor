@@ -97,7 +97,10 @@ STRATEGY_NOISE_FRAGMENTS = [
     "skip to main content",
     "official websites use .gov",
 ]
-FEED_URL = "https://www.sec.gov/cgi-bin/browse-edgar?action=getcurrent&count=100&output=atom"
+FEED_PAGE_SIZE = 100
+DEFAULT_FEED_MAX_PAGES = 20
+DEFAULT_CATCHUP_DAYS = 1
+DEFAULT_ALERT_RETENTION = 500
 
 DATA_DIR = ROOT_DIR / "data"
 STATE_PATH = DATA_DIR / "state.json"
@@ -127,6 +130,23 @@ def now_iso() -> str:
 
 def normalize_form_type(form_type: str) -> str:
     return "".join(form_type.upper().split())
+
+
+def normalize_filed_date(value: str) -> str:
+    candidate = value.strip()
+    if not candidate:
+        return ""
+
+    if re.fullmatch(r"\d{8}", candidate):
+        return f"{candidate[:4]}-{candidate[4:6]}-{candidate[6:]}"
+
+    try:
+        return datetime.fromisoformat(candidate.replace("Z", "+00:00")).date().isoformat()
+    except ValueError:
+        pass
+
+    match = re.search(r"(\d{4}-\d{2}-\d{2})", candidate)
+    return match.group(1) if match else ""
 
 
 def load_json(path: Path, default: Any) -> Any:
@@ -182,6 +202,7 @@ def parse_master_index_line(line: str) -> dict[str, str] | None:
         "accession_number": accession_number,
         "filing_link": filing_link,
         "updated": date_filed,
+        "filed_date": normalize_filed_date(date_filed),
     }
 
 
@@ -333,13 +354,16 @@ def repair_existing_alert_links(
     return repaired_alerts, repaired_count, refreshed_synopsis_count
 
 
-def fetch_feed_entries(user_agent: str) -> list[dict[str, str]]:
-    headers = {"User-Agent": user_agent}
-    with httpx.Client(timeout=30, follow_redirects=True, headers=headers) as client:
-        response = client.get(FEED_URL)
-        response.raise_for_status()
+def feed_url_for_start(start: int) -> str:
+    safe_start = max(start, 0)
+    return (
+        "https://www.sec.gov/cgi-bin/browse-edgar?"
+        f"action=getcurrent&count={FEED_PAGE_SIZE}&start={safe_start}&output=atom"
+    )
 
-    root = ET.fromstring(response.text)
+
+def parse_feed_entries(feed_text: str) -> list[dict[str, str]]:
+    root = ET.fromstring(feed_text)
     ns = {"atom": "http://www.w3.org/2005/Atom"}
     entries: list[dict[str, str]] = []
 
@@ -366,10 +390,47 @@ def fetch_feed_entries(user_agent: str) -> list[dict[str, str]]:
                 "accession_number": accession_number,
                 "filing_link": link,
                 "updated": updated,
+                "filed_date": normalize_filed_date(updated),
             }
         )
 
     return entries
+
+
+def fetch_feed_entries(user_agent: str, max_pages: int = DEFAULT_FEED_MAX_PAGES) -> list[dict[str, str]]:
+    headers = {"User-Agent": user_agent}
+    pages = max(1, max_pages)
+    all_entries: list[dict[str, str]] = []
+    seen_page_signatures: set[tuple[str, ...]] = set()
+
+    with httpx.Client(timeout=30, follow_redirects=True, headers=headers) as client:
+        for page_number in range(pages):
+            start = page_number * FEED_PAGE_SIZE
+            response = client.get(feed_url_for_start(start))
+            response.raise_for_status()
+
+            page_entries = parse_feed_entries(response.text)
+            if not page_entries:
+                break
+
+            page_signature = tuple(
+                (
+                    entry.get("accession_number")
+                    or entry.get("filing_link")
+                    or entry.get("company_name")
+                    or ""
+                )
+                for entry in page_entries[:8]
+            )
+            if page_signature in seen_page_signatures:
+                break
+            seen_page_signatures.add(page_signature)
+            all_entries.extend(page_entries)
+
+            if len(page_entries) < FEED_PAGE_SIZE:
+                break
+
+    return all_entries
 
 
 def extract_company_and_cik_from_title(title: str) -> tuple[str, str]:
@@ -1191,7 +1252,7 @@ def send_smtp_email(
     return True, None
 
 
-def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
+def run_once(dry_run: bool = False, backfill_days: int = 0, catchup_days: int = DEFAULT_CATCHUP_DAYS) -> int:
     user_agent = os.getenv("SEC_USER_AGENT", "").strip()
     reporter_email = os.getenv("REPORTER_EMAIL", "").strip()
     smtp_host = os.getenv("SMTP_HOST", "smtp.gmail.com").strip()
@@ -1204,6 +1265,10 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
     openarena_bearer_token = os.getenv("OPENARENA_BEARER_TOKEN", "").strip()
     openarena_workflow_id = os.getenv("OPENARENA_WORKFLOW_ID", "").strip()
     openarena_timeout_seconds = int((os.getenv("OPENARENA_TIMEOUT_SECONDS", "60") or "60").strip())
+    feed_max_pages = int((os.getenv("FEED_MAX_PAGES", str(DEFAULT_FEED_MAX_PAGES)) or str(DEFAULT_FEED_MAX_PAGES)).strip())
+    alerts_retention = int(
+        (os.getenv("ALERTS_RETENTION", str(DEFAULT_ALERT_RETENTION)) or str(DEFAULT_ALERT_RETENTION)).strip()
+    )
 
     required = {
         "SEC_USER_AGENT": user_agent,
@@ -1224,6 +1289,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
 
     fetched_entries = 0
     feed_entries_count = 0
+    catchup_entries_count = 0
     backfill_entries_count = 0
     repaired_links_count = 0
     refreshed_synopsis_count = 0
@@ -1244,13 +1310,16 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
             max_synopsis_refresh=(len(existing_alerts) if force_refresh_synopsis else 30),
         )
 
-        feed_entries = fetch_feed_entries(user_agent)
+        feed_entries = fetch_feed_entries(user_agent, max_pages=feed_max_pages)
         feed_entries_count = len(feed_entries)
+
+        catchup_entries = fetch_backfill_entries(user_agent, catchup_days)
+        catchup_entries_count = len(catchup_entries)
 
         backfill_entries = fetch_backfill_entries(user_agent, backfill_days)
         backfill_entries_count = len(backfill_entries)
 
-        entries = dedupe_entries(feed_entries + backfill_entries)
+        entries = dedupe_entries(feed_entries + catchup_entries + backfill_entries)
         fetched_entries = len(entries)
         for entry in entries:
             form_type = normalize_form_type(entry.get("form_type", ""))
@@ -1261,6 +1330,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
             cik = entry.get("cik", "")
             company_name = entry.get("company_name", "")
             filing_link = entry.get("filing_link", "")
+            filed_date = normalize_filed_date(str(entry.get("filed_date") or entry.get("updated") or ""))
             if not accession_number or not cik:
                 continue
             if accession_number in seen:
@@ -1280,20 +1350,16 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
             if not should_alert:
                 continue
 
-            try:
-                synopsis = generate_synopsis(
-                    filing_text=filing_text,
-                    openarena_base_url=openarena_base_url,
-                    openarena_bearer_token=openarena_bearer_token,
-                    openarena_workflow_id=openarena_workflow_id,
-                    openarena_timeout_seconds=openarena_timeout_seconds,
-                    is_crypto=is_crypto,
-                    filer_name=company_name,
-                    require_openarena=True,
-                )
-            except Exception as exc:
-                last_error = f"Failed OpenArena synopsis extraction for {accession_number}: {exc}"
-                continue
+            synopsis = generate_synopsis(
+                filing_text=filing_text,
+                openarena_base_url=openarena_base_url,
+                openarena_bearer_token=openarena_bearer_token,
+                openarena_workflow_id=openarena_workflow_id,
+                openarena_timeout_seconds=openarena_timeout_seconds,
+                is_crypto=is_crypto,
+                filer_name=company_name,
+                require_openarena=False,
+            )
             parsed_synopsis = parse_synopsis_output(synopsis)
             wire_recommendation = parsed_synopsis["wire_recommendation"]
             wire_tag = (
@@ -1325,6 +1391,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
                 "cik": cik,
                 "company_name": company_name,
                 "accession_number": accession_number,
+                "filed_date": filed_date,
                 "sec_index_url": index_url,
                 "sec_filing_url": to_ix_url(primary_doc_url) if is_valid_archive_url(primary_doc_url) else index_url,
                 "primary_document_url": primary_doc_url,
@@ -1348,7 +1415,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
     except Exception as exc:
         last_error = str(exc)
 
-    merged_alerts = (new_alerts + existing_alerts)[:200]
+    merged_alerts = (new_alerts + existing_alerts)[:max(alerts_retention, 100)]
     state_payload = {
         "seen_accessions": list(seen)[-5000:],
         "last_run": now_iso(),
@@ -1359,6 +1426,9 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
         "last_error": last_error,
         "fetched_entries": fetched_entries,
         "feed_entries": feed_entries_count,
+        "feed_max_pages": feed_max_pages,
+        "catchup_entries": catchup_entries_count,
+        "catchup_days": catchup_days,
         "backfill_entries": backfill_entries_count,
         "backfill_days": backfill_days,
         "repaired_links": repaired_links_count,
@@ -1375,6 +1445,7 @@ def run_once(dry_run: bool = False, backfill_days: int = 0) -> int:
     save_json(STATUS_PATH, status_payload)
     print(
         f"Fetched entries: {fetched_entries} (feed={feed_entries_count}, "
+        f"catchup={catchup_entries_count}, catchup_days={catchup_days}, "
         f"backfill={backfill_entries_count}, backfill_days={backfill_days}); "
         f"new alerts: {len(new_alerts)}; repaired_links: {repaired_links_count}; "
         f"refreshed_synopsis: {refreshed_synopsis_count}"
@@ -1393,12 +1464,22 @@ def parse_args() -> argparse.Namespace:
         default=int(os.getenv("BACKFILL_DAYS", "0") or "0"),
         help="Include SEC daily master indexes for the last N days.",
     )
+    parser.add_argument(
+        "--catchup-days",
+        type=int,
+        default=int(os.getenv("CATCHUP_DAYS", str(DEFAULT_CATCHUP_DAYS)) or str(DEFAULT_CATCHUP_DAYS)),
+        help="Always include SEC daily master indexes for the last N days during normal polling.",
+    )
     return parser.parse_args()
 
 
 def main() -> int:
     args = parse_args()
-    return run_once(dry_run=args.dry_run, backfill_days=max(args.backfill_days, 0))
+    return run_once(
+        dry_run=args.dry_run,
+        backfill_days=max(args.backfill_days, 0),
+        catchup_days=max(args.catchup_days, 0),
+    )
 
 
 if __name__ == "__main__":

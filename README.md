@@ -21,6 +21,8 @@ This mode uses a scheduled GitHub Action (`*/10 * * * *`) to poll SEC current fi
   - `Coinbase Custody`
 - Synopsis generation via Thomson Reuters OpenArena workflow API
 - Email delivery via Gmail SMTP (App Password)
+- Feed pagination (`start=0,100,200...`) to avoid the first-100-only blind spot
+- Daily master-index catch-up (`CATCHUP_DAYS=1`) so delayed scheduler runs still pick up same-day filings
 - Dashboard reads:
   - `data/status.json`
   - `data/alerts.json`
@@ -136,6 +138,9 @@ The run will combine:
 
 Status output in `data/status.json` includes:
 - `feed_entries`
+- `feed_max_pages`
+- `catchup_entries`
+- `catchup_days`
 - `backfill_entries`
 - `backfill_days`
 

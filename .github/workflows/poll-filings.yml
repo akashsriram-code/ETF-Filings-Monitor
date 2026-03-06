@@ -43,10 +43,13 @@ jobs:
           OPENARENA_BEARER_TOKEN: ${{ secrets.OPENARENA_BEARER_TOKEN || vars.OPENARENA_BEARER_TOKEN }}
           OPENARENA_WORKFLOW_ID: ${{ secrets.OPENARENA_WORKFLOW_ID || vars.OPENARENA_WORKFLOW_ID }}
           OPENARENA_TIMEOUT_SECONDS: "60"
+          FEED_MAX_PAGES: "20"
+          CATCHUP_DAYS: "1"
+          ALERTS_RETENTION: "500"
         run: |
           test -n "$OPENARENA_BEARER_TOKEN" || (echo "Missing OPENARENA_BEARER_TOKEN (set repo Secret or Variable)." && exit 1)
           test -n "$OPENARENA_WORKFLOW_ID" || (echo "Missing OPENARENA_WORKFLOW_ID (set repo Secret or Variable)." && exit 1)
-          python scripts/poll_filings.py --backfill-days 0
+          python scripts/poll_filings.py --backfill-days 0 --catchup-days "${CATCHUP_DAYS}"
 
       - name: Commit updated data
         run: |

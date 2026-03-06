@@ -12,6 +12,8 @@ from scripts.poll_filings import (
     is_low_quality_summary,
     is_valid_archive_url,
     master_index_url_for_date,
+    normalize_filed_date,
+    parse_feed_entries,
     parse_master_index_line,
     select_primary_document_url,
     to_ix_url,
@@ -58,6 +60,30 @@ def test_parse_master_index_line() -> None:
     assert parsed["cik"] == "1234567"
     assert parsed["accession_number"] == "0001234567-26-000333"
     assert parsed["filing_link"].startswith("https://www.sec.gov/Archives/")
+    assert parsed["filed_date"] == "2026-02-20"
+
+
+def test_normalize_filed_date_supports_compact_and_atom_timestamps() -> None:
+    assert normalize_filed_date("20260220") == "2026-02-20"
+    assert normalize_filed_date("2026-02-20T09:31:01-05:00") == "2026-02-20"
+
+
+def test_parse_feed_entries_extracts_filed_date() -> None:
+    feed_xml = """
+    <feed xmlns="http://www.w3.org/2005/Atom">
+      <entry>
+        <title>485APOS - Example ETF Trust (0001234567) (Filer)</title>
+        <link href="https://www.sec.gov/Archives/edgar/data/1234567/000123456726000111/0001234567-26-000111-index.htm"/>
+        <category term="485APOS"/>
+        <updated>2026-03-05T09:31:01-05:00</updated>
+      </entry>
+    </feed>
+    """
+    parsed = parse_feed_entries(feed_xml)
+    assert len(parsed) == 1
+    assert parsed[0]["form_type"] == "485APOS"
+    assert parsed[0]["accession_number"] == "0001234567-26-000111"
+    assert parsed[0]["filed_date"] == "2026-03-05"
 
 
 def test_master_index_url_for_date() -> None:

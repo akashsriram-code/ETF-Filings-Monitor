@@ -321,6 +321,9 @@ function updateStatusLine(status) {
   const summary =
     `scheduler=every_10m fetched=${fmtNumber(status.fetched_entries)} ` +
     `feed=${fmtNumber(status.feed_entries)} ` +
+    `feed_pages=${fmtNumber(status.feed_max_pages)} ` +
+    `catchup=${fmtNumber(status.catchup_entries)} ` +
+    `catchup_days=${fmtNumber(status.catchup_days)} ` +
     `backfill=${fmtNumber(status.backfill_entries)} ` +
     `backfill_days=${fmtNumber(status.backfill_days)} ` +
     `repaired_links=${fmtNumber(status.repaired_links)} ` +
@@ -374,7 +377,10 @@ function renderAlerts(alerts) {
       const company = escapeHtml(alert.company_name || "Unknown filer");
       const cik = escapeHtml(alert.cik || "n/a");
       const accession = escapeHtml(alert.accession_number || "n/a");
-      const created = fmtDate(alert.created_at || alert.updated);
+      const capturedAt = fmtDate(alert.created_at || alert.updated);
+      const filedDate = String(alert.filed_date || "").trim();
+      const filedDisplay = escapeHtml(filedDate || capturedAt);
+      const capturedDisplay = escapeHtml(capturedAt);
       const keywords = Array.isArray(alert.matched_keywords) && alert.matched_keywords.length
         ? escapeHtml(alert.matched_keywords.join(", "))
         : "none";
@@ -417,7 +423,7 @@ function renderAlerts(alerts) {
         <div class="filing-top">
           <div>
             <h3 class="filing-title">${company}</h3>
-            <p class="filing-meta">CIK ${cik} | ACCESSION ${accession} | FILED ${created}</p>
+            <p class="filing-meta">CIK ${cik} | ACCESSION ${accession} | FILED ${filedDisplay}${filedDate ? ` | CAPTURED ${capturedDisplay}` : ""}</p>
           </div>
           <div class="tag-row">
             <span class="tag form">${form}</span>
