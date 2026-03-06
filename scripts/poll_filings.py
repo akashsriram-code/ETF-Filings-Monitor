@@ -26,7 +26,7 @@ from app.synopsis_output import format_email_body, parse_synopsis_output
 SYSTEM_INSTRUCTION = (
     "You are assisting a financial reporter. Output concise, factual filing summaries. "
     "Never include SEC website navigation or .gov boilerplate text. "
-    "Return only three fields from ETF filings: Filer, ETF Name, and Strategy."
+    "Return structured ETF filing output with Filer, ETF Name, Strategy, and IS ALERT WORTHY."
 )
 TARGET_FORMS = {"485APOS", "485BPOS", "486BPOS", "S-1"}
 CRYPTO_KEYWORDS = ["Bitcoin", "Ethereum", "Digital Asset", "Spot", "Coinbase Custody"]
@@ -1027,12 +1027,36 @@ def normalize_summary(summary: str, is_crypto: bool, hints: dict[str, str] | Non
     ) and hints.get("strategy"):
         strategy = normalize_strategy_text(hints["strategy"])
 
+    raw_alert_level = parsed.get("is alert worthy", parsed.get("is_alert_worthy", ""))
+    raw_alert_level_upper = raw_alert_level.upper()
+    if "CRITICAL" in raw_alert_level_upper or "HIGH" in raw_alert_level_upper:
+        alert_level = "HIGH"
+    elif "MEDIUM" in raw_alert_level_upper:
+        alert_level = "MEDIUM"
+    elif "LOW" in raw_alert_level_upper:
+        alert_level = "LOW"
+    else:
+        alert_level = "MEDIUM" if is_crypto else "LOW"
+
+    why_bullets = [
+        "Captured for ETF desk triage and potential wire follow-up.",
+        "Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    ]
+    if is_crypto:
+        why_bullets[1] = "Crypto-linked ETF disclosures can move market narrative and regulatory coverage."
+
     output = [
+        "Synopsis 1",
         f"Filer: {filer_name}",
         f"ETF Name: {etf_name}",
         f"Strategy: {strategy}",
+        f"IS ALERT WORTHY: {alert_level}",
+        "",
+        "Why this matters:",
+        f"- {why_bullets[0]}",
+        f"- {why_bullets[1]}",
     ]
-    return "\n".join(output)
+    return "\n".join(output).strip()
 
 
 def extract_structured_fields(text: str, is_crypto: bool, filer_name_hint: str = "Unknown") -> dict[str, str]:
@@ -1171,6 +1195,7 @@ def generate_synopsis(
             "Filer: <value or Unknown>\n"
             "ETF Name: <value or Unknown>\n"
             "Strategy: <exactly 2 sentences>\n"
+            "IS ALERT WORTHY: <LOW|MEDIUM|HIGH>\n"
             + "Do not include SEC.gov navigation text.\n"
             + "Do NOT use generic names like 'The Fund' unless no specific name exists.\n"
             + "Do not include any extra lines.\n\n"

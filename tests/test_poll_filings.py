@@ -1,5 +1,6 @@
 from datetime import date
 
+from app.synopsis_output import parse_synopsis_output
 from scripts.poll_filings import (
     build_index_url,
     clean_extracted_text,
@@ -13,6 +14,7 @@ from scripts.poll_filings import (
     is_valid_archive_url,
     master_index_url_for_date,
     normalize_filed_date,
+    normalize_summary,
     parse_feed_entries,
     parse_master_index_line,
     select_primary_document_url,
@@ -204,3 +206,15 @@ def test_extract_structured_fields_from_class_table_and_strategy_sections() -> N
 def test_is_low_quality_summary_detects_boilerplate() -> None:
     low = "Filer: Unknown ETF Name: Unknown Strategy: Skip to search field Official websites use .gov"
     assert is_low_quality_summary(low) is True
+
+
+def test_normalize_summary_outputs_non_unknown_alert_level() -> None:
+    raw_summary = (
+        "Filer: Example ETF Trust\n"
+        "ETF Name: Example Trend ETF\n"
+        "Strategy: The fund seeks to track a broad market index using a passive approach."
+    )
+    normalized = normalize_summary(raw_summary, is_crypto=False)
+    assert "IS ALERT WORTHY: LOW" in normalized
+    parsed = parse_synopsis_output(normalized)
+    assert parsed["wire_recommendation"] == "LOW"
