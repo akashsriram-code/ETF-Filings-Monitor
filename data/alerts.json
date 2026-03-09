@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-09T10:19:27.964480+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001100663",
+    "company_name": "iSHARES TRUST",
+    "accession_number": "0001193125-26-097004",
+    "filed_date": "2026-03-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/0001193125-26-097004-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Seeks to track the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Unknown",
+        "etf_name": "Term Muni Bond ETF",
+        "strategy": "Seeks to track the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-09T10:20:20.547091+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001633061",
+    "company_name": "Amplify ETF Trust",
+    "accession_number": "0001213900-26-024827",
+    "filed_date": "2026-03-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1633061/000121390026024827/0001213900-26-024827-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1633061/000121390026024827/ea0279389-01_485bos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1633061/000121390026024827/ea0279389-01_485bos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Amplify ETF Trust\nETF Name: Amplify Municipal CEF High Income ETF\nStrategy: The fund seeks investment results that generally correspond to the price and yield of the Nasdaq Municipal Bond CEF High Income Index, operating as a passively managed fund-of-funds It invests at least 80% of net assets in a portfolio of approximately 30 U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Amplify ETF Trust",
+        "etf_name": "Amplify Municipal CEF High Income ETF",
+        "strategy": "The fund seeks investment results that generally correspond to the price and yield of the Nasdaq Municipal Bond CEF High Income Index, operating as a passively managed fund-of-funds It invests at least 80% of net assets in a portfolio of approximately 30 U.S",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-06T22:53:40.454860+00:00",
     "form_type": "485APOS",
     "cik": "0001424958",
@@ -1057,7 +1115,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Uses a representative sampling indexing approach rather than full replication to approximate the index's risk and return profile\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
