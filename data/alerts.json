@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-09T21:49:07.903387+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001829774",
+    "company_name": "James Alpha Funds Trust",
+    "accession_number": "0001580642-26-001675",
+    "filed_date": "2026-03-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1829774/000158064226001675/0001580642-26-001675-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1829774/000158064226001675/easterly-funds_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1829774/000158064226001675/easterly-funds_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: James Alpha Funds Trust\nETF Name: Easterly ROCMuni High Income Municipal Bond Fund\nStrategy: The fund's primary objective is to provide current income exempt from regular federal income tax, with a secondary objective of total return The fund is no longer actively pursuing its investment objective and is winding down through an orderly disposition of remaining portfolio holdings, which included below-investment-grade municipal debt with auction rate and inverse-floating-rate features\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "James Alpha Funds Trust",
+        "etf_name": "Easterly ROCMuni High Income Municipal Bond Fund",
+        "strategy": "The fund's primary objective is to provide current income exempt from regular federal income tax, with a secondary objective of total return The fund is no longer actively pursuing its investment objective and is winding down through an orderly disposition of remaining portfolio holdings, which included below-investment-grade municipal debt with auction rate and inverse-floating-rate features",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-09T21:50:30.749274+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-001148",
+    "filed_date": "2026-03-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001148/0001592900-26-001148-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026001148/ck0001592900-20260309.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001148/ck0001592900-20260309.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Sophus Capital Emerging Market Small Cap ETF\nStrategy: The fund charges a 0.85% management fee, may experience annual portfolio turnover exceeding 100%, and is managed by portfolio managers Michael Reynal and Maria Freund under the Sophus Capital sub-advisory arrangement\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "Sophus Capital Emerging Market Small Cap ETF",
+        "strategy": "The fund charges a 0.85% management fee, may experience annual portfolio turnover exceeding 100%, and is managed by portfolio managers Michael Reynal and Maria Freund under the Sophus Capital sub-advisory arrangement",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-09T20:41:27.894788+00:00",
     "form_type": "485APOS",
     "cik": "0002038383",
@@ -98,7 +156,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S It employs a representative-sampling indexing approach rather than full replication to approximate the index's risk and return profile\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -1202,7 +1260,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S Employs a representative-sampling indexing approach managed by BlackRock Fund Advisors rather than full index replication\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling indexing approach rather than full replication to approximate the index's risk and return profile\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
