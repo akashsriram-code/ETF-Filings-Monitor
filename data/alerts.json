@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-12T16:21:33.184368+00:00",
+    "form_type": "485APOS",
+    "cik": "0001540305",
+    "company_name": "ETF Series Solutions",
+    "accession_number": "0000894189-26-007760",
+    "filed_date": "2026-03-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926007760/0000894189-26-007760-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1540305/000089418926007760/defianceautismimpactetf485aa.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926007760/defianceautismimpactetf485aa.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Defiance ETFs, LLC\nETF Name: Defiance Autism Impact ETF\nStrategy: Passively tracks the VettaFi Autism Impact Index, investing at least 80% of net assets in U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Defiance ETFs, LLC",
+        "etf_name": "Defiance Autism Impact ETF",
+        "strategy": "Passively tracks the VettaFi Autism Impact Index, investing at least 80% of net assets in U.S",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-12T16:21:43.008317+00:00",
+    "form_type": "485APOS",
+    "cik": "0001810747",
+    "company_name": "Simplify Exchange Traded Funds",
+    "accession_number": "0001829126-26-002223",
+    "filed_date": "2026-03-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626002223/0001829126-26-002223-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1810747/000182912626002223/simplifyetf_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626002223/simplifyetf_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Simplify Exchange Traded Funds\nETF Name: Unknown\nStrategy: may be changed by the Board of Trustees upon written notice to shareholders and Risks.\u201d The discussion below supplements, and should be read in conjunction with, such sections of the Prospectus. General Risks and Considerations An investment in the Fund should be made with an understanding of the risks inherent in an investment in securities, including the risk that the general condition of the securities market may....\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Simplify Exchange Traded Funds",
+        "etf_name": "Unknown",
+        "strategy": "may be changed by the Board of Trustees upon written notice to shareholders and Risks.\u201d The discussion below supplements, and should be read in conjunction with, such sections of the Prospectus. General Risks and Considerations An investment in the Fund should be made with an understanding of the risks inherent in an investment in securities, including the risk that the general condition of the securities market may....",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-12T13:21:44.269944+00:00",
     "form_type": "485APOS",
     "cik": "0001924868",
@@ -649,7 +707,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -1753,7 +1811,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
