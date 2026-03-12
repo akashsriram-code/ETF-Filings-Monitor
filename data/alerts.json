@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-03-12T18:10:41.908342+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001485894",
+    "company_name": "J.P. Morgan Exchange-Traded Fund Trust",
+    "accession_number": "0001193125-26-103664",
+    "filed_date": "2026-03-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1485894/000119312526103664/0001193125-26-103664-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1485894/000119312526103664/d31396d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1485894/000119312526103664/d31396d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: J.P. Morgan Exchange-Traded Fund Trust\nETF Name: JPMorgan Equity Premium Yield ETF\nStrategy: large-cap equity ETF benchmarked to the S&P 500 (Total Return) Index, employing a data-science-enabled fundamental stock selection process combined with an options overlay that sells call options and buys call spreads to reduce volatility, generate income, and pursue tax-aware loss harvesting It may also use index futures for supplemental equity exposure when needed to maintain targeted market participation\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "J.P. Morgan Exchange-Traded Fund Trust",
+        "etf_name": "JPMorgan Equity Premium Yield ETF",
+        "strategy": "large-cap equity ETF benchmarked to the S&P 500 (Total Return) Index, employing a data-science-enabled fundamental stock selection process combined with an options overlay that sells call options and buys call spreads to reduce volatility, generate income, and pursue tax-aware loss harvesting It may also use index futures for supplemental equity exposure when needed to maintain targeted market participation",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-12T16:21:33.184368+00:00",
     "form_type": "485APOS",
     "cik": "0001540305",
@@ -707,7 +736,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, targeting investment-grade, AMT-free U.S Uses a representative sampling indexing approach rather than full index replication\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -1811,7 +1840,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S Employs a representative sampling indexing approach rather than full replication to approximate the index's risk and return profile\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
