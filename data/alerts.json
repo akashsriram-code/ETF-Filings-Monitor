@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-12T20:43:41.794063+00:00",
+    "form_type": "485APOS",
+    "cik": "0001041673",
+    "company_name": "NUVEEN INVESTMENT TRUST II",
+    "accession_number": "0001193125-26-104257",
+    "filed_date": "2026-03-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1041673/000119312526104257/0001193125-26-104257-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1041673/000119312526104257/d76281d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1041673/000119312526104257/d76281d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Nuveen Investment Trust II\nETF Name: Nuveen Dividend Value Fund \u2013 ETF Class\nStrategy: Actively managed U.S. equity fund seeking total return through income and long-term capital appreciation by investing at least 80% of net assets in dividend-paying common stocks and preferred securities.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Nuveen Investment Trust II",
+        "etf_name": "Nuveen Dividend Value Fund \u2013 ETF Class",
+        "strategy": "Actively managed U.S. equity fund seeking total return through income and long-term capital appreciation by investing at least 80% of net assets in dividend-paying common stocks and preferred securities.",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-12T20:45:21.301252+00:00",
+    "form_type": "485APOS",
+    "cik": "0000820892",
+    "company_name": "NUVEEN INVESTMENT FUNDS INC",
+    "accession_number": "0001193125-26-104230",
+    "filed_date": "2026-03-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/820892/000119312526104230/0001193125-26-104230-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/820892/000119312526104230/d101053d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/820892/000119312526104230/d101053d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NUVEEN INVESTMENT FUNDS INC\nETF Name: Unknown\nStrategy: Although your actual costs may be higher or lower, based on these assumptions your costs would be: ETF Class 1 Year $ 90 3 Years $ 334 5 Years $ 598 10 Years $ 1,352 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) Although your actual costs may be higher or lower, based on these assumptions your costs would be: ETF Class 1 Year\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NUVEEN INVESTMENT FUNDS INC",
+        "etf_name": "Unknown",
+        "strategy": "Although your actual costs may be higher or lower, based on these assumptions your costs would be: ETF Class 1 Year $ 90 3 Years $ 334 5 Years $ 598 10 Years $ 1,352 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) Although your actual costs may be higher or lower, based on these assumptions your costs would be: ETF Class 1 Year",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-12T19:16:12.897363+00:00",
     "form_type": "485APOS",
     "cik": "0000766285",
@@ -765,7 +823,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Seeks to track the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S Employs a representative-sampling indexing approach rather than full index replication, managed by BlackRock Fund Advisors at a 0.18% management fee\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -1869,7 +1927,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Uses a representative-sampling indexing approach rather than full replication of the underlying index\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Seeks to passively track the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
