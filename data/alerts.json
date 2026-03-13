@@ -1,5 +1,94 @@
 [
   {
+    "created_at": "2026-03-13T19:50:15.702466+00:00",
+    "form_type": "S-1",
+    "cik": "0002061625",
+    "company_name": "1 - 21Shares Cronos ETF",
+    "accession_number": "0001213900-26-027569",
+    "filed_date": "2026-03-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2061625/000121390026027569/0001213900-26-027569-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2061625/000121390026027569/ea0280669-s1_21shares.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2061625/000121390026027569/ea0280669-s1_21shares.htm",
+    "matched_keywords": [
+      "Digital Asset"
+    ],
+    "is_crypto": true,
+    "synopsis": "Synopsis 1\nFiler: 21Shares\nETF Name: 21Shares Cronos ETF\nStrategy: The fund is a passive, spot-holding grantor trust designed to track the price of CRO, the native digital asset of the Cronos proof-of-stake blockchain, by holding CRO tokens directly\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Crypto-linked ETF disclosures can move market narrative and regulatory coverage.",
+    "synopsis_items": [
+      {
+        "filer": "21Shares",
+        "etf_name": "21Shares Cronos ETF",
+        "strategy": "The fund is a passive, spot-holding grantor trust designed to track the price of CRO, the native digital asset of the Cronos proof-of-stake blockchain, by holding CRO tokens directly",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Crypto-linked ETF disclosures can move market narrative and regulatory coverage."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-13T19:51:09.683059+00:00",
+    "form_type": "485APOS",
+    "cik": "0000740766",
+    "company_name": "DREYFUS GOVERNMENT CASH MANAGEMENT FUNDS",
+    "accession_number": "0002071844-26-000257",
+    "filed_date": "2026-03-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/740766/000207184426000257/0002071844-26-000257-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/740766/000207184426000257/485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/740766/000207184426000257/485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Dreyfus Government Cash Management Funds\nETF Name: Dreyfus Government Securities Cash Management\nStrategy: Invests at least 80% of net assets in U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Dreyfus Government Cash Management Funds",
+        "etf_name": "Dreyfus Government Securities Cash Management",
+        "strategy": "Invests at least 80% of net assets in U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-13T19:52:13.614721+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-001174",
+    "filed_date": "2026-03-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001174/0001592900-26-001174-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026001174/ck0001592900-20260313.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001174/ck0001592900-20260313.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust\nETF Name: Towle Value ETF\nStrategy: Actively managed U.S. small- and mid-cap deep-value equity ETF sub-advised by Towle & Co., investing at least 80% of net assets in publicly traded stocks (typically under $15 billion market cap) in cyclical sectors such as manufacturing, distribution, energy, and transportation, selected using an enterprise-value-to-sales threshold below 1.5\u00d7.\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Investment Managers Series Trust",
+        "etf_name": "Towle Value ETF",
+        "strategy": "Actively managed U.S. small- and mid-cap deep-value equity ETF sub-advised by Towle & Co., investing at least 80% of net assets in publicly traded stocks (typically under $15 billion market cap) in cyclical sectors such as manufacturing, distribution, energy, and transportation, selected using an enterprise-value-to-sales threshold below 1.5\u00d7.",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-13T18:25:44.520304+00:00",
     "form_type": "485APOS",
     "cik": "0000741375",
@@ -1316,7 +1405,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted index of investment-grade, AMT-free U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -2420,7 +2509,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling approach rather than full index replication and is structured as a defined-maturity (term) bond ETF\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, AMT-free U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
