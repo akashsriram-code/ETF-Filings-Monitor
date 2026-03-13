@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-03-13T13:48:02.955555+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001551950",
+    "company_name": "Columbia ETF Trust I",
+    "accession_number": "0001193125-26-105173",
+    "filed_date": "2026-03-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1551950/000119312526105173/0001193125-26-105173-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1551950/000119312526105173/d116952d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1551950/000119312526105173/d116952d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Columbia ETF Trust I\nETF Name: Columbia Large Cap Growth ETF\nStrategy: May invest defensively in money market instruments or cash equivalents during adverse market conditions\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Columbia ETF Trust I",
+        "etf_name": "Columbia Large Cap Growth ETF",
+        "strategy": "May invest defensively in money market instruments or cash equivalents during adverse market conditions",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-13T13:48:56.924292+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000320351",
+    "company_name": "FIDELITY SELECT PORTFOLIOS",
+    "accession_number": "0001133228-26-003517",
+    "filed_date": "2026-03-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/320351/000113322826003517/0001133228-26-003517-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/320351/000113322826003517/fsp-efp23355_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/320351/000113322826003517/fsp-efp23355_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Fidelity Select Portfolios\nETF Name: Health Care Portfolio (Acquiring Fund) / Fidelity Advisor\u00ae Health Care Fund (Target Fund)\nStrategy: Both funds seek capital appreciation by investing at least 80% of assets in common stocks of companies engaged in health care or medicine, selected through bottom-up fundamental analysis of financial condition, earnings outlook, and industry position The Target Fund is being merged into the Acquiring Fund in a tax-free reorganization, with no change to the shared investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Fidelity Select Portfolios",
+        "etf_name": "Health Care Portfolio (Acquiring Fund) / Fidelity Advisor\u00ae Health Care Fund (Target Fund)",
+        "strategy": "Both funds seek capital appreciation by investing at least 80% of assets in common stocks of companies engaged in health care or medicine, selected through bottom-up fundamental analysis of financial condition, earnings outlook, and industry position The Target Fund is being merged into the Acquiring Fund in a tax-free reorganization, with no change to the shared investment objective",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-13T13:49:34.787501+00:00",
+    "form_type": "485APOS",
+    "cik": "0001501825",
+    "company_name": "Hartford Funds Exchange-Traded Trust",
+    "accession_number": "0001193125-26-105120",
+    "filed_date": "2026-03-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1501825/000119312526105120/0001193125-26-105120-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1501825/000119312526105120/d49857d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1501825/000119312526105120/d49857d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Hartford Funds Exchange-Traded Trust\nETF Name: Hartford Alpha Capture Growth ETF\nStrategy: equity growth ETF that aggregates high-conviction stock picks from multiple fundamental equity teams at Wellington Management into a single concentrated portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Hartford Funds Exchange-Traded Trust",
+        "etf_name": "Hartford Alpha Capture Growth ETF",
+        "strategy": "equity growth ETF that aggregates high-conviction stock picks from multiple fundamental equity teams at Wellington Management into a single concentrated portfolio",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-13T10:41:36.444591+00:00",
     "form_type": "485BPOS",
     "cik": "0001643174",
@@ -1026,7 +1113,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S Employs a representative sampling indexing approach rather than full replication, investing in a subset of securities that collectively mirror the index's risk and return profile\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, holding investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -2130,7 +2217,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The Fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S It employs a representative sampling indexing approach rather than full replication to approximate the index's investment profile\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
