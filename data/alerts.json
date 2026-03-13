@@ -1,5 +1,150 @@
 [
   {
+    "created_at": "2026-03-13T21:42:33.433389+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002069687",
+    "company_name": "FIS Trust",
+    "accession_number": "0001999371-26-005823",
+    "filed_date": "2026-03-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2069687/000199937126005823/0001999371-26-005823-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2069687/000199937126005823/shrd-485bpos_031326.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2069687/000199937126005823/shrd-485bpos_031326.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Faith Investor Services (FIS Trust)\nETF Name: Arimathea Catholic Bond Index ETF\nStrategy: Passively tracks the Arimathea Catholic Bond Index, a U.S The fund commits at least 90% of assets to index constituents using a representative sampling approach, with both the sub-adviser and index provider disclosed as new entrants with no prior ETF management experience\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Faith Investor Services (FIS Trust)",
+        "etf_name": "Arimathea Catholic Bond Index ETF",
+        "strategy": "Passively tracks the Arimathea Catholic Bond Index, a U.S The fund commits at least 90% of assets to index constituents using a representative sampling approach, with both the sub-adviser and index provider disclosed as new entrants with no prior ETF management experience",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-13T21:43:54.634460+00:00",
+    "form_type": "485APOS",
+    "cik": "0002081199",
+    "company_name": "Baron ETF Trust",
+    "accession_number": "0001193125-26-106440",
+    "filed_date": "2026-03-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081199/000119312526106440/0001193125-26-106440-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081199/000119312526106440/d114744d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081199/000119312526106440/d114744d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Baron ETF Trust\nETF Name: Baron RO Large Cap ETF\nStrategy: large-cap equity ETF that invests at least 80% of net assets in equity securities of U.S companies with market capitalizations within the range of the S&P 500 Index\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Baron ETF Trust",
+        "etf_name": "Baron RO Large Cap ETF",
+        "strategy": "large-cap equity ETF that invests at least 80% of net assets in equity securities of U.S companies with market capitalizations within the range of the S&P 500 Index",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-13T21:45:10.804910+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000751173",
+    "company_name": "MANNING & NAPIER FUND, INC.",
+    "accession_number": "0001999371-26-005818",
+    "filed_date": "2026-03-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/751173/000199937126005818/0001999371-26-005818-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/751173/000199937126005818/mn-485bpos_031326.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/751173/000199937126005818/mn-485bpos_031326.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: MANNING & NAPIER FUND, INC\nETF Name: Credit Series\nStrategy: Invests at least 80% of assets in credit-related instruments\u2014principally investment grade securities rated BBB-/Baa3 or above\u2014including derivatives and ETFs Utilizes active management to gain diversified credit exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "MANNING & NAPIER FUND, INC",
+        "etf_name": "Credit Series",
+        "strategy": "Invests at least 80% of assets in credit-related instruments\u2014principally investment grade securities rated BBB-/Baa3 or above\u2014including derivatives and ETFs Utilizes active management to gain diversified credit exposure",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-13T21:45:54.192733+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001432353",
+    "company_name": "Global X Funds",
+    "accession_number": "0001432353-26-000287",
+    "filed_date": "2026-03-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000287/0001432353-26-000287-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1432353/000143235326000287/glx-20260313.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000287/glx-20260313.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Global X Funds\nETF Name: Global X NYSE\u00ae 100 ETF\nStrategy: The fund seeks to passively replicate the NYSE\u00ae 100 Index by investing at least 80% of net assets in the index's securities, providing exposure to 100 of the largest NYSE-listed U.S It is a non-diversified fund that may concentrate 25%+ of assets in a single industry or sector group to mirror the index's composition\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Global X Funds",
+        "etf_name": "Global X NYSE\u00ae 100 ETF",
+        "strategy": "The fund seeks to passively replicate the NYSE\u00ae 100 Index by investing at least 80% of net assets in the index's securities, providing exposure to 100 of the largest NYSE-listed U.S It is a non-diversified fund that may concentrate 25%+ of assets in a single industry or sector group to mirror the index's composition",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-13T21:46:40.182343+00:00",
+    "form_type": "485APOS",
+    "cik": "0000924727",
+    "company_name": "Investment Managers Series Trust III",
+    "accession_number": "0001104659-26-027741",
+    "filed_date": "2026-03-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/924727/000110465926027741/0001104659-26-027741-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/924727/000110465926027741/tm268620d1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/924727/000110465926027741/tm268620d1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust III\nETF Name: FPA Global Allocation ETF\nStrategy: Actively managed global fund-of-funds that tactically allocates across equities and fixed income by investing in affiliated and unaffiliated ETFs and mutual funds, with discretion to hold securities directly. The adviser dynamically shifts asset-class weightings based on relative risk-adjusted return assessments and may trade frequently during periods of pronounced market volatility.\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Investment Managers Series Trust III",
+        "etf_name": "FPA Global Allocation ETF",
+        "strategy": "Actively managed global fund-of-funds that tactically allocates across equities and fixed income by investing in affiliated and unaffiliated ETFs and mutual funds, with discretion to hold securities directly. The adviser dynamically shifts asset-class weightings based on relative risk-adjusted return assessments and may trade frequently during periods of pronounced market volatility.",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-13T20:59:37.473458+00:00",
     "form_type": "485APOS",
     "cik": "0001816125",
@@ -1550,7 +1695,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: A passively managed, defined-maturity ETF that seeks to track the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, AMT-free U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
