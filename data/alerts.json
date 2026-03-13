@@ -1,5 +1,150 @@
 [
   {
+    "created_at": "2026-03-13T10:41:36.444591+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001643174",
+    "company_name": "Horizon Funds",
+    "accession_number": "0001398344-26-005108",
+    "filed_date": "2026-03-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1643174/000139834426005108/0001398344-26-005108-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1643174/000139834426005108/fp0097930-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1643174/000139834426005108/fp0097930-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Horizon Funds\nETF Name: Anfield Universal Fixed Income Fund\nStrategy: are directly related to the performance of the underlying funds in which it invests The value of an investment in the Fund\u2019s portfolio may fluctuate due to factors that affect markets generally or that affect a particular industry or sector\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Horizon Funds",
+        "etf_name": "Anfield Universal Fixed Income Fund",
+        "strategy": "are directly related to the performance of the underlying funds in which it invests The value of an investment in the Fund\u2019s portfolio may fluctuate due to factors that affect markets generally or that affect a particular industry or sector",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-13T10:41:41.122499+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001643174",
+    "company_name": "Horizon Funds",
+    "accession_number": "0001398344-26-005106",
+    "filed_date": "2026-03-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1643174/000139834426005106/0001398344-26-005106-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1643174/000139834426005106/fp0097931-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1643174/000139834426005106/fp0097931-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Horizon Funds\nETF Name: EQUITY SECTOR ROTATION ETF AESR REGENTS PARK HEDGED MARKET STRATEGY ETF\nStrategy: EQUITY SECTOR ROTATION ETF AESR REGENTS PARK HEDGED MARKET STRATEGY ETF RPHS LISTED ON: CBOE BZX EXCHANGE May 1, 2026 The Prospectus provides important information about the Funds that you should know before investing\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Horizon Funds",
+        "etf_name": "EQUITY SECTOR ROTATION ETF AESR REGENTS PARK HEDGED MARKET STRATEGY ETF",
+        "strategy": "EQUITY SECTOR ROTATION ETF AESR REGENTS PARK HEDGED MARKET STRATEGY ETF RPHS LISTED ON: CBOE BZX EXCHANGE May 1, 2026 The Prospectus provides important information about the Funds that you should know before investing",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-13T10:41:44.367593+00:00",
+    "form_type": "485APOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-009924",
+    "filed_date": "2026-03-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226009924/0001493152-26-009924-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226009924/form485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226009924/form485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares YieldBOOST SNDK ETF\nStrategy: The Fund\u2019s secondary investment objective is to gain exposure to the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "GraniteShares YieldBOOST SNDK ETF",
+        "strategy": "The Fund\u2019s secondary investment objective is to gain exposure to the",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-13T10:41:52.836585+00:00",
+    "form_type": "485APOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-009922",
+    "filed_date": "2026-03-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226009922/0001493152-26-009922-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226009922/form485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226009922/form485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: The Leveraged Long Fund\nStrategy: that is a multiple inverse to the daily\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "The Leveraged Long Fund",
+        "strategy": "that is a multiple inverse to the daily",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-13T10:41:57.037206+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001107414",
+    "company_name": "STATE STREET INSTITUTIONAL INVESTMENT TRUST",
+    "accession_number": "0001193125-26-104485",
+    "filed_date": "2026-03-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1107414/000119312526104485/0001193125-26-104485-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1107414/000119312526104485/d33149d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1107414/000119312526104485/d33149d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: STATE STREET INSTITUTIONAL INVESTMENT TRUST\nETF Name: State Street Federal Prime Retail Reserves Money Market Fund\nStrategy: by investing in a broad range of money market instruments. Prospectus March 13, 2026 State Street Institutional Investment Trust State Street Federal Prime Retail Reserves Money Market Fund Cash Management Class (PCMXX) Capital Class (PCPXX) Agency Class (PRAXX) Advisory Class (PRDXX) Advantage Class (PAVXX) The U.S.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "STATE STREET INSTITUTIONAL INVESTMENT TRUST",
+        "etf_name": "State Street Federal Prime Retail Reserves Money Market Fund",
+        "strategy": "by investing in a broad range of money market instruments. Prospectus March 13, 2026 State Street Institutional Investment Trust State Street Federal Prime Retail Reserves Money Market Fund Cash Management Class (PCMXX) Capital Class (PCPXX) Agency Class (PRAXX) Advisory Class (PRDXX) Advantage Class (PAVXX) The U.S.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-12T21:56:37.753968+00:00",
     "form_type": "485APOS",
     "cik": "0000878719",
