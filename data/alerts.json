@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-03-17T21:44:17.665524+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001415726",
+    "company_name": "Innovator ETFs Trust",
+    "accession_number": "0001213900-26-029249",
+    "filed_date": "2026-03-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026029249/0001213900-26-029249-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1415726/000121390026029249/ea0281115-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026029249/ea0281115-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Innovator ETFs Trust\nETF Name: If the Underlying ETF\nStrategy: The Fund\u2019s investment strategy is designed to deliver the Outcomes described herein if Shares are held from the time the Fund enters into the FLEX Options and held until those FLEX Options expire at the end of the Outcome Period\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Innovator ETFs Trust",
+        "etf_name": "If the Underlying ETF",
+        "strategy": "The Fund\u2019s investment strategy is designed to deliver the Outcomes described herein if Shares are held from the time the Fund enters into the FLEX Options and held until those FLEX Options expire at the end of the Outcome Period",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-17T21:44:39.297743+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001415726",
+    "company_name": "Innovator ETFs Trust",
+    "accession_number": "0001213900-26-029244",
+    "filed_date": "2026-03-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026029244/0001213900-26-029244-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1415726/000121390026029244/ea0281114-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026029244/ea0281114-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Innovator ETFs Trust\nETF Name: If the Underlying ETF\nStrategy: The Fund\u2019s investment strategy is designed to deliver the Outcomes described herein if Shares are held from the time the Fund enters into the FLEX Options and held until those FLEX Options expire at the end of the Outcome Period\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Innovator ETFs Trust",
+        "etf_name": "If the Underlying ETF",
+        "strategy": "The Fund\u2019s investment strategy is designed to deliver the Outcomes described herein if Shares are held from the time the Fund enters into the FLEX Options and held until those FLEX Options expire at the end of the Outcome Period",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-17T21:45:02.976947+00:00",
+    "form_type": "485APOS",
+    "cik": "0001782952",
+    "company_name": "Kurv ETF Trust",
+    "accession_number": "0001999371-26-006129",
+    "filed_date": "2026-03-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126006129/0001999371-26-006129-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1782952/000199937126006129/kur-485apos_031726.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126006129/kur-485apos_031726.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Kurv ETF Trust\nETF Name: Principal Investment Strategies The Gold Fund\nStrategy: The Kurv Silver & Mining Enhanced Income ETF (the \u201cSilver Fund\u201d) seeks to maximize total return\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Kurv ETF Trust",
+        "etf_name": "Principal Investment Strategies The Gold Fund",
+        "strategy": "The Kurv Silver & Mining Enhanced Income ETF (the \u201cSilver Fund\u201d) seeks to maximize total return",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-17T20:56:47.398640+00:00",
     "form_type": "485APOS",
     "cik": "0001831313",
