@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-03-18T21:41:07.134928+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-000608",
+    "filed_date": "2026-03-18",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000608/0001771146-26-000608-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000608/ck0001771146-20260318.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000608/ck0001771146-20260318.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Tuttle Capital Robotics Income Blast ETF\nStrategy: Actively managed ETF seeking current income by gaining long exposure to the Syntax Robotics Index through equity positions, call options, and synthetic positions, while layering a systematic put spread strategy to generate income At least 80% of net assets are allocated to Underlying Index exposure under normal conditions, with potential portfolio turnover exceeding 100% annually\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Opportunities Trust",
+        "etf_name": "Tuttle Capital Robotics Income Blast ETF",
+        "strategy": "Actively managed ETF seeking current income by gaining long exposure to the Syntax Robotics Index through equity positions, call options, and synthetic positions, while layering a systematic put spread strategy to generate income At least 80% of net assets are allocated to Underlying Index exposure under normal conditions, with potential portfolio turnover exceeding 100% annually",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-18T21:43:17.050170+00:00",
+    "form_type": "485APOS",
+    "cik": "0001683471",
+    "company_name": "Listed Funds Trust",
+    "accession_number": "0000894189-26-008017",
+    "filed_date": "2026-03-18",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926008017/0000894189-26-008017-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1683471/000089418926008017/combined485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926008017/combined485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Listed Funds Trust\nETF Name: Total Annual Fund\nStrategy: Principal Investment Strategies The Fund seeks to provide investors with exposure to changes in the price of physical uranium, in the form of uranium ore concentrate, which contains Triuranium Octoxide (U3O8) as its primary chemical component Principal Investment Strategies The Fund seeks to provide investors with exposure to changes in the price of physical uranium, in the form of uranium ore concentrate, which cont\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Listed Funds Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "Principal Investment Strategies The Fund seeks to provide investors with exposure to changes in the price of physical uranium, in the form of uranium ore concentrate, which contains Triuranium Octoxide (U3O8) as its primary chemical component Principal Investment Strategies The Fund seeks to provide investors with exposure to changes in the price of physical uranium, in the form of uranium ore concentrate, which cont",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-18T21:44:04.756422+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001424958",
+    "company_name": "Direxion Shares ETF Trust",
+    "accession_number": "0001193125-26-114113",
+    "filed_date": "2026-03-18",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526114113/0001193125-26-114113-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1424958/000119312526114113/d38939d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526114113/d38939d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Direxion Shares ETF Trust\nETF Name: Direxion Shares ETF Trust\nStrategy: The fund is a passively managed index-tracking ETF that invests at least 80% of net assets in index constituents or economically similar instruments, including swap agreements and futures contracts It seeks to replicate, rather than outperform, the performance of an unspecified benchmark index through heavy use of derivatives\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Direxion Shares ETF Trust",
+        "etf_name": "Direxion Shares ETF Trust",
+        "strategy": "The fund is a passively managed index-tracking ETF that invests at least 80% of net assets in index constituents or economically similar instruments, including swap agreements and futures contracts It seeks to replicate, rather than outperform, the performance of an unspecified benchmark index through heavy use of derivatives",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-17T21:44:17.665524+00:00",
     "form_type": "485BPOS",
     "cik": "0001415726",
@@ -1956,7 +2043,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S It employs a representative-sampling indexing approach rather than full replication to approximate the index's investment profile\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling approach rather than full index replication to approximate the index's risk and return profile\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -3060,7 +3147,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling indexing approach rather than full replication to approximate the index's risk and return profile\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
