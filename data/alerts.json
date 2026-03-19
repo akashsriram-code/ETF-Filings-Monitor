@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-19T13:45:15.439418+00:00",
+    "form_type": "485APOS",
+    "cik": "0001526787",
+    "company_name": "Natixis ETF Trust",
+    "accession_number": "0001193125-26-115242",
+    "filed_date": "2026-03-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1526787/000119312526115242/0001193125-26-115242-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1526787/000119312526115242/d105422d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1526787/000119312526115242/d105422d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Natixis ETF Trust\nETF Name: Natixis Loomis Sayles Total Return Bond ETF\nStrategy: Actively managed multi-sector bond ETF seeking high total return through current income and capital appreciation, investing at least 80% of net assets in fixed-income securities. The subadviser (Loomis Sayles) drives sector positioning and security selection using factors such as duration, credit risk, cash flow variability, and currency/liquidity risk, with latitude to hold below-investment-grade bonds, foreign debt...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Natixis ETF Trust",
+        "etf_name": "Natixis Loomis Sayles Total Return Bond ETF",
+        "strategy": "Actively managed multi-sector bond ETF seeking high total return through current income and capital appreciation, investing at least 80% of net assets in fixed-income securities. The subadviser (Loomis Sayles) drives sector positioning and security selection using factors such as duration, credit risk, cash flow variability, and currency/liquidity risk, with latitude to hold below-investment-grade bonds, foreign debt...",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-19T13:46:12.097111+00:00",
+    "form_type": "485APOS",
+    "cik": "0000836906",
+    "company_name": "VANGUARD MALVERN FUNDS",
+    "accession_number": "0000836906-26-000134",
+    "filed_date": "2026-03-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/836906/000083690626000134/0000836906-26-000134-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/836906/000083690626000134/f44434d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/836906/000083690626000134/f44434d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Vanguard Malvern Funds\nETF Name: Vanguard U.S. High-Yield Corporate Bond Index ETF\nStrategy: The fund passively tracks the Bloomberg US High Yield $250MM 2% Issuer Capped Index, investing at least 80% of net assets in below-investment-grade U.S corporate bonds that are index constituents\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Vanguard Malvern Funds",
+        "etf_name": "Vanguard U.S. High-Yield Corporate Bond Index ETF",
+        "strategy": "The fund passively tracks the Bloomberg US High Yield $250MM 2% Issuer Capped Index, investing at least 80% of net assets in below-investment-grade U.S corporate bonds that are index constituents",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-18T21:41:07.134928+00:00",
     "form_type": "485BPOS",
     "cik": "0001771146",
@@ -2043,7 +2101,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S It employs a representative-sampling indexing approach rather than full index replication and is structured as a defined-maturity (not target-date) bond ETF\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -3147,7 +3205,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling indexing approach rather than full replication to match the index's risk and return profile\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
