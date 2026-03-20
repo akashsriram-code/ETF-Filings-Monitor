@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-03-20T13:43:38.880262+00:00",
+    "form_type": "485APOS",
+    "cik": "0001657201",
+    "company_name": "Invesco Exchange-Traded Self-Indexed Fund Trust",
+    "accession_number": "0001193125-26-116851",
+    "filed_date": "2026-03-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1657201/000119312526116851/0001193125-26-116851-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1657201/000119312526116851/d103543d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1657201/000119312526116851/d103543d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Exchange-Traded Self-Indexed Fund Trust\nETF Name: Invesco BulletShares 2034 High Yield Corporate Bond ETF\nStrategy: Passively tracks the Invesco BulletShares USD High Yield Corporate Bond 2034 Index via sampling, investing at least 80% of assets in U.S The self-indexed fund uses quantitative analysis to select a representative subset of the index rather than full replication\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Exchange-Traded Self-Indexed Fund Trust",
+        "etf_name": "Invesco BulletShares 2034 High Yield Corporate Bond ETF",
+        "strategy": "Passively tracks the Invesco BulletShares USD High Yield Corporate Bond 2034 Index via sampling, investing at least 80% of assets in U.S The self-indexed fund uses quantitative analysis to select a representative subset of the index rather than full replication",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-20T10:27:00.446928+00:00",
     "form_type": "485BPOS",
     "cik": "0001454889",
@@ -2188,7 +2217,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -3292,7 +3321,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S It is structured as a defined-maturity (term) bond ETF\u2014not a target-date fund\u2014designed to provide bond-ladder-like exposure within an ETF wrapper\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
