@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-20T18:58:09.246734+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001500604",
+    "company_name": "Janus Detroit Street Trust",
+    "accession_number": "0001398344-26-005498",
+    "filed_date": "2026-03-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1500604/000139834426005498/0001398344-26-005498-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1500604/000139834426005498/fp0097983-1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1500604/000139834426005498/fp0097983-1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Janus Detroit Street Trust\nETF Name: Janus Henderson International Equity Enhanced Income ETF\nStrategy: Opportunistically writes covered call options on portfolio holdings to generate additional premium income alongside current income and long-term capital growth\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Janus Detroit Street Trust",
+        "etf_name": "Janus Henderson International Equity Enhanced Income ETF",
+        "strategy": "Opportunistically writes covered call options on portfolio holdings to generate additional premium income alongside current income and long-term capital growth",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-20T18:59:06.292054+00:00",
+    "form_type": "485APOS",
+    "cik": "0001667919",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+    "accession_number": "0001445546-26-002205",
+    "filed_date": "2026-03-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626002205/0001445546-26-002205-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1667919/000144554626002205/etf8_485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626002205/etf8_485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund VIII\nETF Name: FT Vest Nasdaq-100 Dual Directional Buffer ETF\nStrategy: The fund employs FLEX Options on the Invesco QQQ Trust to seek capped upside participation and to convert moderate QQQ declines into positive returns up to a preset Inverse Performance Threshold, while providing a downside Buffer against deeper losses over each Target Outcome Period\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "First Trust Exchange-Traded Fund VIII",
+        "etf_name": "FT Vest Nasdaq-100 Dual Directional Buffer ETF",
+        "strategy": "The fund employs FLEX Options on the Invesco QQQ Trust to seek capped upside participation and to convert moderate QQQ declines into positive returns up to a preset Inverse Performance Threshold, while providing a downside Buffer against deeper losses over each Target Outcome Period",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-20T14:37:31.160775+00:00",
     "form_type": "485APOS",
     "cik": "0001924868",
@@ -2333,7 +2391,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Seeks to track the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S This defined-maturity ETF is designed to provide index-like exposure to munis maturing around December 2035, serving as a tool for tax-exempt bond laddering\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -3437,7 +3495,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
