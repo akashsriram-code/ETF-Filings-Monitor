@@ -1,5 +1,121 @@
 [
   {
+    "created_at": "2026-03-20T14:37:31.160775+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-006604",
+    "filed_date": "2026-03-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126006604/0001999371-26-006604-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126006604/anduril_485apos-032026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126006604/anduril_485apos-032026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: 2X Long Anduril Industries ETF / -2X Inverse Anduril Industries ETF\nStrategy: Single-stock leveraged ETFs seeking daily investment results of +200% and -200%, respectively, of the daily percentage change in Anduril Industries, Inc. share price, using swap contracts and options on Anduril common stock.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "2X Long Anduril Industries ETF / -2X Inverse Anduril Industries ETF",
+        "strategy": "Single-stock leveraged ETFs seeking daily investment results of +200% and -200%, respectively, of the daily percentage change in Anduril Industries, Inc. share price, using swap contracts and options on Anduril common stock.",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-20T14:38:55.628979+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001137360",
+    "company_name": "VanEck ETF Trust",
+    "accession_number": "0001137360-26-000294",
+    "filed_date": "2026-03-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000294/0001137360-26-000294-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1137360/000113736026000294/ck0001137360-20260320.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000294/ck0001137360-20260320.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VanEck ETF Trust\nETF Name: VanEck India Growth Leaders ETF\nStrategy: Passively managed, non-diversified fund that tracks an index of Indian equities, investing at least 80% of assets in index constituents including depositary receipts such as ADRs The fund may concentrate in specific industries to the extent the underlying index does, with a focus on emerging-market companies in India\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VanEck ETF Trust",
+        "etf_name": "VanEck India Growth Leaders ETF",
+        "strategy": "Passively managed, non-diversified fund that tracks an index of Indian equities, investing at least 80% of assets in index constituents including depositary receipts such as ADRs The fund may concentrate in specific industries to the extent the underlying index does, with a focus on emerging-market companies in India",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-20T14:40:52.669471+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001137360",
+    "company_name": "VanEck ETF Trust",
+    "accession_number": "0001137360-26-000292",
+    "filed_date": "2026-03-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000292/0001137360-26-000292-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1137360/000113736026000292/ck0001137360-20260320.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000292/ck0001137360-20260320.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VanEck ETF Trust\nETF Name: VanEck Digital Native Economy ETF\nStrategy: Effective April 8, 2026, this fund undergoes a full conversion from the former VanEck Video Gaming and eSports ETF, switching its benchmark to the MarketVector Digital Native Economy Index and overhauling its investment objective to target companies in digital finance, gig platforms, and online gambling/betting At least 80% of assets will be invested in index constituents spanning the digital-native economy theme\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VanEck ETF Trust",
+        "etf_name": "VanEck Digital Native Economy ETF",
+        "strategy": "Effective April 8, 2026, this fund undergoes a full conversion from the former VanEck Video Gaming and eSports ETF, switching its benchmark to the MarketVector Digital Native Economy Index and overhauling its investment objective to target companies in digital finance, gig platforms, and online gambling/betting At least 80% of assets will be invested in index constituents spanning the digital-native economy theme",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-20T14:41:55.097893+00:00",
+    "form_type": "485APOS",
+    "cik": "0001657201",
+    "company_name": "Invesco Exchange-Traded Self-Indexed Fund Trust",
+    "accession_number": "0001193125-26-116917",
+    "filed_date": "2026-03-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1657201/000119312526116917/0001193125-26-116917-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1657201/000119312526116917/d92945d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1657201/000119312526116917/d92945d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Exchange-Traded Self-Indexed Fund Trust\nETF Name: Equal Weight ETF A-18 Invesco Exchange-Traded Self-Indexed Fund Trust\nStrategy: Each fund passively tracks a corresponding Invesco BulletShares US Treasury Bond Index for its target maturity year (2027\u20132031), investing at least 80% of total assets in index constituents via a sampling methodology Treasury bond ETFs that do not seek to outperform their benchmarks\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Exchange-Traded Self-Indexed Fund Trust",
+        "etf_name": "Equal Weight ETF A-18 Invesco Exchange-Traded Self-Indexed Fund Trust",
+        "strategy": "Each fund passively tracks a corresponding Invesco BulletShares US Treasury Bond Index for its target maturity year (2027\u20132031), investing at least 80% of total assets in index constituents via a sampling methodology Treasury bond ETFs that do not seek to outperform their benchmarks",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-20T13:43:38.880262+00:00",
     "form_type": "485APOS",
     "cik": "0001657201",
@@ -2217,7 +2333,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -3321,7 +3437,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, which is composed of investment-grade, AMT-free U.S Uses a representative sampling indexing approach to deliver tax-exempt fixed-income exposure that matures like an individual bond\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
