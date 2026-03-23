@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-03-23T21:52:35.273862+00:00",
+    "form_type": "485APOS",
+    "cik": "0001291446",
+    "company_name": "Credit Suisse Commodity Strategy Funds",
+    "accession_number": "0001104659-26-033408",
+    "filed_date": "2026-03-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1291446/000110465926033408/0001104659-26-033408-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1291446/000110465926033408/tm268943d1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1291446/000110465926033408/tm268943d1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Cantor Fitzgerald Commodity Strategy Trust\nETF Name: Cantor Fitzgerald Commodity Return Strategy Fund; Cantor Fitzgerald Commodity Strategy Fund\nStrategy: Commodity-focused funds managed by O'Connor Alternative Investments, LLC that gain broad commodity exposure through commodity-linked derivatives (referencing the BCOM Index), a wholly-owned Cayman Islands subsidiary, and supplemental fixed-income holdings The trust was rebranded from Credit Suisse Commodity Strategy Funds with no changes to investment objectives or strategies, retaining the same portfolio management...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Cantor Fitzgerald Commodity Strategy Trust",
+        "etf_name": "Cantor Fitzgerald Commodity Return Strategy Fund; Cantor Fitzgerald Commodity Strategy Fund",
+        "strategy": "Commodity-focused funds managed by O'Connor Alternative Investments, LLC that gain broad commodity exposure through commodity-linked derivatives (referencing the BCOM Index), a wholly-owned Cayman Islands subsidiary, and supplemental fixed-income holdings The trust was rebranded from Credit Suisse Commodity Strategy Funds with no changes to investment objectives or strategies, retaining the same portfolio management...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-23T21:53:29.398459+00:00",
+    "form_type": "485APOS",
+    "cik": "0001884021",
+    "company_name": "Volatility Shares Trust",
+    "accession_number": "0001213900-26-033001",
+    "filed_date": "2026-03-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026033001/0001213900-26-033001-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1884021/000121390026033001/ea0283044-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026033001/ea0283044-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Volatility Shares Trust\nETF Name: Bitcoin Volatility ETF\nStrategy: Seeks long-term capital appreciation through managed exposure to cash-settled Bitcoin Volatility Index futures contracts, supplemented by collateral in cash and high-quality securities May also utilize swaps, options, and shares of other investment companies referencing the Bitcoin Volatility Index rather than holding bitcoin directly\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Volatility Shares Trust",
+        "etf_name": "Bitcoin Volatility ETF",
+        "strategy": "Seeks long-term capital appreciation through managed exposure to cash-settled Bitcoin Volatility Index futures contracts, supplemented by collateral in cash and high-quality securities May also utilize swaps, options, and shares of other investment companies referencing the Bitcoin Volatility Index rather than holding bitcoin directly",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-23T21:55:10.594863+00:00",
+    "form_type": "485APOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-001206",
+    "filed_date": "2026-03-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001206/0001592900-26-001206-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026001206/ck0001592900-20260323.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001206/ck0001592900-20260323.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Total Annual Fund\nStrategy: AND PRINCIPAL INVESTMENT STRATEGIES The Fund\u2019s investment objective is a non-fundamental investment policy and may be changed without a vote of shareholders upon prior written notice to shareholders As a result of engaging in these temporary measures, the Fund may not achieve its investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "AND PRINCIPAL INVESTMENT STRATEGIES The Fund\u2019s investment objective is a non-fundamental investment policy and may be changed without a vote of shareholders upon prior written notice to shareholders As a result of engaging in these temporary measures, the Fund may not achieve its investment objective",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-23T21:06:44.500062+00:00",
     "form_type": "485BPOS",
     "cik": "0001722388",
@@ -2627,7 +2714,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -3731,7 +3818,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
