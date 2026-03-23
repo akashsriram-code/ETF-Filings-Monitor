@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-03-23T10:20:01.724754+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001500604",
+    "company_name": "Janus Detroit Street Trust",
+    "accession_number": "0001398344-26-005528",
+    "filed_date": "2026-03-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1500604/000139834426005528/0001398344-26-005528-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1500604/000139834426005528/fp0097907-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1500604/000139834426005528/fp0097907-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Janus Detroit Street Trust\nETF Name: Janus Henderson U.S. Equity Enhanced Income ETF (JUDO)\nStrategy: The fund invests at least 80% of net assets in a concentrated portfolio of 50\u201370 U.S It overlays a tactical covered-call writing program\u2014selling short-term call options on some or all holdings at portfolio-manager discretion\u2014to generate additional premium income and dampen volatility\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Janus Detroit Street Trust",
+        "etf_name": "Janus Henderson U.S. Equity Enhanced Income ETF (JUDO)",
+        "strategy": "The fund invests at least 80% of net assets in a concentrated portfolio of 50\u201370 U.S It overlays a tactical covered-call writing program\u2014selling short-term call options on some or all holdings at portfolio-manager discretion\u2014to generate additional premium income and dampen volatility",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-20T21:21:43.613134+00:00",
     "form_type": "485APOS",
     "cik": "0001579982",
@@ -2511,7 +2540,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, targeting investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -3615,7 +3644,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S The fund is designed for tax-sensitive investors seeking a defined-maturity muni bond exposure and is not a target-date fund\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S It employs a representative sampling indexing approach rather than full replication to approximate the index's investment profile\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
