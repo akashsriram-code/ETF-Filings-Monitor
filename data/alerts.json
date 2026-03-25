@@ -1,5 +1,123 @@
 [
   {
+    "created_at": "2026-03-25T20:55:32.067212+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001587982",
+    "company_name": "Investment Managers Series Trust II",
+    "accession_number": "0001213900-26-034120",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026034120/0001213900-26-034120-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587982/000121390026034120/ea0282416-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026034120/ea0282416-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust II\nETF Name: ACR Equity International Fund\nStrategy: International equity fund focused on capital preservation from permanent impairment, targeting returns above both the fund's cost of capital and its benchmark over a full market cycle. The fund applies ACR's value-oriented security selection framework to non-U.S.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Investment Managers Series Trust II",
+        "etf_name": "ACR Equity International Fund",
+        "strategy": "International equity fund focused on capital preservation from permanent impairment, targeting returns above both the fund's cost of capital and its benchmark over a full market cycle. The fund applies ACR's value-oriented security selection framework to non-U.S.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-25T20:56:56.536808+00:00",
+    "form_type": "485APOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-000647",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000647/0001771146-26-000647-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000647/t-rex2xlongskhynixetf485af.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000647/t-rex2xlongskhynixetf485af.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: REX ETF Trust\nETF Name: T-REX 2X Long SK Hynix Daily Target ETF\nStrategy: Seeks daily investment results equal to 200% (2X) of the daily performance of SK Hynix Inc This is a single-stock leveraged product designed for short-term, actively monitored trading rather than buy-and-hold exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "REX ETF Trust",
+        "etf_name": "T-REX 2X Long SK Hynix Daily Target ETF",
+        "strategy": "Seeks daily investment results equal to 200% (2X) of the daily performance of SK Hynix Inc This is a single-stock leveraged product designed for short-term, actively monitored trading rather than buy-and-hold exposure",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-25T20:57:47.258028+00:00",
+    "form_type": "S-1",
+    "cik": "0002115027",
+    "company_name": "1 - Cryptex Digital Market Cap ETF",
+    "accession_number": "0001213900-26-034064",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2115027/000121390026034064/0001213900-26-034064-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2115027/000121390026034064/ea0279816-s1_cryptex.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2115027/000121390026034064/ea0279816-s1_cryptex.htm",
+    "matched_keywords": [
+      "Coinbase Custody"
+    ],
+    "is_crypto": true,
+    "synopsis": "Synopsis 1\nFiler: Cryptex Finance, LLC\nETF Name: Cryptex Digital Market Cap ETF\nStrategy: The fund tracks the Cryptex Digital Market Cap Index by holding a market-capitalization-weighted portfolio of crypto assets, excluding stablecoins, wrapped tokens, rebasing tokens, centralized exchange tokens, and assets under active regulatory enforcement A staking program is employed for eligible portfolio crypto assets to generate additional yield, while the fund uses no leverage or derivatives\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Crypto-linked ETF disclosures can move market narrative and regulatory coverage.",
+    "synopsis_items": [
+      {
+        "filer": "Cryptex Finance, LLC",
+        "etf_name": "Cryptex Digital Market Cap ETF",
+        "strategy": "The fund tracks the Cryptex Digital Market Cap Index by holding a market-capitalization-weighted portfolio of crypto assets, excluding stablecoins, wrapped tokens, rebasing tokens, centralized exchange tokens, and assets under active regulatory enforcement A staking program is employed for eligible portfolio crypto assets to generate additional yield, while the fund uses no leverage or derivatives",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Crypto-linked ETF disclosures can move market narrative and regulatory coverage."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-25T20:58:36.241869+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000764624",
+    "company_name": "LEGG MASON PARTNERS INCOME TRUST",
+    "accession_number": "0001193125-26-124078",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/764624/000119312526124078/0001193125-26-124078-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/764624/000119312526124078/d83593d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/764624/000119312526124078/d83593d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Legg Mason Partners Income Trust\nETF Name: Western Asset Intermediate Maturity California Municipals Fund\nStrategy: The fund invests at least 80% of net assets in investment-grade California municipal securities with intermediate maturities, seeking current income exempt from both federal and California state personal income taxes\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Legg Mason Partners Income Trust",
+        "etf_name": "Western Asset Intermediate Maturity California Municipals Fund",
+        "strategy": "The fund invests at least 80% of net assets in investment-grade California municipal securities with intermediate maturities, seeking current income exempt from both federal and California state personal income taxes",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-25T20:00:57.182828+00:00",
     "form_type": "485BPOS",
     "cik": "0001644419",
@@ -3410,7 +3528,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, AMT-free U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -4514,7 +4632,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, AMT-free U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
