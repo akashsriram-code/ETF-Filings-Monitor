@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-25T19:17:04.482168+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-001413",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001413/0001592900-26-001413-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026001413/ck0001592900-20260325.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001413/ck0001592900-20260325.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Cambria Global Shareholder Yield ETF\nStrategy: The fund seeks income and capital appreciation by actively investing in equity securities of publicly listed companies worldwide that deliver high shareholder yield through dividends, buybacks, and debt paydown\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "Cambria Global Shareholder Yield ETF",
+        "strategy": "The fund seeks income and capital appreciation by actively investing in equity securities of publicly listed companies worldwide that deliver high shareholder yield through dividends, buybacks, and debt paydown",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-25T19:17:29.242038+00:00",
+    "form_type": "485APOS",
+    "cik": "0001137360",
+    "company_name": "VanEck ETF Trust",
+    "accession_number": "0001137360-26-000319",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000319/0001137360-26-000319-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1137360/000113736026000319/vechinasemiconductor485a32.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000319/vechinasemiconductor485a32.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VanEck ETF Trust\nETF Name: None Annual Fund\nStrategy: The Fund will seek to achieve its investment objective by primarily investing directly in A-shares\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VanEck ETF Trust",
+        "etf_name": "None Annual Fund",
+        "strategy": "The Fund will seek to achieve its investment objective by primarily investing directly in A-shares",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-25T18:14:58.975543+00:00",
     "form_type": "485APOS",
     "cik": "0001924868",
@@ -3265,7 +3323,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling indexing approach rather than full replication to approximate index characteristics\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -4369,7 +4427,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
