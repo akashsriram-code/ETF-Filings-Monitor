@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-25T14:53:22.122506+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000787836",
+    "company_name": "PUTNAM HIGH YIELD FUND",
+    "accession_number": "0001193125-26-123056",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/787836/000119312526123056/0001193125-26-123056-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/787836/000119312526123056/d244036d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/787836/000119312526123056/d244036d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Putnam High Yield Fund\nETF Name: Putnam High Yield Fund\nStrategy: obligors with optional foreign-securities and foreign-currency exposure The investment manager evaluates credit, interest rate, and prepayment risks alongside general market conditions when making portfolio decisions\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Putnam High Yield Fund",
+        "etf_name": "Putnam High Yield Fund",
+        "strategy": "obligors with optional foreign-securities and foreign-currency exposure The investment manager evaluates credit, interest rate, and prepayment risks alongside general market conditions when making portfolio decisions",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-25T14:54:38.965795+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001722388",
+    "company_name": "Tidal Trust III",
+    "accession_number": "0001999371-26-006860",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126006860/0001999371-26-006860-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1722388/000199937126006860/nestyield_485bpos-032526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126006860/nestyield_485bpos-032526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust III\nETF Name: NestYield Visionary ETF (EGGQ)\nStrategy: equity ETF targeting innovation and technology companies driving future growth, with long-term capital appreciation as the primary objective and current income as a secondary goal\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust III",
+        "etf_name": "NestYield Visionary ETF (EGGQ)",
+        "strategy": "equity ETF targeting innovation and technology companies driving future growth, with long-term capital appreciation as the primary objective and current income as a secondary goal",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-25T13:51:32.717839+00:00",
     "form_type": "485BPOS",
     "cik": "0001845809",
@@ -3091,7 +3149,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, AMT-free U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -4195,7 +4253,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Uses a representative sampling indexing approach rather than full replication to approximate index characteristics\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
