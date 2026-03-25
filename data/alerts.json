@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-03-25T12:07:52.250752+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-006841",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126006841/0001999371-26-006841-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126006841/fcus-485bpos_032726.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126006841/fcus-485bpos_032726.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Pinnacle Focused Opportunities ETF\nStrategy: The signal gauges relative strength across multiple market indices to toggle between full equity exposure during market strength and defensive bond positioning during stress periods\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Pinnacle Focused Opportunities ETF",
+        "strategy": "The signal gauges relative strength across multiple market indices to toggle between full equity exposure during market strength and defensive bond positioning during stress periods",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-24T21:47:28.869136+00:00",
     "form_type": "485BPOS",
     "cik": "0001518042",
@@ -3992,7 +4021,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S The fund offers a defined-maturity structure for tax-exempt fixed-income exposure at a 0.18% management fee\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling approach rather than full index replication to manage the breadth and illiquidity of the municipal bond market\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
