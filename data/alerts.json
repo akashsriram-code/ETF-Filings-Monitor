@@ -1,5 +1,179 @@
 [
   {
+    "created_at": "2026-03-25T13:51:32.717839+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001845809",
+    "company_name": "Putnam ETF Trust",
+    "accession_number": "0001193125-26-122985",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1845809/000119312526122985/0001193125-26-122985-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1845809/000119312526122985/d30316d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1845809/000119312526122985/d30316d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Franklin ETF Trust\nETF Name: Franklin Short-Term Municipal Income ETF\nStrategy: U.S. fixed-income ETF targeting short-duration municipal bonds for tax-exempt income, also using cash-based creation and redemption.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Franklin ETF Trust",
+        "etf_name": "Franklin Short-Term Municipal Income ETF",
+        "strategy": "U.S. fixed-income ETF targeting short-duration municipal bonds for tax-exempt income, also using cash-based creation and redemption.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-25T13:52:33.375680+00:00",
+    "form_type": "485APOS",
+    "cik": "0000754510",
+    "company_name": "FIDELITY SECURITIES FUND",
+    "accession_number": "0000754510-26-000027",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/754510/000075451026000027/0000754510-26-000027-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/754510/000075451026000027/newetf_main.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/754510/000075451026000027/newetf_main.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIDELITY SECURITIES FUND\nETF Name: Fidelity\u00ae Real Estate Income Fund \u2014 ETF Class\nStrategy: The fund seeks higher-than-average income and capital growth by investing across a diversified mix of commercial real estate securities, including REIT common stocks, preferred stocks, corporate bonds, and CMBS It will operate under Fidelity's Multi-Class ETF Fund structure, enabled by an SEC exemptive order, allowing ETF shares to trade on an exchange alongside existing mutual fund share classes on the same portfoli...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIDELITY SECURITIES FUND",
+        "etf_name": "Fidelity\u00ae Real Estate Income Fund \u2014 ETF Class",
+        "strategy": "The fund seeks higher-than-average income and capital growth by investing across a diversified mix of commercial real estate securities, including REIT common stocks, preferred stocks, corporate bonds, and CMBS It will operate under Fidelity's Multi-Class ETF Fund structure, enabled by an SEC exemptive order, allowing ETF shares to trade on an exchange alongside existing mutual fund share classes on the same portfoli...",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-25T13:53:32.995647+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001722388",
+    "company_name": "Tidal Trust III",
+    "accession_number": "0001999371-26-006855",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126006855/0001999371-26-006855-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1722388/000199937126006855/vistashares-485bpos_033026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126006855/vistashares-485bpos_033026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VistaShares Trust\nETF Name: VistaShares Electrification Supercycle ETF\nStrategy: Portfolio construction follows an index-replication approach with active sub-adviser oversight\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VistaShares Trust",
+        "etf_name": "VistaShares Electrification Supercycle ETF",
+        "strategy": "Portfolio construction follows an index-replication approach with active sub-adviser oversight",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-25T13:54:51.129385+00:00",
+    "form_type": "485APOS",
+    "cik": "0000215829",
+    "company_name": "FIDELITY SCHOOL STREET TRUST",
+    "accession_number": "0000215829-26-000021",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/215829/000021582926000021/0000215829-26-000021-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/215829/000021582926000021/main.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/215829/000021582926000021/main.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Fidelity School Street Trust\nETF Name: Fidelity\u00ae Intermediate Municipal Income Fund \u2013 ETF Class\nStrategy: Seeks the highest level of current income exempt from federal income tax, consistent with capital preservation, by investing primarily in intermediate municipal securities with derivatives permitted under an 80% investment policy Operates as an ETF share class alongside traditional mutual fund share classes within a single portfolio under Fidelity's Multi-Class ETF exemptive order\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Fidelity School Street Trust",
+        "etf_name": "Fidelity\u00ae Intermediate Municipal Income Fund \u2013 ETF Class",
+        "strategy": "Seeks the highest level of current income exempt from federal income tax, consistent with capital preservation, by investing primarily in intermediate municipal securities with derivatives permitted under an 80% investment policy Operates as an ETF share class alongside traditional mutual fund share classes within a single portfolio under Fidelity's Multi-Class ETF exemptive order",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-25T13:55:40.958151+00:00",
+    "form_type": "485APOS",
+    "cik": "0000035315",
+    "company_name": "FIDELITY SALEM STREET TRUST",
+    "accession_number": "0000035315-26-000156",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/35315/000003531526000156/0000035315-26-000156-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/35315/000003531526000156/etfmain.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/35315/000003531526000156/etfmain.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIDELITY SALEM STREET TRUST\nETF Name: Fidelity\u00ae Short-Term Bond Fund \u2013 ETF Class\nStrategy: The fund seeks high current income consistent with capital preservation by investing in short-duration investment-grade bonds benchmarked to the 1\u20133 Year Government/Credit Bond Index, with authority to use derivatives including swaps, options, and futures It employs Fidelity's multi-class ETF structure, listing an ETF share class alongside traditional mutual fund shares backed by the same underlying portfolio\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIDELITY SALEM STREET TRUST",
+        "etf_name": "Fidelity\u00ae Short-Term Bond Fund \u2013 ETF Class",
+        "strategy": "The fund seeks high current income consistent with capital preservation by investing in short-duration investment-grade bonds benchmarked to the 1\u20133 Year Government/Credit Bond Index, with authority to use derivatives including swaps, options, and futures It employs Fidelity's multi-class ETF structure, listing an ETF share class alongside traditional mutual fund shares backed by the same underlying portfolio",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-25T13:56:39.138571+00:00",
+    "form_type": "485APOS",
+    "cik": "0000819118",
+    "company_name": "FIDELITY CONCORD STREET TRUST",
+    "accession_number": "0000819118-26-000040",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/819118/000081911826000040/0000819118-26-000040-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/819118/000081911826000040/main.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/819118/000081911826000040/main.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIDELITY CONCORD STREET TRUST\nETF Name: Fidelity\u00ae Series Emerging Markets ex China Index Fund\nStrategy: Passively tracks emerging-market equities while explicitly excluding China, using derivatives as needed for market exposure consistent with its 80% investment policy\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIDELITY CONCORD STREET TRUST",
+        "etf_name": "Fidelity\u00ae Series Emerging Markets ex China Index Fund",
+        "strategy": "Passively tracks emerging-market equities while explicitly excluding China, using derivatives as needed for market exposure consistent with its 80% investment policy",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-25T12:07:52.250752+00:00",
     "form_type": "485BPOS",
     "cik": "0001924868",
@@ -2917,7 +3091,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, AMT-free U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -4021,7 +4195,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling approach rather than full index replication to manage the breadth and illiquidity of the municipal bond market\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
