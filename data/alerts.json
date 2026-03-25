@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-03-25T16:01:51.126011+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000880366",
+    "company_name": "LEGG MASON PARTNERS INVESTMENT TRUST",
+    "accession_number": "0001193125-26-123160",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/880366/000119312526123160/0001193125-26-123160-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/880366/000119312526123160/d92821d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/880366/000119312526123160/d92821d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Legg Mason Partners Investment Trust\nETF Name: ClearBridge Large Cap Growth Fund\nStrategy: Seeks long-term capital growth primarily through U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Legg Mason Partners Investment Trust",
+        "etf_name": "ClearBridge Large Cap Growth Fund",
+        "strategy": "Seeks long-term capital growth primarily through U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-25T16:02:52.925431+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-001407",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001407/0001592900-26-001407-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026001407/ck0001592900-20260325.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001407/ck0001592900-20260325.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Guru Favorite Stocks ETF\nStrategy: The fund seeks long-term capital appreciation by investing in high-quality U.S It builds a concentrated portfolio of roughly 25\u201335 stocks, rebalanced semi-annually, and may hold government securities or cash equivalents as temporary defensive positions\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "Guru Favorite Stocks ETF",
+        "strategy": "The fund seeks long-term capital appreciation by investing in high-quality U.S It builds a concentrated portfolio of roughly 25\u201335 stocks, rebalanced semi-annually, and may hold government securities or cash equivalents as temporary defensive positions",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-25T16:03:49.030801+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001096344",
+    "company_name": "FAIRHOLME FUNDS INC",
+    "accession_number": "0001193125-26-123095",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1096344/000119312526123095/0001193125-26-123095-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1096344/000119312526123095/d19988d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1096344/000119312526123095/d19988d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Fairholme Funds Inc\nETF Name: The Fairholme Focused Income Fund\nStrategy: The Income Fund seeks current income by investing in a focused portfolio of cash-distributing securities, which may be rated or unrated by major credit-rating agencies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Fairholme Funds Inc",
+        "etf_name": "The Fairholme Focused Income Fund",
+        "strategy": "The Income Fund seeks current income by investing in a focused portfolio of cash-distributing securities, which may be rated or unrated by major credit-rating agencies",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-25T14:53:22.122506+00:00",
     "form_type": "485BPOS",
     "cik": "0000787836",
@@ -4253,7 +4340,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Uses a representative sampling indexing approach rather than full replication to approximate index characteristics\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Uses a representative sampling approach rather than full index replication to manage the less-liquid muni bond universe\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
