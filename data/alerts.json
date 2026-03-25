@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-25T21:46:50.138245+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001888997",
+    "company_name": "SEI Exchange Traded Funds",
+    "accession_number": "0001104659-26-034603",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1888997/000110465926034603/0001104659-26-034603-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1888997/000110465926034603/tm263619d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1888997/000110465926034603/tm263619d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SEI Exchange Traded Funds\nETF Name: SEI QiM U.S. Equity Factor Allocation Active ETF\nStrategy: The fund seeks long-term growth of capital and income by investing at least 80% of net assets in U.S Holdings are selected using equity factor strategies, including a low-volatility component, combined with portfolio optimization across common stocks, preferred stocks, structured notes, convertible bonds, and ADRs\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SEI Exchange Traded Funds",
+        "etf_name": "SEI QiM U.S. Equity Factor Allocation Active ETF",
+        "strategy": "The fund seeks long-term growth of capital and income by investing at least 80% of net assets in U.S Holdings are selected using equity factor strategies, including a low-volatility component, combined with portfolio optimization across common stocks, preferred stocks, structured notes, convertible bonds, and ADRs",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-25T21:47:46.161235+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000722885",
+    "company_name": "Pear Tree Funds",
+    "accession_number": "0001999371-26-006901",
+    "filed_date": "2026-03-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/722885/000199937126006901/0001999371-26-006901-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/722885/000199937126006901/peartree-485bpos_033026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/722885/000199937126006901/peartree-485bpos_033026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Pear Tree Funds\nETF Name: Pear Tree Polaris Foreign Value Small Cap Fund\nStrategy: Targets small-cap companies ($50 million\u2013$5 billion market cap) in foreign markets, benchmarked to the MSCI ACWI ex-US Small Cap Index, using a bottom-up value approach seeking undervalued stocks with strong fundamentals The portfolio is diversified across industry and sector, with many holdings thinly covered by analysts\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Pear Tree Funds",
+        "etf_name": "Pear Tree Polaris Foreign Value Small Cap Fund",
+        "strategy": "Targets small-cap companies ($50 million\u2013$5 billion market cap) in foreign markets, benchmarked to the MSCI ACWI ex-US Small Cap Index, using a bottom-up value approach seeking undervalued stocks with strong fundamentals The portfolio is diversified across industry and sector, with many holdings thinly covered by analysts",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-25T20:55:32.067212+00:00",
     "form_type": "485BPOS",
     "cik": "0001587982",
@@ -187,7 +245,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1644419/000158064226002001/moerus-485b.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust IV\nETF Name: Unknown\nStrategy: Although your actual costs may be higher or lower, based upon these assumptions your costs would be: 1 Year 3 Years 5 Years 10 Years Class N $ 154 $ 488 $ 845 $ 1,852 Institutional Class $ 128 $ 410 $ 713 $ 1,575 Portfolio Turnover: The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) 1 AND RELATED RISKS INVESTMENT OBJECTIVE: The Fund\u2019s objective is l\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust IV\nETF Name: Fund of Funds Investment Agreement between VanEck ETF Trust\nStrategy: The fund pursues long-term capital appreciation through a concentrated, bottom-up value portfolio of 15\u201350 domestic and foreign common stocks, including frontier and emerging market equities via ADRs\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Northern Lights Fund Trust IV",
@@ -3528,7 +3586,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, AMT-free U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -4632,7 +4690,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, AMT-free U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
