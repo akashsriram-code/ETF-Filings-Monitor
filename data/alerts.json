@@ -1,5 +1,121 @@
 [
   {
+    "created_at": "2026-03-26T16:40:05.444199+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001742912",
+    "company_name": "Tidal Trust I",
+    "accession_number": "0001999371-26-006956",
+    "filed_date": "2026-03-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126006956/0001999371-26-006956-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1742912/000199937126006956/spfunds-485bpos_032626.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126006956/spfunds-485bpos_032626.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust I\nETF Name: SP Funds S&P Global REIT Sharia ETF\nStrategy: Passively tracks the S&P Global All Equity REIT Shariah Capped Index, investing in Sharia-compliant REITs across developed and emerging markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust I",
+        "etf_name": "SP Funds S&P Global REIT Sharia ETF",
+        "strategy": "Passively tracks the S&P Global All Equity REIT Shariah Capped Index, investing in Sharia-compliant REITs across developed and emerging markets",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-26T16:41:10.452400+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001645192",
+    "company_name": "WP Trust",
+    "accession_number": "0001413042-26-000244",
+    "filed_date": "2026-03-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1645192/000141304226000244/0001413042-26-000244-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1645192/000141304226000244/fp0098029-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1645192/000141304226000244/fp0098029-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: WP Trust\nETF Name: Large Cap Fund\nStrategy: The Fund invests at least 80% of total assets in U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "WP Trust",
+        "etf_name": "Large Cap Fund",
+        "strategy": "The Fund invests at least 80% of total assets in U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-26T16:41:51.272639+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001103243",
+    "company_name": "PFS FUNDS",
+    "accession_number": "0001413042-26-000242",
+    "filed_date": "2026-03-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1103243/000141304226000242/0001413042-26-000242-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1103243/000141304226000242/fp0098028-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1103243/000141304226000242/fp0098028-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PFS Funds\nETF Name: Taylor Frigon Core Growth Fund\nStrategy: The fund seeks long-term capital appreciation by investing primarily in common stocks of companies across all market capitalizations, including small- and micro-cap names, selected through a proprietary process emphasizing management quality and growth prospects It is managed by Taylor Frigon Capital Management using its TFCM Core Growth Strategy with a concentrated, conviction-driven approach\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PFS Funds",
+        "etf_name": "Taylor Frigon Core Growth Fund",
+        "strategy": "The fund seeks long-term capital appreciation by investing primarily in common stocks of companies across all market capitalizations, including small- and micro-cap names, selected through a proprietary process emphasizing management quality and growth prospects It is managed by Taylor Frigon Capital Management using its TFCM Core Growth Strategy with a concentrated, conviction-driven approach",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-26T16:42:36.519298+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000102816",
+    "company_name": "Eaton Vance Growth Trust",
+    "accession_number": "0001133228-26-004073",
+    "filed_date": "2026-03-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/102816/000113322826004073/0001133228-26-004073-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/102816/000113322826004073/evgt-efp23090_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/102816/000113322826004073/evgt-efp23090_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Eaton Vance Growth Trust\nETF Name: Eaton Vance International Small-Cap Fund\nStrategy: The fund maintains broad issuer and industry diversification, benchmarked to the MSCI EAFE Index, and may use ETFs for cash management or sector exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Eaton Vance Growth Trust",
+        "etf_name": "Eaton Vance International Small-Cap Fund",
+        "strategy": "The fund maintains broad issuer and industry diversification, benchmarked to the MSCI EAFE Index, and may use ETFs for cash management or sector exposure",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-26T13:59:32.698951+00:00",
     "form_type": "S-1",
     "cik": "0001527613",
@@ -3617,7 +3733,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a portfolio of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -4721,7 +4837,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S The fund operates as a defined-maturity ETF\u2014distinct from a target-date fund\u2014designed to give investors bond-ladder-like exposure within an ETF wrapper\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
