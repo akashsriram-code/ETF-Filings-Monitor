@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-26T17:43:56.192000+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001141819",
+    "company_name": "TRUST FOR PROFESSIONAL MANAGERS",
+    "accession_number": "0000894189-26-008508",
+    "filed_date": "2026-03-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1141819/000089418926008508/0000894189-26-008508-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1141819/000089418926008508/ck0001141819-20260326.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1141819/000089418926008508/ck0001141819-20260326.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Convergence Investment Partners\nETF Name: Convergence Long/Short Equity ETF\nStrategy: At least 80% of net assets are held in long and short equity positions with the objective of long-term capital growth\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Convergence Investment Partners",
+        "etf_name": "Convergence Long/Short Equity ETF",
+        "strategy": "At least 80% of net assets are held in long and short equity positions with the objective of long-term capital growth",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-26T17:44:42.322680+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000931491",
+    "company_name": "CAPITAL MANAGEMENT INVESTMENT TRUST",
+    "accession_number": "0001413042-26-000246",
+    "filed_date": "2026-03-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/931491/000141304226000246/0001413042-26-000246-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/931491/000141304226000246/fp0098032-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/931491/000141304226000246/fp0098032-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Capital Management Investment Trust\nETF Name: Wellington Shields All-Cap Fund\nStrategy: Seeks capital appreciation by investing primarily in U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Capital Management Investment Trust",
+        "etf_name": "Wellington Shields All-Cap Fund",
+        "strategy": "Seeks capital appreciation by investing primarily in U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-26T16:40:05.444199+00:00",
     "form_type": "485BPOS",
     "cik": "0001742912",
@@ -3733,7 +3791,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a portfolio of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -4837,7 +4895,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S It employs a representative sampling indexing approach rather than full index replication and operates as a defined-maturity (term) fund\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
