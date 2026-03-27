@@ -1,5 +1,382 @@
 [
   {
+    "created_at": "2026-03-27T16:39:02.123743+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000797920",
+    "company_name": "BNY MELLON NEW YORK AMT-FREE MUNICIPAL BOND FUND",
+    "accession_number": "0000030146-26-000141",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/797920/000003014626000141/0000030146-26-000141-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/797920/000003014626000141/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/797920/000003014626000141/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BNY Investment Adviser, Inc. (BNYIA)\nETF Name: BNY Mellon New York Tax-Exempt Municipal Bond Fund\nStrategy: The fund seeks to maximize current income exempt from federal, New York state, and New York City personal income taxes by investing at least 80% of net assets in New York municipal bonds, with at least 70% in investment-grade issues\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BNY Investment Adviser, Inc. (BNYIA)",
+        "etf_name": "BNY Mellon New York Tax-Exempt Municipal Bond Fund",
+        "strategy": "The fund seeks to maximize current income exempt from federal, New York state, and New York City personal income taxes by investing at least 80% of net assets in New York municipal bonds, with at least 70% in investment-grade issues",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T16:39:53.828449+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000353560",
+    "company_name": "GENERAL MONEY MARKET FUND, INC.",
+    "accession_number": "0000030146-26-000140",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/353560/000003014626000140/0000030146-26-000140-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/353560/000003014626000140/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/353560/000003014626000140/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GENERAL MONEY MARKET FUND, INC\nETF Name: BNY Mellon International Stock Index Fund\nStrategy: The fund seeks to replicate its benchmark index by maintaining a portfolio closely resembling the index's constituent securities It uses shareholder purchase and redemption cash flows to sustain portfolio alignment with the index, supplemented by cash or cash equivalents\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GENERAL MONEY MARKET FUND, INC",
+        "etf_name": "BNY Mellon International Stock Index Fund",
+        "strategy": "The fund seeks to replicate its benchmark index by maintaining a portfolio closely resembling the index's constituent securities It uses shareholder purchase and redemption cash flows to sustain portfolio alignment with the index, supplemented by cash or cash equivalents",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T16:40:51.322713+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001469192",
+    "company_name": "NEW YORK LIFE INVESTMENTS FUNDS TRUST",
+    "accession_number": "0001469192-26-000083",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1469192/000146919226000083/0001469192-26-000083-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1469192/000146919226000083/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1469192/000146919226000083/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: New York Life Investments Funds Trust\nETF Name: NYLI Cushing MLP Premier Fund\nStrategy: Seeks current income and capital appreciation by investing at least 80% of net assets in master limited partnerships and MLP-related investments, with more than 25% concentrated in natural resources\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "New York Life Investments Funds Trust",
+        "etf_name": "NYLI Cushing MLP Premier Fund",
+        "strategy": "Seeks current income and capital appreciation by investing at least 80% of net assets in master limited partnerships and MLP-related investments, with more than 25% concentrated in natural resources",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T16:41:32.305506+00:00",
+    "form_type": "485APOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-001429",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001429/0001592900-26-001429-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026001429/tih485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001429/tih485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Discipline Fund ETF\nStrategy: The fund seeks long-term capital appreciation, is not benchmarked to any index, and may also invest in other ETFs\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "Discipline Fund ETF",
+        "strategy": "The fund seeks long-term capital appreciation, is not benchmarked to any index, and may also invest in other ETFs",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T16:42:13.210333+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001199046",
+    "company_name": "UNIFIED SERIES TRUST",
+    "accession_number": "0001580642-26-002047",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1199046/000158064226002047/0001580642-26-002047-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1199046/000158064226002047/auer_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1199046/000158064226002047/auer_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Unified Series Trust\nETF Name: Absolute Select Value ETF\nStrategy: The fund invests in a diversified portfolio of U.S.-listed common stocks selected for substantial recent sales and earnings growth combined with a relatively low price-to-earnings ratio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Unified Series Trust",
+        "etf_name": "Absolute Select Value ETF",
+        "strategy": "The fund invests in a diversified portfolio of U.S.-listed common stocks selected for substantial recent sales and earnings growth combined with a relatively low price-to-earnings ratio",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T16:42:53.014490+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000225322",
+    "company_name": "FIDELITY SUMMER STREET TRUST",
+    "accession_number": "0000225322-26-000074",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/225322/000022532226000074/0000225322-26-000074-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/225322/000022532226000074/filing11247.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/225322/000022532226000074/filing11247.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Fidelity Summer Street Trust\nETF Name: Fidelity Series Sustainable U.S. Market Fund\nStrategy: The fund seeks long-term growth of capital by combining a quantitative ESG-ratings-driven portfolio-construction model with fundamental bottom-up analysis of U.S It may use derivatives to maintain market exposure consistent with its 80% sustainable-investment policy and is available only as an underlying fund for other Fidelity products\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Fidelity Summer Street Trust",
+        "etf_name": "Fidelity Series Sustainable U.S. Market Fund",
+        "strategy": "The fund seeks long-term growth of capital by combining a quantitative ESG-ratings-driven portfolio-construction model with fundamental bottom-up analysis of U.S It may use derivatives to maintain market exposure consistent with its 80% sustainable-investment policy and is available only as an underlying fund for other Fidelity products",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T16:43:44.426414+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000357057",
+    "company_name": "FIDELITY MASSACHUSETTS MUNICIPAL TRUST",
+    "accession_number": "0000357057-26-000025",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/357057/000035705726000025/0000357057-26-000025-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/357057/000035705726000025/filing11243.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/357057/000035705726000025/filing11243.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Fidelity Massachusetts Municipal Trust\nETF Name: Fidelity Massachusetts Municipal Money Market Fund\nStrategy: Seeks high current income exempt from federal and Massachusetts personal income tax while preserving capital and liquidity at a stable $1.00 NAV Invests in short-term municipal securities complying with regulatory requirements for quality, maturity, liquidity, and diversification\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Fidelity Massachusetts Municipal Trust",
+        "etf_name": "Fidelity Massachusetts Municipal Money Market Fund",
+        "strategy": "Seeks high current income exempt from federal and Massachusetts personal income tax while preserving capital and liquidity at a stable $1.00 NAV Invests in short-term municipal securities complying with regulatory requirements for quality, maturity, liquidity, and diversification",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T16:44:50.824908+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001898391",
+    "company_name": "Fidelity Greenwood Street Trust",
+    "accession_number": "0001898391-26-000042",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1898391/000189839126000042/0001898391-26-000042-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1898391/000189839126000042/filing11245.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1898391/000189839126000042/filing11245.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Fidelity Greenwood Street Trust\nETF Name: Fidelity\u00ae Hedged Equity Fund\nStrategy: Seeks capital appreciation by constructing a U.S large-cap equity portfolio with risk-return characteristics similar to the S&P 500\u00ae Index, combined with a disciplined options-based overlay designed to provide downside protection in declining markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Fidelity Greenwood Street Trust",
+        "etf_name": "Fidelity\u00ae Hedged Equity Fund",
+        "strategy": "Seeks capital appreciation by constructing a U.S large-cap equity portfolio with risk-return characteristics similar to the S&P 500\u00ae Index, combined with a disciplined options-based overlay designed to provide downside protection in declining markets",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T16:45:31.796304+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000718581",
+    "company_name": "FIDELITY NEW YORK MUNICIPAL TRUST",
+    "accession_number": "0000718581-26-000016",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/718581/000071858126000016/0000718581-26-000016-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/718581/000071858126000016/filing11241.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/718581/000071858126000016/filing11241.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIDELITY NEW YORK MUNICIPAL TRUST\nETF Name: Fidelity\u00ae New York Municipal Income Fund\nStrategy: The fund seeks a high level of current income exempt from federal and New York State and City personal income taxes It invests at least 80% of assets in investment-grade New York municipal securities, managing overall interest rate risk to align with a market value-weighted index of New York investment-grade fixed-rate municipal bonds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIDELITY NEW YORK MUNICIPAL TRUST",
+        "etf_name": "Fidelity\u00ae New York Municipal Income Fund",
+        "strategy": "The fund seeks a high level of current income exempt from federal and New York State and City personal income taxes It invests at least 80% of assets in investment-grade New York municipal securities, managing overall interest rate risk to align with a market value-weighted index of New York investment-grade fixed-rate municipal bonds",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T16:46:09.506424+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000320351",
+    "company_name": "FIDELITY SELECT PORTFOLIOS",
+    "accession_number": "0000320351-26-000068",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/320351/000032035126000068/0000320351-26-000068-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/320351/000032035126000068/filing11233.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/320351/000032035126000068/filing11233.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Fidelity Select Portfolios\nETF Name: Fidelity\u00ae Telecom and Utilities Fund\nStrategy: Seeks high total return through current income and capital appreciation by investing at least 80% of assets in telecom and utility company securities, selected via bottom-up fundamental analysis of financial condition, earnings outlook, and industry position May use derivative instruments for additional exposure consistent with its sector-concentration policy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Fidelity Select Portfolios",
+        "etf_name": "Fidelity\u00ae Telecom and Utilities Fund",
+        "strategy": "Seeks high total return through current income and capital appreciation by investing at least 80% of assets in telecom and utility company securities, selected via bottom-up fundamental analysis of financial condition, earnings outlook, and industry position May use derivative instruments for additional exposure consistent with its sector-concentration policy",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T16:47:07.064112+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000035315",
+    "company_name": "FIDELITY SALEM STREET TRUST",
+    "accession_number": "0000035315-26-000167",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/35315/000003531526000167/0000035315-26-000167-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/35315/000003531526000167/filing11235.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/35315/000003531526000167/filing11235.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIDELITY SALEM STREET TRUST\nETF Name: Fidelity\u00ae Series Large Cap Value Index Fund (FIOOX)\nStrategy: Passively managed fund that seeks to track an unmanaged U.S large-cap value index with a 0.00% total expense ratio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIDELITY SALEM STREET TRUST",
+        "etf_name": "Fidelity\u00ae Series Large Cap Value Index Fund (FIOOX)",
+        "strategy": "Passively managed fund that seeks to track an unmanaged U.S large-cap value index with a 0.00% total expense ratio",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T16:47:51.237992+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000878663",
+    "company_name": "FIDELITY NEW YORK MUNICIPAL TRUST II",
+    "accession_number": "0000878663-26-000018",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/878663/000087866326000018/0000878663-26-000018-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/878663/000087866326000018/filing11239.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/878663/000087866326000018/filing11239.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Fidelity New York Municipal Trust II\nETF Name: Fidelity\u00ae New York Municipal Money Market Fund\nStrategy: The fund seeks the highest level of current income exempt from federal income tax and New York State and City personal income taxes consistent with preservation of capital It invests in New York municipal securities under regulatory requirements governing quality, maturity, liquidity, and diversification, targeting a stable $1.00 NAV\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Fidelity New York Municipal Trust II",
+        "etf_name": "Fidelity\u00ae New York Municipal Money Market Fund",
+        "strategy": "The fund seeks the highest level of current income exempt from federal income tax and New York State and City personal income taxes consistent with preservation of capital It invests in New York municipal securities under regulatory requirements governing quality, maturity, liquidity, and diversification, targeting a stable $1.00 NAV",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T16:48:55.581054+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000035341",
+    "company_name": "FIDELITY DEVONSHIRE TRUST",
+    "accession_number": "0000035341-26-000087",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/35341/000003534126000087/0000035341-26-000087-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/35341/000003534126000087/filing11237.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/35341/000003534126000087/filing11237.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIDELITY DEVONSHIRE TRUST\nETF Name: Fidelity\u00ae Stock Selector Large Cap Value Fund\nStrategy: Seeks long-term growth of capital by investing in U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIDELITY DEVONSHIRE TRUST",
+        "etf_name": "Fidelity\u00ae Stock Selector Large Cap Value Fund",
+        "strategy": "Seeks long-term growth of capital by investing in U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-27T15:41:40.403808+00:00",
     "form_type": "485BPOS",
     "cik": "0000357159",
@@ -4777,7 +5154,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -5881,7 +6258,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S The fund is a defined-maturity (term) vehicle designed to give investors bond-ladder exposure to tax-exempt munis with a specific 2034 endpoint\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
