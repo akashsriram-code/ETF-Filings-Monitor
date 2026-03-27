@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-03-27T17:36:14.882763+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000795264",
+    "company_name": "THOMPSON IM FUNDS INC",
+    "accession_number": "0001104659-26-035949",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/795264/000110465926035949/0001104659-26-035949-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/795264/000110465926035949/tm265508d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/795264/000110465926035949/tm265508d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Thompson Investment Management, Inc\nETF Name: Thompson Bond Fund\nStrategy: Invests at least 80% of net assets in a diversified portfolio of domestic and foreign corporate bonds payable in U.S The fund seeks higher current income while preserving capital, with sector and credit-quality allocations that may differ from its benchmark\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Thompson Investment Management, Inc",
+        "etf_name": "Thompson Bond Fund",
+        "strategy": "Invests at least 80% of net assets in a diversified portfolio of domestic and foreign corporate bonds payable in U.S The fund seeks higher current income while preserving capital, with sector and credit-quality allocations that may differ from its benchmark",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T17:37:23.336802+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001224568",
+    "company_name": "BNY Mellon Investment Funds VI",
+    "accession_number": "0000030146-26-000142",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1224568/000003014626000142/0000030146-26-000142-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1224568/000003014626000142/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1224568/000003014626000142/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BNY Mellon Investment Funds VI\nETF Name: BNY Mellon International Stock Index Fund\nStrategy: The fund passively tracks an international equity index by maintaining portfolio holdings that closely mirror the index's securities composition It uses cash flows from shareholder purchases and redemptions to sustain index alignment rather than relying on frequent active rebalancing\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BNY Mellon Investment Funds VI",
+        "etf_name": "BNY Mellon International Stock Index Fund",
+        "strategy": "The fund passively tracks an international equity index by maintaining portfolio holdings that closely mirror the index's securities composition It uses cash flows from shareholder purchases and redemptions to sustain index alignment rather than relying on frequent active rebalancing",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T17:38:33.998883+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001545440",
+    "company_name": "Ultimus Managers Trust",
+    "accession_number": "0001580642-26-002048",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1545440/000158064226002048/0001580642-26-002048-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1545440/000158064226002048/umt-funds_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1545440/000158064226002048/umt-funds_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Ultimus Managers Trust\nETF Name: Q3 All-Season Systematic Opportunities Fund\nStrategy: The fund seeks capital appreciation using a systematic, tactical approach designed to perform across varying market environments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Ultimus Managers Trust",
+        "etf_name": "Q3 All-Season Systematic Opportunities Fund",
+        "strategy": "The fund seeks capital appreciation using a systematic, tactical approach designed to perform across varying market environments",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-27T16:39:02.123743+00:00",
     "form_type": "485BPOS",
     "cik": "0000797920",
@@ -5154,7 +5241,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -6258,7 +6345,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S The fund is a defined-maturity (term) vehicle designed to give investors bond-ladder exposure to tax-exempt munis with a specific 2034 endpoint\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling indexing approach within a defined-maturity ETF structure rather than full index replication\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
