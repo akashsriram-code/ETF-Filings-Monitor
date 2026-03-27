@@ -1,5 +1,121 @@
 [
   {
+    "created_at": "2026-03-27T20:03:54.723013+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001667919",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+    "accession_number": "0001445546-26-002379",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626002379/0001445546-26-002379-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1667919/000144554626002379/ft-20260327.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626002379/ft-20260327.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund VIII\nETF Name: FT Vest Laddered Emerging Markets Buffer ETF (BUFE)\nStrategy: The fund builds a laddered portfolio of four FT Vest Emerging Markets Buffer ETFs, each using FLEX Options on the iShares MSCI Emerging Markets ETF (EEM) to deliver capped upside with downside buffer protection across staggered target outcome periods The structure rolls exposure continuously across emerging-market equities, reducing the single-entry-point timing risk inherent in standalone buffer funds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "First Trust Exchange-Traded Fund VIII",
+        "etf_name": "FT Vest Laddered Emerging Markets Buffer ETF (BUFE)",
+        "strategy": "The fund builds a laddered portfolio of four FT Vest Emerging Markets Buffer ETFs, each using FLEX Options on the iShares MSCI Emerging Markets ETF (EEM) to deliver capped upside with downside buffer protection across staggered target outcome periods The structure rolls exposure continuously across emerging-market equities, reducing the single-entry-point timing risk inherent in standalone buffer funds",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T20:04:44.098639+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001884762",
+    "company_name": "Connors Funds",
+    "accession_number": "0001580642-26-002057",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1884762/000158064226002057/0001580642-26-002057-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1884762/000158064226002057/connors-hedged_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1884762/000158064226002057/connors-hedged_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Connors Funds\nETF Name: Connors Hedged Equity Fund\nStrategy: The fund seeks capital appreciation and income with lower volatility than the broad U.S High portfolio turnover is expected, which may increase transaction costs, elevate fund expenses, and trigger realization of short-term capital gains for shareholders\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Connors Funds",
+        "etf_name": "Connors Hedged Equity Fund",
+        "strategy": "The fund seeks capital appreciation and income with lower volatility than the broad U.S High portfolio turnover is expected, which may increase transaction costs, elevate fund expenses, and trigger realization of short-term capital gains for shareholders",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T20:05:41.394436+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-001432",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001432/0001592900-26-001432-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026001432/ck0001592900-20260327.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001432/ck0001592900-20260327.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Militia Long/Short Equity ETF\nStrategy: The fund seeks capital appreciation through an actively managed long/short equity approach, taking both long and short positions in global equities and ETFs\u2014including leveraged and inverse ETFs\u2014across all market capitalizations At least 80% of net assets are invested in equity securities or equity-exposure ETFs, with a non-diversified, high-turnover fundamental stock-selection process managed by a former professional...\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "Militia Long/Short Equity ETF",
+        "strategy": "The fund seeks capital appreciation through an actively managed long/short equity approach, taking both long and short positions in global equities and ETFs\u2014including leveraged and inverse ETFs\u2014across all market capitalizations At least 80% of net assets are invested in equity securities or equity-exposure ETFs, with a non-diversified, high-turnover fundamental stock-selection process managed by a former professional...",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T20:06:29.910722+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002042316",
+    "company_name": "Victory Portfolios IV",
+    "accession_number": "0001193125-26-128874",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2042316/000119312526128874/0001193125-26-128874-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2042316/000119312526128874/f44569d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2042316/000119312526128874/f44569d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Victory Portfolios IV\nETF Name: Victory Pioneer International Equity Fund\nStrategy: equity securities\u2014including common stocks, depositary receipts, REITs, and preferred stocks\u2014across developed and emerging markets, with notable geographic exposure to Japan, Germany, and the U.K\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Victory Portfolios IV",
+        "etf_name": "Victory Pioneer International Equity Fund",
+        "strategy": "equity securities\u2014including common stocks, depositary receipts, REITs, and preferred stocks\u2014across developed and emerging markets, with notable geographic exposure to Japan, Germany, and the U.K",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-27T19:31:21.502860+00:00",
     "form_type": "485BPOS",
     "cik": "0001505064",
@@ -5589,7 +5705,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -6693,7 +6809,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
