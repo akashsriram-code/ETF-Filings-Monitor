@@ -1,5 +1,150 @@
 [
   {
+    "created_at": "2026-03-27T18:37:14.120275+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001027596",
+    "company_name": "ADVISORS SERIES TRUST",
+    "accession_number": "0000894189-26-009089",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1027596/000089418926009089/0000894189-26-009089-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1027596/000089418926009089/ck0001027596-20260327.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1027596/000089418926009089/ck0001027596-20260327.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Advisors Series Trust\nETF Name: Pzena U.S. Large Cap Value ETF\nStrategy: large-cap value equity ETF that seeks long-term capital appreciation by selecting stocks on a bottom-up, company-by-company basis without regard to benchmarks\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Advisors Series Trust",
+        "etf_name": "Pzena U.S. Large Cap Value ETF",
+        "strategy": "large-cap value equity ETF that seeks long-term capital appreciation by selecting stocks on a bottom-up, company-by-company basis without regard to benchmarks",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T18:38:16.264854+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001717375",
+    "company_name": "Dreyfus Institutional Liquidity Funds",
+    "accession_number": "0000030146-26-000144",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1717375/000003014626000144/0000030146-26-000144-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1717375/000003014626000144/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1717375/000003014626000144/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Dreyfus Institutional Liquidity Funds\nETF Name: Dreyfus Government Cash Management Fund\nStrategy: The fund invests exclusively in U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Dreyfus Institutional Liquidity Funds",
+        "etf_name": "Dreyfus Government Cash Management Fund",
+        "strategy": "The fund invests exclusively in U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T18:39:30.515867+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000911507",
+    "company_name": "LORD ABBETT INVESTMENT TRUST",
+    "accession_number": "0000930413-26-000913",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/911507/000093041326000913/0000930413-26-000913-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/911507/000093041326000913/c115380_485bpos-ixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/911507/000093041326000913/c115380_485bpos-ixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: LORD ABBETT INVESTMENT TRUST\nETF Name: Lord Abbett Affiliated Fund\nStrategy: Allocations among underlying funds may be changed at any time without prior shareholder approval, giving the adviser broad discretion over asset-class and strategy mix\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "LORD ABBETT INVESTMENT TRUST",
+        "etf_name": "Lord Abbett Affiliated Fund",
+        "strategy": "Allocations among underlying funds may be changed at any time without prior shareholder approval, giving the adviser broad discretion over asset-class and strategy mix",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T18:41:00.385762+00:00",
+    "form_type": "485APOS",
+    "cik": "0001742912",
+    "company_name": "Tidal Trust I",
+    "accession_number": "0001999371-26-007048",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126007048/0001999371-26-007048-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1742912/000199937126007048/unlimited-485apos_32726.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126007048/unlimited-485apos_32726.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust I\nETF Name: Unlimited Dynamic Leverage US Treasuries ETF (DYZB)\nStrategy: Actively managed ETF using U.S.-listed futures and underlying ETFs/ETPs to achieve dynamic exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust I",
+        "etf_name": "Unlimited Dynamic Leverage US Treasuries ETF (DYZB)",
+        "strategy": "Actively managed ETF using U.S.-listed futures and underlying ETFs/ETPs to achieve dynamic exposure to U.S",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T18:41:50.634729+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000737520",
+    "company_name": "BNY Mellon Strategic Funds, Inc.",
+    "accession_number": "0000030146-26-000143",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/737520/000003014626000143/0000030146-26-000143-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/737520/000003014626000143/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/737520/000003014626000143/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BNY Mellon Strategic Funds, Inc\nETF Name: BNY Mellon Global Stock Fund\nStrategy: Global equity fund that invests at least 80% of net assets in stocks across a minimum of three countries, with no hard geographic limits, seeking long-term total return\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BNY Mellon Strategic Funds, Inc",
+        "etf_name": "BNY Mellon Global Stock Fund",
+        "strategy": "Global equity fund that invests at least 80% of net assets in stocks across a minimum of three countries, with no hard geographic limits, seeking long-term total return",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-27T17:36:14.882763+00:00",
     "form_type": "485BPOS",
     "cik": "0000795264",
@@ -5241,7 +5386,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling indexing approach rather than full index replication\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -6345,7 +6490,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling indexing approach within a defined-maturity ETF structure rather than full index replication\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
