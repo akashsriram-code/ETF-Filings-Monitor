@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-27T13:44:59.728679+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000798250",
+    "company_name": "MFS SERIES TRUST II",
+    "accession_number": "0000912938-26-000335",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/798250/000091293826000335/0000912938-26-000335-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/798250/000091293826000335/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/798250/000091293826000335/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: MFS Series Trust II\nETF Name: MFS Active ETFs (collective reference \u2014 no individual ETF named)\nStrategy: The filing references the MFS Active Exchange Traded Funds Trust and its series collectively, describing authorized-participant voting arrangements rather than any investment objective No specific asset-class focus, benchmark, or portfolio strategy is stated in the available filing text\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "MFS Series Trust II",
+        "etf_name": "MFS Active ETFs (collective reference \u2014 no individual ETF named)",
+        "strategy": "The filing references the MFS Active Exchange Traded Funds Trust and its series collectively, describing authorized-participant voting arrangements rather than any investment objective No specific asset-class focus, benchmark, or portfolio strategy is stated in the available filing text",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T13:46:20.272216+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000783740",
+    "company_name": "MFS SERIES TRUST X",
+    "accession_number": "0000912938-26-000333",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/783740/000091293826000333/0000912938-26-000333-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/783740/000091293826000333/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/783740/000091293826000333/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: MFS SERIES TRUST X\nETF Name: MFS Active ETF\nStrategy: The MFS Active ETFs are a suite of actively managed exchange-traded funds under the MFS Active Exchange Traded Funds Trust, with exposure to domestic and foreign securities including fixed income instruments and derivatives\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "MFS SERIES TRUST X",
+        "etf_name": "MFS Active ETF",
+        "strategy": "The MFS Active ETFs are a suite of actively managed exchange-traded funds under the MFS Active Exchange Traded Funds Trust, with exposure to domestic and foreign securities including fixed income instruments and derivatives",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-27T10:32:33.092871+00:00",
     "form_type": "485BPOS",
     "cik": "0001027596",
@@ -4545,7 +4603,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -5649,7 +5707,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling approach rather than full index replication, functioning as a defined-maturity bond ETF that winds down near its target date\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
