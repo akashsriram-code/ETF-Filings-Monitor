@@ -1,5 +1,208 @@
 [
   {
+    "created_at": "2026-03-27T19:31:21.502860+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001505064",
+    "company_name": "MainGate Trust",
+    "accession_number": "0000894189-26-009601",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1505064/000089418926009601/0000894189-26-009601-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1505064/000089418926009601/ck0001505064-20260327.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1505064/000089418926009601/ck0001505064-20260327.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: MainGate Trust\nETF Name: MainGate MLP Fund\nStrategy: Structured as a C-corporation due to concentrated MLP exposure, with the adviser selecting MLPs based on relative attractiveness and target valuations while retaining discretion to rotate defensively into cash\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "MainGate Trust",
+        "etf_name": "MainGate MLP Fund",
+        "strategy": "Structured as a C-corporation due to concentrated MLP exposure, with the adviser selecting MLPs based on relative attractiveness and target valuations while retaining discretion to rotate defensively into cash",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T19:32:14.658675+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001558372",
+    "company_name": "YCG Mutual Funds",
+    "accession_number": "0000894189-26-009598",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1558372/000089418926009598/0000894189-26-009598-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1558372/000089418926009598/ck0001558372-20260327.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1558372/000089418926009598/ck0001558372-20260327.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: YCG Mutual Funds\nETF Name: YCG Enhanced Fund\nStrategy: Employs a low-turnover, conviction-driven approach with notable sector concentration in information technology, including AI and cloud computing themes, plus emerging-markets exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "YCG Mutual Funds",
+        "etf_name": "YCG Enhanced Fund",
+        "strategy": "Employs a low-turnover, conviction-driven approach with notable sector concentration in information technology, including AI and cloud computing themes, plus emerging-markets exposure",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T19:33:07.978235+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001683471",
+    "company_name": "Listed Funds Trust",
+    "accession_number": "0000894189-26-009596",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926009596/0000894189-26-009596-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1683471/000089418926009596/ck0001683471-20260327.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926009596/ck0001683471-20260327.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Listed Funds Trust\nETF Name: Swan Hedged Equity U.S. Large Cap ETF\nStrategy: large-cap equity ETF that invests at least 80% of net assets in large-cap U.S stocks and hedges downside risk through long-term S&P 500 Index put options under Swan's proprietary Defined Risk Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Listed Funds Trust",
+        "etf_name": "Swan Hedged Equity U.S. Large Cap ETF",
+        "strategy": "large-cap equity ETF that invests at least 80% of net assets in large-cap U.S stocks and hedges downside risk through long-term S&P 500 Index put options under Swan's proprietary Defined Risk Strategy",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T19:34:15.481230+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000052136",
+    "company_name": "Natixis Funds Trust II",
+    "accession_number": "0001193125-26-128778",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/52136/000119312526128778/0001193125-26-128778-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/52136/000119312526128778/d80323d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/52136/000119312526128778/d80323d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Natixis Funds Trust II\nETF Name: Vaughan Nelson Select Fund\nStrategy: and international equity fund that invests primarily in common stocks of companies with sustainable competitive advantages and attractive cash-flow returns, purchased at significant discounts to estimated intrinsic value\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Natixis Funds Trust II",
+        "etf_name": "Vaughan Nelson Select Fund",
+        "strategy": "and international equity fund that invests primarily in common stocks of companies with sustainable competitive advantages and attractive cash-flow returns, purchased at significant discounts to estimated intrinsic value",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T19:35:37.012256+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000822977",
+    "company_name": "GOLDMAN SACHS TRUST",
+    "accession_number": "0001193125-26-128760",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/822977/000119312526128760/0001193125-26-128760-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/822977/000119312526128760/d56504d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/822977/000119312526128760/d56504d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Goldman Sachs Trust\nETF Name: Goldman Sachs Clean Energy Income Fund\nStrategy: The Fund invests, under normal circumstances, at least 80% of its net assets in U.S It may invest up to 25% of total assets in master limited partnerships and up to 20% in non-clean-energy companies, and is non-diversified\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Goldman Sachs Trust",
+        "etf_name": "Goldman Sachs Clean Energy Income Fund",
+        "strategy": "The Fund invests, under normal circumstances, at least 80% of its net assets in U.S It may invest up to 25% of total assets in master limited partnerships and up to 20% in non-clean-energy companies, and is non-diversified",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T19:36:47.257701+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000822977",
+    "company_name": "GOLDMAN SACHS TRUST",
+    "accession_number": "0001193125-26-128733",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/822977/000119312526128733/0001193125-26-128733-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/822977/000119312526128733/d31189d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/822977/000119312526128733/d31189d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Goldman Sachs Trust\nETF Name: Goldman Sachs Investor Tax-Exempt New York Money Market Fund\nStrategy: The fund is a money market vehicle that invests in short-term, high-quality tax-exempt instruments tied to New York state, seeking to maximize current income while maintaining a stable $1.00 share price Its investment objective may be changed without shareholder approval upon sixty days' notice\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Goldman Sachs Trust",
+        "etf_name": "Goldman Sachs Investor Tax-Exempt New York Money Market Fund",
+        "strategy": "The fund is a money market vehicle that invests in short-term, high-quality tax-exempt instruments tied to New York state, seeking to maximize current income while maintaining a stable $1.00 share price Its investment objective may be changed without shareholder approval upon sixty days' notice",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T19:37:37.369894+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001027596",
+    "company_name": "ADVISORS SERIES TRUST",
+    "accession_number": "0000894189-26-009094",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1027596/000089418926009094/0000894189-26-009094-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1027596/000089418926009094/ck0001027596-20260327.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1027596/000089418926009094/ck0001027596-20260327.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Advisors Series Trust\nETF Name: Medalist Partners Short Duration Fund\nStrategy: Adjusts portfolio maturity, duration, and credit quality across sectors to manage risk\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Advisors Series Trust",
+        "etf_name": "Medalist Partners Short Duration Fund",
+        "strategy": "Adjusts portfolio maturity, duration, and credit quality across sectors to manage risk",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-27T18:37:14.120275+00:00",
     "form_type": "485BPOS",
     "cik": "0001027596",
@@ -5386,7 +5589,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling indexing approach rather than full index replication\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -6490,7 +6693,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
