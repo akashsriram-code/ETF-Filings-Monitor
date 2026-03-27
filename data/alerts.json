@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-03-27T14:44:18.416272+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-001425",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001425/0001592900-26-001425-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026001425/ck0001592900-20260327.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001425/ck0001592900-20260327.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Sequoia Global Value ETF\nStrategy: equity securities across all market caps and in ETFs providing broad domestic and international equity and real estate exposure, benchmarked to the MSCI ACWI All Cap Index Net The sub-adviser selects underlying ETFs based on peer-relative performance, low expense ratios, low portfolio turnover, and below-average capital-gains distributions\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "Sequoia Global Value ETF",
+        "strategy": "equity securities across all market caps and in ETFs providing broad domestic and international equity and real estate exposure, benchmarked to the MSCI ACWI All Cap Index Net The sub-adviser selects underlying ETFs based on peer-relative performance, low expense ratios, low portfolio turnover, and below-average capital-gains distributions",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T14:45:38.247285+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000063090",
+    "company_name": "MASSACHUSETTS INVESTORS GROWTH STOCK FUND",
+    "accession_number": "0000912938-26-000338",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/63090/000091293826000338/0000912938-26-000338-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/63090/000091293826000338/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/63090/000091293826000338/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Massachusetts Investors Growth Stock Fund\nETF Name: MFS Active ETF (series of MFS Active Exchange Traded Funds Trust)\nStrategy: No investment objective, asset class, benchmark, or principal strategy for any MFS Active ETF is described in the filing text\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Massachusetts Investors Growth Stock Fund",
+        "etf_name": "MFS Active ETF (series of MFS Active Exchange Traded Funds Trust)",
+        "strategy": "No investment objective, asset class, benchmark, or principal strategy for any MFS Active ETF is described in the filing text",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T14:46:42.753139+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001502745",
+    "company_name": "Copeland Trust",
+    "accession_number": "0001580642-26-002038",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1502745/000158064226002038/0001580642-26-002038-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1502745/000158064226002038/copeland-485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1502745/000158064226002038/copeland-485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Copeland Trust\nETF Name: Copeland International Small Cap Fund\nStrategy: Targets international small-cap equities with consistent dividend-growth histories, seeking long-term capital appreciation and income, with potential allocation to Equity REITs. The fund applies the same adviser-driven dividend growth selection methodology to non-U.S.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Copeland Trust",
+        "etf_name": "Copeland International Small Cap Fund",
+        "strategy": "Targets international small-cap equities with consistent dividend-growth histories, seeking long-term capital appreciation and income, with potential allocation to Equity REITs. The fund applies the same adviser-driven dividend growth selection methodology to non-U.S.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-27T13:44:59.728679+00:00",
     "form_type": "485BPOS",
     "cik": "0000798250",
@@ -4603,7 +4690,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S The fund is structured as a defined-maturity vehicle\u2014not a target-date fund\u2014designed to provide AMT-free municipal bond exposure with a specific terminal date for bond-ladder construction\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -5707,7 +5794,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling approach rather than full index replication, functioning as a defined-maturity bond ETF that winds down near its target date\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
