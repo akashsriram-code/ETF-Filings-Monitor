@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-03-27T15:41:40.403808+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000357159",
+    "company_name": "Federated Hermes Short-Intermediate Government Trust",
+    "accession_number": "0001623632-26-000467",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/357159/000162363226000467/0001623632-26-000467-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/357159/000162363226000467/fhsigt2405-form.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/357159/000162363226000467/fhsigt2405-form.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Federated Hermes Short-Intermediate Government Trust\nETF Name: Federated Hermes Short-Intermediate Government Fund\nStrategy: The fund seeks current income by investing in a portfolio of short-to-intermediate-term U.S government obligations, benchmarked to the ICE BofA 3-5 Year US Treasury Index with duration managed within 20% of the index's effective duration\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Federated Hermes Short-Intermediate Government Trust",
+        "etf_name": "Federated Hermes Short-Intermediate Government Fund",
+        "strategy": "The fund seeks current income by investing in a portfolio of short-to-intermediate-term U.S government obligations, benchmarked to the ICE BofA 3-5 Year US Treasury Index with duration managed within 20% of the index's effective duration",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T15:42:59.797993+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001886172",
+    "company_name": "DoubleLine ETF Trust",
+    "accession_number": "0001193125-26-128032",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1886172/000119312526128032/0001193125-26-128032-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1886172/000119312526128032/d89817d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1886172/000119312526128032/d89817d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: DoubleLine ETF Trust\nETF Name: DoubleLine Ultrashort Income ETF\nStrategy: Actively managed, non-diversified fixed-income ETF that invests in a diversified portfolio of investment-grade U.S The fund seeks to generate current income and total return while preserving capital\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "DoubleLine ETF Trust",
+        "etf_name": "DoubleLine Ultrashort Income ETF",
+        "strategy": "Actively managed, non-diversified fixed-income ETF that invests in a diversified portfolio of investment-grade U.S The fund seeks to generate current income and total return while preserving capital",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T15:43:43.741404+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000357052",
+    "company_name": "Federated Hermes Government Income Trust",
+    "accession_number": "0001623632-26-000466",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/357052/000162363226000466/0001623632-26-000466-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/357052/000162363226000466/fgit2374-form.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/357052/000162363226000466/fgit2374-form.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Federated Hermes Government Income Trust\nETF Name: Federated Hermes Government Income Fund\nStrategy: Seeks current income by investing primarily in U.S government-issued or -guaranteed fixed-income securities, managing portfolio duration to within one year of the Bloomberg US Mortgage Backed Securities Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Federated Hermes Government Income Trust",
+        "etf_name": "Federated Hermes Government Income Fund",
+        "strategy": "Seeks current income by investing primarily in U.S government-issued or -guaranteed fixed-income securities, managing portfolio duration to within one year of the Bloomberg US Mortgage Backed Securities Index",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-27T14:44:18.416272+00:00",
     "form_type": "485BPOS",
     "cik": "0001592900",
@@ -4690,7 +4777,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S The fund is structured as a defined-maturity vehicle\u2014not a target-date fund\u2014designed to provide AMT-free municipal bond exposure with a specific terminal date for bond-ladder construction\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -5794,7 +5881,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
