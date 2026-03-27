@@ -1,5 +1,266 @@
 [
   {
+    "created_at": "2026-03-27T10:32:33.092871+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001027596",
+    "company_name": "ADVISORS SERIES TRUST",
+    "accession_number": "0000894189-26-009044",
+    "filed_date": "2026-03-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1027596/000089418926009044/0000894189-26-009044-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1027596/000089418926009044/ck0001027596-20260326.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1027596/000089418926009044/ck0001027596-20260326.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ADVISORS SERIES TRUST\nETF Name: Abacus FCF ETF Trust\nStrategy: Kensington Active Advantage Fund, Series of Managed Portfolio Series 118 Kensington Credit Opportunities ETF, Series of Managed Portfolio Series 119\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ADVISORS SERIES TRUST",
+        "etf_name": "Abacus FCF ETF Trust",
+        "strategy": "Kensington Active Advantage Fund, Series of Managed Portfolio Series 118 Kensington Credit Opportunities ETF, Series of Managed Portfolio Series 119",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T10:33:15.963987+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001478482",
+    "company_name": "John Hancock Exchange-Traded Fund Trust",
+    "accession_number": "0001193125-26-126697",
+    "filed_date": "2026-03-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1478482/000119312526126697/0001193125-26-126697-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1478482/000119312526126697/d29540d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1478482/000119312526126697/d29540d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: John Hancock Exchange-Traded Fund Trust\nETF Name: John Hancock Hedged Equity ETF\nStrategy: equity ETF that invests at least 80% of net assets in equity securities while employing a put-and-call options overlay to target long-term capital appreciation with lower volatility and downside protection relative to broad equity markets\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "John Hancock Exchange-Traded Fund Trust",
+        "etf_name": "John Hancock Hedged Equity ETF",
+        "strategy": "equity ETF that invests at least 80% of net assets in equity securities while employing a put-and-call options overlay to target long-term capital appreciation with lower volatility and downside protection relative to broad equity markets",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T10:34:02.102108+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000788606",
+    "company_name": "VANGUARD PENNSYLVANIA TAX-FREE FUNDS",
+    "accession_number": "0000788606-26-000025",
+    "filed_date": "2026-03-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/788606/000078860626000025/0000788606-26-000025-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/788606/000078860626000025/f44468d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/788606/000078860626000025/f44468d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Vanguard Pennsylvania Tax-Free Funds\nETF Name: Vanguard Pennsylvania Municipal Bond Fund\nStrategy: The fund invests primarily in investment-grade municipal bonds issued by Pennsylvania state and local governments, seeking current income exempt from both federal and Pennsylvania personal income taxes\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Vanguard Pennsylvania Tax-Free Funds",
+        "etf_name": "Vanguard Pennsylvania Municipal Bond Fund",
+        "strategy": "The fund invests primarily in investment-grade municipal bonds issued by Pennsylvania state and local governments, seeking current income exempt from both federal and Pennsylvania personal income taxes",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T10:34:51.504947+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000788599",
+    "company_name": "VANGUARD NEW YORK TAX-FREE FUNDS",
+    "accession_number": "0000788599-26-000032",
+    "filed_date": "2026-03-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/788599/000078859926000032/0000788599-26-000032-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/788599/000078859926000032/f44517d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/788599/000078859926000032/f44517d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Vanguard New York Tax-Free Funds\nETF Name: Vanguard New York Tax-Exempt Bond ETF\nStrategy: The fund uses a passive, sampling-based indexing approach to track the S&P New York AMT-Free Municipal USD 10 Million Par Bond Index, investing at least 80% of net assets in investment-grade New York municipal bonds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Vanguard New York Tax-Free Funds",
+        "etf_name": "Vanguard New York Tax-Exempt Bond ETF",
+        "strategy": "The fund uses a passive, sampling-based indexing approach to track the S&P New York AMT-Free Municipal USD 10 Million Par Bond Index, investing at least 80% of net assets in investment-grade New York municipal bonds",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T10:36:10.896453+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000105563",
+    "company_name": "VANGUARD WELLINGTON FUND",
+    "accession_number": "0000105563-26-000101",
+    "filed_date": "2026-03-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/105563/000010556326000101/0000105563-26-000101-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/105563/000010556326000101/f44516d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/105563/000010556326000101/f44516d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VANGUARD WELLINGTON FUND\nETF Name: Vanguard U.S. Minimum Volatility ETF\nStrategy: The Fund seeks long-term capital appreciation by actively investing in a diversified group of U.S securities across many market sectors, with the advisor determining the optimal minimum-volatility portfolio composition\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VANGUARD WELLINGTON FUND",
+        "etf_name": "Vanguard U.S. Minimum Volatility ETF",
+        "strategy": "The Fund seeks long-term capital appreciation by actively investing in a diversified group of U.S securities across many market sectors, with the advisor determining the optimal minimum-volatility portfolio composition",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T10:37:01.420285+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000783401",
+    "company_name": "VANGUARD CALIFORNIA TAX-FREE FUNDS",
+    "accession_number": "0000783401-26-000048",
+    "filed_date": "2026-03-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/783401/000078340126000048/0000783401-26-000048-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/783401/000078340126000048/f44484d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/783401/000078340126000048/f44484d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Vanguard California Tax-Free Funds\nETF Name: Vanguard California Tax-Exempt Bond ETF\nStrategy: Passively tracks the S&P California AMT-Free Municipal Bond Index using a sampling approach, investing at least 80% of net assets in investment-grade California municipal bonds whose income is exempt from both federal and California state income tax\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Vanguard California Tax-Free Funds",
+        "etf_name": "Vanguard California Tax-Exempt Bond ETF",
+        "strategy": "Passively tracks the S&P California AMT-Free Municipal Bond Index using a sampling approach, investing at least 80% of net assets in investment-grade California municipal bonds whose income is exempt from both federal and California state income tax",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T10:37:53.309070+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000821404",
+    "company_name": "VANGUARD NEW JERSEY TAX-FREE FUNDS",
+    "accession_number": "0000821404-26-000021",
+    "filed_date": "2026-03-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/821404/000082140426000021/0000821404-26-000021-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/821404/000082140426000021/f44469d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/821404/000082140426000021/f44469d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Vanguard New Jersey Tax-Free Funds\nETF Name: Vanguard New Jersey Tax-Exempt Fund\nStrategy: The fund is an actively managed fixed-income vehicle investing at least 80% of net assets in investment-grade municipal bonds issued by New Jersey state and local governments whose income is exempt from both federal and New Jersey state personal income taxes. Security selection relies on fundamental, technical, and valuation analysis across the New Jersey municipal bond market, with the goal of maximizing current tax...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Vanguard New Jersey Tax-Free Funds",
+        "etf_name": "Vanguard New Jersey Tax-Exempt Fund",
+        "strategy": "The fund is an actively managed fixed-income vehicle investing at least 80% of net assets in investment-grade municipal bonds issued by New Jersey state and local governments whose income is exempt from both federal and New Jersey state personal income taxes. Security selection relies on fundamental, technical, and valuation analysis across the New Jersey municipal bond market, with the goal of maximizing current tax...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T10:38:30.918397+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000862341",
+    "company_name": "VANGUARD OHIO TAX-FREE FUNDS",
+    "accession_number": "0000862341-26-000024",
+    "filed_date": "2026-03-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/862341/000086234126000024/0000862341-26-000024-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/862341/000086234126000024/f44451d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/862341/000086234126000024/f44451d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Vanguard Ohio Tax-Free Funds\nETF Name: Vanguard Ohio Tax-Exempt Fund\nStrategy: The fund invests at least 80% of net assets in investment-grade municipal bonds issued by Ohio state and local governments, seeking income exempt from both federal and Ohio personal income taxes\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Vanguard Ohio Tax-Free Funds",
+        "etf_name": "Vanguard Ohio Tax-Exempt Fund",
+        "strategy": "The fund invests at least 80% of net assets in investment-grade municipal bonds issued by Ohio state and local governments, seeking income exempt from both federal and Ohio personal income taxes",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-27T10:39:12.975405+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001070414",
+    "company_name": "VANGUARD MASSACHUSETTS TAX-EXEMPT FUNDS",
+    "accession_number": "0001070414-26-000023",
+    "filed_date": "2026-03-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1070414/000107041426000023/0001070414-26-000023-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1070414/000107041426000023/f44450d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1070414/000107041426000023/f44450d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Vanguard Massachusetts Tax-Exempt Funds\nETF Name: Vanguard Massachusetts Tax-Exempt Fund\nStrategy: Actively managed, nondiversified municipal bond fund that invests at least 80% of net assets in investment-grade bonds issued by Massachusetts state and local governments, targeting income exempt from both federal and Massachusetts state personal income taxes The fund seeks to minimize credit risk through broad issuer selection across the Massachusetts municipal bond market while allowing concentrated positions under...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Vanguard Massachusetts Tax-Exempt Funds",
+        "etf_name": "Vanguard Massachusetts Tax-Exempt Fund",
+        "strategy": "Actively managed, nondiversified municipal bond fund that invests at least 80% of net assets in investment-grade bonds issued by Massachusetts state and local governments, targeting income exempt from both federal and Massachusetts state personal income taxes The fund seeks to minimize credit risk through broad issuer selection across the Massachusetts municipal bond market while allowing concentrated positions under...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-26T21:48:08.206238+00:00",
     "form_type": "485APOS",
     "cik": "0001976322",
