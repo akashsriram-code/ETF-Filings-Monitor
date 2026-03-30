@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-03-30T16:11:37.473088+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000872825",
+    "company_name": "AMERICAN CENTURY WORLD MUTUAL FUNDS INC",
+    "accession_number": "0000872825-26-000006",
+    "filed_date": "2026-03-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/872825/000087282526000006/0000872825-26-000006-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/872825/000087282526000006/ck0000872825-20260330.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/872825/000087282526000006/ck0000872825-20260330.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AMERICAN CENTURY WORLD MUTUAL FUNDS INC\nETF Name: American Century Investments Prospectus Emerging Markets Fund\nStrategy: Investment Objective The fund seeks capital growth Investment Objective The fund seeks capital growth\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AMERICAN CENTURY WORLD MUTUAL FUNDS INC",
+        "etf_name": "American Century Investments Prospectus Emerging Markets Fund",
+        "strategy": "Investment Objective The fund seeks capital growth Investment Objective The fund seeks capital growth",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-30T16:12:40.164820+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002068712",
+    "company_name": "VegaShares ETF Trust",
+    "accession_number": "0001213900-26-036131",
+    "filed_date": "2026-03-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2068712/000121390026036131/0001213900-26-036131-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2068712/000121390026036131/ea0283886-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2068712/000121390026036131/ea0283886-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VegaShares ETF Trust\nETF Name: These fees, which are not reflected in this Annual Fund\nStrategy: The Fund seeks to generate high income while providing reduced downside risk through exposure to the NYSE \u00ae U.S The Fund's investment objective may be changed by the Board of Trustees (the \"Board\" or \"Trustees\") of VegaShares ETF Trust (the \"Trust\") without shareholder approval upon prior written notice to shareholders indefinitely\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VegaShares ETF Trust",
+        "etf_name": "These fees, which are not reflected in this Annual Fund",
+        "strategy": "The Fund seeks to generate high income while providing reduced downside risk through exposure to the NYSE \u00ae U.S The Fund's investment objective may be changed by the Board of Trustees (the \"Board\" or \"Trustees\") of VegaShares ETF Trust (the \"Trust\") without shareholder approval upon prior written notice to shareholders indefinitely",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-30T16:13:40.518171+00:00",
+    "form_type": "485APOS",
+    "cik": "0001635073",
+    "company_name": "Nushares ETF Trust",
+    "accession_number": "0001193125-26-130712",
+    "filed_date": "2026-03-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1635073/000119312526130712/0001193125-26-130712-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1635073/000119312526130712/d115464d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1635073/000119312526130712/d115464d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Nushares ETF Trust\nETF Name: Nuveen Real Estate ETF\nStrategy: U.S.-focused equity ETF that concentrates in real estate companies and REITs, with additional holdings in common stocks, preferred securities, convertible debt, and MLPs. Managed by Nuveen Fund Advisors, LLC with Nuveen Asset Management, LLC serving as sub-adviser.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Nushares ETF Trust",
+        "etf_name": "Nuveen Real Estate ETF",
+        "strategy": "U.S.-focused equity ETF that concentrates in real estate companies and REITs, with additional holdings in common stocks, preferred securities, convertible debt, and MLPs. Managed by Nuveen Fund Advisors, LLC with Nuveen Asset Management, LLC serving as sub-adviser.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-30T14:53:37.589059+00:00",
     "form_type": "485BPOS",
     "cik": "0001477597",
@@ -6488,7 +6575,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -7592,7 +7679,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, AMT-free U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
