@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-03-30T10:54:49.318657+00:00",
+    "form_type": "485APOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-013417",
+    "filed_date": "2026-03-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226013417/0001493152-26-013417-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226013417/form485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226013417/form485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: Real Estate Fund Bridge Builder Trust Cambria ETF Trust\nStrategy: Investment Managers Series Trust II (AXS-Advised Funds) Investment Managers Series Trust II (Alternative Access-Advised Fund) Janus Detroit Street Trust Lattice Strategies Trust Litman Gregory Funds Trust Longleaf Partners Funds Trust Manager Directed Portfolios (Spyglass Growth Fund) Meridian Fund, Inc.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "Real Estate Fund Bridge Builder Trust Cambria ETF Trust",
+        "strategy": "Investment Managers Series Trust II (AXS-Advised Funds) Investment Managers Series Trust II (Alternative Access-Advised Fund) Janus Detroit Street Trust Lattice Strategies Trust Litman Gregory Funds Trust Longleaf Partners Funds Trust Manager Directed Portfolios (Spyglass Growth Fund) Meridian Fund, Inc.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-30T10:56:17.414219+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001547950",
+    "company_name": "Exchange Listed Funds Trust",
+    "accession_number": "0001213900-26-035771",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026035771/0001213900-26-035771-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547950/000121390026035771/ea0283571-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026035771/ea0283571-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Exchange Listed Funds Trust\nETF Name: Davis Fundamental ETF Trust\nStrategy: Each fund is an actively managed single-stock ETF that uses total return swaps to replicate the performance of one underlying equity and layers a synthetic covered call strategy selling call options to generate daily income\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Exchange Listed Funds Trust",
+        "etf_name": "Davis Fundamental ETF Trust",
+        "strategy": "Each fund is an actively managed single-stock ETF that uses total return swaps to replicate the performance of one underlying equity and layers a synthetic covered call strategy selling call options to generate daily income",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-30T10:57:17.417611+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001944285",
+    "company_name": "Tema ETF Trust",
+    "accession_number": "0001999371-26-007090",
+    "filed_date": "2026-03-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1944285/000199937126007090/0001999371-26-007090-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1944285/000199937126007090/nasa_485bpos-033026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1944285/000199937126007090/nasa_485bpos-033026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tema ETF Trust\nETF Name: Tema Space Innovators ETF\nStrategy: The fund may also hold depositary receipts (ADRs/GDRs) for international exposure across developed markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tema ETF Trust",
+        "etf_name": "Tema Space Innovators ETF",
+        "strategy": "The fund may also hold depositary receipts (ADRs/GDRs) for international exposure across developed markets",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-27T21:42:13.776437+00:00",
     "form_type": "485APOS",
     "cik": "0000831114",
@@ -6314,7 +6401,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, AMT-free U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -7418,7 +7505,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Seeks to passively track the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling indexing approach as a defined-maturity bond ETF offering laddered, AMT-free municipal fixed-income exposure\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
