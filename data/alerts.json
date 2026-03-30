@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-30T21:03:44.140573+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001319067",
+    "company_name": "360 Funds",
+    "accession_number": "0001999371-26-007190",
+    "filed_date": "2026-03-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1319067/000199937126007190/0001999371-26-007190-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1319067/000199937126007190/threesixty_485bpos-033026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1319067/000199937126007190/threesixty_485bpos-033026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Leader Funds Trust\nETF Name: M3Sixty Income and Opportunity Fund\nStrategy: The fund also employs an options overlay\u2014selling and purchasing put and call options on equity indexes, ETFs, and individual equities\u2014to reduce overall portfolio volatility\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Leader Funds Trust",
+        "etf_name": "M3Sixty Income and Opportunity Fund",
+        "strategy": "The fund also employs an options overlay\u2014selling and purchasing put and call options on equity indexes, ETFs, and individual equities\u2014to reduce overall portfolio volatility",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-30T21:04:26.633912+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002034406",
+    "company_name": "Tortoise Capital Series Trust",
+    "accession_number": "0001213900-26-036353",
+    "filed_date": "2026-03-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2034406/000121390026036353/0001213900-26-036353-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2034406/000121390026036353/ea0279507-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2034406/000121390026036353/ea0279507-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tortoise Capital Series Trust\nETF Name: Global Water ETF\nStrategy: Uses an indexing approach providing exposure to developed-market water-related securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tortoise Capital Series Trust",
+        "etf_name": "Global Water ETF",
+        "strategy": "Uses an indexing approach providing exposure to developed-market water-related securities",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-30T17:12:11.259034+00:00",
     "form_type": "485BPOS",
     "cik": "0001970751",
@@ -6604,7 +6662,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S It employs a representative sampling indexing approach rather than full index replication, managed by BlackRock Fund Advisors at a 0.18% management fee\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -7708,7 +7766,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S Employs a representative sampling indexing approach rather than full index replication, operating as a defined-maturity (term) fund distinct from a target-date fund\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Employs a representative-sampling indexing approach rather than full replication of the underlying index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
