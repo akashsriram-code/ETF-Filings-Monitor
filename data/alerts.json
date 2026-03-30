@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-03-30T14:53:37.589059+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001477597",
+    "company_name": "Papp Investment Trust",
+    "accession_number": "0001580642-26-002073",
+    "filed_date": "2026-03-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1477597/000158064226002073/0001580642-26-002073-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1477597/000158064226002073/pappinvest_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1477597/000158064226002073/pappinvest_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Papp Investment Trust\nETF Name: Papp Small & Mid-Cap Growth Fund\nStrategy: The Fund seeks long-term capital growth through active security selection by the Adviser, primarily targeting small- and mid-cap growth equities It may also invest in foreign securities, ETFs, and other investment companies, with the ability to take temporary defensive positions\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Papp Investment Trust",
+        "etf_name": "Papp Small & Mid-Cap Growth Fund",
+        "strategy": "The Fund seeks long-term capital growth through active security selection by the Adviser, primarily targeting small- and mid-cap growth equities It may also invest in foreign securities, ETFs, and other investment companies, with the ability to take temporary defensive positions",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-30T14:54:35.412635+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000826644",
+    "company_name": "AIM INVESTMENT FUNDS (INVESCO INVESTMENT FUNDS)",
+    "accession_number": "0001104659-26-036514",
+    "filed_date": "2026-03-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/826644/000110465926036514/0001104659-26-036514-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/826644/000110465926036514/tm268194d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/826644/000110465926036514/tm268194d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AIM Investment Funds (Invesco Investment Funds)\nETF Name: Fund may not always be able to borrow a security a Fund\nStrategy: The fund employs a C-corp structure that accrues deferred income tax liability on unrealized capital gains and return-of-capital distributions, consistent with an MLP or energy-infrastructure mandate, and may use short selling, options, futures, forward contracts, and swap agreements as part of its hedging and portfolio management\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AIM Investment Funds (Invesco Investment Funds)",
+        "etf_name": "Fund may not always be able to borrow a security a Fund",
+        "strategy": "The fund employs a C-corp structure that accrues deferred income tax liability on unrealized capital gains and return-of-capital distributions, consistent with an MLP or energy-infrastructure mandate, and may use short selling, options, futures, forward contracts, and swap agreements as part of its hedging and portfolio management",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-30T14:55:36.816294+00:00",
+    "form_type": "485APOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-000674",
+    "filed_date": "2026-03-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000674/0001771146-26-000674-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000674/tstrivedigitalcreditetf485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000674/tstrivedigitalcreditetf485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: T-Strive Digital Credit ETF (DGCR)\nStrategy: Actively managed income ETF that invests in preferred equity securities issued by Bitcoin Treasury companies and uses leverage and derivatives to enhance income exposure The fund seeks current income and does not invest directly in Bitcoin but carries indirect Bitcoin risk through its issuer-level exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Opportunities Trust",
+        "etf_name": "T-Strive Digital Credit ETF (DGCR)",
+        "strategy": "Actively managed income ETF that invests in preferred equity securities issued by Bitcoin Treasury companies and uses leverage and derivatives to enhance income exposure The fund seeks current income and does not invest directly in Bitcoin but carries indirect Bitcoin risk through its issuer-level exposure",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-30T10:54:49.318657+00:00",
     "form_type": "485APOS",
     "cik": "0001689873",
@@ -6401,7 +6488,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, AMT-free U.S Uses a representative-sampling indexing approach rather than full replication to approximate the index's risk and return profile\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -7505,7 +7592,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, AMT-free U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
