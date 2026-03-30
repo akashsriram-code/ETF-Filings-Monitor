@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-03-30T17:12:11.259034+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001970751",
+    "company_name": "Advisor Managed Portfolios",
+    "accession_number": "0000894189-26-009762",
+    "filed_date": "2026-03-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1970751/000089418926009762/0000894189-26-009762-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1970751/000089418926009762/ck0001970751-20260330.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1970751/000089418926009762/ck0001970751-20260330.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Advisor Managed Portfolios\nETF Name: Ruk Strategic Growth ETF\nStrategy: The Ruk Strategic Growth ETF (the \u201cFund\u201d) seeks to track total return The Fund is an exchange-traded fund (\u201cETF\u201d) that employs a \u201cpassive\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Advisor Managed Portfolios",
+        "etf_name": "Ruk Strategic Growth ETF",
+        "strategy": "The Ruk Strategic Growth ETF (the \u201cFund\u201d) seeks to track total return The Fund is an exchange-traded fund (\u201cETF\u201d) that employs a \u201cpassive",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-30T16:11:37.473088+00:00",
     "form_type": "485BPOS",
     "cik": "0000872825",
