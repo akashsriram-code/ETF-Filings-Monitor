@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-31T19:43:55.928539+00:00",
+    "form_type": "486BPOS",
+    "cik": "0002043597",
+    "company_name": "Private Debt & Income Fund",
+    "accession_number": "0001580642-26-002130",
+    "filed_date": "2026-03-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043597/000158064226002130/0001580642-26-002130-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043597/000158064226002130/pdi_486bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043597/000158064226002130/pdi_486bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Private Debt & Income Fund\nETF Name: Private Debt & Income Fund\nStrategy: The fund's primary investment objective is to seek high current income with a secondary objective of capital preservation It is a multi-manager strategy designed to provide exposure across the private credit market, including direct corporate lending and asset-based financing\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Private Debt & Income Fund",
+        "etf_name": "Private Debt & Income Fund",
+        "strategy": "The fund's primary investment objective is to seek high current income with a secondary objective of capital preservation It is a multi-manager strategy designed to provide exposure across the private credit market, including direct corporate lending and asset-based financing",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-31T19:44:46.219674+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001368578",
+    "company_name": "MSS Series Trust",
+    "accession_number": "0001162044-26-000299",
+    "filed_date": "2026-03-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1368578/000116204426000299/0001162044-26-000299-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1368578/000116204426000299/msstowpath485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1368578/000116204426000299/msstowpath485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: MSS Series Trust\nETF Name: Towpath Technology Fund\nStrategy: The fund seeks long-term capital appreciation by investing at least 80% of assets in common stocks of U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "MSS Series Trust",
+        "etf_name": "Towpath Technology Fund",
+        "strategy": "The fund seeks long-term capital appreciation by investing at least 80% of assets in common stocks of U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-31T18:39:27.827113+00:00",
     "form_type": "485BPOS",
     "cik": "0001051219",
@@ -7126,7 +7184,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted index of investment-grade, AMT-free U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -8230,7 +8288,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling indexing approach as a defined-maturity term bond ETF rather than full index replication\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
