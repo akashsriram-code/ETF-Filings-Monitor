@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-03-31T18:39:27.827113+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001051219",
+    "company_name": "TANAKA FUNDS INC",
+    "accession_number": "0001162044-26-000298",
+    "filed_date": "2026-03-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1051219/000116204426000298/0001162044-26-000298-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1051219/000116204426000298/tanaka485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1051219/000116204426000298/tanaka485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: TANAKA FUNDS INC\nETF Name: Sale of Fund\nStrategy: INVESTMENT OBJECTIVE The Fund's investment objective is growth of capital INVESTMENT OBJECTIVE The Fund's investment objective is growth of capital\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "TANAKA FUNDS INC",
+        "etf_name": "Sale of Fund",
+        "strategy": "INVESTMENT OBJECTIVE The Fund's investment objective is growth of capital INVESTMENT OBJECTIVE The Fund's investment objective is growth of capital",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-31T18:39:33.425702+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001368578",
+    "company_name": "MSS Series Trust",
+    "accession_number": "0001162044-26-000297",
+    "filed_date": "2026-03-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1368578/000116204426000297/0001162044-26-000297-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1368578/000116204426000297/mssparvin485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1368578/000116204426000297/mssparvin485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: MSS Series Trust\nETF Name: Unknown\nStrategy: by investing pursuant to a strategy designed for more risk-averse investors to realize the growth and income potential of stocks but guard against the full impact of market losses Although your actual costs may be higher or lower, based upon these assumptions your costs would be: 1 Year 3 Years 5 Years 10 Years $ 229 $ 807 $ 1,411 $ 3,045 Portfolio Turnover: The Fund pays transaction costs, such as commissions, when\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "MSS Series Trust",
+        "etf_name": "Unknown",
+        "strategy": "by investing pursuant to a strategy designed for more risk-averse investors to realize the growth and income potential of stocks but guard against the full impact of market losses Although your actual costs may be higher or lower, based upon these assumptions your costs would be: 1 Year 3 Years 5 Years 10 Years $ 229 $ 807 $ 1,411 $ 3,045 Portfolio Turnover: The Fund pays transaction costs, such as commissions, when",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-31T17:40:34.964040+00:00",
     "form_type": "485BPOS",
     "cik": "0001368578",
