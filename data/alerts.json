@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-03-31T21:13:41.633301+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001976517",
+    "company_name": "Roundhill ETF Trust",
+    "accession_number": "0001398344-26-005950",
+    "filed_date": "2026-03-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426005950/0001398344-26-005950-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976517/000139834426005950/fp0098200-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426005950/fp0098200-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Roundhill ETF Trust\nETF Name: Roundhill Memory ETF (DRAM)\nStrategy: Portfolio construction uses the adviser's proprietary security selection methodology with significant concentration in Asian and South Korean issuers\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Roundhill ETF Trust",
+        "etf_name": "Roundhill Memory ETF (DRAM)",
+        "strategy": "Portfolio construction uses the adviser's proprietary security selection methodology with significant concentration in Asian and South Korean issuers",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-31T21:14:50.519885+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-007341",
+    "filed_date": "2026-03-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126007341/0001999371-26-007341-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126007341/defiance-485apos_033126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126007341/defiance-485apos_033126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Defiance 2X Daily Short Taiwan ETF\nStrategy: Provides amplified short exposure to Taiwanese large- and mid-cap equities for active, short-duration traders\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Defiance 2X Daily Short Taiwan ETF",
+        "strategy": "Provides amplified short exposure to Taiwanese large- and mid-cap equities for active, short-duration traders",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-03-31T21:15:49.948245+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001002537",
+    "company_name": "NEEDHAM FUNDS INC",
+    "accession_number": "0000894189-26-011302",
+    "filed_date": "2026-03-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1002537/000089418926011302/0000894189-26-011302-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1002537/000089418926011302/ck0001002537-20260331.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1002537/000089418926011302/ck0001002537-20260331.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Needham Funds Inc\nETF Name: Needham Small Cap Growth Fund\nStrategy: Targets long-term, tax-efficient capital appreciation by investing at least 80% of net assets in small-cap stocks with market capitalizations up to the largest constituent of the Bloomberg US 2000 Growth Index or $8 billion, whichever is larger\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Needham Funds Inc",
+        "etf_name": "Needham Small Cap Growth Fund",
+        "strategy": "Targets long-term, tax-efficient capital appreciation by investing at least 80% of net assets in small-cap stocks with market capitalizations up to the largest constituent of the Bloomberg US 2000 Growth Index or $8 billion, whichever is larger",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-31T20:32:00.020013+00:00",
     "form_type": "S-1",
     "cik": "0001901799",
@@ -14,7 +101,7 @@
       "Ethereum"
     ],
     "is_crypto": true,
-    "synopsis": "Synopsis 1\nFiler: 1 - Bitcoin Depot Inc\nETF Name: Unknown\nStrategy: Not available.\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Crypto-linked ETF disclosures can move market narrative and regulatory coverage.",
+    "synopsis": "Synopsis 1\nFiler: Bitcoin Depot Inc\nETF Name: Lightning Capital Venture Fund I, LP\nStrategy: Lightning Capital Venture Fund I, LP is not an ETF but a limited partnership (with Jock Percy as general partner) identified as a selling stockholder in Bitcoin Depot Inc.'s Class A common stock resale registration. Bitcoin Depot itself operates a cash-to-cryptocurrency conversion business via Bitcoin ATM kiosks, and this filing registers shares issued as consideration in its acquisition of Kutt, Inc.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Crypto-linked ETF disclosures can move market narrative and regulatory coverage.",
     "synopsis_items": [
       {
         "filer": "1 - Bitcoin Depot Inc",
@@ -43,7 +130,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626002933/themesetftrust_485apos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Leverage Shares 2X Long SK Hynix Daily ETF\nStrategy: The ETF seeks daily investment results of 200% (2\u00d7) of the daily price change in SK Hynix American Depositary Receipts, using swap agreements, options, and at least 80% of net assets in the underlying security and related financial instruments\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Themes ETF Trust",
@@ -159,7 +246,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1368578/000116204426000297/mssparvin485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: MSS Series Trust\nETF Name: Unknown\nStrategy: by investing pursuant to a strategy designed for more risk-averse investors to realize the growth and income potential of stocks but guard against the full impact of market losses Although your actual costs may be higher or lower, based upon these assumptions your costs would be: 1 Year 3 Years 5 Years 10 Years $ 229 $ 807 $ 1,411 $ 3,045 Portfolio Turnover: The Fund pays transaction costs, such as commissions, when\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: MSS Series Trust\nETF Name: Parvin Hedged Equity Solari World Fund\nStrategy: The fund targets risk-averse equity investors by seeking stock-market growth and income while using put options on equity indexes and index-tracking ETFs to guard against the full impact of market losses\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "MSS Series Trust",
@@ -7245,7 +7332,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -8349,7 +8436,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S Employs a representative-sampling indexing approach rather than full index replication\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
