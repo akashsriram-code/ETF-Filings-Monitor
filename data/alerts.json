@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-04-01T19:47:33.279583+00:00",
+    "form_type": "485APOS",
+    "cik": "0001992104",
+    "company_name": "PGIM Rock ETF Trust",
+    "accession_number": "0001992104-26-000063",
+    "filed_date": "2026-04-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1992104/000199210426000063/0001992104-26-000063-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1992104/000199210426000063/f44643d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1992104/000199210426000063/f44643d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PGIM Rock ETF Trust\nETF Name: PGIM S&P 500 Quarterly Buffer ETFs\nStrategy: The funds invest substantially all assets in FLEX Options on the SPDR S&P 500 ETF Trust (SPY) to provide buffered downside equity exposure tied to the S&P 500 Index over quarterly Target Outcome Periods, with at least 80% of net assets in S&P 500-linked investments including derivatives\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PGIM Rock ETF Trust",
+        "etf_name": "PGIM S&P 500 Quarterly Buffer ETFs",
+        "strategy": "The funds invest substantially all assets in FLEX Options on the SPDR S&P 500 ETF Trust (SPY) to provide buffered downside equity exposure tied to the S&P 500 Index over quarterly Target Outcome Periods, with at least 80% of net assets in S&P 500-linked investments including derivatives",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-01T18:43:43.675750+00:00",
     "form_type": "485APOS",
     "cik": "0000809593",
@@ -7506,7 +7535,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -8610,7 +8639,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Uses a representative-sampling indexing approach rather than full replication to approximate index performance within a defined-maturity structure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
