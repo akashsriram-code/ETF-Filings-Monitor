@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-04-01T17:42:33.673709+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000941568",
+    "company_name": "Cantor Fitzgerald Variable Insurance Trust",
+    "accession_number": "0001580642-26-002155",
+    "filed_date": "2026-04-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/941568/000158064226002155/0001580642-26-002155-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/941568/000158064226002155/cantorfitzgerald_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/941568/000158064226002155/cantorfitzgerald_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Cantor Fitzgerald Variable Insurance Trust\nETF Name: Unknown\nStrategy: There were no changes to the portfolio\u2019s investment objective or investment strategies in connection with the change in the portfolio\u2019s investment adviser The portfolio\u2019s investment objective may be changed by the Board of Trustees without shareholder approval\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Cantor Fitzgerald Variable Insurance Trust",
+        "etf_name": "Unknown",
+        "strategy": "There were no changes to the portfolio\u2019s investment objective or investment strategies in connection with the change in the portfolio\u2019s investment adviser The portfolio\u2019s investment objective may be changed by the Board of Trustees without shareholder approval",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-01T10:34:57.242969+00:00",
     "form_type": "485BPOS",
     "cik": "0002055464",
@@ -8552,7 +8581,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Uses a representative sampling approach rather than full index replication as a defined-maturity term bond ETF\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
