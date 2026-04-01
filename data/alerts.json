@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-04-01T10:34:57.242969+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002055464",
+    "company_name": "Wedbush Series Trust",
+    "accession_number": "0001213900-26-037904",
+    "filed_date": "2026-03-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026037904/0001213900-26-037904-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2055464/000121390026037904/ea0284219-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026037904/ea0284219-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Wedbush Series Trust\nETF Name: Dan IVES Wedbush AI Revolution ETF\nStrategy: Passively managed index-tracking ETF that replicates the Solactive Wedbush Artificial Intelligence Index, composed exclusively of equities from the Dan Ives AI 30 Research Report \u2014 companies identified as significant creators, enablers, or adopters of AI technologies across semiconductors, cloud infrastructure, software, and energy infrastructure The fund invests in growth and value stocks across diversified market c...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Wedbush Series Trust",
+        "etf_name": "Dan IVES Wedbush AI Revolution ETF",
+        "strategy": "Passively managed index-tracking ETF that replicates the Solactive Wedbush Artificial Intelligence Index, composed exclusively of equities from the Dan Ives AI 30 Research Report \u2014 companies identified as significant creators, enablers, or adopters of AI technologies across semiconductors, cloud infrastructure, software, and energy infrastructure The fund invests in growth and value stocks across diversified market c...",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-01T10:35:45.953497+00:00",
+    "form_type": "486BPOS",
+    "cik": "0002020510",
+    "company_name": "Hamilton Lane Private Infrastructure Fund",
+    "accession_number": "0001213900-26-037802",
+    "filed_date": "2026-03-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2020510/000121390026037802/0001213900-26-037802-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2020510/000121390026037802/ea0283931-01_486bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2020510/000121390026037802/ea0283931-01_486bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Hamilton Lane Advisors, L.L.C\nETF Name: Hamilton Lane Private Infrastructure Fund\nStrategy: The Fund seeks current income and long-term capital appreciation by investing globally in private infrastructure assets\u2014including energy, telecom, renewables, and transport\u2014via direct co-investments, equity and debt positions, and secondary investments It is structured as a non-diversified, closed-end interval fund that typically invests alongside experienced sponsors, joint-venture partners, or operating partners\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Hamilton Lane Advisors, L.L.C",
+        "etf_name": "Hamilton Lane Private Infrastructure Fund",
+        "strategy": "The Fund seeks current income and long-term capital appreciation by investing globally in private infrastructure assets\u2014including energy, telecom, renewables, and transport\u2014via direct co-investments, equity and debt positions, and secondary investments It is structured as a non-diversified, closed-end interval fund that typically invests alongside experienced sponsors, joint-venture partners, or operating partners",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-03-31T21:56:56.603291+00:00",
     "form_type": "485BPOS",
     "cik": "0002055464",
@@ -8494,7 +8552,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
