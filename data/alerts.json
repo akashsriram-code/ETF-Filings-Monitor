@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-04-02T21:27:09.863814+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001556505",
+    "company_name": "Advisors Preferred Trust",
+    "accession_number": "0001580642-26-002259",
+    "filed_date": "2026-04-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1556505/000158064226002259/0001580642-26-002259-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1556505/000158064226002259/apt-quantifiedfunds_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1556505/000158064226002259/apt-quantifiedfunds_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Advisors Preferred Trust\nETF Name: Quantified Alternative Investment Fund\nStrategy: Seeks high total return through an aggressive, tactically managed approach using alternative investment vehicles, leveraged/inverse ETFs, futures, forwards, options, and swaps, with up to 80% of assets allocable to short positions The fund rotates across non-traditional equity, debt, and income-generating securities beyond the S&P 500, employing high portfolio turnover and derivatives-heavy positioning for both offen...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Advisors Preferred Trust",
+        "etf_name": "Quantified Alternative Investment Fund",
+        "strategy": "Seeks high total return through an aggressive, tactically managed approach using alternative investment vehicles, leveraged/inverse ETFs, futures, forwards, options, and swaps, with up to 80% of assets allocable to short positions The fund rotates across non-traditional equity, debt, and income-generating securities beyond the S&P 500, employing high portfolio turnover and derivatives-heavy positioning for both offen...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-02T21:29:00.654079+00:00",
+    "form_type": "485APOS",
+    "cik": "0001547950",
+    "company_name": "Exchange Listed Funds Trust",
+    "accession_number": "0001213900-26-039492",
+    "filed_date": "2026-04-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026039492/0001213900-26-039492-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547950/000121390026039492/ea0284864-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026039492/ea0284864-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Exchange Listed Funds Trust\nETF Name: Total Annual Fund\nStrategy: The Fund is an actively-managed exchange-traded fund (\u201cETF\u201d) that invests, under normal circumstances, at least 80% of its net assets (plus any borrowings for investment purposes) in electricity futures contracts (\u201cElectricity Futures\u201d) or investments that provide exposure to Electricity Futures (such as total return swaps that utilize Electricity Futures as the reference asset)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Exchange Listed Funds Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "The Fund is an actively-managed exchange-traded fund (\u201cETF\u201d) that invests, under normal circumstances, at least 80% of its net assets (plus any borrowings for investment purposes) in electricity futures contracts (\u201cElectricity Futures\u201d) or investments that provide exposure to Electricity Futures (such as total return swaps that utilize Electricity Futures as the reference asset)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-02T21:30:03.455966+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001432353",
+    "company_name": "Global X Funds",
+    "accession_number": "0001432353-26-000513",
+    "filed_date": "2026-04-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000513/0001432353-26-000513-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1432353/000143235326000513/ck0001432353-20260402.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000513/ck0001432353-20260402.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Global X Funds\nETF Name: Global X Space Tech ETF\nStrategy: The fund passively tracks a proprietary Global X index, investing at least 80% of net assets in equities\u2014including common stocks, ADRs, and GDRs\u2014of U.S It uses a full-replication or representative-sampling approach and may concentrate in industries to the same extent as the underlying index\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Global X Funds",
+        "etf_name": "Global X Space Tech ETF",
+        "strategy": "The fund passively tracks a proprietary Global X index, investing at least 80% of net assets in equities\u2014including common stocks, ADRs, and GDRs\u2014of U.S It uses a full-replication or representative-sampling approach and may concentrate in industries to the same extent as the underlying index",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-02T20:51:25.945575+00:00",
     "form_type": "485APOS",
     "cik": "0001667919",
@@ -7970,7 +8057,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S Uses a representative sampling indexing approach rather than full replication to approximate the index's investment profile\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -9074,7 +9161,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S It employs a representative-sampling indexing approach rather than full replication to match the index's risk and return profile\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
