@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-04-02T19:17:17.492239+00:00",
+  "last_run": "2026-04-02T20:03:23.414190+00:00",
   "last_error": null,
-  "fetched_entries": 1279,
+  "fetched_entries": 1224,
   "feed_entries": 2000,
   "feed_max_pages": 20,
   "catchup_entries": 0,
@@ -9,10 +9,10 @@
   "backfill_entries": 0,
   "backfill_days": 0,
   "repaired_links": 30,
-  "refreshed_synopsis": 3,
+  "refreshed_synopsis": 2,
   "force_refresh_synopsis": false,
   "suppress_email": false,
-  "new_alerts": 0,
-  "total_alerts": 378,
+  "new_alerts": 1,
+  "total_alerts": 379,
   "mode": "github-pages-scheduled-poller"
 }

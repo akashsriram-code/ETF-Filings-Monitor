@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-04-02T20:03:23.413626+00:00",
+    "form_type": "485APOS",
+    "cik": "0000806633",
+    "company_name": "WASATCH FUNDS TRUST",
+    "accession_number": "0001193125-26-139943",
+    "filed_date": "2026-04-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/806633/000119312526139943/0001193125-26-139943-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/806633/000119312526139943/d24631d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/806633/000119312526139943/d24631d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Wasatch Funds Trust\nETF Name: Wasatch Small/Mid Cap ETF\nStrategy: small- and mid-cap equity ETF seeking long-term capital growth through fundamental analysis and proprietary screening models aimed at reducing portfolio volatility The fund does not track any index and is sub-advised by ALPS Advisors under Wasatch Advisors LP's portfolio construction direction\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Wasatch Funds Trust",
+        "etf_name": "Wasatch Small/Mid Cap ETF",
+        "strategy": "small- and mid-cap equity ETF seeking long-term capital growth through fundamental analysis and proprietary screening models aimed at reducing portfolio volatility The fund does not track any index and is sub-advised by ALPS Advisors under Wasatch Advisors LP's portfolio construction direction",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-02T18:03:39.154225+00:00",
     "form_type": "485APOS",
     "cik": "0001587982",
@@ -7883,7 +7912,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Seeks to passively track the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -8987,7 +9016,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S It employs a representative-sampling indexing approach rather than full replication to approximate the index's investment profile\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
