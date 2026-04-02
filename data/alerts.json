@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-04-02T20:51:25.945575+00:00",
+    "form_type": "485APOS",
+    "cik": "0001667919",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+    "accession_number": "0001445546-26-002442",
+    "filed_date": "2026-04-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626002442/0001445546-26-002442-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1667919/000144554626002442/etf8_485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626002442/etf8_485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund VIII\nETF Name: FT Vest U.S. Equity Quarterly 20 Barrier ETF\nStrategy: The fund invests substantially all assets in FLEX Options referencing the SPDR S&P 500 ETF Trust (SPY) to seek returns that match SPY's price return up to a predetermined cap while providing a barrier against the first 20% of SPY losses over a defined Target Outcome Period\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "First Trust Exchange-Traded Fund VIII",
+        "etf_name": "FT Vest U.S. Equity Quarterly 20 Barrier ETF",
+        "strategy": "The fund invests substantially all assets in FLEX Options referencing the SPDR S&P 500 ETF Trust (SPY) to seek returns that match SPY's price return up to a predetermined cap while providing a barrier against the first 20% of SPY losses over a defined Target Outcome Period",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-02T20:52:06.490218+00:00",
+    "form_type": "485APOS",
+    "cik": "0001667919",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+    "accession_number": "0001445546-26-002440",
+    "filed_date": "2026-04-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626002440/0001445546-26-002440-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1667919/000144554626002440/etf8_485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626002440/etf8_485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund VIII\nETF Name: FT Vest U.S. Equity Quarterly 15 Buffer ETF\nStrategy: The fund invests substantially all assets in FLEX Options referencing the SPDR S&P 500 ETF Trust (SPY) to seek pre-determined investment outcomes that match SPY's price return up to a cap while buffering against the first 15% of losses over a quarterly Target Outcome Period It employs a defined-outcome \"target outcome strategy\" that resets each quarter, providing structured equity exposure with built-in downside prot...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "First Trust Exchange-Traded Fund VIII",
+        "etf_name": "FT Vest U.S. Equity Quarterly 15 Buffer ETF",
+        "strategy": "The fund invests substantially all assets in FLEX Options referencing the SPDR S&P 500 ETF Trust (SPY) to seek pre-determined investment outcomes that match SPY's price return up to a cap while buffering against the first 15% of losses over a quarterly Target Outcome Period It employs a defined-outcome \"target outcome strategy\" that resets each quarter, providing structured equity exposure with built-in downside prot...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-02T20:03:23.413626+00:00",
     "form_type": "485APOS",
     "cik": "0000806633",
@@ -7912,7 +7970,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Seeks to passively track the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S Uses a representative sampling indexing approach rather than full replication to approximate the index's investment profile\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -9016,7 +9074,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S It employs a representative-sampling indexing approach rather than full replication to approximate the index's investment profile\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S It employs a representative-sampling indexing approach rather than full replication to match the index's risk and return profile\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
