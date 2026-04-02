@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-04-02T13:57:46.737819+00:00",
+    "form_type": "485APOS",
+    "cik": "0001547576",
+    "company_name": "Krane Shares Trust",
+    "accession_number": "0001829126-26-003066",
+    "filed_date": "2026-04-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547576/000182912626003066/0001829126-26-003066-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547576/000182912626003066/kraneshares_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547576/000182912626003066/kraneshares_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: KraneShares Trust\nETF Name: KraneShares MLM Commodity Long/Neutral Index Strategy ETF\nStrategy: The fund seeks commodity exposure through a subsidiary structure using derivatives such as swaps, futures, forwards, and options, sub-advised by Mount Lucas Index Advisers LLC It employs a long/neutral commodity index approach designed to dynamically navigate contango and backwardation in futures markets\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "KraneShares Trust",
+        "etf_name": "KraneShares MLM Commodity Long/Neutral Index Strategy ETF",
+        "strategy": "The fund seeks commodity exposure through a subsidiary structure using derivatives such as swaps, futures, forwards, and options, sub-advised by Mount Lucas Index Advisers LLC It employs a long/neutral commodity index approach designed to dynamically navigate contango and backwardation in futures markets",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-02T13:58:32.597545+00:00",
+    "form_type": "485APOS",
+    "cik": "0001587982",
+    "company_name": "Investment Managers Series Trust II",
+    "accession_number": "0001213900-26-038911",
+    "filed_date": "2026-04-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026038911/0001213900-26-038911-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587982/000121390026038911/ea0284148-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026038911/ea0284148-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust II\nETF Name: Tradr 2X Short AAOI Daily ETF\nStrategy: The fund seeks daily investment results equal to \u2013200% (two times the inverse) of the daily price performance of Applied Optoelectronics, Inc\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Investment Managers Series Trust II",
+        "etf_name": "Tradr 2X Short AAOI Daily ETF",
+        "strategy": "The fund seeks daily investment results equal to \u2013200% (two times the inverse) of the daily price performance of Applied Optoelectronics, Inc",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-01T22:08:25.036693+00:00",
     "form_type": "485APOS",
     "cik": "0001924868",
@@ -7622,7 +7680,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S Employs a representative-sampling indexing approach rather than full index replication, with a stated management fee of 0.18%\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S The fund is a defined-maturity (term) vehicle\u2014not a target-date fund\u2014and does not seek to protect against inflation\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -8726,7 +8784,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S This is a defined-maturity (term) fund designed to give investors a specific endpoint for tax-exempt fixed-income exposure\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
