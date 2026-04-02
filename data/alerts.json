@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-04-02T18:03:39.154225+00:00",
+    "form_type": "485APOS",
+    "cik": "0001587982",
+    "company_name": "Investment Managers Series Trust II",
+    "accession_number": "0001213900-26-039140",
+    "filed_date": "2026-04-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026039140/0001213900-26-039140-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587982/000121390026039140/ea0284586-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026039140/ea0284586-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust II\nETF Name: Tradr 2X Long CIEN Daily ETF\nStrategy: The Tradr 2X Long CIEN Daily ETF seeks daily investment results, before\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Investment Managers Series Trust II",
+        "etf_name": "Tradr 2X Long CIEN Daily ETF",
+        "strategy": "The Tradr 2X Long CIEN Daily ETF seeks daily investment results, before",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-02T18:05:15.845473+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924447",
+    "company_name": "THOR Financial Technologies Trust",
+    "accession_number": "0001580642-26-002227",
+    "filed_date": "2026-04-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924447/000158064226002227/0001580642-26-002227-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924447/000158064226002227/thor-ardynamicetf_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924447/000158064226002227/thor-ardynamicetf_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: THOR Financial Technologies Trust\nETF Name: Unknown\nStrategy: by employing a multi-strategy approach where the investment sub-adviser, Ai Alpha LLC (the \u201cSub-Adviser\u201d) allocates the Fund\u2019s assets among different strategies The Fund may have indirect exposure to cryptocurrency (bitcoin and Ethereum) through exchange-traded products, subject to the applicable regulatory requirements\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "THOR Financial Technologies Trust",
+        "etf_name": "Unknown",
+        "strategy": "by employing a multi-strategy approach where the investment sub-adviser, Ai Alpha LLC (the \u201cSub-Adviser\u201d) allocates the Fund\u2019s assets among different strategies The Fund may have indirect exposure to cryptocurrency (bitcoin and Ethereum) through exchange-traded products, subject to the applicable regulatory requirements",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-02T16:11:29.586017+00:00",
     "form_type": "485BPOS",
     "cik": "0001209404",
@@ -7825,7 +7883,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S It is structured as a defined-maturity (term) bond ETF designed to provide laddered, buy-and-hold municipal bond exposure with a 0.18% management fee\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -8929,7 +8987,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Employs a representative-sampling indexing approach rather than full replication to approximate index performance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
