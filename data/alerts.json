@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-04-03T17:41:27.940846+00:00",
+    "form_type": "485APOS",
+    "cik": "0001547576",
+    "company_name": "Krane Shares Trust",
+    "accession_number": "0001829126-26-003156",
+    "filed_date": "2026-04-03",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547576/000182912626003156/0001829126-26-003156-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547576/000182912626003156/kraneshares_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547576/000182912626003156/kraneshares_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Krane Shares Trust\nETF Name: None Annual Fund\nStrategy: The Fund may not achieve its investment objective and an investment in the Fund is not by itself a complete or balanced investment program The Fund\u2019s investment strategy is actively-managed and the Fund may not meet its investment objective based on Krane\u2019s success or failure to implement investment strategies for the Fund for these investments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Krane Shares Trust",
+        "etf_name": "None Annual Fund",
+        "strategy": "The Fund may not achieve its investment objective and an investment in the Fund is not by itself a complete or balanced investment program The Fund\u2019s investment strategy is actively-managed and the Fund may not meet its investment objective based on Krane\u2019s success or failure to implement investment strategies for the Fund for these investments",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-03T17:41:30.297090+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000737026",
+    "company_name": "Brighthouse Fund UL for Variable Life Insurance",
+    "accession_number": "0001193125-26-141699",
+    "filed_date": "2026-04-03",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/737026/000119312526141699/0001193125-26-141699-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/737026/000119312526141699/d26050d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/737026/000119312526141699/d26050d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Fund UL for Variable Life Insurance\nETF Name: Policy due to cyber-attacks, disruptions or failures in the future. Each Fund\nStrategy: (iii) its investment adviser and any sub-investment adviser (iv) current expenses and (v)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Fund UL for Variable Life Insurance",
+        "etf_name": "Policy due to cyber-attacks, disruptions or failures in the future. Each Fund",
+        "strategy": "(iii) its investment adviser and any sub-investment adviser (iv) current expenses and (v)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-03T10:56:23.149787+00:00",
     "form_type": "485BPOS",
     "cik": "0001683471",
