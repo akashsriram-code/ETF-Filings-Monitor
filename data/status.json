@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-04-03T20:00:28.372486+00:00",
-  "last_error": "(421, b'4.3.0 Temporary System Problem. Try again later. For more information, go to\\n4.3.0  https://support.google.com/a/answer/3221692 af79cd13be357-8d2a80680dcsm525163885a.26 - gsmtp')",
-  "fetched_entries": 1296,
+  "last_run": "2026-04-03T20:50:45.209621+00:00",
+  "last_error": null,
+  "fetched_entries": 1160,
   "feed_entries": 2000,
   "feed_max_pages": 20,
   "catchup_entries": 0,
@@ -12,7 +12,7 @@
   "refreshed_synopsis": 0,
   "force_refresh_synopsis": false,
   "suppress_email": false,
-  "new_alerts": 0,
-  "total_alerts": 388,
+  "new_alerts": 4,
+  "total_alerts": 392,
   "mode": "github-pages-scheduled-poller"
 }
