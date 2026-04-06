@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-04-06T18:35:24.741066+00:00",
+    "form_type": "485APOS",
+    "cik": "0001293967",
+    "company_name": "PRIMECAP Odyssey Funds",
+    "accession_number": "0000894189-26-011908",
+    "filed_date": "2026-04-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1293967/000089418926011908/0000894189-26-011908-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1293967/000089418926011908/primecapetf-485amarch2026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1293967/000089418926011908/primecapetf-485amarch2026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PRIMECAP Odyssey Funds\nETF Name: PRIMECAP Odyssey Discovery ETF\nStrategy: mid-cap growth equity ETF that invests primarily in stocks of medium-capitalization companies using a growth-oriented selection approach The fund is benchmarked against the Russell Midcap Growth Index and is managed by PRIMECAP Management Company with a 3\u20135 year investment horizon\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PRIMECAP Odyssey Funds",
+        "etf_name": "PRIMECAP Odyssey Discovery ETF",
+        "strategy": "mid-cap growth equity ETF that invests primarily in stocks of medium-capitalization companies using a growth-oriented selection approach The fund is benchmarked against the Russell Midcap Growth Index and is managed by PRIMECAP Management Company with a 3\u20135 year investment horizon",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-06T16:32:52.407018+00:00",
     "form_type": "485BPOS",
     "cik": "0001350487",
@@ -98,7 +127,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526142377/d125676d485apos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Inc. BlackRock ETF Trust BlackRock Series Fund\nStrategy: Passively tracks the Nasdaq-100 Index, comprising the 100 largest non-financial companies listed on the Nasdaq Stock Market by market capitalization The fund uses a representative-sampling indexing approach rather than full replication to approximate the index's capitalization, industry weightings, and liquidity profile\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Inc. BlackRock ETF Trust BlackRock Series Fund\nStrategy: Passively tracks the Nasdaq-100 Index, comprising 100 of the largest non-financial companies listed on the Nasdaq Stock Market, weighted by market capitalization Employs a representative-sampling indexing approach, selecting securities that collectively approximate the index's capitalization weightings, sector exposure, and liquidity characteristics rather than fully replicating it\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -8434,7 +8463,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -9538,7 +9567,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
