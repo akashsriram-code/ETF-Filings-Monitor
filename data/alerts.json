@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-04-06T16:32:52.407018+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001350487",
+    "company_name": "WisdomTree Trust",
+    "accession_number": "0001214659-26-004350",
+    "filed_date": "2026-04-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1350487/000121465926004350/0001214659-26-004350-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1350487/000121465926004350/pea98941260485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1350487/000121465926004350/pea98941260485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: WisdomTree Trust\nETF Name: WisdomTree Strategic Metals and Rare Earths Fund\nStrategy: Actively managed fund using a proprietary WisdomTree model to allocate across commodity metals futures on CME/LME exchanges and global equities of companies engaged in strategic metals and rare earth mining, with at least 80% of net assets in investments providing such exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "WisdomTree Trust",
+        "etf_name": "WisdomTree Strategic Metals and Rare Earths Fund",
+        "strategy": "Actively managed fund using a proprietary WisdomTree model to allocate across commodity metals futures on CME/LME exchanges and global equities of companies engaged in strategic metals and rare earth mining, with at least 80% of net assets in investments providing such exposure",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-06T16:33:38.030852+00:00",
+    "form_type": "485APOS",
+    "cik": "0001667919",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+    "accession_number": "0001445546-26-002459",
+    "filed_date": "2026-04-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626002459/0001445546-26-002459-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1667919/000144554626002459/etf8_485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626002459/etf8_485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund VIII\nETF Name: FT Vest U.S. Equity Buffer & Digital Return ETF \u2013 July (DGJL)\nStrategy: Uses FLEX Options on an S&P 500\u2013tracking ETF to pursue a target outcome strategy that seeks a pre-determined fixed (digital) return when the underlying finishes positive while buffering against the first 10% of losses over a defined Target Outcome Period\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "First Trust Exchange-Traded Fund VIII",
+        "etf_name": "FT Vest U.S. Equity Buffer & Digital Return ETF \u2013 July (DGJL)",
+        "strategy": "Uses FLEX Options on an S&P 500\u2013tracking ETF to pursue a target outcome strategy that seeks a pre-determined fixed (digital) return when the underlying finishes positive while buffering against the first 10% of losses over a defined Target Outcome Period",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-06T13:48:19.286558+00:00",
     "form_type": "485BPOS",
     "cik": "0001722388",
@@ -40,7 +98,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526142377/d125676d485apos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Inc. BlackRock ETF Trust BlackRock Series Fund\nStrategy: Passively tracks the Nasdaq-100 Index, which comprises the 100 largest non-financial companies listed on the Nasdaq Stock Market by market capitalization Employs a representative sampling indexing approach rather than full replication to match the index's capitalization, industry weightings, and liquidity profile\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Inc. BlackRock ETF Trust BlackRock Series Fund\nStrategy: The fund passively tracks the Nasdaq-100 Index \u2014 comprising the 100 largest non-financial companies listed on the Nasdaq Stock Market by market capitalization \u2014 using a representative-sampling indexing approach equity exposure concentrated in technology and growth sectors without full index replication\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -8376,7 +8434,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling approach rather than full index replication and is not structured as a target-date fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -9480,7 +9538,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S It employs a representative-sampling indexing approach rather than full replication, investing in a subset of securities that collectively mirror the index's risk and return profile\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S Employs a representative sampling indexing approach rather than full index replication to manage the breadth and illiquidity of the municipal bond market\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
