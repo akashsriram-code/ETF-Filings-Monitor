@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-04-06T19:44:18.905438+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001314414",
+    "company_name": "Northern Lights Fund Trust",
+    "accession_number": "0001580642-26-002317",
+    "filed_date": "2026-04-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1314414/000158064226002317/0001580642-26-002317-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1314414/000158064226002317/activistfund-13d_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1314414/000158064226002317/activistfund-13d_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust\nETF Name: 13D Activist Fund\nStrategy: common stocks of companies targeted by activist investors, selecting holdings based on the activist's track record, strategy type, shareholder base, and assessed probability of share-price impact The fund may also invest in ETFs from providers such as BlackRock and SPDR under fund-of-funds agreements to complement its activist-equity positions\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Northern Lights Fund Trust",
+        "etf_name": "13D Activist Fund",
+        "strategy": "common stocks of companies targeted by activist investors, selecting holdings based on the activist's track record, strategy type, shareholder base, and assessed probability of share-price impact The fund may also invest in ETFs from providers such as BlackRock and SPDR under fund-of-funds agreements to complement its activist-equity positions",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-06T19:45:22.632870+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001810747",
+    "company_name": "Simplify Exchange Traded Funds",
+    "accession_number": "0001829126-26-003207",
+    "filed_date": "2026-04-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626003207/0001829126-26-003207-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1810747/000182912626003207/simplifyetf_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626003207/simplifyetf_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Simplify Exchange Traded Funds\nETF Name: Simplify Tax Aware Diversified Income Strategy ETF\nStrategy: Actively managed ETF seeking capital appreciation through diversified income sources across domestic, foreign, and emerging-market securities, including fund-of-funds investments. It shares the same tax-aware framework and 0.15% net expense ratio as its companion alternatives fund under the same prospectus.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Simplify Exchange Traded Funds",
+        "etf_name": "Simplify Tax Aware Diversified Income Strategy ETF",
+        "strategy": "Actively managed ETF seeking capital appreciation through diversified income sources across domestic, foreign, and emerging-market securities, including fund-of-funds investments. It shares the same tax-aware framework and 0.15% net expense ratio as its companion alternatives fund under the same prospectus.",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-06T18:35:24.741066+00:00",
     "form_type": "485APOS",
     "cik": "0001293967",
@@ -127,7 +185,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526142377/d125676d485apos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Inc. BlackRock ETF Trust BlackRock Series Fund\nStrategy: Passively tracks the Nasdaq-100 Index, comprising 100 of the largest non-financial companies listed on the Nasdaq Stock Market, weighted by market capitalization Employs a representative-sampling indexing approach, selecting securities that collectively approximate the index's capitalization weightings, sector exposure, and liquidity characteristics rather than fully replicating it\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Inc. BlackRock ETF Trust BlackRock Series Fund\nStrategy: Passively tracks the Nasdaq-100 Index, comprising the 100 largest non-financial companies listed on the Nasdaq Stock Market by market capitalization, using a representative-sampling indexing approach and international large-cap equities with a tech-heavy growth tilt benchmarked to the Nasdaq-100 Index\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -8463,7 +8521,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -9567,7 +9625,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S It employs a representative sampling indexing approach rather than full replication to approximate the index's risk and return profile\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
