@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-04-07T10:41:24.863920+00:00",
+    "form_type": "485APOS",
+    "cik": "0001064642",
+    "company_name": "SPDR SERIES TRUST",
+    "accession_number": "0001193125-26-144194",
+    "filed_date": "2026-04-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1064642/000119312526144194/0001193125-26-144194-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1064642/000119312526144194/d10980d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1064642/000119312526144194/d10980d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SPDR SERIES TRUST\nETF Name: Unknown\nStrategy: For example, the Fund may make larger than normal investments in derivatives to maintain exposure to its Index if it is unable to invest directly in a component security\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SPDR SERIES TRUST",
+        "etf_name": "Unknown",
+        "strategy": "For example, the Fund may make larger than normal investments in derivatives to maintain exposure to its Index if it is unable to invest directly in a component security",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-07T10:41:26.868209+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001728683",
+    "company_name": "SPROTT FUNDS TRUST",
+    "accession_number": "0001829126-26-003232",
+    "filed_date": "2026-04-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1728683/000182912626003232/0001829126-26-003232-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1728683/000182912626003232/sprott_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1728683/000182912626003232/sprott_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SPROTT FUNDS TRUST\nETF Name: Average Assets will be calculated in the aggregate across all ETF\nStrategy: Under the Sub-Advisory Agreement with respect to the Fund, the Adviser pays the Sub-Adviser a fee as indicated in the table below: Average Assets* Sub-Advisory Fee** Up to $250 million 0.04% $250 million \u2013 $500 million 0.03% Above $500 million 0.02% * Average Assets will be calculated in the aggregate across all ETF series of Sprott Funds Trust.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SPROTT FUNDS TRUST",
+        "etf_name": "Average Assets will be calculated in the aggregate across all ETF",
+        "strategy": "Under the Sub-Advisory Agreement with respect to the Fund, the Adviser pays the Sub-Adviser a fee as indicated in the table below: Average Assets* Sub-Advisory Fee** Up to $250 million 0.04% $250 million \u2013 $500 million 0.03% Above $500 million 0.02% * Average Assets will be calculated in the aggregate across all ETF series of Sprott Funds Trust.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-07T10:41:30.140324+00:00",
+    "form_type": "485APOS",
+    "cik": "0001388485",
+    "company_name": "FundVantage Trust",
+    "accession_number": "0001829126-26-003230",
+    "filed_date": "2026-04-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1388485/000182912626003230/0001829126-26-003230-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1388485/000182912626003230/fundvantage_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1388485/000182912626003230/fundvantage_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FundVantage Trust\nETF Name: Small-Mid Growth ETF\nStrategy: Polen 5Perspectives Small-Mid Growth ETF (the \u201cFund\u201d) seeks to achieve long-term growth of capital Summary of The Fund typically invests in a portfolio of common stocks of small and mid-cap (often combined as \u201cSMID\u201d) companies and, under normal circumstances, the Fund invests at least 80% of its net assets in securities of U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FundVantage Trust",
+        "etf_name": "Small-Mid Growth ETF",
+        "strategy": "Polen 5Perspectives Small-Mid Growth ETF (the \u201cFund\u201d) seeks to achieve long-term growth of capital Summary of The Fund typically invests in a portfolio of common stocks of small and mid-cap (often combined as \u201cSMID\u201d) companies and, under normal circumstances, the Fund invests at least 80% of its net assets in securities of U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-06T20:27:48.873919+00:00",
     "form_type": "485APOS",
     "cik": "0000044402",
