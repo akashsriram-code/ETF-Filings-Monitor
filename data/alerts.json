@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-04-07T21:56:35.360221+00:00",
+    "form_type": "485APOS",
+    "cik": "0001579881",
+    "company_name": "Calamos ETF Trust",
+    "accession_number": "0001104659-26-040498",
+    "filed_date": "2026-04-07",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1579881/000110465926040498/0001104659-26-040498-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1579881/000110465926040498/tm269126d1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1579881/000110465926040498/tm269126d1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Calamos ETF Trust\nETF Name: Calamos Timpani Active Growth Opportunities ETF\nStrategy: [Calamos Timpani Active Growth Opportunities ETF] (the \"Fund\") seeks capital appreciation You should not consider investing in the Fund if your investment objective differs from the Fund's investment objective or if you are not willing to accept the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Calamos ETF Trust",
+        "etf_name": "Calamos Timpani Active Growth Opportunities ETF",
+        "strategy": "[Calamos Timpani Active Growth Opportunities ETF] (the \"Fund\") seeks capital appreciation You should not consider investing in the Fund if your investment objective differs from the Fund's investment objective or if you are not willing to accept the",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-07T21:56:38.306294+00:00",
+    "form_type": "485APOS",
+    "cik": "0001579881",
+    "company_name": "Calamos ETF Trust",
+    "accession_number": "0001104659-26-040487",
+    "filed_date": "2026-04-07",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1579881/000110465926040487/0001104659-26-040487-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1579881/000110465926040487/tm269125d1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1579881/000110465926040487/tm269125d1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Calamos ETF Trust\nETF Name: Other Important Information Regarding Fund\nStrategy: Calamos [Active Hedged Equity] ETF (the \"Fund\") seeks total return with lower volatility than equity markets Under normal circumstances, the Fund invests at least 80% of its net assets (plus any borrowings for investment purposes) in shares of other registered investment companies which in turn seek to provide investment results that, before expenses, correspond generally to the price and yield\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Calamos ETF Trust",
+        "etf_name": "Other Important Information Regarding Fund",
+        "strategy": "Calamos [Active Hedged Equity] ETF (the \"Fund\") seeks total return with lower volatility than equity markets Under normal circumstances, the Fund invests at least 80% of its net assets (plus any borrowings for investment purposes) in shares of other registered investment companies which in turn seek to provide investment results that, before expenses, correspond generally to the price and yield",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-07T21:56:41.287024+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001080299",
+    "company_name": "LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT S",
+    "accession_number": "0001104659-26-040464",
+    "filed_date": "2026-04-07",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1080299/000110465926040464/0001104659-26-040464-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1080299/000110465926040464/tm265120d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1080299/000110465926040464/tm265120d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT S\nETF Name: Information regarding each Underlying Fund\nStrategy: A given Underlying Fund may have an investment objective and similar to those for another fund managed by the same investment advisor or subadvisor\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "LINCOLN LIFE FLEXIBLE PREMIUM VARIABLE LIFE ACCOUNT S",
+        "etf_name": "Information regarding each Underlying Fund",
+        "strategy": "A given Underlying Fund may have an investment objective and similar to those for another fund managed by the same investment advisor or subadvisor",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-07T21:03:02.651112+00:00",
     "form_type": "485BPOS",
     "cik": "0001081039",
