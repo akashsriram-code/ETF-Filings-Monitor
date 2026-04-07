@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-04-07T15:56:41.397376+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-007786",
+    "filed_date": "2026-04-07",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126007786/0001999371-26-007786-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126007786/defiance2x-485bpos_040726.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126007786/defiance2x-485bpos_040726.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: SUMMARY INFORMATION DEFIANCE SPACE DATA CENTER LEADERS ETF\nStrategy: 1 For purposes of the Fund\u2019s investment strategy, the term \u201cspace data center\u201d refers to infrastructure and systems designed to process, store, transmit, or manage data derived from or operated within space-based or orbital environments Investment Selection Process The Adviser employs a thematic and qualitative investment approach to identify and select a focused portfolio generally consisting of between 5 and 25 equ\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "SUMMARY INFORMATION DEFIANCE SPACE DATA CENTER LEADERS ETF",
+        "strategy": "1 For purposes of the Fund\u2019s investment strategy, the term \u201cspace data center\u201d refers to infrastructure and systems designed to process, store, transmit, or manage data derived from or operated within space-based or orbital environments Investment Selection Process The Adviser employs a thematic and qualitative investment approach to identify and select a focused portfolio generally consisting of between 5 and 25 equ",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-07T14:22:36.066080+00:00",
     "form_type": "485APOS",
     "cik": "0001742912",
