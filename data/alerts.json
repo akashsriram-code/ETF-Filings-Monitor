@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-04-08T18:48:28.547576+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-007890",
+    "filed_date": "2026-04-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126007890/0001999371-26-007890-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126007890/dt2xl_485apos-040826.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126007890/dt2xl_485apos-040826.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Unknown\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Unknown",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-08T18:49:57.442462+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001137360",
+    "company_name": "VanEck ETF Trust",
+    "accession_number": "0001137360-26-000365",
+    "filed_date": "2026-04-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000365/0001137360-26-000365-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1137360/000113736026000365/cik0001137360-20260408.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000365/cik0001137360-20260408.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VanEck ETF Trust\nETF Name: VanEck Degen Economy ETF\nStrategy: Passively tracks the Degen Economy Index, investing at least 80% of total assets in companies deriving at least 50% of revenue from digital brokerage, crypto exchanges, iGaming, digital sports betting, BNPL, online forums, and gig-economy platforms\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VanEck ETF Trust",
+        "etf_name": "VanEck Degen Economy ETF",
+        "strategy": "Passively tracks the Degen Economy Index, investing at least 80% of total assets in companies deriving at least 50% of revenue from digital brokerage, crypto exchanges, iGaming, digital sports betting, BNPL, online forums, and gig-economy platforms",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-08T18:50:54.475035+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000878719",
+    "company_name": "ADVISORS' INNER CIRCLE FUND",
+    "accession_number": "0001398344-26-006247",
+    "filed_date": "2026-04-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/878719/000139834426006247/0001398344-26-006247-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/878719/000139834426006247/fp0098092-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/878719/000139834426006247/fp0098092-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Advisors' Inner Circle Fund\nETF Name: Breckinridge Municipal Bond Completion Fund\nStrategy: Actively managed municipal bond fund that uses bottom-up fundamental credit analysis to select investment-grade municipal securities, seeking current income exempt from federal income tax and capital preservation. The fund is designed as a complement to existing muni bond allocations and charges a 0.00% management fee, with Breckinridge Capital Advisors serving as adviser.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Advisors' Inner Circle Fund",
+        "etf_name": "Breckinridge Municipal Bond Completion Fund",
+        "strategy": "Actively managed municipal bond fund that uses bottom-up fundamental credit analysis to select investment-grade municipal securities, seeking current income exempt from federal income tax and capital preservation. The fund is designed as a complement to existing muni bond allocations and charges a 0.00% management fee, with Breckinridge Capital Advisors serving as adviser.",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-08T17:16:57.401956+00:00",
     "form_type": "485BPOS",
     "cik": "0001298892",
@@ -649,7 +736,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1064642/000119312526144194/d10980d485apos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SPDR SERIES TRUST\nETF Name: Unknown\nStrategy: For example, the Fund may make larger than normal investments in derivatives to maintain exposure to its Index if it is unable to invest directly in a component security\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: SPDR Series Trust\nETF Name: SPDR Nasdaq 100 ETF\nStrategy: large-cap equity ETF that seeks to track the Nasdaq 100 Index using a sampling approach, investing at least 80% of net assets in index constituents The fund may also use derivatives or non-index equities to maintain exposure, and the board retains authority to change the underlying index without shareholder approval\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "SPDR SERIES TRUST",
@@ -10379,7 +10466,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Seeks to track the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
