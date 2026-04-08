@@ -1,5 +1,121 @@
 [
   {
+    "created_at": "2026-04-08T20:54:04.381533+00:00",
+    "form_type": "485APOS",
+    "cik": "0001096012",
+    "company_name": "AMERICAN BEACON SELECT FUNDS",
+    "accession_number": "0001133228-26-004893",
+    "filed_date": "2026-04-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1096012/000113322826004893/0001133228-26-004893-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1096012/000113322826004893/abamhie-etf23918_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1096012/000113322826004893/abamhie-etf23918_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: American Beacon Select Funds\nETF Name: American Beacon Aberdeen Municipal High Income ETF\nStrategy: The ETF is an actively managed municipal bond fund that invests at least 80% of net assets in tax-exempt municipal bonds, including high-yield issues rated BB+ or lower, using a combination of top-down macro analysis and bottom-up credit research The sub-advisor, Aberdeen, builds a diversified portfolio across states and sectors, and may also invest in other municipal debt ETFs, money market funds, and unrated securi...\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "American Beacon Select Funds",
+        "etf_name": "American Beacon Aberdeen Municipal High Income ETF",
+        "strategy": "The ETF is an actively managed municipal bond fund that invests at least 80% of net assets in tax-exempt municipal bonds, including high-yield issues rated BB+ or lower, using a combination of top-down macro analysis and bottom-up credit research The sub-advisor, Aberdeen, builds a diversified portfolio across states and sectors, and may also invest in other municipal debt ETFs, money market funds, and unrated securi...",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-08T20:54:51.065959+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000103007",
+    "company_name": "VARIABLE ANNUITY ACCOUNT C OF VOYA RETIREMENT INSURANCE & ANNUITY Co",
+    "accession_number": "0001133228-26-004890",
+    "filed_date": "2026-04-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/103007/000113322826004890/0001133228-26-004890-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/103007/000113322826004890/fu-efp23814_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/103007/000113322826004890/fu-efp23814_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Variable Annuity Account C of Voya Retirement Insurance & Annuity Co\nETF Name: Annuity Account C Variable Annuity Contract\nStrategy: This is a variable annuity separate account in which each Subaccount invests in shares of a corresponding underlying mutual fund spanning multiple asset classes and managers\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Variable Annuity Account C of Voya Retirement Insurance & Annuity Co",
+        "etf_name": "Annuity Account C Variable Annuity Contract",
+        "strategy": "This is a variable annuity separate account in which each Subaccount invests in shares of a corresponding underlying mutual fund spanning multiple asset classes and managers",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-08T20:55:33.352287+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001667919",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+    "accession_number": "0001445546-26-002645",
+    "filed_date": "2026-04-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626002645/0001445546-26-002645-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1667919/000144554626002645/ft-20260408.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626002645/ft-20260408.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund VIII\nETF Name: FT Vest U.S. Equity Buffer & Digital Return ETF \u2013 April (DGAP)\nStrategy: Invests substantially all assets in FLEX Options referencing an S&P 500\u2013tracking underlying ETF, seeking to buffer against the first 10% of losses over a defined Target Outcome Period while capping upside at a pre-set digital return large-cap equity defined-outcome fund employing an options-overlay strategy tied to the S&P 500\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "First Trust Exchange-Traded Fund VIII",
+        "etf_name": "FT Vest U.S. Equity Buffer & Digital Return ETF \u2013 April (DGAP)",
+        "strategy": "Invests substantially all assets in FLEX Options referencing an S&P 500\u2013tracking underlying ETF, seeking to buffer against the first 10% of losses over a defined Target Outcome Period while capping upside at a pre-set digital return large-cap equity defined-outcome fund employing an options-overlay strategy tied to the S&P 500",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-08T20:57:26.048384+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-003280",
+    "filed_date": "2026-04-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626003280/0001829126-26-003280-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626003280/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626003280/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Unknown",
+        "strategy": "The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-08T19:55:37.690021+00:00",
     "form_type": "485APOS",
     "cik": "0001924868",
@@ -40,7 +156,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1079575/000110465926040845/tm2611348d1_485apos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: CALAMOS ADVISORS TRUST/IL\nETF Name: Unknown\nStrategy: Additionally, if the investment company or ETF fails to achieve its investment objective, the value of the Fund\u2019s investment will decline, adversely affecting the Fund\u2019s\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Calamos ETF Trust\nETF Name: Calamos US Equity Autocallable Income ETF\nStrategy: The fund is an actively managed ETF that invests at least 80% of its total assets in instruments providing exposure to a Laddered Autocall Index \u2014 a synthetic portfolio of autocallable notes arranged in a laddered structure with staggered entry points, seeking to generate high monthly income while providing reduced downside risk Returns are contingent on a US equity volatility-managed index linked to E-Mini S&P futur...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "CALAMOS ADVISORS TRUST/IL",
@@ -9420,7 +9536,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling indexing approach rather than full replication to approximate the index's characteristics\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling indexing approach rather than full replication to approximate the index's risk and return profile\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
