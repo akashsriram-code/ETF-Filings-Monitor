@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-04-08T21:37:55.594584+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001888997",
+    "company_name": "SEI Exchange Traded Funds",
+    "accession_number": "0001104659-26-041016",
+    "filed_date": "2026-04-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1888997/000110465926041016/0001104659-26-041016-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1888997/000110465926041016/tm267940d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1888997/000110465926041016/tm267940d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SEI Exchange Traded Funds\nETF Name: SEI High Yield Bond & Alternative Credit ETF\nStrategy: The fund is an ETF created through the reorganization of an existing SEI high-yield bond mutual fund, preserving the same investment objective, sub-advisers, and principal strategies focused on high-yield bonds and alternative credit assets under a unitary fee structure The name was updated to better reflect the portfolio's existing exposure to alternative credit strategies and attendant risks\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SEI Exchange Traded Funds",
+        "etf_name": "SEI High Yield Bond & Alternative Credit ETF",
+        "strategy": "The fund is an ETF created through the reorganization of an existing SEI high-yield bond mutual fund, preserving the same investment objective, sub-advisers, and principal strategies focused on high-yield bonds and alternative credit assets under a unitary fee structure The name was updated to better reflect the portfolio's existing exposure to alternative credit strategies and attendant risks",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-08T21:38:45.460733+00:00",
+    "form_type": "485APOS",
+    "cik": "0000919160",
+    "company_name": "GUINNESS ATKINSON FUNDS",
+    "accession_number": "0001213900-26-041577",
+    "filed_date": "2026-04-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/919160/000121390026041577/0001213900-26-041577-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/919160/000121390026041577/ea0278172-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/919160/000121390026041577/ea0278172-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Guinness Atkinson Funds\nETF Name: Guinness Atkinson Global Innovators Fund ETF Class Shares\nStrategy: Seeks long-term capital appreciation with a go-anywhere geographic mandate, holding both foreign and domestic securities via a multi-class ETF and mutual fund structure\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Guinness Atkinson Funds",
+        "etf_name": "Guinness Atkinson Global Innovators Fund ETF Class Shares",
+        "strategy": "Seeks long-term capital appreciation with a go-anywhere geographic mandate, holding both foreign and domestic securities via a multi-class ETF and mutual fund structure",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-08T21:40:01.521503+00:00",
+    "form_type": "485APOS",
+    "cik": "0001424958",
+    "company_name": "Direxion Shares ETF Trust",
+    "accession_number": "0001193125-26-147836",
+    "filed_date": "2026-04-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526147836/0001193125-26-147836-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1424958/000119312526147836/d79642d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526147836/d79642d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Direxion Shares ETF Trust\nETF Name: Direxion AAPL Premium Income ETF (name not explicitly stated in filing)\nStrategy: (AAPL), while also potentially holding AAPL shares and using swaps and options to replicate index exposure It continuously maintains indirect AAPL exposure through rolling derivatives contracts rather than direct equity holdings\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Direxion Shares ETF Trust",
+        "etf_name": "Direxion AAPL Premium Income ETF (name not explicitly stated in filing)",
+        "strategy": "(AAPL), while also potentially holding AAPL shares and using swaps and options to replicate index exposure It continuously maintains indirect AAPL exposure through rolling derivatives contracts rather than direct equity holdings",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-08T20:54:04.381533+00:00",
     "form_type": "485APOS",
     "cik": "0001096012",
@@ -9536,7 +9623,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling indexing approach rather than full replication to approximate the index's risk and return profile\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -10640,7 +10727,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
