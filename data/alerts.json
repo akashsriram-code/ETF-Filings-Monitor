@@ -1,5 +1,295 @@
 [
   {
+    "created_at": "2026-04-09T21:33:31.391896+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001093278",
+    "company_name": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
+    "accession_number": "0001104659-26-041547",
+    "filed_date": "2026-04-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1093278/000110465926041547/0001104659-26-041547-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1093278/000110465926041547/tm265149d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1093278/000110465926041547/tm265149d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES\nETF Name: LVIP Vanguard Domestic Equity ETF\nStrategy: The fund pursues long-term capital appreciation through a fund-of-funds structure that allocates to underlying Vanguard domestic equity ETFs. It serves as a subaccount investment option within a Lincoln variable annuity contract, with investment risk borne by the contractowner.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
+        "etf_name": "LVIP Vanguard Domestic Equity ETF",
+        "strategy": "The fund pursues long-term capital appreciation through a fund-of-funds structure that allocates to underlying Vanguard domestic equity ETFs. It serves as a subaccount investment option within a Lincoln variable annuity contract, with investment risk borne by the contractowner.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-09T21:34:24.911539+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001021330",
+    "company_name": "PRUCO LIFE OF NEW JERSEY FLEXIBLE PREMIUM VARIABLE ANNUITY ACCOUNT",
+    "accession_number": "0001133228-26-005025",
+    "filed_date": "2026-04-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1021330/000113322826005025/0001133228-26-005025-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1021330/000113322826005025/plnjblcny-efp23531_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1021330/000113322826005025/plnjblcny-efp23531_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Pruco Life of New Jersey Flexible Premium Variable Annuity Account\nETF Name: An underlying mutual fund\nStrategy: Each Variable Option invests in a single underlying portfolio whose share price generally fluctuates daily, with voting rights, advisor compensation, and sub-account structure governed by standard insurance-product procedures\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Pruco Life of New Jersey Flexible Premium Variable Annuity Account",
+        "etf_name": "An underlying mutual fund",
+        "strategy": "Each Variable Option invests in a single underlying portfolio whose share price generally fluctuates daily, with voting rights, advisor compensation, and sub-account structure governed by standard insurance-product procedures",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-09T21:35:27.161598+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000855396",
+    "company_name": "LORD ABBETT SERIES FUND INC",
+    "accession_number": "0000930413-26-001021",
+    "filed_date": "2026-04-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/855396/000093041326001021/0000930413-26-001021-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/855396/000093041326001021/c115751_485bpos-ixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/855396/000093041326001021/c115751_485bpos-ixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Lord Abbett Series Fund, Inc. (adviser: Lord, Abbett & Co. LLC)\nETF Name: Lord Abbett Series Fund \u2013 Fundamental Equity Portfolio (Class VC)\nStrategy: Value-oriented equity fund investing in securities management considers undervalued and selling at reasonable prices relative to assessed potential. Net expense ratio of 1.08% (Class VC) after an 11 basis-point fee waiver through April 2027.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Lord Abbett Series Fund, Inc. (adviser: Lord, Abbett & Co. LLC)",
+        "etf_name": "Lord Abbett Series Fund \u2013 Fundamental Equity Portfolio (Class VC)",
+        "strategy": "Value-oriented equity fund investing in securities management considers undervalued and selling at reasonable prices relative to assessed potential. Net expense ratio of 1.08% (Class VC) after an 11 basis-point fee waiver through April 2027.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-09T21:36:35.503947+00:00",
+    "form_type": "485APOS",
+    "cik": "0001547950",
+    "company_name": "Exchange Listed Funds Trust",
+    "accession_number": "0001213900-26-042033",
+    "filed_date": "2026-04-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026042033/0001213900-26-042033-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547950/000121390026042033/ea0285621-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026042033/ea0285621-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Exchange Listed Funds Trust\nETF Name: ARIA Innovation ETF\nStrategy: Actively managed ETF seeking total return through a concentrated portfolio of 20\u201335 U.S equity securities with notable Asian issuer exposure, supplemented by long call options on select holdings\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Exchange Listed Funds Trust",
+        "etf_name": "ARIA Innovation ETF",
+        "strategy": "Actively managed ETF seeking total return through a concentrated portfolio of 20\u201335 U.S equity securities with notable Asian issuer exposure, supplemented by long call options on select holdings",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-09T21:37:25.107339+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001021330",
+    "company_name": "PRUCO LIFE OF NEW JERSEY FLEXIBLE PREMIUM VARIABLE ANNUITY ACCOUNT",
+    "accession_number": "0001133228-26-005024",
+    "filed_date": "2026-04-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1021330/000113322826005024/0001133228-26-005024-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1021330/000113322826005024/plnjfg-efp23487_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1021330/000113322826005024/plnjfg-efp23487_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Pruco Life Insurance Company of New Jersey\nETF Name: Prudential Series Fund Portfolios (underlying variable annuity investment options, not a standalone ETF)\nStrategy: This variable annuity offers Variable Options investing in underlying Prudential Series Fund Portfolios across multiple asset classes, plus Index Strategies that apply a defined buffer absorbing a set percentage of negative index returns over a specified term A Performance Lock feature allows policyholders to lock in an Index Strategy's value on any Valuation Day mid-term, with that locked value remaining fixed for t...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Pruco Life Insurance Company of New Jersey",
+        "etf_name": "Prudential Series Fund Portfolios (underlying variable annuity investment options, not a standalone ETF)",
+        "strategy": "This variable annuity offers Variable Options investing in underlying Prudential Series Fund Portfolios across multiple asset classes, plus Index Strategies that apply a defined buffer absorbing a set percentage of negative index returns over a specified term A Performance Lock feature allows policyholders to lock in an Index Strategy's value on any Valuation Day mid-term, with that locked value remaining fixed for t...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-09T21:38:08.926674+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002077808",
+    "company_name": "Pruco Life Insurance Co of New Jersey (RILA/MVA)",
+    "accession_number": "0001133228-26-005023",
+    "filed_date": "2026-04-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2077808/000113322826005023/0001133228-26-005023-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2077808/000113322826005023/plnjfg-efp23539_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2077808/000113322826005023/plnjfg-efp23539_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Pruco Life Insurance Company of New Jersey\nETF Name: An underlying mutual fund\nStrategy: This is a variable annuity offering index-linked strategies with defined downside buffers (e.g., a 10% buffer absorbs the first 10% of index losses) and variable investment options allocated to Prudential Series Fund portfolios A Performance Lock feature allows contract holders to lock in an Index Strategy's value on any Valuation Day, freezing it for the remainder of the term unless a withdrawal or reallocation occu...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Pruco Life Insurance Company of New Jersey",
+        "etf_name": "An underlying mutual fund",
+        "strategy": "This is a variable annuity offering index-linked strategies with defined downside buffers (e.g., a 10% buffer absorbs the first 10% of index losses) and variable investment options allocated to Prudential Series Fund portfolios A Performance Lock feature allows contract holders to lock in an Index Strategy's value on any Valuation Day, freezing it for the remainder of the term unless a withdrawal or reallocation occu...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-09T21:38:53.691380+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001021330",
+    "company_name": "PRUCO LIFE OF NEW JERSEY FLEXIBLE PREMIUM VARIABLE ANNUITY ACCOUNT",
+    "accession_number": "0001133228-26-005022",
+    "filed_date": "2026-04-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1021330/000113322826005022/0001133228-26-005022-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1021330/000113322826005022/plnjxbrl-efp23534_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1021330/000113322826005022/plnjxbrl-efp23534_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PRUCO LIFE OF NEW JERSEY FLEXIBLE PREMIUM VARIABLE ANNUITY ACCOUNT\nETF Name: An underlying mutual fund\nStrategy: This is a variable annuity product offering multiple underlying Portfolios as Variable Options, with an automatic transfer mechanism that shifts account value between selected Variable Options and a dedicated AST Bond Portfolio based on a proprietary formula Each Variable Option invests in an underlying mutual fund Portfolio whose share price generally fluctuates daily\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PRUCO LIFE OF NEW JERSEY FLEXIBLE PREMIUM VARIABLE ANNUITY ACCOUNT",
+        "etf_name": "An underlying mutual fund",
+        "strategy": "This is a variable annuity product offering multiple underlying Portfolios as Variable Options, with an automatic transfer mechanism that shifts account value between selected Variable Options and a dedicated AST Bond Portfolio based on a proprietary formula Each Variable Option invests in an underlying mutual fund Portfolio whose share price generally fluctuates daily",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-09T21:39:40.162904+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001021330",
+    "company_name": "PRUCO LIFE OF NEW JERSEY FLEXIBLE PREMIUM VARIABLE ANNUITY ACCOUNT",
+    "accession_number": "0001133228-26-005021",
+    "filed_date": "2026-04-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1021330/000113322826005021/0001133228-26-005021-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1021330/000113322826005021/plnjblx-efp23535_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1021330/000113322826005021/plnjblx-efp23535_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PRUCO LIFE OF NEW JERSEY FLEXIBLE PREMIUM VARIABLE ANNUITY ACCOUNT\nETF Name: Any underlying mutual fund\nStrategy: The filing describes a suite of sub-account investment portfolios offered as variable options inside variable annuity and variable life insurance products, with automatic asset-transfer mechanisms between equity-oriented options and bond portfolios. Prudential and its affiliates receive revenue-sharing and administrative-services payments from the underlying portfolios' advisors and subadvisors.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PRUCO LIFE OF NEW JERSEY FLEXIBLE PREMIUM VARIABLE ANNUITY ACCOUNT",
+        "etf_name": "Any underlying mutual fund",
+        "strategy": "The filing describes a suite of sub-account investment portfolios offered as variable options inside variable annuity and variable life insurance products, with automatic asset-transfer mechanisms between equity-oriented options and bond portfolios. Prudential and its affiliates receive revenue-sharing and administrative-services payments from the underlying portfolios' advisors and subadvisors.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-09T21:40:23.206341+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002077808",
+    "company_name": "Pruco Life Insurance Co of New Jersey (RILA/MVA)",
+    "accession_number": "0001133228-26-005020",
+    "filed_date": "2026-04-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2077808/000113322826005020/0001133228-26-005020-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2077808/000113322826005020/plnjh-efp23538_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2077808/000113322826005020/plnjh-efp23538_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Pruco Life Insurance Co of New Jersey\nETF Name: Investment Advisors DayMark Wealth Partners Delaware Life DFPG Investments LLC Dimensional Fund\nStrategy: This filing is a variable or fixed indexed annuity contract prospectus, not an ETF registration statement; it contains no disclosed investment objective or fund strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Pruco Life Insurance Co of New Jersey",
+        "etf_name": "Investment Advisors DayMark Wealth Partners Delaware Life DFPG Investments LLC Dimensional Fund",
+        "strategy": "This filing is a variable or fixed indexed annuity contract prospectus, not an ETF registration statement; it contains no disclosed investment objective or fund strategy",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-09T21:41:04.354999+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002077808",
+    "company_name": "Pruco Life Insurance Co of New Jersey (RILA/MVA)",
+    "accession_number": "0001133228-26-005019",
+    "filed_date": "2026-04-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2077808/000113322826005019/0001133228-26-005019-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2077808/000113322826005019/plnjm-efp23537_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2077808/000113322826005019/plnjm-efp23537_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Pruco Life Insurance Co of New Jersey\nETF Name: Calculate the Contract Fund\nStrategy: This is a variable annuity/insurance product filing \u2014 not an ETF \u2014 offering an MVA Fixed Allocation option within a variable annuity contract, backed by Pruco Life's general account. Early withdrawals may trigger principal loss via withdrawal charges and negative market value adjustments, and the product is not designed for investors needing liquidity.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Pruco Life Insurance Co of New Jersey",
+        "etf_name": "Calculate the Contract Fund",
+        "strategy": "This is a variable annuity/insurance product filing \u2014 not an ETF \u2014 offering an MVA Fixed Allocation option within a variable annuity contract, backed by Pruco Life's general account. Early withdrawals may trigger principal loss via withdrawal charges and negative market value adjustments, and the product is not designed for investors needing liquidity.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-09T20:40:19.341441+00:00",
     "form_type": "485BPOS",
     "cik": "0002077808",
@@ -11392,7 +11682,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Seeks to track the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling indexing strategy rather than full replication and is explicitly not a target-date fund\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -12496,7 +12786,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
@@ -13309,140 +13599,5 @@
     "email_sent": false,
     "error": "Resend error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (channelcarrera@gmail.com). To send emails to other recipients, please verify a domain at resend.com/domains, and change the `from` address to an email using this domain.\"}",
     "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1778939/000152862126000197/focus1361_485.htm"
-  },
-  {
-    "created_at": "2026-02-26T18:00:50.490399+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001778938",
-    "company_name": "Invesco Unit Trusts, Municipal Series 1360",
-    "accession_number": "0001528621-26-000196",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1778938/000152862126000196/0001528621-26-000196-index.html",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1778938/000152862126000196/focus1360_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1360\nETF Name: Investment Grade Municipal Trust, 20+ Year Series 203\nStrategy: The trust invests in a fixed, laddered portfolio of investment-grade tax-exempt municipal bonds with maturities of approximately 20 years or more, with roughly 20% of bonds maturing every five years\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Resend error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (channelcarrera@gmail.com). To send emails to other recipients, please verify a domain at resend.com/domains, and change the `from` address to an email using this domain.\"}",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1778938/000152862126000196/focus1360_485.htm"
-  },
-  {
-    "created_at": "2026-02-26T18:00:51.001800+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001778935",
-    "company_name": "Invesco Unit Trusts, Municipal Series 1357",
-    "accession_number": "0001528621-26-000195",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1778935/000152862126000195/0001528621-26-000195-index.html",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1778935/000152862126000195/focus1357_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1357\nETF Name: Investment Grade Municipal Trust, 20+ Year Series 200\nStrategy: This unit investment trust holds a fixed, laddered portfolio of long-duration investment-grade municipal bonds with maturities spanning approximately 10 to 30 years, structured so roughly 20% of bonds mature every five years The portfolio is concentrated in Health Care (28%), Higher Education (21%), Transportation (21%), and General Obligation (20%) municipal issues across 13 states, with the largest allocations to P...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Resend error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (channelcarrera@gmail.com). To send emails to other recipients, please verify a domain at resend.com/domains, and change the `from` address to an email using this domain.\"}",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1778935/000152862126000195/focus1357_485.htm"
-  },
-  {
-    "created_at": "2026-02-26T18:00:51.496931+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001778925",
-    "company_name": "Invesco Unit Trusts, Municipal Series 1352",
-    "accession_number": "0001528621-26-000194",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1778925/000152862126000194/0001528621-26-000194-index.html",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1778925/000152862126000194/focus1352_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1352\nETF Name: Investment Grade Municipal Trust, 20+ Year Series 195\nStrategy: Invests in a laddered portfolio of tax-exempt, investment-grade municipal bonds with maturities of approximately 20+ years, concentrated in Health Care, General Purpose, Higher Education, General Obligation, and Transportation municipal issues\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Resend error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (channelcarrera@gmail.com). To send emails to other recipients, please verify a domain at resend.com/domains, and change the `from` address to an email using this domain.\"}",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1778925/000152862126000194/focus1352_485.htm"
-  },
-  {
-    "created_at": "2026-02-26T18:00:52.244045+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001559992",
-    "company_name": "STONE RIDGE TRUST",
-    "accession_number": "0001193125-26-075020",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1559992/000119312526075020/0001193125-26-075020-index.html",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1559992/000119312526075020/d14214d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Stone Ridge Trust\nETF Name: Stone Ridge Diversified Alternatives Fund\nStrategy: Multi-asset alternatives fund seeking total return by investing across sub-advised affiliated funds and other alternative strategies, including derivatives, commodities, and exchange-traded digital-asset instruments referencing bitcoin and ether. The fund employs a bifurcated management fee structure charging 0.00% on assets held in adviser-affiliated funds and 1.50% on all other investments.\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Resend error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (channelcarrera@gmail.com). To send emails to other recipients, please verify a domain at resend.com/domains, and change the `from` address to an email using this domain.\"}",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1559992/000119312526075020/d14214d485bpos.htm"
-  },
-  {
-    "created_at": "2026-02-26T18:00:52.970102+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001689988",
-    "company_name": "Invesco Unit Trusts, Municipal Series 1343",
-    "accession_number": "0001528621-26-000193",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689988/000152862126000193/0001528621-26-000193-index.html",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689988/000152862126000193/focus1343_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1343\nETF Name: Insured Municipals Income Trust, Series 709\nStrategy: A unit investment trust holding a fixed, laddered portfolio of insured tax-exempt municipal bonds with maturities spanning approximately 10\u201330 years, concentrated in Utilities, Higher Education, and General Obligation sectors In the event of failed bond deliveries, the Sponsor may direct the Trustee to acquire replacement bonds to complete the original portfolio composition\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Resend error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (channelcarrera@gmail.com). To send emails to other recipients, please verify a domain at resend.com/domains, and change the `from` address to an email using this domain.\"}",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689988/000152862126000193/focus1343_485.htm"
-  },
-  {
-    "created_at": "2026-02-26T18:00:53.546357+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001689971",
-    "company_name": "Invesco Unit Trusts, Municipal Series 1330",
-    "accession_number": "0001528621-26-000192",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689971/000152862126000192/0001528621-26-000192-index.html",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689971/000152862126000192/focus1330_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1330\nETF Name: Quality Municipal Income Trust, 20+ Year Series 202\nStrategy: Invests in a laddered portfolio of tax-exempt municipal bonds with maturities of approximately 10\u201330 years, diversified across sectors including Higher Education (29%), Health Care (28%), Utilities (13%), and General Obligation (12%) In the event of failed bond deliveries, the Sponsor may direct the Trustee to acquire replacement bonds to reconstitute the original portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Resend error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (channelcarrera@gmail.com). To send emails to other recipients, please verify a domain at resend.com/domains, and change the `from` address to an email using this domain.\"}",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689971/000152862126000192/focus1330_485.htm"
-  },
-  {
-    "created_at": "2026-02-26T18:00:54.044295+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001689946",
-    "company_name": "Invesco Unit Trusts, Municipal Series 1307",
-    "accession_number": "0001528621-26-000191",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689946/000152862126000191/0001528621-26-000191-index.html",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689946/000152862126000191/focus1307_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1307\nETF Name: Investment Grade Municipal Trust, 20+ Year Series 192\nStrategy: A fixed unit investment trust holding a static, laddered portfolio of investment-grade, tax-exempt municipal bonds with maturities of approximately 20+ years, concentrated in Health Care, Higher Education, and Transportation sectors across 13 states\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Resend error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (channelcarrera@gmail.com). To send emails to other recipients, please verify a domain at resend.com/domains, and change the `from` address to an email using this domain.\"}",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689946/000152862126000191/focus1307_485.htm"
-  },
-  {
-    "created_at": "2026-02-26T18:00:54.611420+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001689941",
-    "company_name": "Invesco Unit Trusts, Municipal Series 1302",
-    "accession_number": "0001528621-26-000190",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689941/000152862126000190/0001528621-26-000190-index.html",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689941/000152862126000190/focus1302_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1302\nETF Name: Investment Grade Municipal Trust, 10-20 Year Series 15\nStrategy: Invests in a fixed, laddered portfolio of tax-exempt, investment-grade municipal bonds with maturities of approximately 10\u201330 years, allocating roughly 20% of bonds to mature every five years The portfolio is concentrated in Health Care (35%), General Obligation (31%), and Higher Education (30%) municipal issues, diversified across multiple states including Illinois, Pennsylvania, and Ohio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Resend error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (channelcarrera@gmail.com). To send emails to other recipients, please verify a domain at resend.com/domains, and change the `from` address to an email using this domain.\"}",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689941/000152862126000190/focus1302_485.htm"
-  },
-  {
-    "created_at": "2026-02-26T18:00:55.118742+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001576530",
-    "company_name": "Invesco Unit Trusts, Municipal Series 1249",
-    "accession_number": "0001528621-26-000189",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1576530/000152862126000189/0001528621-26-000189-index.html",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1576530/000152862126000189/focus1249_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1249\nETF Name: Investment Grade Municipal Trust, 20+ Year Series 183\nStrategy: Holds a fixed, laddered portfolio of tax-exempt, investment-grade municipal bonds with maturities of approximately 10\u201330 years, concentrated in Higher Education, Health Care, and Utilities revenue and general obligation issues Geographic exposure is led by Illinois, Georgia, Florida, and Texas, with roughly 20% of the portfolio maturing every five years to manage interest-rate risk\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Resend error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (channelcarrera@gmail.com). To send emails to other recipients, please verify a domain at resend.com/domains, and change the `from` address to an email using this domain.\"}",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1576530/000152862126000189/focus1249_485.htm"
   }
 ]
