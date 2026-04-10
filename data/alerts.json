@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-04-10T13:46:24.064909+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000052848",
+    "company_name": "VANGUARD WORLD FUND",
+    "accession_number": "0000052848-26-000259",
+    "filed_date": "2026-04-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/52848/000005284826000259/0000052848-26-000259-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/52848/000005284826000259/f44647d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/52848/000005284826000259/f44647d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VANGUARD WORLD FUND\nETF Name: Vanguard Developed Markets ex-US Growth Index ETF\nStrategy: Passively managed index ETF that seeks to track the S&P Developed Ex-U.S Growth Index, investing at least 80% of net assets in growth stocks of companies located in developed markets excluding the United States\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VANGUARD WORLD FUND",
+        "etf_name": "Vanguard Developed Markets ex-US Growth Index ETF",
+        "strategy": "Passively managed index ETF that seeks to track the S&P Developed Ex-U.S Growth Index, investing at least 80% of net assets in growth stocks of companies located in developed markets excluding the United States",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-09T21:33:31.391896+00:00",
     "form_type": "485BPOS",
     "cik": "0001093278",
@@ -11682,7 +11711,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S Employs a representative sampling indexing approach rather than full index replication\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S It employs a representative-sampling indexing approach rather than full index replication, managed by BlackRock Fund Advisors at a 0.18% management fee\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -12786,7 +12815,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S It employs a representative sampling indexing approach rather than full replication to match the index's risk and return profile\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
@@ -13584,20 +13613,5 @@
     "email_sent": false,
     "error": "Resend error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (channelcarrera@gmail.com). To send emails to other recipients, please verify a domain at resend.com/domains, and change the `from` address to an email using this domain.\"}",
     "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1503965/000152862126000198/tis338_485.htm"
-  },
-  {
-    "created_at": "2026-02-26T18:00:49.904564+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001778939",
-    "company_name": "Invesco Unit Trusts, Municipal Series 1361",
-    "accession_number": "0001528621-26-000197",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1778939/000152862126000197/0001528621-26-000197-index.html",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1778939/000152862126000197/focus1361_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1361\nETF Name: Investment Grade Municipal Trust, 20+ Year Series 204\nStrategy: The trust holds a fixed, laddered portfolio of investment-grade, tax-exempt municipal bonds with maturities of approximately 20\u201330 years, diversified across U.S Roughly 20% of holdings mature every five years, and the portfolio spans 14 states with top allocations to Texas, Massachusetts, and Florida\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Resend error 403: {\"statusCode\":403,\"name\":\"validation_error\",\"message\":\"You can only send testing emails to your own email address (channelcarrera@gmail.com). To send emails to other recipients, please verify a domain at resend.com/domains, and change the `from` address to an email using this domain.\"}",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1778939/000152862126000197/focus1361_485.htm"
   }
 ]
