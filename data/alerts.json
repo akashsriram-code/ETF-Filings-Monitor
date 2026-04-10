@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-04-10T20:09:42.429631+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001079575",
+    "company_name": "CALAMOS ADVISORS TRUST/IL",
+    "accession_number": "0001104659-26-041939",
+    "filed_date": "2026-04-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1079575/000110465926041939/0001104659-26-041939-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1079575/000110465926041939/tm269000d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1079575/000110465926041939/tm269000d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Calamos Advisors Trust/IL\nETF Name: Calamos Growth and Income Portfolio\nStrategy: Multi-asset, low-volatility equity strategy blending stocks, bonds, and convertible securities through a top-down, macro-thematic diversification framework across company, industry, sector, country, and currency\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Calamos Advisors Trust/IL",
+        "etf_name": "Calamos Growth and Income Portfolio",
+        "strategy": "Multi-asset, low-volatility equity strategy blending stocks, bonds, and convertible securities through a top-down, macro-thematic diversification framework across company, industry, sector, country, and currency",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-10T18:35:22.176056+00:00",
     "form_type": "485BPOS",
     "cik": "0000906982",
@@ -12117,7 +12146,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, AMT-free U.S Employs a representative sampling indexing approach rather than full replication to approximate the index's risk and return profile\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -13221,7 +13250,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Seeks to passively track the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
@@ -13794,20 +13823,5 @@
     "email_sent": true,
     "error": null,
     "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1129870/000091957426001378/cik0001129870_60202.htm"
-  },
-  {
-    "created_at": "2026-02-26T19:06:22.591237+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001418144",
-    "company_name": "INVESCO ACTIVELY MANAGED EXCHANGE-TRADED FUND TRUST",
-    "accession_number": "0001104659-26-020370",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1418144/000110465926020370/0001104659-26-020370-index.html",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1418144/000110465926020370/tm263517d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Actively Managed Exchange-Traded Fund Trust\nETF Name: Invesco AAA CLO Floating Rate Note ETF\nStrategy: The fund is an actively managed ETF seeking current income and capital preservation by investing at least 80% of net assets in AAA-rated floating rate CLO notes. It combines top-down macroeconomic analysis with bottom-up security selection leveraging the sub-adviser's experience as a CLO issuer and loan market manager.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null,
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1418144/000110465926020370/tm263517d1_485bpos.htm"
   }
 ]
