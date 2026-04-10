@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-04-10T20:58:34.448224+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000103007",
+    "company_name": "VARIABLE ANNUITY ACCOUNT C OF VOYA RETIREMENT INSURANCE & ANNUITY Co",
+    "accession_number": "0001133228-26-005106",
+    "filed_date": "2026-04-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/103007/000113322826005106/0001133228-26-005106-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/103007/000113322826005106/ved-efp23933_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/103007/000113322826005106/ved-efp23933_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Variable Annuity Account C of Voya Retirement Insurance & Annuity Co\nETF Name: Annuity Account C\nStrategy: The underlying funds include target-date portfolios (vintages ~2035, ~2055, and a retirement/income portfolio) that follow a glidepath shifting from total return to stability of principal at or past the target date\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Variable Annuity Account C of Voya Retirement Insurance & Annuity Co",
+        "etf_name": "Annuity Account C",
+        "strategy": "The underlying funds include target-date portfolios (vintages ~2035, ~2055, and a retirement/income portfolio) that follow a glidepath shifting from total return to stability of principal at or past the target date",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-10T20:59:32.402043+00:00",
+    "form_type": "485APOS",
+    "cik": "0001107414",
+    "company_name": "STATE STREET INSTITUTIONAL INVESTMENT TRUST",
+    "accession_number": "0001193125-26-151377",
+    "filed_date": "2026-04-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1107414/000119312526151377/0001193125-26-151377-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1107414/000119312526151377/d140012d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1107414/000119312526151377/d140012d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: STATE STREET INSTITUTIONAL INVESTMENT TRUST\nETF Name: State Street Prime Money Market ETF\nStrategy: Prime money market fund that seeks capital preservation and liquidity by investing in short-term, high-quality money market instruments through a master-feeder structure The fund targets a stable net asset value and channels substantially all investable assets into a corresponding master portfolio mirroring its investment policies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "STATE STREET INSTITUTIONAL INVESTMENT TRUST",
+        "etf_name": "State Street Prime Money Market ETF",
+        "strategy": "Prime money market fund that seeks capital preservation and liquidity by investing in short-term, high-quality money market instruments through a master-feeder structure The fund targets a stable net asset value and channels substantially all investable assets into a corresponding master portfolio mirroring its investment policies",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-10T21:00:25.993507+00:00",
+    "form_type": "485APOS",
+    "cik": "0001388485",
+    "company_name": "FundVantage Trust",
+    "accession_number": "0001829126-26-003403",
+    "filed_date": "2026-04-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1388485/000182912626003403/0001829126-26-003403-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1388485/000182912626003403/fundvantage_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1388485/000182912626003403/fundvantage_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FundVantage Trust\nETF Name: Polen International Equity ETF\nStrategy: Seeks long-term capital appreciation by investing primarily in equity securities of companies located outside the United States that the Adviser believes possess a sustainable competitive advantage\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FundVantage Trust",
+        "etf_name": "Polen International Equity ETF",
+        "strategy": "Seeks long-term capital appreciation by investing primarily in equity securities of companies located outside the United States that the Adviser believes possess a sustainable competitive advantage",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-10T20:09:42.429631+00:00",
     "form_type": "485BPOS",
     "cik": "0001079575",
@@ -12146,7 +12233,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -13250,7 +13337,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, AMT-free U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Uses a representative sampling indexing approach rather than full replication to approximate the index's investment profile\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
@@ -13778,50 +13865,5 @@
     "email_sent": true,
     "error": null,
     "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/29292/000091957426001381/cik0000029292_46717.htm"
-  },
-  {
-    "created_at": "2026-02-26T20:41:59.571207+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000910036",
-    "company_name": "AB EQUITY INCOME FUND INC",
-    "accession_number": "0000919574-26-001380",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/910036/000091957426001380/0000919574-26-001380-index.html",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/910036/000091957426001380/cik0000910036_26826.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AB EQUITY INCOME FUND INC\nETF Name: AB Large Cap Value Fund\nStrategy: The Fund seeks long-term growth of capital by investing in a diversified portfolio of U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Resend error 429: {\"statusCode\":429,\"name\":\"rate_limit_exceeded\",\"message\":\"Too many requests. You can only make 2 requests per second. See rate limit response headers for more information. Or contact support to increase rate limit.\"}",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/910036/000091957426001380/cik0000910036_26826.htm"
-  },
-  {
-    "created_at": "2026-02-26T20:42:00.007237+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001090504",
-    "company_name": "AB CORE OPPORTUNITIES FUND, INC.",
-    "accession_number": "0000919574-26-001379",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1090504/000091957426001379/0000919574-26-001379-index.html",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1090504/000091957426001379/cik0001090504_41675.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AB Core Opportunities Fund, Inc\nETF Name: AB Large Cap Value Fund\nStrategy: The Fund seeks long-term growth of capital through a U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null,
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1090504/000091957426001379/cik0001090504_41675.htm"
-  },
-  {
-    "created_at": "2026-02-26T20:42:00.481995+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001129870",
-    "company_name": "AB TRUST",
-    "accession_number": "0000919574-26-001378",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1129870/000091957426001378/0000919574-26-001378-index.html",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1129870/000091957426001378/cik0001129870_60202.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Filer: AB Trust\nETF Name: AB Large Cap Value Fund\nStrategy: The Fund seeks long-term growth of capital by investing in a diversified portfolio of equity securities of large capitalization companies that the Adviser believes are undervalued large-cap equity portfolio that targets stocks with attractive valuations",
-    "email_sent": true,
-    "error": null,
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1129870/000091957426001378/cik0001129870_60202.htm"
   }
 ]
