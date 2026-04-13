@@ -1,5 +1,121 @@
 [
   {
+    "created_at": "2026-04-13T17:37:40.599871+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001209501",
+    "company_name": "NYLIAC VARIABLE ANNUITY SEPARATE ACCOUNT IV",
+    "accession_number": "0001193125-26-152469",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1209501/000119312526152469/0001193125-26-152469-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1209501/000119312526152469/d101810d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1209501/000119312526152469/d101810d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NYLIAC VARIABLE ANNUITY SEPARATE ACCOUNT IV\nETF Name: New York Life Investments Active ETF Trust\nStrategy: (Luxembourg) European Property Investors Special Opportunities 5 SCSp-SICAV-SIF (Luxembourg) EPISO 5 Co-Investment SCSp (Luxembourg) EPISO 6 UK Portfolio GP Limited (UK) (\u201cEPISO 6 UK\u201d) EPISO 6 (GP) S.\u00e1.r.l\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NYLIAC VARIABLE ANNUITY SEPARATE ACCOUNT IV",
+        "etf_name": "New York Life Investments Active ETF Trust",
+        "strategy": "(Luxembourg) European Property Investors Special Opportunities 5 SCSp-SICAV-SIF (Luxembourg) EPISO 5 Co-Investment SCSp (Luxembourg) EPISO 6 UK Portfolio GP Limited (UK) (\u201cEPISO 6 UK\u201d) EPISO 6 (GP) S.\u00e1.r.l",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T17:38:30.667406+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001209501",
+    "company_name": "NYLIAC VARIABLE ANNUITY SEPARATE ACCOUNT IV",
+    "accession_number": "0001193125-26-152457",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1209501/000119312526152457/0001193125-26-152457-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1209501/000119312526152457/d101742d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1209501/000119312526152457/d101742d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: New York Life Insurance and Annuity Corporation (NYLIAC)\nETF Name: New York Life Investments Active ETF Trust\nStrategy: No equity, fixed-income, thematic, or index-tracking ETF strategy is present in the text\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "New York Life Insurance and Annuity Corporation (NYLIAC)",
+        "etf_name": "New York Life Investments Active ETF Trust",
+        "strategy": "No equity, fixed-income, thematic, or index-tracking ETF strategy is present in the text",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T17:39:25.047011+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001209501",
+    "company_name": "NYLIAC VARIABLE ANNUITY SEPARATE ACCOUNT IV",
+    "accession_number": "0001193125-26-152435",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1209501/000119312526152435/0001193125-26-152435-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1209501/000119312526152435/d100208d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1209501/000119312526152435/d100208d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NYLIAC (New York Life Insurance and Annuity Corporation) \u2014 via NYLIAC Variable Annuity Separate Account IV\nETF Name: New York Life Investments Active ETF Trust\nStrategy: The Separate Account is registered as a unit investment trust under the Investment Company Act of 1940, allowing policyowners to allocate accumulation value across Investment Divisions whose unit values are calculated daily via a Net Investment Factor. Several Investment Divisions have been closed to new investors on staggered dates, and temporary fee-reduction arrangements on certain underlying Portfolios remain in...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NYLIAC (New York Life Insurance and Annuity Corporation) \u2014 via NYLIAC Variable Annuity Separate Account IV",
+        "etf_name": "New York Life Investments Active ETF Trust",
+        "strategy": "The Separate Account is registered as a unit investment trust under the Investment Company Act of 1940, allowing policyowners to allocate accumulation value across Investment Divisions whose unit values are calculated daily via a Net Investment Factor. Several Investment Divisions have been closed to new investors on staggered dates, and temporary fee-reduction arrangements on certain underlying Portfolios remain in...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T17:40:22.476128+00:00",
+    "form_type": "485APOS",
+    "cik": "0000740766",
+    "company_name": "DREYFUS GOVERNMENT CASH MANAGEMENT FUNDS",
+    "accession_number": "0002071844-26-000349",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/740766/000207184426000349/0002071844-26-000349-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/740766/000207184426000349/485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/740766/000207184426000349/485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Dreyfus Government Cash Management Funds\nETF Name: Dreyfus Government Cash Management\nStrategy: The fund seeks the highest level of current income consistent with capital preservation and liquidity by investing in U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Dreyfus Government Cash Management Funds",
+        "etf_name": "Dreyfus Government Cash Management",
+        "strategy": "The fund seeks the highest level of current income consistent with capital preservation and liquidity by investing in U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-10T21:45:17.289619+00:00",
     "form_type": "485APOS",
     "cik": "0001593547",
@@ -12378,7 +12494,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: A passively managed, defined-maturity ETF that tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -13482,7 +13598,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S Uses a representative-sampling indexing approach rather than full index replication\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
@@ -13873,66 +13989,6 @@
     "matched_keywords": [],
     "is_crypto": false,
     "synopsis": "Synopsis 1\nFiler: Gallery Trust\nETF Name: In addition, because the value of ETF and certain closed-end fund\nStrategy: Benchmarks include the MSCI EAFE Index and MSCI Emerging Markets Index, with limited use of foreign fixed income and forward currency contracts where applicable\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T17:23:24.110007+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000812303",
-    "company_name": "CAPITAL WORLD BOND FUND",
-    "accession_number": "0000051931-26-000239",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/812303/000005193126000239/0000051931-26-000239-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/812303/000005193126000239/ck0000812303-20260227.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/812303/000005193126000239/ck0000812303-20260227.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Capital Group Fixed Income ETF Trust\nETF Name: Capital World Bond Fund\nStrategy: Global fixed-income fund that invests primarily in investment-grade debt securities rated Baa3/BBB- or better, with broad international exposure and up to 25% of assets permitted in below-investment-grade (high-yield) bonds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T16:45:33.311100+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001050918",
-    "company_name": "OAK ASSOCIATES FUNDS",
-    "accession_number": "0001580642-26-001268",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1050918/000158064226001268/0001580642-26-001268-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1050918/000158064226001268/oak_485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1050918/000158064226001268/oak_485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Filer: Oak Associates Funds\nETF Name: PROXY VOTING POLICIES AND PROCEDURES B-1 i THE TRUST General. Each Fund\nStrategy: Oak Associates Funds is a family of seven U.S. equity mutual funds employing a dual-concentrated, low-turnover approach, with each fund differentiated by sector concentration and market-capitalization focus.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T16:45:34.807678+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001484018",
-    "company_name": "Spinnaker ETF Series",
-    "accession_number": "0001484018-26-000015",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1484018/000148401826000015/0001484018-26-000015-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1484018/000148401826000015/n1a0226.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1484018/000148401826000015/n1a0226.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Spinnaker ETF Series\nETF Name: Indexperts Yield Focused Fixed Income ETF\nStrategy: The fund is an actively managed ETF seeking current income by investing primarily in investment-grade fixed income securities of any maturity perceived to offer attractive cash flow and yield. Holdings include corporate bonds, Treasury notes, and asset-backed securities, with the bulk of net assets allocated to investment-grade instruments.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T15:09:38.789278+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001660935",
-    "company_name": "American Funds Emerging Markets Bond Fund",
-    "accession_number": "0000051931-26-000210",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1660935/000005193126000210/0000051931-26-000210-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1660935/000005193126000210/ck0001660935-20260227.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1660935/000005193126000210/ck0001660935-20260227.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Capital Group Fixed Income ETF Trust\nETF Name: American Funds Emerging Markets Bond Fund\nStrategy: Fixed-income fund required to hold at least 80% of net assets in bonds and other debt instruments, with at least 80% allocated to emerging-markets securities as defined by global index providers such as MSCI and J.P\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": true,
     "error": null
   }
