@@ -1,5 +1,382 @@
 [
   {
+    "created_at": "2026-04-13T22:02:32.216495+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000352736",
+    "company_name": "Everlake Life Insurance Co",
+    "accession_number": "0001133228-26-005217",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/352736/000113322826005217/0001133228-26-005217-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/352736/000113322826005217/appap-efp23878_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/352736/000113322826005217/appap-efp23878_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Everlake Life Insurance Co\nETF Name: Options or the Portfolios. We may use the Variable Account to fund\nStrategy: Each Portfolio carries its own investment objective, and the contract holder bears full investment risk on amounts allocated to the Variable Options\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Everlake Life Insurance Co",
+        "etf_name": "Options or the Portfolios. We may use the Variable Account to fund",
+        "strategy": "Each Portfolio carries its own investment objective, and the contract holder bears full investment risk on amounts allocated to the Variable Options",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T22:03:14.623265+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000352736",
+    "company_name": "Everlake Life Insurance Co",
+    "accession_number": "0001133228-26-005216",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/352736/000113322826005216/0001133228-26-005216-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/352736/000113322826005216/apapap-efp23880_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/352736/000113322826005216/apapap-efp23880_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Everlake Life Insurance Co\nETF Name: Options or the Portfolios. We may use the Variable Account to fund\nStrategy: This filing describes a variable annuity contract that allocates premiums across multiple underlying investment portfolios, each with its own investment objectives, expenses, and risks. Everlake Life caps new premium allocations and transfers into all Variable Options (except Money Market) at $50,000 per day to curb excessive short-term trading.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Everlake Life Insurance Co",
+        "etf_name": "Options or the Portfolios. We may use the Variable Account to fund",
+        "strategy": "This filing describes a variable annuity contract that allocates premiums across multiple underlying investment portfolios, each with its own investment objectives, expenses, and risks. Everlake Life caps new premium allocations and transfers into all Variable Options (except Money Market) at $50,000 per day to curb excessive short-term trading.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T22:04:02.469626+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000352736",
+    "company_name": "Everlake Life Insurance Co",
+    "accession_number": "0001133228-26-005215",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/352736/000113322826005215/0001133228-26-005215-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/352736/000113322826005215/mmva-efp23881_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/352736/000113322826005215/mmva-efp23881_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Everlake Life Insurance Co\nETF Name: AIMCO Private Fund\nStrategy: No ETF-level investment objective, benchmark, or portfolio strategy is disclosed in the filing text\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Everlake Life Insurance Co",
+        "etf_name": "AIMCO Private Fund",
+        "strategy": "No ETF-level investment objective, benchmark, or portfolio strategy is disclosed in the filing text",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T22:04:49.693642+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000352736",
+    "company_name": "Everlake Life Insurance Co",
+    "accession_number": "0001133228-26-005214",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/352736/000113322826005214/0001133228-26-005214-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/352736/000113322826005214/apapap-efp23876_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/352736/000113322826005214/apapap-efp23876_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Everlake Life Insurance Co\nETF Name: Options or the Portfolios. We may use the Variable Account to fund\nStrategy: This is a variable annuity contract offering contract holders a menu of underlying investment Portfolios spanning money market, bond, balanced, and other fund types, each with its own investment objective and expense structure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Everlake Life Insurance Co",
+        "etf_name": "Options or the Portfolios. We may use the Variable Account to fund",
+        "strategy": "This is a variable annuity contract offering contract holders a menu of underlying investment Portfolios spanning money market, bond, balanced, and other fund types, each with its own investment objective and expense structure",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T22:05:29.896170+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000352736",
+    "company_name": "Everlake Life Insurance Co",
+    "accession_number": "0001133228-26-005213",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/352736/000113322826005213/0001133228-26-005213-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/352736/000113322826005213/em-efp23883_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/352736/000113322826005213/em-efp23883_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Everlake Life Insurance Co\nETF Name: AIMCO Private Fund\nStrategy: This filing is a variable annuity contract prospectus offering Fixed Account Options, Variable Options, and a Market Value Adjustment Account Option; it does not describe an ETF strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Everlake Life Insurance Co",
+        "etf_name": "AIMCO Private Fund",
+        "strategy": "This filing is a variable annuity contract prospectus offering Fixed Account Options, Variable Options, and a Market Value Adjustment Account Option; it does not describe an ETF strategy",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T22:06:31.060278+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001023229",
+    "company_name": "SEPARATE ACCOUNT B OF PACIFIC LIFE INSURANCE CO",
+    "accession_number": "0001104659-26-042698",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1023229/000110465926042698/0001104659-26-042698-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1023229/000110465926042698/tm266148d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1023229/000110465926042698/tm266148d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SEPARATE ACCOUNT B OF PACIFIC LIFE INSURANCE CO\nETF Name: Variable Insurance Products Fund\nStrategy: Each Subaccount invests its assets in shares of a corresponding Pacific Select Fund portfolio, spanning U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SEPARATE ACCOUNT B OF PACIFIC LIFE INSURANCE CO",
+        "etf_name": "Variable Insurance Products Fund",
+        "strategy": "Each Subaccount invests its assets in shares of a corresponding Pacific Select Fund portfolio, spanning U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T22:07:14.934254+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000352736",
+    "company_name": "Everlake Life Insurance Co",
+    "accession_number": "0001133228-26-005211",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/352736/000113322826005211/0001133228-26-005211-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/352736/000113322826005211/mmva-efp23882_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/352736/000113322826005211/mmva-efp23882_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Everlake Life Insurance Co\nETF Name: AIMCO Private Fund (MVA Account Option under legacy variable annuity contracts)\nStrategy: This is not an ETF but a legacy variable annuity product offering fixed and variable allocation options within an insurance contract wrapper. The MVA Account Option ties returns to interest-rate movements, exposing holders to principal-loss risk on early withdrawals when rates shift unfavorably.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Everlake Life Insurance Co",
+        "etf_name": "AIMCO Private Fund (MVA Account Option under legacy variable annuity contracts)",
+        "strategy": "This is not an ETF but a legacy variable annuity product offering fixed and variable allocation options within an insurance contract wrapper. The MVA Account Option ties returns to interest-rate movements, exposing holders to principal-loss risk on early withdrawals when rates shift unfavorably.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T22:08:06.167183+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001085612",
+    "company_name": "EVERLAKE FINANCIAL ADVISORS SEPARATE ACCOUNT I",
+    "accession_number": "0001133228-26-005208",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1085612/000113322826005208/0001133228-26-005208-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1085612/000113322826005208/apapap-efp23879_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1085612/000113322826005208/apapap-efp23879_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Everlake Life Insurance Company\nETF Name: Everlake Financial Advisors Separate Account I (Variable Annuity \u2014 not an ETF)\nStrategy: Contract holders bear all investment risk, with individual portfolio objectives and expenses detailed in a separate Appendix A and underlying portfolio prospectuses\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Everlake Life Insurance Company",
+        "etf_name": "Everlake Financial Advisors Separate Account I (Variable Annuity \u2014 not an ETF)",
+        "strategy": "Contract holders bear all investment risk, with individual portfolio objectives and expenses detailed in a separate Appendix A and underlying portfolio prospectuses",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T22:09:05.121557+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000858667",
+    "company_name": "PACIFIC SELECT VARIABLE ANN SEP ACCT OF PACIFIC LIFE INS CO",
+    "accession_number": "0001104659-26-042696",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/858667/000110465926042696/0001104659-26-042696-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/858667/000110465926042696/tm266146d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/858667/000110465926042696/tm266146d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Pacific Select Variable Annuity Separate Account of Pacific Life Insurance Company\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: The fund is offered as a variable investment option within a variable annuity contract, allocating across a diversified menu of underlying portfolios spanning equity index, fixed income, international equity, and money market strategies sub-advised by firms including BlackRock, Fidelity, and Capital Research and Management It seeks broad asset-class diversification through an ETF-based target allocation approach, wit...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Pacific Select Variable Annuity Separate Account of Pacific Life Insurance Company",
+        "etf_name": "Target Allocation ETF V.I. Fund",
+        "strategy": "The fund is offered as a variable investment option within a variable annuity contract, allocating across a diversified menu of underlying portfolios spanning equity index, fixed income, international equity, and money market strategies sub-advised by firms including BlackRock, Fidelity, and Capital Research and Management It seeks broad asset-class diversification through an ETF-based target allocation approach, wit...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T22:09:51.177171+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001085612",
+    "company_name": "EVERLAKE FINANCIAL ADVISORS SEPARATE ACCOUNT I",
+    "accession_number": "0001133228-26-005205",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1085612/000113322826005205/0001133228-26-005205-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1085612/000113322826005205/appap-efp23877_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1085612/000113322826005205/appap-efp23877_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Everlake Life (via Everlake Financial Advisors Separate Account I)\nETF Name: Options or the Portfolios. We may use the Variable Account to fund\nStrategy: The Variable Account is a tax-deferred variable annuity offering contract holders multiple underlying portfolio options spanning asset classes such as money market, bond, and balanced funds, each with its own objectives and adviser\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Everlake Life (via Everlake Financial Advisors Separate Account I)",
+        "etf_name": "Options or the Portfolios. We may use the Variable Account to fund",
+        "strategy": "The Variable Account is a tax-deferred variable annuity offering contract holders multiple underlying portfolio options spanning asset classes such as money market, bond, and balanced funds, each with its own objectives and adviser",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T22:10:44.242318+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001085612",
+    "company_name": "EVERLAKE FINANCIAL ADVISORS SEPARATE ACCOUNT I",
+    "accession_number": "0001133228-26-005202",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1085612/000113322826005202/0001133228-26-005202-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1085612/000113322826005202/appap-efp23875_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1085612/000113322826005202/appap-efp23875_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Everlake Financial Advisors Separate Account I (issued by Everlake Life)\nETF Name: N/A \u2014 Variable Annuity Contract (not an ETF; offers underlying \"Variable Options\" portfolios)\nStrategy: Each underlying portfolio carries its own investment objective, adviser, and expense structure, with Everlake Life imposing a $50,000-per-day cap on new premium allocations and transfers into Variable Options to curb excessive short-term trading\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Everlake Financial Advisors Separate Account I (issued by Everlake Life)",
+        "etf_name": "N/A \u2014 Variable Annuity Contract (not an ETF; offers underlying \"Variable Options\" portfolios)",
+        "strategy": "Each underlying portfolio carries its own investment objective, adviser, and expense structure, with Everlake Life imposing a $50,000-per-day cap on new premium allocations and transfers into Variable Options to curb excessive short-term trading",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T22:11:35.208346+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001085612",
+    "company_name": "EVERLAKE FINANCIAL ADVISORS SEPARATE ACCOUNT I",
+    "accession_number": "0001133228-26-005200",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1085612/000113322826005200/0001133228-26-005200-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1085612/000113322826005200/msva-efp23874_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1085612/000113322826005200/msva-efp23874_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Everlake Life (via Everlake Financial Advisors Separate Account I)\nETF Name: Underlying mutual fund\nStrategy: Everlake Life retains discretion to substitute any underlying portfolio it deems no longer suitable, and imposes a $50,000 daily cap on new premium allocations and transfers to curb excessive short-term trading\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Everlake Life (via Everlake Financial Advisors Separate Account I)",
+        "etf_name": "Underlying mutual fund",
+        "strategy": "Everlake Life retains discretion to substitute any underlying portfolio it deems no longer suitable, and imposes a $50,000 daily cap on new premium allocations and transfers to curb excessive short-term trading",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T22:12:11.563269+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000352736",
+    "company_name": "Everlake Life Insurance Co",
+    "accession_number": "0001628280-26-024936",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/352736/000162828026024936/0001628280-26-024936-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/352736/000162828026024936/sam485bpos2026a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/352736/000162828026024936/sam485bpos2026a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Everlake Life Insurance Company\nETF Name: Flexible Premium Deferred Annuity Contract\nStrategy: This is a deferred annuity contract, not an ETF, offering an accumulation phase with a credited interest rate and a Market Value Adjustment linked to Treasury Rate changes. Withdrawals and surrenders may be subject to a 6% withdrawal charge on amounts exceeding the Preferred Withdrawal Amount.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Everlake Life Insurance Company",
+        "etf_name": "Flexible Premium Deferred Annuity Contract",
+        "strategy": "This is a deferred annuity contract, not an ETF, offering an accumulation phase with a credited interest rate and a Market Value Adjustment linked to Treasury Rate changes. Withdrawals and surrenders may be subject to a 6% withdrawal charge on amounts exceeding the Preferred Withdrawal Amount.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-13T21:07:04.999927+00:00",
     "form_type": "485BPOS",
     "cik": "0000352736",
@@ -13480,7 +13857,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Seeks to passively track the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14122,330 +14499,5 @@
     "why_this_matters": [],
     "email_sent": true,
     "error": null
-  },
-  {
-    "created_at": "2026-03-05T14:31:01.792572+00:00",
-    "form_type": "485APOS",
-    "cik": "0001924868",
-    "company_name": "Tidal Trust II",
-    "accession_number": "0001999371-26-005084",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126005084/0001999371-26-005084-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126005084/defiance-485apos_030526.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126005084/defiance-485apos_030526.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Filer: Tidal Trust II\nETF Name: Semi-Transparent ETF Trust Fund\nStrategy: (v) Semi-Transparent ETF Trust Fund Accounting Servicing Agreement , previously filed with Post-Effective Amendment No.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust II",
-        "etf_name": "Semi-Transparent ETF Trust Fund",
-        "strategy": "(v) Semi-Transparent ETF Trust Fund Accounting Servicing Agreement , previously filed with Post-Effective Amendment No.",
-        "is_alert_worthy": "UNKNOWN"
-      }
-    ],
-    "wire_recommendation": "UNKNOWN",
-    "why_this_matters": [],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-05T11:51:01.730082+00:00",
-    "form_type": "485BPOS",
-    "cik": "1054816",
-    "company_name": "MH ELITE PORTFOLIO OF FUNDS TRUST",
-    "accession_number": "0001162044-26-000244",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1054816/000116204426000244/0001162044-26-000244-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1054816/000116204426000244/mhelite485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1054816/000116204426000244/mhelite485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: MH Elite Portfolio of Funds Trust\nETF Name: MH Elite Fund of Funds\nStrategy: The adviser (MHI) actively monitors underlying funds and may remove any that no longer support the fund's objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "MH Elite Portfolio of Funds Trust",
-        "etf_name": "MH Elite Fund of Funds",
-        "strategy": "The adviser selects and monitors underlying funds to maintain alignment with the fund's capital appreciation objective",
-        "is_alert_worthy": "UNKNOWN"
-      }
-    ],
-    "wire_recommendation": "UNKNOWN",
-    "why_this_matters": [],
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-05T11:52:57.406495+00:00",
-    "form_type": "485APOS",
-    "cik": "1424958",
-    "company_name": "Direxion Shares ETF Trust",
-    "accession_number": "0001193125-26-091856",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526091856/0001193125-26-091856-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1424958/000119312526091856/d237945d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526091856/d237945d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Direxion Shares ETF Trust\nETF Name: Direxion Shares ETF Trust Prospectus Fund\nStrategy: In these instances, the Fund may have investment exposure to SpaceX that is significantly greater or significantly less than its stated investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Direxion Shares ETF Trust",
-        "etf_name": "Direxion Shares ETF Trust Prospectus Fund",
-        "strategy": "In these instances, the Fund may have investment exposure to SpaceX that is significantly greater or significantly less than its stated investment objective",
-        "is_alert_worthy": "UNKNOWN"
-      }
-    ],
-    "wire_recommendation": "UNKNOWN",
-    "why_this_matters": [],
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-05T11:53:57.076799+00:00",
-    "form_type": "485BPOS",
-    "cik": "1485894",
-    "company_name": "J.P. Morgan Exchange-Traded Fund Trust",
-    "accession_number": "0001193125-26-090928",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1485894/000119312526090928/0001193125-26-090928-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1485894/000119312526090928/d95761d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1485894/000119312526090928/d95761d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: J.P. Morgan Exchange-Traded Fund Trust\nETF Name: JPMorgan California Tax Free Bond ETF\nStrategy: Actively managed municipal-bond ETF investing primarily in California tax-exempt debt securities (at least 80% of assets), seeking income exempt from both federal and California state personal income taxes, benchmarked against the Bloomberg California 1\u201317 Year Muni Index and Bloomberg California Municipal Bond Index\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "J.P. Morgan Exchange-Traded Fund Trust",
-        "etf_name": "JPMorgan California Tax Free Bond ETF",
-        "strategy": "Actively managed California municipal bond ETF that invests in debt securities across the 1\u201317 year maturity segment, seeking tax-free income benchmarked to the Bloomberg California 1\u201317 Year Municipal Index",
-        "is_alert_worthy": "UNKNOWN"
-      }
-    ],
-    "wire_recommendation": "UNKNOWN",
-    "why_this_matters": [],
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-05T11:54:37.771842+00:00",
-    "form_type": "485BPOS",
-    "cik": "1516212",
-    "company_name": "SSGA Active Trust",
-    "accession_number": "0001193125-26-091396",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1516212/000119312526091396/0001193125-26-091396-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1516212/000119312526091396/d108062d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1516212/000119312526091396/d108062d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SSGA Active Trust\nETF Name: State Street IG Public & Private ABS ETF\nStrategy: Actively managed fixed-income ETF investing at least 80% of net assets in investment-grade asset-backed securities, blending public ABS with private ABS sourced through Apollo Global Securities. Holdings span agency and non-agency RMBS, CMBS, CDOs, and CLOs, targeting maximized risk-adjusted returns and current income.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "SSGA Active Trust",
-        "etf_name": "State Street IG Public & Private ABS ETF",
-        "strategy": "Actively managed fund investing at least 80% of net assets in investment-grade asset-backed securities, blending public ABS with private ABS sourced through a partnership with Apollo Global Securities. Holdings span agency and non-agency MBS, CDOs, and CLOs, targeting risk-adjusted returns and current income.",
-        "is_alert_worthy": "UNKNOWN"
-      }
-    ],
-    "wire_recommendation": "UNKNOWN",
-    "why_this_matters": [],
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-05T11:55:50.702704+00:00",
-    "form_type": "485APOS",
-    "cik": "1924868",
-    "company_name": "Tidal Trust II",
-    "accession_number": "0001999371-26-005025",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126005025/0001999371-26-005025-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126005025/spacex_485apos-030426.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126005025/spacex_485apos-030426.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: -2X Inverse SpaceX ETF\nStrategy: Single-stock leveraged inverse ETF seeking daily investment results equal to -200% of the daily percentage change in SpaceX share price, gaining synthetic exposure through swap contracts and options\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust II",
-        "etf_name": "Semi-Transparent ETF Trust Fund",
-        "strategy": "37 (45) Forty-Sixth Amendment to the Fund Accounting Servicing Agreement (adding Portfolio Building Block 1X Inverse US Value Daily Target ETF and Portfolio Building Block 1X Inverse Developed Markets Ex US Daily Target ETF ) - to be filed by amendment",
-        "is_alert_worthy": "UNKNOWN"
-      }
-    ],
-    "wire_recommendation": "UNKNOWN",
-    "why_this_matters": [],
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-05T11:57:13.960363+00:00",
-    "form_type": "485APOS",
-    "cik": "2078265",
-    "company_name": "Corgi ETF Trust I",
-    "accession_number": "0002078265-26-000030",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000030/0002078265-26-000030-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2078265/000207826526000030/CorgiETFTrustI_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000030/CorgiETFTrustI_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Corgi ETF Trust I\nETF Name: NVDA 2x Daily ETF\nStrategy: The NVDA 2x Daily ETF (the \"Fund\") seeks daily investment results, before\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Corgi ETF Trust I",
-        "etf_name": "Daily ETF FUND",
-        "strategy": "The NVDA 2x Daily ETF (the \"Fund\") seeks daily investment results, before",
-        "is_alert_worthy": "UNKNOWN"
-      }
-    ],
-    "wire_recommendation": "UNKNOWN",
-    "why_this_matters": [],
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-05T11:58:47.752056+00:00",
-    "form_type": "485BPOS",
-    "cik": "2081199",
-    "company_name": "Baron ETF Trust",
-    "accession_number": "0001193125-26-091885",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081199/000119312526091885/0001193125-26-091885-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081199/000119312526091885/d51520d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081199/000119312526091885/d51520d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Baron ETF Trust\nETF Name: Baron First Principles ETF\nStrategy: equity fund that invests primarily in equity securities (including depositary receipts) of U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Baron ETF Trust",
-        "etf_name": "Total Annual Fund Operating Expenses Baron First Principles ETF",
-        "strategy": "of the Fund The Fund is a non\u2011diversified fund that, under normal circumstances, invests primarily in equity securities (including depositary receipts) of U.S The Adviser seeks to invest in businesses it believes have significant opportunities for growth, sustainable competitive advantages, exceptional",
-        "is_alert_worthy": "UNKNOWN"
-      }
-    ],
-    "wire_recommendation": "UNKNOWN",
-    "why_this_matters": [],
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-05T11:59:24.247240+00:00",
-    "form_type": "485BPOS",
-    "cik": "277751",
-    "company_name": "JANUS INVESTMENT FUND",
-    "accession_number": "0001193125-26-088982",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/277751/000119312526088982/0001193125-26-088982-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/277751/000119312526088982/d14253d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/277751/000119312526088982/d14253d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Janus Investment Fund\nETF Name: Janus Henderson Low Duration Multi-Sector Income Fund\nStrategy: The fund seeks to maximize total return and current income with preservation of capital by investing in a multi-sector portfolio of U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Janus Investment Fund",
-        "etf_name": "Janus Henderson Low Duration Multi-Sector Income Fund",
-        "strategy": "The fund seeks to maximize total return and current income, consistent with preservation of capital, by investing primarily in a multi-sector portfolio of U.S It employs a research-driven process combining top-down and bottom-up analysis across low-correlated sectors, with flexibility to invest in emerging markets, convertibles, and derivatives while integrating financially material ESG factors",
-        "is_alert_worthy": "UNKNOWN"
-      }
-    ],
-    "wire_recommendation": "UNKNOWN",
-    "why_this_matters": [],
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-05T12:00:06.830573+00:00",
-    "form_type": "485APOS",
-    "cik": "1771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-000498",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000498/0001771146-26-000498-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000498/tuttlecapspy1000dteetfs485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000498/tuttlecapspy1000dteetfs485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Innovation 100 0DTE Income and Hedge ETF\nStrategy: Actively managed 0DTE covered-call income ETF referencing QQQ and/or the Nasdaq-100 Index, with greater concentration in technology and growth-oriented companies\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Opportunities Trust",
-        "etf_name": "Hedge ETF",
-        "strategy": "The investment objective of the Tuttle Capital SPY 0DTE Income and Hedge ETF (the \"Fund\") is to seek current income The Fund\u2019s secondary investment objective is to seek long-term capital appreciation",
-        "is_alert_worthy": "UNKNOWN"
-      }
-    ],
-    "wire_recommendation": "UNKNOWN",
-    "why_this_matters": [],
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-05T12:00:53.697350+00:00",
-    "form_type": "485APOS",
-    "cik": "1771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-000500",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000500/0001771146-26-000500-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000500/tuttlecapitalnobleedtailri.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000500/tuttlecapitalnobleedtailri.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Tuttle Capital No Bleed Tail Risk ETF\nStrategy: The fund tracks the Tuttle Capital No Bleed Tail Risk Index using swaps, options, and other derivatives\u2014routed partly through a wholly-owned Cayman-style subsidiary capped at 25% of total assets\u2014to provide tail-risk hedging without the persistent negative carry typical of traditional crash-protection strategies\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Opportunities Trust",
-        "etf_name": "Davis Fundamental ETF Trust",
-        "strategy": "CornerCap Small-Cap Value Fund, Series of Managed Portfolio Series 46",
-        "is_alert_worthy": "UNKNOWN"
-      }
-    ],
-    "wire_recommendation": "UNKNOWN",
-    "why_this_matters": [],
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-05T12:01:56.546828+00:00",
-    "form_type": "485APOS",
-    "cik": "1771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-000502",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000502/0001771146-26-000502-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000502/tappalphamag10smallcap485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000502/tappalphamag10smallcap485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: TappAlpha\nETF Name: TappAlpha Small-Cap Growth & Daily Income ETF\nStrategy: Actively managed ETF that gains Russell 2000 Index exposure through ETFs such as IWM or VTWO and writes primarily 0DTE exchange-traded call options on RUT to generate premium income while capping upside\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Opportunities Trust",
-        "etf_name": "Davis Fundamental ETF Trust",
-        "strategy": "CornerCap Small-Cap Value Fund, Series of Managed Portfolio Series 46",
-        "is_alert_worthy": "UNKNOWN"
-      }
-    ],
-    "wire_recommendation": "UNKNOWN",
-    "why_this_matters": [],
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-05T12:03:32.509528+00:00",
-    "form_type": "485APOS",
-    "cik": "1924868",
-    "company_name": "Tidal Trust II",
-    "accession_number": "0001999371-26-004918",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126004918/0001999371-26-004918-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126004918/defiance-485apos_030326.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126004918/defiance-485apos_030326.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Defiance Daily Target 2X Short Discord ETF\nStrategy: The fund seeks daily inverse investment results of \u2013200% (\u20132x) the daily percentage change in the share price of Discord, Inc., using swap contracts and options on Discord common stock It resets exposure daily and is designed for short-term, actively monitored trading rather than buy-and-hold investing\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust II",
-        "etf_name": "Semi-Transparent ETF Trust Fund",
-        "strategy": "(45) Forty-Sixth Amendment to the Fund Accounting Servicing Agreement (adding Portfolio Building Block 1X Inverse US Value Daily Target ETF and Portfolio Building Block 1X Inverse Developed Markets Ex US Daily Target ETF ) - to be filed by amendment",
-        "is_alert_worthy": "UNKNOWN"
-      }
-    ],
-    "wire_recommendation": "UNKNOWN",
-    "why_this_matters": [],
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
   }
 ]
