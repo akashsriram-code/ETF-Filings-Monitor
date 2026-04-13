@@ -1,5 +1,672 @@
 [
   {
+    "created_at": "2026-04-13T21:07:04.999927+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000352736",
+    "company_name": "Everlake Life Insurance Co",
+    "accession_number": "0001628280-26-024932",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/352736/000162828026024932/0001628280-26-024932-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/352736/000162828026024932/customplus485bpos2026a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/352736/000162828026024932/customplus485bpos2026a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Everlake Life Insurance Company\nETF Name: Owned Annuity. Contracts owned by a grantor trust\nStrategy: This is a fixed and variable annuity insurance contract, not an ETF, offering guaranteed interest rates with features including preferred withdrawal amounts, a systematic withdrawal program, and a death benefit. Withdrawals exceeding the preferred amount are subject to a 6% withdrawal charge and a market value adjustment tied to interest-rate movements.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Everlake Life Insurance Company",
+        "etf_name": "Owned Annuity. Contracts owned by a grantor trust",
+        "strategy": "This is a fixed and variable annuity insurance contract, not an ETF, offering guaranteed interest rates with features including preferred withdrawal amounts, a systematic withdrawal program, and a death benefit. Withdrawals exceeding the preferred amount are subject to a 6% withdrawal charge and a market value adjustment tied to interest-rate movements.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:07:43.015216+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000352736",
+    "company_name": "Everlake Life Insurance Co",
+    "accession_number": "0001628280-26-024930",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/352736/000162828026024930/0001628280-26-024930-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/352736/000162828026024930/custom485bpos2026a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/352736/000162828026024930/custom485bpos2026a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Everlake Life Insurance Company\nETF Name: AIMCO Private Fund\nStrategy: Everlake Life Insurance Company offers a flexible premium deferred annuity contract with a guaranteed interest-rate crediting mechanism during an Accumulation Phase and a Payout Phase for income. The contract includes a Market Value Adjustment feature, systematic withdrawal program, return of purchase payment guarantee, and a death benefit.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Everlake Life Insurance Company",
+        "etf_name": "AIMCO Private Fund",
+        "strategy": "Everlake Life Insurance Company offers a flexible premium deferred annuity contract with a guaranteed interest-rate crediting mechanism during an Accumulation Phase and a Payout Phase for income. The contract includes a Market Value Adjustment feature, systematic withdrawal program, return of purchase payment guarantee, and a death benefit.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:08:28.362622+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001040674",
+    "company_name": "TRUTH SOCIAL FUNDS",
+    "accession_number": "0001104659-26-042674",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1040674/000110465926042674/0001104659-26-042674-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1040674/000110465926042674/tm263952d5_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1040674/000110465926042674/tm263952d5_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Truth Social Funds\nETF Name: Truth Social God Bless America ETF\nStrategy: equity ETF seeking capital appreciation by weighting holdings by market capitalization and incorporating an evaluation of companies' political activity as a portfolio selection factor The Sub-Adviser (Curran) may forgo certain market opportunities available to politically agnostic funds and may lend portfolio securities to creditworthy borrowers\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Truth Social Funds",
+        "etf_name": "Truth Social God Bless America ETF",
+        "strategy": "equity ETF seeking capital appreciation by weighting holdings by market capitalization and incorporating an evaluation of companies' political activity as a portfolio selection factor The Sub-Adviser (Curran) may forgo certain market opportunities available to politically agnostic funds and may lend portfolio securities to creditworthy borrowers",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:09:13.299586+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000352736",
+    "company_name": "Everlake Life Insurance Co",
+    "accession_number": "0001628280-26-024920",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/352736/000162828026024920/0001628280-26-024920-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/352736/000162828026024920/choicerate485bposa.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/352736/000162828026024920/choicerate485bposa.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Everlake Life Insurance Company\nETF Name: Values from all such Guarantee Period Accounts are not sufficient to fund\nStrategy: This is not an ETF filing; it is a single premium deferred annuity prospectus issued by a life insurance company formerly affiliated with Allstate and now owned by an affiliate of a Blackstone Inc.\u2013managed investment fund. The contract features a fixed accumulation phase with withdrawals subject to a Market Value Adjustment linked to Treasury Rate changes.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Everlake Life Insurance Company",
+        "etf_name": "Values from all such Guarantee Period Accounts are not sufficient to fund",
+        "strategy": "This is not an ETF filing; it is a single premium deferred annuity prospectus issued by a life insurance company formerly affiliated with Allstate and now owned by an affiliate of a Blackstone Inc.\u2013managed investment fund. The contract features a fixed accumulation phase with withdrawals subject to a Market Value Adjustment linked to Treasury Rate changes.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:10:45.226820+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000914036",
+    "company_name": "LINCOLN VARIABLE INSURANCE PRODUCTS TRUST",
+    "accession_number": "0001193125-26-153005",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/914036/000119312526153005/0001193125-26-153005-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/914036/000119312526153005/d26576d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/914036/000119312526153005/d26576d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: LINCOLN VARIABLE INSURANCE PRODUCTS TRUST\nETF Name: LVIP American Century Large Company Value Fund LVIP American Century Value Fund\nStrategy: Specifically, the Acquired Fund utilizes a value investment strategy that looks for companies that are temporarily out of favor in the market\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "LINCOLN VARIABLE INSURANCE PRODUCTS TRUST",
+        "etf_name": "LVIP American Century Large Company Value Fund LVIP American Century Value Fund",
+        "strategy": "Specifically, the Acquired Fund utilizes a value investment strategy that looks for companies that are temporarily out of favor in the market",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:11:38.017986+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001378536",
+    "company_name": "EAIC VARIABLE CONTRACT ACCOUNT A",
+    "accession_number": "0001378536-26-000028",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1378536/000137853626000028/0001378536-26-000028-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1378536/000137853626000028/ck001378536-20260413.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1378536/000137853626000028/ck001378536-20260413.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EAIC VARIABLE CONTRACT ACCOUNT A (Empower Annuity Insurance Company)\nETF Name: Vanguard Balanced Index Fund (underlying Variable Investment Option)\nStrategy: The variable annuity separate account allocates to the Vanguard Balanced Index Fund, a balanced index mutual fund targeting approximately 60% U.S equities and 40% bonds to track overall U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EAIC VARIABLE CONTRACT ACCOUNT A (Empower Annuity Insurance Company)",
+        "etf_name": "Vanguard Balanced Index Fund (underlying Variable Investment Option)",
+        "strategy": "The variable annuity separate account allocates to the Vanguard Balanced Index Fund, a balanced index mutual fund targeting approximately 60% U.S equities and 40% bonds to track overall U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:12:37.286725+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001378536",
+    "company_name": "EAIC VARIABLE CONTRACT ACCOUNT A",
+    "accession_number": "0001378536-26-000027",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1378536/000137853626000027/0001378536-26-000027-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1378536/000137853626000027/ck0001378536-20260413.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1378536/000137853626000027/ck0001378536-20260413.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EAIC Variable Contract Account A (Empower Annuity Insurance Company)\nETF Name: PGIM Balanced Fund; PGIM 60/40 Allocation Fund\nStrategy: The filing also references bond ETF holdings on Schedule D-1 within Empower Annuity Insurance Company's statutory financial statements, alongside active management of a mortgage loan portfolio using debt-service-coverage, loan-to-value, and collateral-evaluation metrics\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EAIC Variable Contract Account A (Empower Annuity Insurance Company)",
+        "etf_name": "PGIM Balanced Fund; PGIM 60/40 Allocation Fund",
+        "strategy": "The filing also references bond ETF holdings on Schedule D-1 within Empower Annuity Insurance Company's statutory financial statements, alongside active management of a mortgage loan portfolio using debt-service-coverage, loan-to-value, and collateral-evaluation metrics",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:13:35.910934+00:00",
+    "form_type": "485APOS",
+    "cik": "0001944285",
+    "company_name": "Tema ETF Trust",
+    "accession_number": "0001999371-26-008171",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1944285/000199937126008171/0001999371-26-008171-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1944285/000199937126008171/tema-485apos_041326.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1944285/000199937126008171/tema-485apos_041326.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tema ETF Trust\nETF Name: Tema Commodity Income ETF\nStrategy: Seeks monthly income and long-term growth by investing in commodity-related companies, making it the only fund in this filing with an explicit income mandate alongside capital appreciation Non-diversified fund whose dual objective suggests a possible options-overlay or dividend-harvesting approach within commodity equities\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tema ETF Trust",
+        "etf_name": "Tema Commodity Income ETF",
+        "strategy": "Seeks monthly income and long-term growth by investing in commodity-related companies, making it the only fund in this filing with an explicit income mandate alongside capital appreciation Non-diversified fund whose dual objective suggests a possible options-overlay or dividend-harvesting approach within commodity equities",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:14:26.935662+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001378536",
+    "company_name": "EAIC VARIABLE CONTRACT ACCOUNT A",
+    "accession_number": "0001378536-26-000026",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1378536/000137853626000026/0001378536-26-000026-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1378536/000137853626000026/ck0001378536-20260413.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1378536/000137853626000026/ck0001378536-20260413.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Empower Annuity Insurance Company (EAIC Variable Contract Account A)\nETF Name: Vanguard Balanced Index Fund; PGIM Balanced Fund; PGIM 60/40 Allocation Fund\nStrategy: Empower retains the right to substitute funds with substantially similar investment objectives and actively manages its broader portfolio using debt service coverage, loan-to-value, and collateral evaluation analysis\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Empower Annuity Insurance Company (EAIC Variable Contract Account A)",
+        "etf_name": "Vanguard Balanced Index Fund; PGIM Balanced Fund; PGIM 60/40 Allocation Fund",
+        "strategy": "Empower retains the right to substitute funds with substantially similar investment objectives and actively manages its broader portfolio using debt service coverage, loan-to-value, and collateral evaluation analysis",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:15:19.853047+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001378536",
+    "company_name": "EAIC VARIABLE CONTRACT ACCOUNT A",
+    "accession_number": "0001378536-26-000025",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1378536/000137853626000025/0001378536-26-000025-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1378536/000137853626000025/ck0001378536-20260413.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1378536/000137853626000025/ck0001378536-20260413.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EAIC VARIABLE CONTRACT ACCOUNT A\nETF Name: Identified bond ETF reported on Schedule D-1. This ETF\nStrategy: 14 EMPOWER ANNUITY INSURANCE COMPANY Notes to Statutory Financial Statements (In Thousands, Except Share Amounts) The Company actively manages its mortgage loan portfolio by completing ongoing comprehensive analysis of factors such as debt service coverage ratios, loan-to-value ratios, payment status, default or legal status, annual collateral property evaluations and general market conditions Management\u2019s periodic e\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EAIC VARIABLE CONTRACT ACCOUNT A",
+        "etf_name": "Identified bond ETF reported on Schedule D-1. This ETF",
+        "strategy": "14 EMPOWER ANNUITY INSURANCE COMPANY Notes to Statutory Financial Statements (In Thousands, Except Share Amounts) The Company actively manages its mortgage loan portfolio by completing ongoing comprehensive analysis of factors such as debt service coverage ratios, loan-to-value ratios, payment status, default or legal status, annual collateral property evaluations and general market conditions Management\u2019s periodic e",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:16:16.713193+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001074486",
+    "company_name": "SEPARATE ACCOUNT A OF PACIFIC LIFE & ANNUITY CO",
+    "accession_number": "0001104659-26-042659",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1074486/000110465926042659/0001104659-26-042659-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1074486/000110465926042659/tm266145d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1074486/000110465926042659/tm266145d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SEPARATE ACCOUNT A OF PACIFIC LIFE & ANNUITY CO\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: The fund is a variable insurance investment option within a variable annuity contract, allocating across underlying portfolios spanning U.S. and international equities, fixed income, asset allocation, and money market strategies managed by advisers including Capital Research, BlackRock, and Fidelity.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SEPARATE ACCOUNT A OF PACIFIC LIFE & ANNUITY CO",
+        "etf_name": "Target Allocation ETF V.I. Fund",
+        "strategy": "The fund is a variable insurance investment option within a variable annuity contract, allocating across underlying portfolios spanning U.S. and international equities, fixed income, asset allocation, and money market strategies managed by advisers including Capital Research, BlackRock, and Fidelity.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:17:09.141864+00:00",
+    "form_type": "486BPOS",
+    "cik": "0001957892",
+    "company_name": "StepStone Private Infrastructure Fund",
+    "accession_number": "0001193125-26-152939",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1957892/000119312526152939/0001193125-26-152939-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1957892/000119312526152939/ck0001957892-20260413.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1957892/000119312526152939/ck0001957892-20260413.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: StepStone Private Infrastructure Fund\nETF Name: StepStone Private Infrastructure Fund (Class S / D / I / U Shares)\nStrategy: Non-diversified, closed-end interval fund seeking current income and long-term capital appreciation by investing at least 80% of net assets in global private infrastructure equity and debt spanning transportation, renewables, digital infrastructure, utilities, social infrastructure, and natural capital. Employs an open-architecture sourcing approach across multiple investment managers via primary commitments and cont...\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "StepStone Private Infrastructure Fund",
+        "etf_name": "StepStone Private Infrastructure Fund (Class S / D / I / U Shares)",
+        "strategy": "Non-diversified, closed-end interval fund seeking current income and long-term capital appreciation by investing at least 80% of net assets in global private infrastructure equity and debt spanning transportation, renewables, digital infrastructure, utilities, social infrastructure, and natural capital. Employs an open-architecture sourcing approach across multiple investment managers via primary commitments and cont...",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:18:13.338556+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001074486",
+    "company_name": "SEPARATE ACCOUNT A OF PACIFIC LIFE & ANNUITY CO",
+    "accession_number": "0001104659-26-042649",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1074486/000110465926042649/0001104659-26-042649-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1074486/000110465926042649/tm266141d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1074486/000110465926042649/tm266141d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Separate Account A of Pacific Life & Annuity Co\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: This is a variable annuity sub-account option investing across a multi-manager lineup of underlying funds\u2014including equity index, fixed income, balanced allocation, and money market strategies\u2014from advisers such as Pacific Life Fund Advisors LLC, Capital Research and Management, BlackRock, and Fidelity The fund menu spans domestic and international equities, government money market, and asset allocation portfolios, w...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Separate Account A of Pacific Life & Annuity Co",
+        "etf_name": "Target Allocation ETF V.I. Fund",
+        "strategy": "This is a variable annuity sub-account option investing across a multi-manager lineup of underlying funds\u2014including equity index, fixed income, balanced allocation, and money market strategies\u2014from advisers such as Pacific Life Fund Advisors LLC, Capital Research and Management, BlackRock, and Fidelity The fund menu spans domestic and international equities, government money market, and asset allocation portfolios, w...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:19:15.472273+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001074486",
+    "company_name": "SEPARATE ACCOUNT A OF PACIFIC LIFE & ANNUITY CO",
+    "accession_number": "0001104659-26-042647",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1074486/000110465926042647/0001104659-26-042647-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1074486/000110465926042647/tm266140d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1074486/000110465926042647/tm266140d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Separate Account A of Pacific Life & Annuity Co\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: Underlying holdings range from equity index and growth portfolios to investment-grade bond and money-market funds, aiming to provide policyholders a spectrum from capital preservation to long-term capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Separate Account A of Pacific Life & Annuity Co",
+        "etf_name": "Target Allocation ETF V.I. Fund",
+        "strategy": "Underlying holdings range from equity index and growth portfolios to investment-grade bond and money-market funds, aiming to provide policyholders a spectrum from capital preservation to long-term capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:20:18.997327+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001074486",
+    "company_name": "SEPARATE ACCOUNT A OF PACIFIC LIFE & ANNUITY CO",
+    "accession_number": "0001104659-26-042643",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1074486/000110465926042643/0001104659-26-042643-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1074486/000110465926042643/tm266139d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1074486/000110465926042643/tm266139d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Separate Account A of Pacific Life & Annuity Co\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: The fund is a variable insurance asset-allocation portfolio that invests in a diversified menu of underlying ETFs and funds spanning equity index, fixed income, money market, and international strategies, sub-advised by firms including Pacific Life Fund Advisors LLC and BlackRock Investment Management\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Separate Account A of Pacific Life & Annuity Co",
+        "etf_name": "Target Allocation ETF V.I. Fund",
+        "strategy": "The fund is a variable insurance asset-allocation portfolio that invests in a diversified menu of underlying ETFs and funds spanning equity index, fixed income, money market, and international strategies, sub-advised by firms including Pacific Life Fund Advisors LLC and BlackRock Investment Management",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:21:18.913479+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001074486",
+    "company_name": "SEPARATE ACCOUNT A OF PACIFIC LIFE & ANNUITY CO",
+    "accession_number": "0001104659-26-042638",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1074486/000110465926042638/0001104659-26-042638-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1074486/000110465926042638/tm266138d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1074486/000110465926042638/tm266138d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SEPARATE ACCOUNT A OF PACIFIC LIFE & ANNUITY CO\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: The fund pursues a multi-asset target-allocation approach using ETF and index-oriented portfolio building blocks to achieve long-term growth and income objectives\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SEPARATE ACCOUNT A OF PACIFIC LIFE & ANNUITY CO",
+        "etf_name": "Target Allocation ETF V.I. Fund",
+        "strategy": "The fund pursues a multi-asset target-allocation approach using ETF and index-oriented portfolio building blocks to achieve long-term growth and income objectives",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:22:17.772597+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000935823",
+    "company_name": "SEPARATE ACCOUNT A OF PACIFIC LIFE INSURANCE CO",
+    "accession_number": "0001104659-26-042629",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/935823/000110465926042629/0001104659-26-042629-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/935823/000110465926042629/tm266137d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/935823/000110465926042629/tm266137d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Separate Account A of Pacific Life Insurance Co\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: It serves as a target-allocation vehicle offering exposure to multiple asset classes through insurance-wrapped fund portfolios rather than operating as a standalone exchange-traded fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Separate Account A of Pacific Life Insurance Co",
+        "etf_name": "Target Allocation ETF V.I. Fund",
+        "strategy": "It serves as a target-allocation vehicle offering exposure to multiple asset classes through insurance-wrapped fund portfolios rather than operating as a standalone exchange-traded fund",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:23:21.017701+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000935823",
+    "company_name": "SEPARATE ACCOUNT A OF PACIFIC LIFE INSURANCE CO",
+    "accession_number": "0001104659-26-042627",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/935823/000110465926042627/0001104659-26-042627-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/935823/000110465926042627/tm266133d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/935823/000110465926042627/tm266133d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SEPARATE ACCOUNT A OF PACIFIC LIFE INSURANCE CO\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: A variable insurance fund offering a multi-manager target allocation strategy that invests across underlying funds spanning equity index, fixed income, government money market, and balanced portfolios sub-advised by firms including BlackRock, Fidelity, and Pacific Life Fund Advisors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SEPARATE ACCOUNT A OF PACIFIC LIFE INSURANCE CO",
+        "etf_name": "Target Allocation ETF V.I. Fund",
+        "strategy": "A variable insurance fund offering a multi-manager target allocation strategy that invests across underlying funds spanning equity index, fixed income, government money market, and balanced portfolios sub-advised by firms including BlackRock, Fidelity, and Pacific Life Fund Advisors",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:24:19.698652+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000935823",
+    "company_name": "SEPARATE ACCOUNT A OF PACIFIC LIFE INSURANCE CO",
+    "accession_number": "0001104659-26-042623",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/935823/000110465926042623/0001104659-26-042623-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/935823/000110465926042623/tm266131d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/935823/000110465926042623/tm266131d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Separate Account A of Pacific Life Insurance Co\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: The fund is offered as an underlying variable investment option within a Pacific Life variable annuity, allocating across a diversified menu of sub-advised portfolios spanning U.S. and international equities, fixed income, balanced/allocation, and money market strategies.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Separate Account A of Pacific Life Insurance Co",
+        "etf_name": "Target Allocation ETF V.I. Fund",
+        "strategy": "The fund is offered as an underlying variable investment option within a Pacific Life variable annuity, allocating across a diversified menu of sub-advised portfolios spanning U.S. and international equities, fixed income, balanced/allocation, and money market strategies.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:25:06.718244+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001329377",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND",
+    "accession_number": "0001445546-26-002699",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1329377/000144554626002699/0001445546-26-002699-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1329377/000144554626002699/ftetf-20260413.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1329377/000144554626002699/ftetf-20260413.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund\nETF Name: First Trust WCM Global Equity ETF\nStrategy: Actively managed global equity ETF sub-advised by WCM Investment Management that invests at least 80% of net assets in equity securities, using bottom-up fundamental value research to identify companies believed to be undervalued relative to intrinsic value, peers, or growth prospects\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "First Trust Exchange-Traded Fund",
+        "etf_name": "First Trust WCM Global Equity ETF",
+        "strategy": "Actively managed global equity ETF sub-advised by WCM Investment Management that invests at least 80% of net assets in equity securities, using bottom-up fundamental value research to identify companies believed to be undervalued relative to intrinsic value, peers, or growth prospects",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:26:09.306262+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000935823",
+    "company_name": "SEPARATE ACCOUNT A OF PACIFIC LIFE INSURANCE CO",
+    "accession_number": "0001104659-26-042618",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/935823/000110465926042618/0001104659-26-042618-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/935823/000110465926042618/tm266130d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/935823/000110465926042618/tm266130d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Separate Account A of Pacific Life Insurance Co\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: It seeks to optimize asset allocation for a given risk tolerance, with Pacific Life Fund Advisors LLC serving as adviser\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Separate Account A of Pacific Life Insurance Co",
+        "etf_name": "Target Allocation ETF V.I. Fund",
+        "strategy": "It seeks to optimize asset allocation for a given risk tolerance, with Pacific Life Fund Advisors LLC serving as adviser",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:27:03.440919+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000935823",
+    "company_name": "SEPARATE ACCOUNT A OF PACIFIC LIFE INSURANCE CO",
+    "accession_number": "0001104659-26-042612",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/935823/000110465926042612/0001104659-26-042612-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/935823/000110465926042612/tm266129d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/935823/000110465926042612/tm266129d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Separate Account A of Pacific Life Insurance Co\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: The fund seeks, over a specified annual outcome period, to provide returns matching the S&P 500 Index up to an upside cap while buffering against the first 10% of index losses It is offered as an underlying variable investment option within a variable annuity contract, utilizing a defined-outcome, buffer-style equity strategy tied to the S&P 500\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Separate Account A of Pacific Life Insurance Co",
+        "etf_name": "Target Allocation ETF V.I. Fund",
+        "strategy": "The fund seeks, over a specified annual outcome period, to provide returns matching the S&P 500 Index up to an upside cap while buffering against the first 10% of index losses It is offered as an underlying variable investment option within a variable annuity contract, utilizing a defined-outcome, buffer-style equity strategy tied to the S&P 500",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T21:28:07.688070+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000935823",
+    "company_name": "SEPARATE ACCOUNT A OF PACIFIC LIFE INSURANCE CO",
+    "accession_number": "0001104659-26-042608",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/935823/000110465926042608/0001104659-26-042608-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/935823/000110465926042608/tm266127d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/935823/000110465926042608/tm266127d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SEPARATE ACCOUNT A OF PACIFIC LIFE INSURANCE CO\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: Fidelity \u00ae VIP Government Money Market Portfolio Service Class ; Fidelity Management & Research Company LLC 0.35% 4.03% 3.02% 1.95% 86 Investment Objective Fund ; Advisor (Subadvisor) Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year Seeks a high level of current income Pacific Select Fund Equity Index Portfolio Class I ; Pacific Life Fund Advisors LLC (BlackRock Investment Manage\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SEPARATE ACCOUNT A OF PACIFIC LIFE INSURANCE CO",
+        "etf_name": "Target Allocation ETF V.I. Fund",
+        "strategy": "Fidelity \u00ae VIP Government Money Market Portfolio Service Class ; Fidelity Management & Research Company LLC 0.35% 4.03% 3.02% 1.95% 86 Investment Objective Fund ; Advisor (Subadvisor) Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year Seeks a high level of current income Pacific Select Fund Equity Index Portfolio Class I ; Pacific Life Fund Advisors LLC (BlackRock Investment Manage",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-13T20:01:03.280534+00:00",
     "form_type": "485BPOS",
     "cik": "0001432353",
@@ -12813,7 +13480,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -13780,370 +14447,5 @@
     "why_this_matters": [],
     "email_sent": false,
     "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-05T12:04:32.793667+00:00",
-    "form_type": "485APOS",
-    "cik": "1976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-001884",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626001884/0001829126-26-001884-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626001884/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626001884/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Leverage Shares 4x Long IREN Daily ETF\nStrategy: The fund seeks 400% (4x) daily leveraged long exposure to the common stock of IREN Limited, a data center infrastructure and Bitcoin mining company, by investing at least 80% of net assets in the underlying security and in financial instruments such as swaps that replicate the leveraged return The adviser rebalances the portfolio daily at market close, and performance over periods longer than one day will compound an...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "Themes ETF Trust",
-        "strategy": "The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily levered investment results, before INFORMATION 123 ADDITIONAL NON-PRINCIPAL RISK INFORMATION 123 PORTFOLIO HOLDINGS INFORMATION 142",
-        "is_alert_worthy": "UNKNOWN"
-      }
-    ],
-    "wire_recommendation": "UNKNOWN",
-    "why_this_matters": [],
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-04T18:09:52.283665+00:00",
-    "form_type": "485APOS",
-    "cik": "0001924868",
-    "company_name": "Tidal Trust II",
-    "accession_number": "0001999371-26-005021",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126005021/0001999371-26-005021-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126005021/sil-485apos_030426.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126005021/sil-485apos_030426.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: T-REX ETF Trust\nETF Name: T-REX 2X Long SILJ Daily Target ETF\nStrategy: Provides leveraged exposure to global small-cap silver mining equities on a daily-reset basis\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust II",
-        "etf_name": "Portfolio Building Block 1X Inverse Developed Markets Ex US Daily Target ETF",
-        "strategy": "Named in the filing as a new series being added via amendment; based solely on the fund name, this appears to seek daily inverse (-1x) exposure to Developed Markets excluding the United States No explicit investment objective language was present in the provided filing text beyond the fund name and amendment reference",
-        "is_alert_worthy": "UNKNOWN"
-      }
-    ],
-    "wire_recommendation": "UNKNOWN",
-    "why_this_matters": [],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-04T12:36:55.962684+00:00",
-    "form_type": "485APOS",
-    "cik": "1771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-000498",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000498/0001771146-26-000498-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000498/tuttlecapspy1000dteetfs485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000498/tuttlecapspy1000dteetfs485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Innovation 100 0DTE Income and Hedge ETF\nStrategy: Actively managed ETF that applies the same 0DTE covered-call income strategy but referenced to Invesco QQQ and the Nasdaq-100 Index, targeting technology and growth-oriented companies The fund sells zero-days-to-expiration call options daily on QQQ/Nasdaq-100 exposure to generate current income with a secondary objective of long-term capital appreciation\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-04T12:37:21.154252+00:00",
-    "form_type": "485APOS",
-    "cik": "1771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-000500",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000500/0001771146-26-000500-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000500/tuttlecapitalnobleedtailri.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000500/tuttlecapitalnobleedtailri.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Tuttle Capital No Bleed Tail Risk ETF\nStrategy: The fund seeks to track the Tuttle Capital No Bleed Tail Risk Index by using swaps, options, and other derivatives routed through a wholly-owned Cayman Islands subsidiary, with remaining assets held in U.S The strategy is designed to deliver positive returns during significant market dislocations while minimizing the persistent cost drag typical of long-volatility tail-hedge positions\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-04T12:38:01.146241+00:00",
-    "form_type": "485APOS",
-    "cik": "1771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-000502",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000502/0001771146-26-000502-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000502/tappalphamag10smallcap485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000502/tappalphamag10smallcap485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: TappAlpha\nETF Name: TappAlpha Small-Cap Growth & Daily Income ETF\nStrategy: Actively managed ETF seeking current income and capital appreciation by holding Russell 2000 Index exposure via ETFs and writing exchange-traded call options on RUT, primarily using 0DTE contracts\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-04T12:38:25.000953+00:00",
-    "form_type": "485APOS",
-    "cik": "1924868",
-    "company_name": "Tidal Trust II",
-    "accession_number": "0001999371-26-004918",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126004918/0001999371-26-004918-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126004918/defiance-485apos_030326.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126004918/defiance-485apos_030326.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Defiance Daily Target 2X Short Discord ETF\nStrategy: common stock, using swap and options contracts to achieve its inverse exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-04T12:38:48.883916+00:00",
-    "form_type": "485APOS",
-    "cik": "1976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-001884",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626001884/0001829126-26-001884-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626001884/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626001884/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Leverage Shares 4x Long IREN Daily ETF (filed alongside 4x Long ASTS, QBTS, and LITE Daily ETFs)\nStrategy: The fund seeks daily investment results equal to 400% (4x) of the daily price change of IREN Limited, an Australian company operating in bitcoin mining and AI cloud services It invests at least 80% of net assets in IREN stock and derivatives providing 4x daily leveraged exposure, with the adviser rebalancing daily\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-04T12:39:11.936136+00:00",
-    "form_type": "485BPOS",
-    "cik": "1100663",
-    "company_name": "iSHARES TRUST",
-    "accession_number": "0001193125-26-083344",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/0001193125-26-083344-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-04T12:39:40.190985+00:00",
-    "form_type": "485BPOS",
-    "cik": "1518042",
-    "company_name": "NORTHERN LIGHTS FUND TRUST II",
-    "accession_number": "0001580642-26-001325",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1518042/000158064226001325/0001580642-26-001325-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1518042/000158064226001325/invenomic-fund_485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1518042/000158064226001325/invenomic-fund_485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust II\nETF Name: Invenomic Fund\nStrategy: The portfolio is broadly diversified across industries, with no single industry exceeding 25% of total assets, and may invest in common and preferred stocks, warrants, convertible securities, depositary receipts, REITs, and ETFs\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-04T12:40:11.471770+00:00",
-    "form_type": "485APOS",
-    "cik": "1782952",
-    "company_name": "Kurv ETF Trust",
-    "accession_number": "0001999371-26-004658",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126004658/0001999371-26-004658-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1782952/000199937126004658/kurv-485apos_022726.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126004658/kurv-485apos_022726.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Kurv ETF Trust\nETF Name: Kurv Ether Enhanced Income ETF\nStrategy: The fund does not track Ether's spot price directly but instead employs active portfolio management to generate yield from Ether-related market activity\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-04T12:40:36.636687+00:00",
-    "form_type": "485BPOS",
-    "cik": "1791032",
-    "company_name": "Axonic Funds",
-    "accession_number": "0001398344-26-004091",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1791032/000139834426004091/0001398344-26-004091-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1791032/000139834426004091/fp0097652-1_485bposixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1791032/000139834426004091/fp0097652-1_485bposixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Axonic Funds\nETF Name: Axonic Strategic Income Fund\nStrategy: The fund seeks to maximize total return by investing at least 60% of net assets in income-producing instruments, including structured credit, mortgage-related securities, and REITs\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-04T12:41:06.961269+00:00",
-    "form_type": "485APOS",
-    "cik": "31266",
-    "company_name": "Eaton Vance Special Investment Trust",
-    "accession_number": "0001133228-26-002755",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/31266/000113322826002755/0001133228-26-002755-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/31266/000113322826002755/evsit-efp23004_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/31266/000113322826002755/evsit-efp23004_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Eaton Vance Special Investment Trust\nETF Name: Eaton Vance India Fund\nStrategy: Non-diversified India-focused equity fund that invests through a master-feeder Portfolio structure, gaining direct exposure to Indian securities via SEBI Foreign Portfolio Investor registration, using a combined top-down macro-thematic and bottom-up stock selection approach targeting quality growth companies Day-to-day portfolio management is transitioning to Morgan Stanley Investment Management (MSIM) under portfoli...\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-04T12:42:01.067265+00:00",
-    "form_type": "485APOS",
-    "cik": "729528",
-    "company_name": "AMERICAN FUNDS INSURANCE SERIES",
-    "accession_number": "0000051931-26-000302",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/729528/000005193126000302/0000051931-26-000302-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/729528/000005193126000302/afis485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/729528/000005193126000302/afis485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: American Funds Insurance Series\nETF Name: SMALLCAP World Fund (Class 1)\nStrategy: Seeks long-term capital growth by investing at least 80% of net assets in equities of global small-cap companies benchmarked to the MSCI All Country World Small Cap Index and the Russell 2000 Index Employs a multi-portfolio-manager structure and may hold growth-oriented stocks, preferred stocks, and convertible securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-04T12:42:21.403459+00:00",
-    "form_type": "485APOS",
-    "cik": "802716",
-    "company_name": "VICTORY PORTFOLIOS",
-    "accession_number": "0001193125-26-085588",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/802716/000119312526085588/0001193125-26-085588-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/802716/000119312526085588/f44283d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/802716/000119312526085588/f44283d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Victory Portfolios\nETF Name: Victory Trivalent Emerging Markets Small-Cap Fund\nStrategy: Invests at least 80% of net assets in small-capitalization equities economically tied to emerging-market countries, employing an active approach with potential annual portfolio turnover exceeding 100% The fund has not yet commenced investment operations and may use index futures for cash management or market exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-04T12:42:56.487228+00:00",
-    "form_type": "485BPOS",
-    "cik": "891944",
-    "company_name": "HENNESSY FUNDS TRUST",
-    "accession_number": "0001999371-26-004759",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/891944/000199937126004759/0001999371-26-004759-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/891944/000199937126004759/hennessy-485bpos_030226.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/891944/000199937126004759/hennessy-485bpos_030226.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Hennessy Funds Trust\nETF Name: Hennessy Sustainable ETF\nStrategy: The fund uses a three-step process: a rules-based sustainability KPI screen (e.g., carbon intensity, governance, leadership diversity), a machine-learning model to identify likely outperformers, and portfolio optimization designed to reduce tail risk\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-04T12:43:27.760416+00:00",
-    "form_type": "485APOS",
-    "cik": "892071",
-    "company_name": "TCW FUNDS INC",
-    "accession_number": "0001829126-26-001800",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/892071/000182912626001800/0001829126-26-001800-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/892071/000182912626001800/tcwfunds_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/892071/000182912626001800/tcwfunds_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: TCW Funds, Inc\nETF Name: TCW Relative Value Large Cap Fund \u2013 ETF Class Shares\nStrategy: Actively managed U.S. large-cap equity fund employing a relative value approach to stock selection within the large-cap universe.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-04T12:44:08.743341+00:00",
-    "form_type": "485APOS",
-    "cik": "897111",
-    "company_name": "CARILLON SERIES TRUST",
-    "accession_number": "0000898432-26-000141",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/897111/000089843226000141/0000898432-26-000141-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/897111/000089843226000141/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/897111/000089843226000141/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Carillon Series Trust\nETF Name: Carillon ClariVest ETF\nStrategy: equity fund sub-advised by ClariVest Asset Management that constructs a portfolio seeking to maximize expected return subject to long-run active risk constraints\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": false,
-    "error": "Email suppressed during backfill run."
-  },
-  {
-    "created_at": "2026-03-02T20:51:51.673320+00:00",
-    "form_type": "485APOS",
-    "cik": "0002078265",
-    "company_name": "Corgi ETF Trust I",
-    "accession_number": "0002078265-26-000028",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000028/0002078265-26-000028-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2078265/000207826526000028/CorgiETFTrustI_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000028/CorgiETFTrustI_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Corgi ETF Trust I\nETF Name: Inside Ownership 100 ETF\nStrategy: Passively tracks the Inside Ownership 100 Index, which selects and weights U.S equities by the market value of shares held by corporate insiders, investing at least 80% of net assets in index constituents\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T22:41:56.616490+00:00",
-    "form_type": "485APOS",
-    "cik": "0001782952",
-    "company_name": "Kurv ETF Trust",
-    "accession_number": "0001999371-26-004656",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126004656/0001999371-26-004656-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1782952/000199937126004656/kurv-485apos_022726.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126004656/kurv-485apos_022726.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Kurv ETF Trust\nETF Name: Kurv AI Memory ETF\nStrategy: Actively managed, non-diversified ETF that seeks to maximize total return by investing at least 80% of net assets in securities of Memory Companies, Memory Company\u2013related ETFs, and derivatives on those securities\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T22:02:40.269837+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001879238",
-    "company_name": "BondBloxx ETF Trust",
-    "accession_number": "0001829126-26-001754",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1879238/000182912626001754/0001829126-26-001754-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1879238/000182912626001754/bondbloxxetf_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1879238/000182912626001754/bondbloxxetf_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BondBloxx ETF Trust\nETF Name: BondBloxx USD High Yield Bond Telecom, Media & Technology Sector ETF\nStrategy: Passively tracks the ICE Diversified US Cash Pay High Yield Telecom, Media & Technology Index using representative sampling, targeting U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T22:02:41.269782+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001797318",
-    "company_name": "AIM ETF Products Trust",
-    "accession_number": "0001133228-26-002673",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1797318/000113322826002673/0001133228-26-002673-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1797318/000113322826002673/aim-efp22881_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1797318/000113322826002673/aim-efp22881_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AIM ETF Products Trust\nETF Name: AllianzIM U.S. Laddered Buffered ETF\nStrategy: Actively managed fund-of-funds that holds a laddered, roughly equal-weighted portfolio of twelve AllianzIM U.S Underlying ETFs, each linked to the SPY ETF (S&P 500 Index) with a defined Spread (upside cap) and Buffer (downside cushion) resetting on a staggered monthly schedule\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T21:48:02.564121+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001936157",
-    "company_name": "Elevation Series Trust",
-    "accession_number": "0001999371-26-004622",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1936157/000199937126004622/0001999371-26-004622-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1936157/000199937126004622/est_485bpos-022726.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1936157/000199937126004622/est_485bpos-022726.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Elevation Series Trust\nETF Name: TrueShares Quarterly Bull Hedge ETF\nStrategy: Actively managed ETF that aims to provide the benefits of partial equity exposure while mitigating the risk posed by a decline in U.S Invests substantially all assets in short-term income-generating debt securities combined with a modest allocation to call options on U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T21:48:03.704344+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-000458",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000458/0001771146-26-000458-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000458/hedgeye-20260227.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000458/hedgeye-20260227.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: INVESTMENTS Hedgeye Capital Allocation ETF\nStrategy: may be changed by the Board of Trustees (the \u201cBoard\u201d) of ETF Opportunities Trust (the \u201cTrust\u201d) without shareholder approval upon 60 days\u2019 written notice to shareholders\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
   }
 ]
