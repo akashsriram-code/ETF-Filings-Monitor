@@ -1,5 +1,324 @@
 [
   {
+    "created_at": "2026-04-13T20:01:03.280534+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001432353",
+    "company_name": "Global X Funds",
+    "accession_number": "0001432353-26-000530",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000530/0001432353-26-000530-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1432353/000143235326000530/glx-20260413.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000530/glx-20260413.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Global X Funds\nETF Name: Global X Stablecoin & Tokenization Ecosystem ETF\nStrategy: The fund passively tracks an index designed to capture companies involved in the stablecoins and tokenization ecosystem \u2014 including trading/distribution venues, tokenization platforms, stablecoin issuers, and infrastructure providers for payments, settlement, identity, and custody The fund invests at least 80% of net assets in securities of the Underlying Index (common stocks, ADRs, GDRs) and will not invest directly...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Global X Funds",
+        "etf_name": "Global X Stablecoin & Tokenization Ecosystem ETF",
+        "strategy": "The fund passively tracks an index designed to capture companies involved in the stablecoins and tokenization ecosystem \u2014 including trading/distribution venues, tokenization platforms, stablecoin issuers, and infrastructure providers for payments, settlement, identity, and custody The fund invests at least 80% of net assets in securities of the Underlying Index (common stocks, ADRs, GDRs) and will not invest directly...",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T20:01:54.833833+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000356475",
+    "company_name": "BRIGHTHOUSE SEPARATE ACCOUNT A",
+    "accession_number": "0001193125-26-152593",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526152593/0001193125-26-152593-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/356475/000119312526152593/d49050d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526152593/d49050d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BRIGHTHOUSE SEPARATE ACCOUNT A\nETF Name: Brighthouse Funds Trust I / Brighthouse Funds Trust II\nStrategy: large-cap equities, international equities, emerging-markets enhanced index, capital appreciation, ultra-short-term bonds, and fixed-income total return across U.S., international, and EM geographies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BRIGHTHOUSE SEPARATE ACCOUNT A",
+        "etf_name": "Brighthouse Funds Trust I / Brighthouse Funds Trust II",
+        "strategy": "large-cap equities, international equities, emerging-markets enhanced index, capital appreciation, ultra-short-term bonds, and fixed-income total return across U.S., international, and EM geographies",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T20:02:43.256827+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000356475",
+    "company_name": "BRIGHTHOUSE SEPARATE ACCOUNT A",
+    "accession_number": "0001193125-26-152578",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526152578/0001193125-26-152578-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/356475/000119312526152578/d45569d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526152578/d45569d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Separate Account A\nETF Name: Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF Portfolio\nStrategy: These are variable annuity sub-account investment portfolios offering contract owners a menu of multi-asset allocations\u2014spanning balanced, moderate, and global diversified mandates\u2014with a managed volatility overlay designed to smooth returns by reducing participation in both market upswings and downturns. Purchase payments and account values must be allocated across platform tiers, with at least 30% directed to Platf...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Separate Account A",
+        "etf_name": "Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF Portfolio",
+        "strategy": "These are variable annuity sub-account investment portfolios offering contract owners a menu of multi-asset allocations\u2014spanning balanced, moderate, and global diversified mandates\u2014with a managed volatility overlay designed to smooth returns by reducing participation in both market upswings and downturns. Purchase payments and account values must be allocated across platform tiers, with at least 30% directed to Platf...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T20:03:35.283483+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000356475",
+    "company_name": "BRIGHTHOUSE SEPARATE ACCOUNT A",
+    "accession_number": "0001193125-26-152574",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526152574/0001193125-26-152574-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/356475/000119312526152574/d102413d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526152574/d102413d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Separate Account A\nETF Name: PR Code that is funded through a U.S. trust\nStrategy: Brighthouse Investment Advisers, LLC serves as the affiliated adviser, with advisory fees deducted from portfolio assets and profit distributions shared among affiliated Brighthouse insurers\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Separate Account A",
+        "etf_name": "PR Code that is funded through a U.S. trust",
+        "strategy": "Brighthouse Investment Advisers, LLC serves as the affiliated adviser, with advisory fees deducted from portfolio assets and profit distributions shared among affiliated Brighthouse insurers",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T20:04:22.722442+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000356475",
+    "company_name": "BRIGHTHOUSE SEPARATE ACCOUNT A",
+    "accession_number": "0001193125-26-152564",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526152564/0001193125-26-152564-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/356475/000119312526152564/d52601d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526152564/d52601d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Separate Account A\nETF Name: PR Code that is funded through a U.S. trust\nStrategy: Returns for each variable option fluctuate based on the investment experience of the corresponding underlying mutual fund portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Separate Account A",
+        "etf_name": "PR Code that is funded through a U.S. trust",
+        "strategy": "Returns for each variable option fluctuate based on the investment experience of the corresponding underlying mutual fund portfolio",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T20:05:14.123720+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001018042",
+    "company_name": "CORPORATE SPONSORED VUL SEPARATE ACCOUNT I",
+    "accession_number": "0001193125-26-152557",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1018042/000119312526152557/0001193125-26-152557-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1018042/000119312526152557/d34860d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1018042/000119312526152557/d34860d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: New York Life Insurance and Annuity Corporation (NYLIAC)\nETF Name: New York Life Investments Active ETF Trust\nStrategy: This variable universal life insurance policy allocates premiums across multiple Investment Divisions, each mapped to an Eligible Portfolio spanning bond, equity, global, target-date, and index fund strategies Portfolio selection is based on asset-class coverage, manager reputation, performance history, and whether the fund or its affiliates compensate NYLIAC for administrative and distribution services\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "New York Life Insurance and Annuity Corporation (NYLIAC)",
+        "etf_name": "New York Life Investments Active ETF Trust",
+        "strategy": "This variable universal life insurance policy allocates premiums across multiple Investment Divisions, each mapped to an Eligible Portfolio spanning bond, equity, global, target-date, and index fund strategies Portfolio selection is based on asset-class coverage, manager reputation, performance history, and whether the fund or its affiliates compensate NYLIAC for administrative and distribution services",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T20:06:03.909544+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000356475",
+    "company_name": "BRIGHTHOUSE SEPARATE ACCOUNT A",
+    "accession_number": "0001193125-26-152558",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526152558/0001193125-26-152558-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/356475/000119312526152558/d803042d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526152558/d803042d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Separate Account A (adviser: Brighthouse Investment Advisers, LLC)\nETF Name: Global Diversified Risk Portfolio Schroders Global Multi-Asset Portfolio State Street Moderate ETF\nStrategy: Select portfolios employ a managed volatility strategy designed to reduce portfolio volatility in connection with guaranteed living and death benefit riders, potentially underperforming in rising markets while providing downside cushioning\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Separate Account A (adviser: Brighthouse Investment Advisers, LLC)",
+        "etf_name": "Global Diversified Risk Portfolio Schroders Global Multi-Asset Portfolio State Street Moderate ETF",
+        "strategy": "Select portfolios employ a managed volatility strategy designed to reduce portfolio volatility in connection with guaranteed living and death benefit riders, potentially underperforming in rising markets while providing downside cushioning",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T20:06:53.043774+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000356475",
+    "company_name": "BRIGHTHOUSE SEPARATE ACCOUNT A",
+    "accession_number": "0001193125-26-152553",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526152553/0001193125-26-152553-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/356475/000119312526152553/d11491d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526152553/d11491d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Separate Account A\nETF Name: UL III for Variable Life Insurance \u2013 Brighthouse Funds Trust\nStrategy: This variable life insurance separate account offers underlying Fidelity-managed investment options, including balanced allocation portfolios (FundsManager 50% and 60%) targeting high total return and a government money market portfolio focused on income and capital preservation The contract includes a Guaranteed Withdrawal Benefit rider with standard accumulation and annuity phase mechanics, and no material strategy...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Separate Account A",
+        "etf_name": "UL III for Variable Life Insurance \u2013 Brighthouse Funds Trust",
+        "strategy": "This variable life insurance separate account offers underlying Fidelity-managed investment options, including balanced allocation portfolios (FundsManager 50% and 60%) targeting high total return and a government money market portfolio focused on income and capital preservation The contract includes a Guaranteed Withdrawal Benefit rider with standard accumulation and annuity phase mechanics, and no material strategy...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T20:07:40.425487+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001350943",
+    "company_name": "Brighthouse Variable Life Account A",
+    "accession_number": "0001193125-26-152547",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1350943/000119312526152547/0001193125-26-152547-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1350943/000119312526152547/d924542d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1350943/000119312526152547/d924542d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Variable Life Account A\nETF Name: Brighthouse Funds Trust I\nStrategy: Select portfolios employ a managed volatility overlay designed to limit exposure during periods of high market volatility, potentially capping both downside and upside participation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Variable Life Account A",
+        "etf_name": "Brighthouse Funds Trust I",
+        "strategy": "Select portfolios employ a managed volatility overlay designed to limit exposure during periods of high market volatility, potentially capping both downside and upside participation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T20:08:25.713663+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001018042",
+    "company_name": "CORPORATE SPONSORED VUL SEPARATE ACCOUNT I",
+    "accession_number": "0001193125-26-152538",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1018042/000119312526152538/0001193125-26-152538-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1018042/000119312526152538/d127304d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1018042/000119312526152538/d127304d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: CORPORATE SPONSORED VUL SEPARATE ACCOUNT I (of New York Life Insurance and Annuity Corporation)\nETF Name: CorpExec VUL Plus (Variable Universal Life Insurance Policy \u2014 not an ETF)\nStrategy: This is a variable universal life insurance product in which net premiums are allocated across multiple Investment Divisions, each investing in a distinct Eligible Portfolio spanning bond, equity, global, target-date, and index strategies, or a Fixed Account\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "CORPORATE SPONSORED VUL SEPARATE ACCOUNT I (of New York Life Insurance and Annuity Corporation)",
+        "etf_name": "CorpExec VUL Plus (Variable Universal Life Insurance Policy \u2014 not an ETF)",
+        "strategy": "This is a variable universal life insurance product in which net premiums are allocated across multiple Investment Divisions, each investing in a distinct Eligible Portfolio spanning bond, equity, global, target-date, and index strategies, or a Fixed Account",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-13T20:09:12.653845+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001209501",
+    "company_name": "NYLIAC VARIABLE ANNUITY SEPARATE ACCOUNT IV",
+    "accession_number": "0001193125-26-152516",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1209501/000119312526152516/0001193125-26-152516-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1209501/000119312526152516/d102292d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1209501/000119312526152516/d102292d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: New York Life Insurance and Annuity Corporation (NYLIAC)\nETF Name: New York Life Investments Active ETF Trust\nStrategy: This is a variable annuity separate account filing, not an ETF, offering multiple underlying investment divisions through a unit investment trust structure. Policyowners allocate accumulation value among investment divisions, a Fixed Account, and a DCA Advantage Account, with certain divisions closed to new investors and fee waivers extending through April 2027.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "New York Life Insurance and Annuity Corporation (NYLIAC)",
+        "etf_name": "New York Life Investments Active ETF Trust",
+        "strategy": "This is a variable annuity separate account filing, not an ETF, offering multiple underlying investment divisions through a unit investment trust structure. Policyowners allocate accumulation value among investment divisions, a Fixed Account, and a DCA Advantage Account, with certain divisions closed to new investors and fee waivers extending through April 2027.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-13T17:37:40.599871+00:00",
     "form_type": "485BPOS",
     "cik": "0001209501",
@@ -12494,7 +12813,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526097004/d83788d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, a market-value-weighted benchmark of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2035 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -13598,7 +13917,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526083344/d102702d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: The fund passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S It employs a representative-sampling indexing approach rather than full index replication, structured as a defined-maturity term fund advised by BlackRock Fund Advisors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Term Muni Bond ETF\nStrategy: Passively tracks the S&P AMT-Free Municipal Series Callable-Adjusted 2034 Index, composed of investment-grade, tax-exempt U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": false,
     "error": "Email suppressed during backfill run."
   },
@@ -13824,171 +14143,6 @@
     "matched_keywords": [],
     "is_crypto": false,
     "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: INVESTMENTS Hedgeye Capital Allocation ETF\nStrategy: may be changed by the Board of Trustees (the \u201cBoard\u201d) of ETF Opportunities Trust (the \u201cTrust\u201d) without shareholder approval upon 60 days\u2019 written notice to shareholders\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T20:48:16.373506+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000909994",
-    "company_name": "OLD WESTBURY FUNDS INC",
-    "accession_number": "0000930413-26-000609",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/909994/000093041326000609/0000930413-26-000609-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/909994/000093041326000609/c115377_485bpos-ixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/909994/000093041326000609/c115377_485bpos-ixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Old Westbury Funds, Inc\nETF Name: Old Westbury Small & Mid Cap Strategies Fund\nStrategy: Global SMID-cap equity fund benchmarked to the MSCI ACWI SMID Cap Index (Net), using a multi-style management approach with multiple sub-advisers and a quantitative sleeve The adviser aggregates sub-adviser model portfolios into a single fund portfolio, with discretion to deviate for tax, risk, or portfolio-construction purposes\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T20:16:11.120255+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000798290",
-    "company_name": "HSBC FUNDS",
-    "accession_number": "0001206774-26-000107",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/798290/000120677426000107/0001206774-26-000107-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/798290/000120677426000107/hsbc4580941-485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/798290/000120677426000107/hsbc4580941-485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: HSBC Global Asset Management (USA) Inc\nETF Name: HSBC U.S. Treasury Money Market Fund\nStrategy: A money market fund investing exclusively in direct obligations of the U.S. Treasury under normal market conditions, targeting a stable $1.00 share price.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T20:16:20.562550+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001415726",
-    "company_name": "Innovator ETFs Trust",
-    "accession_number": "0001213900-26-021379",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026021379/0001213900-26-021379-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1415726/000121390026021379/ea0276309-01_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026021379/ea0276309-01_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Innovator ETFs Trust\nETF Name: Innovator U.S. Equity Buffer ETF\u2122 \u2013 January\nStrategy: At least 80% of net assets are invested in instruments providing exposure to the SPDR S&P 500 ETF Trust\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T19:47:13.215949+00:00",
-    "form_type": "485APOS",
-    "cik": "0000919160",
-    "company_name": "GUINNESS ATKINSON FUNDS",
-    "accession_number": "0001213900-26-021337",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/919160/000121390026021337/0001213900-26-021337-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/919160/000121390026021337/ea0278173-01_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/919160/000121390026021337/ea0278173-01_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Guinness Atkinson Funds\nETF Name: Guinness Atkinson Post-Labor Leaders\u2122 ETF\nStrategy: The fund selects holdings across multiple industries and geographies, resulting in a diversified portfolio of firms benefiting from this structural economic shift\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T19:47:14.327605+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001552947",
-    "company_name": "Two Roads Shared Trust",
-    "accession_number": "0001580642-26-001287",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1552947/000158064226001287/0001580642-26-001287-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1552947/000158064226001287/conductor-globaletf_485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1552947/000158064226001287/conductor-globaletf_485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Two Roads Shared Trust\nETF Name: Conductor Global Equity Value ETF\nStrategy: The fund may shift to cash, defensive ETFs, or index hedges when the adviser's macro analysis indicates elevated market risk\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T19:03:01.951541+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001970751",
-    "company_name": "Advisor Managed Portfolios",
-    "accession_number": "0000894189-26-006994",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1970751/000089418926006994/0000894189-26-006994-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1970751/000089418926006994/ck0001970751-20260227.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1970751/000089418926006994/ck0001970751-20260227.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Advisor Managed Portfolios\nETF Name: Soundwatch Hedged Equity ETF\nStrategy: equity ETF seeking long-term capital appreciation by holding at least 80% in equities (directly or via other ETFs) while systematically writing index and ETF call options, covered calls, and option spreads to generate income and reduce downside risk The fund pairs broad equity exposure with an options overlay designed to dampen volatility relative to its benchmark\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T18:02:32.734324+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001655146",
-    "company_name": "AMERICAN FUNDS STRATEGIC BOND FUND",
-    "accession_number": "0000051931-26-000267",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1655146/000005193126000267/0000051931-26-000267-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1655146/000005193126000267/ck0001655146-20260227.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1655146/000005193126000267/ck0001655146-20260227.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Capital Group Fixed Income ETF Trust\nETF Name: American Funds Strategic Bond Fund\nStrategy: Invests at least 80% of assets in bonds and other debt instruments, including Eurodollar bonds, mortgage-backed securities, convertible bonds, loans, and obligations of banks, corporations, and government entities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T18:02:33.828406+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001552947",
-    "company_name": "Two Roads Shared Trust",
-    "accession_number": "0001580642-26-001275",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1552947/000158064226001275/0001580642-26-001275-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1552947/000158064226001275/affinity-485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1552947/000158064226001275/affinity-485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Two Roads Shared Trust\nETF Name: Affinity World Leaders Equity ETF\nStrategy: Passively tracks the FTSE StarMine Affinity World Leaders Index by investing at least 80% of net assets in equity securities comprising the index, with potential concentration by country, region, or industry to match index weightings\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T18:02:35.234181+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001970533",
-    "company_name": "Capital Group Core Balanced ETF",
-    "accession_number": "0000051931-26-000262",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1970533/000005193126000262/0000051931-26-000262-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1970533/000005193126000262/ck0001970533-20260227.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1970533/000005193126000262/ck0001970533-20260227.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Capital Group Fixed Income ETF Trust\nETF Name: Capital Group Core Balanced ETF\nStrategy: Fixed-income exposure is obtained through affiliated Capital Group fixed-income ETFs, with allocations shifting at the adviser's discretion based on market conditions\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T18:02:36.250494+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001295908",
-    "company_name": "CENTAUR MUTUAL FUNDS TRUST",
-    "accession_number": "0001580642-26-001274",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1295908/000158064226001274/0001580642-26-001274-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1295908/000158064226001274/copleyfund_485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1295908/000158064226001274/copleyfund_485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Centaur Mutual Funds Trust\nETF Name: Copley Fund (COPLX)\nStrategy: The fund seeks growth of capital by investing primarily in common stocks of U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-02-27T17:23:18.429099+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001651872",
-    "company_name": "Gallery Trust",
-    "accession_number": "0001398344-26-003989",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1651872/000139834426003989/0001398344-26-003989-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1651872/000139834426003989/fp0097557-1_485bposixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1651872/000139834426003989/fp0097557-1_485bposixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Gallery Trust\nETF Name: In addition, because the value of ETF and certain closed-end fund\nStrategy: Benchmarks include the MSCI EAFE Index and MSCI Emerging Markets Index, with limited use of foreign fixed income and forward currency contracts where applicable\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "email_sent": true,
     "error": null
   }
