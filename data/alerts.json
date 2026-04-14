@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-04-14T10:18:17.089101+00:00",
+    "form_type": "486BPOS",
+    "cik": "0001862281",
+    "company_name": "ADAMS STREET PRIVATE EQUITY NAVIGATOR FUND LLC",
+    "accession_number": "0001193125-26-153396",
+    "filed_date": "2026-04-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1862281/000119312526153396/0001193125-26-153396-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1862281/000119312526153396/d118043d486bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1862281/000119312526153396/d118043d486bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ADAMS STREET PRIVATE EQUITY NAVIGATOR FUND LLC\nETF Name: Unknown\nStrategy: The Fund seeks to achieve its investment objective by investing in a broad portfolio of global private markets investments The Fund seeks to achieve its investment objective by investing in a broad portfolio of global private markets investments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ADAMS STREET PRIVATE EQUITY NAVIGATOR FUND LLC",
+        "etf_name": "Unknown",
+        "strategy": "The Fund seeks to achieve its investment objective by investing in a broad portfolio of global private markets investments The Fund seeks to achieve its investment objective by investing in a broad portfolio of global private markets investments",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-13T22:02:32.216495+00:00",
     "form_type": "485BPOS",
     "cik": "0000352736",
@@ -14466,32 +14495,6 @@
         "filer": "ETF Opportunities Trust",
         "etf_name": "TUTTLE CAPITAL PURE PLAY PHOTONICS ETF TUTTLE CAPITAL PHOTONICS INCOME BLAST ETF",
         "strategy": "is to seek long-term capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: Name of Fund 1 Year 3 Years Tuttle Capital Pure Play Photonics ETF $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund is an actively managed exchange-traded fund (\u201cETF\u201d)",
-        "is_alert_worthy": "UNKNOWN"
-      }
-    ],
-    "wire_recommendation": "UNKNOWN",
-    "why_this_matters": [],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-06T10:56:05.419888+00:00",
-    "form_type": "485APOS",
-    "cik": "0001424958",
-    "company_name": "Direxion Shares ETF Trust",
-    "accession_number": "0001193125-26-094160",
-    "filed_date": "2026-03-05",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526094160/0001193125-26-094160-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1424958/000119312526094160/d72693d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526094160/d72693d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Direxion Shares ETF Trust\nETF Name: Direxion Daily OpenAI Bear 2X ETF\nStrategy: Single-stock inverse leveraged ETF seeking daily investment results equal to 200% of the inverse (\u20132\u00d7) of the daily performance of OpenAI common shares, providing leveraged short exposure to a single U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Direxion Shares ETF Trust",
-        "etf_name": "Direxion Shares ETF Trust Prospectus Fund",
-        "strategy": "In these instances, the Fund may have investment exposure to OpenAI that is significantly greater or significantly less than its stated investment objective",
         "is_alert_worthy": "UNKNOWN"
       }
     ],
