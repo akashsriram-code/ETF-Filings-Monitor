@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-04-15T20:30:23.544769+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000756913",
+    "company_name": "JOHN HANCOCK VARIABLE INSURANCE TRUST",
+    "accession_number": "0001193125-26-156991",
+    "filed_date": "2026-04-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/756913/000119312526156991/0001193125-26-156991-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/756913/000119312526156991/d224548d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/756913/000119312526156991/d224548d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: JOHN HANCOCK VARIABLE INSURANCE TRUST\nETF Name: Active Bond Trust\nStrategy: investment-grade bond fund seeking income and capital appreciation, benchmarked to the Bloomberg US Aggregate Bond Index with broad derivatives authority The fund employs significant mortgage-backed securities exposure alongside swaps, futures, options, and credit default swaps to pursue its objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "JOHN HANCOCK VARIABLE INSURANCE TRUST",
+        "etf_name": "Active Bond Trust",
+        "strategy": "investment-grade bond fund seeking income and capital appreciation, benchmarked to the Bloomberg US Aggregate Bond Index with broad derivatives authority The fund employs significant mortgage-backed securities exposure alongside swaps, futures, options, and credit default swaps to pursue its objective",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-15T20:31:22.909204+00:00",
+    "form_type": "485APOS",
+    "cik": "0000088048",
+    "company_name": "DEUTSCHE DWS SECURITIES TRUST",
+    "accession_number": "0000088053-26-000267",
+    "filed_date": "2026-04-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/88048/000008805326000267/0000088053-26-000267-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/88048/000008805326000267/na061726sec.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/88048/000008805326000267/na061726sec.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Deutsche DWS Securities Trust\nETF Name: DWS Health and Wellness Fund\nStrategy: No investment objective or strategy language is present in the filing text beyond the fund's name and share-class listing\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Deutsche DWS Securities Trust",
+        "etf_name": "DWS Health and Wellness Fund",
+        "strategy": "No investment objective or strategy language is present in the filing text beyond the fund's name and share-class listing",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-15T19:25:25.571779+00:00",
     "form_type": "485BPOS",
     "cik": "0001943291",
@@ -40,7 +98,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity contract offering multiple index-linked investment options (\"Strategies\") that credit returns based on the price-return performance of one or more equity indices, subject to caps, participation rates, buffers, and floors over defined terms Downside exposure ranges from \u22125% (floor-based strategies) to \u221285% (buffer-based strategies) per term, with no dividend component reflecte...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity (RILA) contract offering multiple index-linked investment options that credit returns\u2014positive, negative, or zero\u2014based on the price-return performance of underlying equity indexes over defined terms Upside is shaped by participation rates and caps, while downside exposure is modulated by buffers (absorbing initial losses up to a set percentage) or floors (capping maximum los...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -69,7 +127,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF; it is a registered index-linked annuity contract offering allocation options including a Declared Rate Account, a Guaranteed Interest Strategy, and various Indexed Strategies tied to price-return indexes such as the MSCI EAFE Index, with credited interest subject to Caps, Participation Rates, and downside Floors ranging from 0% to \u221220% The contract explicitly states that allocating to an Indexed S...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: The contract allows allocation across a Declared Rate Account, a Guaranteed Interest Strategy, and various index-linked investment options that credit interest based on price-return performance of reference indexes (e.g., MSCI EAFE Index), subject to defined Caps, Participation Rates, and Floors ranging from 0% to \u221220%\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -14437,64 +14495,6 @@
         "filer": "Vanguard Wellesley Income Fund",
         "etf_name": "Vanguard Target Maturity 2027\u20132036 Corporate Bond ETFs (VBCA\u2013VBCJ)",
         "strategy": "The Fund is part of a series of target maturity ETFs that seek to provide investors with defined-maturity exposure to the U.S",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-23T10:20:01.724754+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001500604",
-    "company_name": "Janus Detroit Street Trust",
-    "accession_number": "0001398344-26-005528",
-    "filed_date": "2026-03-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1500604/000139834426005528/0001398344-26-005528-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1500604/000139834426005528/fp0097907-1_485bposixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1500604/000139834426005528/fp0097907-1_485bposixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Janus Detroit Street Trust\nETF Name: Janus Henderson U.S. Equity Enhanced Income ETF (JUDO)\nStrategy: The fund invests at least 80% of net assets in a concentrated portfolio of 50\u201370 U.S It overlays a tactical covered-call writing program\u2014selling short-term call options on some or all holdings at portfolio-manager discretion\u2014to generate additional premium income and dampen volatility\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Janus Detroit Street Trust",
-        "etf_name": "Janus Henderson U.S. Equity Enhanced Income ETF (JUDO)",
-        "strategy": "The fund invests at least 80% of net assets in a concentrated portfolio of 50\u201370 U.S It overlays a tactical covered-call writing program\u2014selling short-term call options on some or all holdings at portfolio-manager discretion\u2014to generate additional premium income and dampen volatility",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-20T21:21:43.613134+00:00",
-    "form_type": "485APOS",
-    "cik": "0001579982",
-    "company_name": "ARK ETF Trust",
-    "accession_number": "0001213900-26-032448",
-    "filed_date": "2026-03-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1579982/000121390026032448/0001213900-26-032448-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1579982/000121390026032448/ea0282509-01_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1579982/000121390026032448/ea0282509-01_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ARK ETF Trust\nETF Name: ARK Biotech ETF\nStrategy: Uses a bottom-up, company-specific selection process integrating ESG considerations and AI-assisted research across a concentrated portfolio\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ARK ETF Trust",
-        "etf_name": "ARK Biotech ETF",
-        "strategy": "Uses a bottom-up, company-specific selection process integrating ESG considerations and AI-assisted research across a concentrated portfolio",
         "is_alert_worthy": "HIGH"
       }
     ],
