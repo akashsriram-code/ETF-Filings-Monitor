@@ -1,5 +1,237 @@
 [
   {
+    "created_at": "2026-04-15T17:55:31.327730+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000310826",
+    "company_name": "PROTECTIVE LIFE INSURANCE CO",
+    "accession_number": "0001104659-26-043716",
+    "filed_date": "2026-04-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/0001104659-26-043716-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes an indexed annuity contract \u2014 not an ETF \u2014 offering allocation options including a Declared Rate Account, a Guaranteed Interest Strategy, and various index-linked strategies with Caps, Participation Rates, and Floors tied to price-return indexes Downside protection ranges from 0% to \u221220% depending on the strategy elected, and credited interest excludes dividends since the contract tracks price-r...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Protective Life Insurance Co",
+        "etf_name": "Unknown",
+        "strategy": "This filing describes an indexed annuity contract \u2014 not an ETF \u2014 offering allocation options including a Declared Rate Account, a Guaranteed Interest Strategy, and various index-linked strategies with Caps, Participation Rates, and Floors tied to price-return indexes Downside protection ranges from 0% to \u221220% depending on the strategy elected, and credited interest excludes dividends since the contract tracks price-r...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-15T17:56:30.744512+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000917952",
+    "company_name": "Brighthouse Variable Annuity Account B",
+    "accession_number": "0001193125-26-156602",
+    "filed_date": "2026-04-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/917952/000119312526156602/0001193125-26-156602-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/917952/000119312526156602/d60626d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/917952/000119312526156602/d60626d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Variable Annuity Account B\nETF Name: Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF\nStrategy: The contract requires allocating purchase payments across multiple investment platforms, with at least 30% to Platform 1 portfolios and capped allocations to Platforms 2\u20134, channeling account value into underlying portfolios spanning equities, bonds, and multi-asset strategies. Certain underlying portfolios employ managed volatility approaches designed to smooth returns by dampening losses in down markets while cappi...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Variable Annuity Account B",
+        "etf_name": "Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF",
+        "strategy": "The contract requires allocating purchase payments across multiple investment platforms, with at least 30% to Platform 1 portfolios and capped allocations to Platforms 2\u20134, channeling account value into underlying portfolios spanning equities, bonds, and multi-asset strategies. Certain underlying portfolios employ managed volatility approaches designed to smooth returns by dampening losses in down markets while cappi...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-15T17:57:29.153471+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000356475",
+    "company_name": "BRIGHTHOUSE SEPARATE ACCOUNT A",
+    "accession_number": "0001193125-26-156597",
+    "filed_date": "2026-04-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526156597/0001193125-26-156597-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/356475/000119312526156597/d94017d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526156597/d94017d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Life Insurance Company (via Brighthouse Separate Account A)\nETF Name: Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF Portfolio\nStrategy: A managed-volatility overlay is applied to smooth portfolio returns by dampening swings, designed to cushion losses in down or flat markets at the cost of capping upside in rising markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Life Insurance Company (via Brighthouse Separate Account A)",
+        "etf_name": "Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF Portfolio",
+        "strategy": "A managed-volatility overlay is applied to smooth portfolio returns by dampening swings, designed to cushion losses in down or flat markets at the cost of capping upside in rising markets",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-15T17:58:20.683419+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000356475",
+    "company_name": "BRIGHTHOUSE SEPARATE ACCOUNT A",
+    "accession_number": "0001193125-26-156589",
+    "filed_date": "2026-04-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526156589/0001193125-26-156589-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/356475/000119312526156589/d155612d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526156589/d155612d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Separate Account A\nETF Name: Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF\nStrategy: These are insurance-wrapped variable annuity sub-account portfolios \u2014 not standalone ETFs \u2014 offered across tiered allocation platforms (Platforms 1\u20134) with mandatory minimum allocations to lower-risk options and caps on higher-risk selections, designed to manage guarantee-rider risk. The underlying portfolios span multiple asset classes (equities, fixed income, balanced) and include managed-volatility strategies inte...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Separate Account A",
+        "etf_name": "Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF",
+        "strategy": "These are insurance-wrapped variable annuity sub-account portfolios \u2014 not standalone ETFs \u2014 offered across tiered allocation platforms (Platforms 1\u20134) with mandatory minimum allocations to lower-risk options and caps on higher-risk selections, designed to manage guarantee-rider risk. The underlying portfolios span multiple asset classes (equities, fixed income, balanced) and include managed-volatility strategies inte...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-15T17:59:11.285109+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000356475",
+    "company_name": "BRIGHTHOUSE SEPARATE ACCOUNT A",
+    "accession_number": "0001193125-26-156585",
+    "filed_date": "2026-04-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526156585/0001193125-26-156585-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/356475/000119312526156585/d77951d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526156585/d77951d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Separate Account A\nETF Name: Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF Portfolio\nStrategy: These are investment portfolio options within a variable annuity separate account, offering contract owners access to diversified multi-asset and moderate-risk strategies across multiple allocation platforms\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Separate Account A",
+        "etf_name": "Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF Portfolio",
+        "strategy": "These are investment portfolio options within a variable annuity separate account, offering contract owners access to diversified multi-asset and moderate-risk strategies across multiple allocation platforms",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-15T18:00:02.469834+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000356475",
+    "company_name": "BRIGHTHOUSE SEPARATE ACCOUNT A",
+    "accession_number": "0001193125-26-156577",
+    "filed_date": "2026-04-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526156577/0001193125-26-156577-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/356475/000119312526156577/d694345d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526156577/d694345d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Separate Account A (Brighthouse Life Insurance Company)\nETF Name: Global Diversified Risk Portfolio Schroders Global Multi-Asset Portfolio State Street Moderate ETF\nStrategy: Certain portfolios employ a managed volatility strategy designed to reduce return volatility, potentially underperforming in rising markets while outperforming in declining or flat markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Separate Account A (Brighthouse Life Insurance Company)",
+        "etf_name": "Global Diversified Risk Portfolio Schroders Global Multi-Asset Portfolio State Street Moderate ETF",
+        "strategy": "Certain portfolios employ a managed volatility strategy designed to reduce return volatility, potentially underperforming in rising markets while outperforming in declining or flat markets",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-15T18:01:02.664507+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000356475",
+    "company_name": "BRIGHTHOUSE SEPARATE ACCOUNT A",
+    "accession_number": "0001193125-26-156572",
+    "filed_date": "2026-04-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526156572/0001193125-26-156572-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/356475/000119312526156572/d807175d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/356475/000119312526156572/d807175d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Separate Account A\nETF Name: Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF\nStrategy: A managed-volatility overlay is applied to smooth returns across the portfolio options, limiting upside participation in exchange for reduced downside volatility\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Separate Account A",
+        "etf_name": "Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF",
+        "strategy": "A managed-volatility overlay is applied to smooth returns across the portfolio options, limiting upside participation in exchange for reduced downside volatility",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-15T18:01:53.044645+00:00",
+    "form_type": "485APOS",
+    "cik": "0001845809",
+    "company_name": "Putnam ETF Trust",
+    "accession_number": "0001193125-26-156540",
+    "filed_date": "2026-04-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1845809/000119312526156540/0001193125-26-156540-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1845809/000119312526156540/d244430d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1845809/000119312526156540/d244430d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Putnam ETF Trust\nETF Name: Putnam Research ETF\nStrategy: Actively managed U.S. equity ETF investing primarily in growth and/or value stocks of large- and mid-cap companies believed to have favorable investment potential.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Putnam ETF Trust",
+        "etf_name": "Putnam Research ETF",
+        "strategy": "Actively managed U.S. equity ETF investing primarily in growth and/or value stocks of large- and mid-cap companies believed to have favorable investment potential.",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-15T16:47:39.485860+00:00",
     "form_type": "485BPOS",
     "cik": "0001074486",
@@ -14274,238 +14506,6 @@
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Crypto-linked ETF disclosures can move market narrative and regulatory coverage."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-20T19:41:38.356824+00:00",
-    "form_type": "485APOS",
-    "cik": "0001089951",
-    "company_name": "AMG FUNDS",
-    "accession_number": "0001193125-26-117435",
-    "filed_date": "2026-03-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1089951/000119312526117435/0001193125-26-117435-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1089951/000119312526117435/d62994d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1089951/000119312526117435/d62994d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AMG Funds\nETF Name: AMG GW&K High Yield Bond SMA Shares\nStrategy: Seeks total return through income and capital appreciation by investing at least 80% of net assets in a diversified portfolio of high yield bonds, with optional use of derivatives for hedging and risk management The fund is distributed through separately managed account (SMA) programs, with the subadviser applying discretionary security selection across high yield debt, and the investment objective may be changed wit...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AMG Funds",
-        "etf_name": "AMG GW&K High Yield Bond SMA Shares",
-        "strategy": "Seeks total return through income and capital appreciation by investing at least 80% of net assets in a diversified portfolio of high yield bonds, with optional use of derivatives for hedging and risk management The fund is distributed through separately managed account (SMA) programs, with the subadviser applying discretionary security selection across high yield debt, and the investment objective may be changed wit...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-20T18:58:09.246734+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001500604",
-    "company_name": "Janus Detroit Street Trust",
-    "accession_number": "0001398344-26-005498",
-    "filed_date": "2026-03-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1500604/000139834426005498/0001398344-26-005498-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1500604/000139834426005498/fp0097983-1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1500604/000139834426005498/fp0097983-1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Janus Detroit Street Trust\nETF Name: Janus Henderson International Equity Enhanced Income ETF\nStrategy: Opportunistically writes covered call options on portfolio holdings to generate additional premium income alongside current income and long-term capital growth\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Janus Detroit Street Trust",
-        "etf_name": "Janus Henderson International Equity Enhanced Income ETF",
-        "strategy": "Opportunistically writes covered call options on portfolio holdings to generate additional premium income alongside current income and long-term capital growth",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-20T18:59:06.292054+00:00",
-    "form_type": "485APOS",
-    "cik": "0001667919",
-    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
-    "accession_number": "0001445546-26-002205",
-    "filed_date": "2026-03-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626002205/0001445546-26-002205-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1667919/000144554626002205/etf8_485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626002205/etf8_485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund VIII\nETF Name: FT Vest Nasdaq-100 Dual Directional Buffer ETF\nStrategy: The fund employs FLEX Options on the Invesco QQQ Trust to seek capped upside participation and to convert moderate QQQ declines into positive returns up to a preset Inverse Performance Threshold, while providing a downside Buffer against deeper losses over each Target Outcome Period\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "First Trust Exchange-Traded Fund VIII",
-        "etf_name": "FT Vest Nasdaq-100 Dual Directional Buffer ETF",
-        "strategy": "The fund employs FLEX Options on the Invesco QQQ Trust to seek capped upside participation and to convert moderate QQQ declines into positive returns up to a preset Inverse Performance Threshold, while providing a downside Buffer against deeper losses over each Target Outcome Period",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-20T14:37:31.160775+00:00",
-    "form_type": "485APOS",
-    "cik": "0001924868",
-    "company_name": "Tidal Trust II",
-    "accession_number": "0001999371-26-006604",
-    "filed_date": "2026-03-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126006604/0001999371-26-006604-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126006604/anduril_485apos-032026.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126006604/anduril_485apos-032026.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: 2X Long Anduril Industries ETF / -2X Inverse Anduril Industries ETF\nStrategy: Single-stock leveraged ETFs seeking daily investment results of +200% and -200%, respectively, of the daily percentage change in Anduril Industries, Inc. share price, using swap contracts and options on Anduril common stock.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust II",
-        "etf_name": "2X Long Anduril Industries ETF / -2X Inverse Anduril Industries ETF",
-        "strategy": "Single-stock leveraged ETFs seeking daily investment results of +200% and -200%, respectively, of the daily percentage change in Anduril Industries, Inc. share price, using swap contracts and options on Anduril common stock.",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-20T14:38:55.628979+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001137360",
-    "company_name": "VanEck ETF Trust",
-    "accession_number": "0001137360-26-000294",
-    "filed_date": "2026-03-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000294/0001137360-26-000294-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1137360/000113736026000294/ck0001137360-20260320.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000294/ck0001137360-20260320.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: VanEck ETF Trust\nETF Name: VanEck India Growth Leaders ETF\nStrategy: Passively managed, non-diversified fund that tracks an index of Indian equities, investing at least 80% of assets in index constituents including depositary receipts such as ADRs The fund may concentrate in specific industries to the extent the underlying index does, with a focus on emerging-market companies in India\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "VanEck ETF Trust",
-        "etf_name": "VanEck India Growth Leaders ETF",
-        "strategy": "Passively managed, non-diversified fund that tracks an index of Indian equities, investing at least 80% of assets in index constituents including depositary receipts such as ADRs The fund may concentrate in specific industries to the extent the underlying index does, with a focus on emerging-market companies in India",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-20T14:40:52.669471+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001137360",
-    "company_name": "VanEck ETF Trust",
-    "accession_number": "0001137360-26-000292",
-    "filed_date": "2026-03-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000292/0001137360-26-000292-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1137360/000113736026000292/ck0001137360-20260320.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000292/ck0001137360-20260320.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: VanEck ETF Trust\nETF Name: VanEck Digital Native Economy ETF\nStrategy: Effective April 8, 2026, this fund undergoes a full conversion from the former VanEck Video Gaming and eSports ETF, switching its benchmark to the MarketVector Digital Native Economy Index and overhauling its investment objective to target companies in digital finance, gig platforms, and online gambling/betting At least 80% of assets will be invested in index constituents spanning the digital-native economy theme\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "VanEck ETF Trust",
-        "etf_name": "VanEck Digital Native Economy ETF",
-        "strategy": "Effective April 8, 2026, this fund undergoes a full conversion from the former VanEck Video Gaming and eSports ETF, switching its benchmark to the MarketVector Digital Native Economy Index and overhauling its investment objective to target companies in digital finance, gig platforms, and online gambling/betting At least 80% of assets will be invested in index constituents spanning the digital-native economy theme",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-20T14:41:55.097893+00:00",
-    "form_type": "485APOS",
-    "cik": "0001657201",
-    "company_name": "Invesco Exchange-Traded Self-Indexed Fund Trust",
-    "accession_number": "0001193125-26-116917",
-    "filed_date": "2026-03-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1657201/000119312526116917/0001193125-26-116917-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1657201/000119312526116917/d92945d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1657201/000119312526116917/d92945d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Exchange-Traded Self-Indexed Fund Trust\nETF Name: Equal Weight ETF A-18 Invesco Exchange-Traded Self-Indexed Fund Trust\nStrategy: Each fund passively tracks a corresponding Invesco BulletShares US Treasury Bond Index for its target maturity year (2027\u20132031), investing at least 80% of total assets in index constituents via a sampling methodology Treasury bond ETFs that do not seek to outperform their benchmarks\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Invesco Exchange-Traded Self-Indexed Fund Trust",
-        "etf_name": "Equal Weight ETF A-18 Invesco Exchange-Traded Self-Indexed Fund Trust",
-        "strategy": "Each fund passively tracks a corresponding Invesco BulletShares US Treasury Bond Index for its target maturity year (2027\u20132031), investing at least 80% of total assets in index constituents via a sampling methodology Treasury bond ETFs that do not seek to outperform their benchmarks",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-20T13:43:38.880262+00:00",
-    "form_type": "485APOS",
-    "cik": "0001657201",
-    "company_name": "Invesco Exchange-Traded Self-Indexed Fund Trust",
-    "accession_number": "0001193125-26-116851",
-    "filed_date": "2026-03-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1657201/000119312526116851/0001193125-26-116851-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1657201/000119312526116851/d103543d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1657201/000119312526116851/d103543d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Exchange-Traded Self-Indexed Fund Trust\nETF Name: Invesco BulletShares 2034 High Yield Corporate Bond ETF\nStrategy: Passively tracks the Invesco BulletShares USD High Yield Corporate Bond 2034 Index via sampling, investing at least 80% of assets in U.S The self-indexed fund uses quantitative analysis to select a representative subset of the index rather than full replication\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Invesco Exchange-Traded Self-Indexed Fund Trust",
-        "etf_name": "Invesco BulletShares 2034 High Yield Corporate Bond ETF",
-        "strategy": "Passively tracks the Invesco BulletShares USD High Yield Corporate Bond 2034 Index via sampling, investing at least 80% of assets in U.S The self-indexed fund uses quantitative analysis to select a representative subset of the index rather than full replication",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
     ],
     "email_sent": true,
     "error": null
