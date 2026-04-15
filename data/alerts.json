@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-04-15T19:25:25.571779+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001943291",
+    "company_name": "Calamos Antetokounmpo Sustainable Equities Trust",
+    "accession_number": "0001104659-26-043718",
+    "filed_date": "2026-04-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1943291/000110465926043718/0001104659-26-043718-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1943291/000110465926043718/tm269117d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1943291/000110465926043718/tm269117d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Calamos Antetokounmpo Sustainable Equities Trust\nETF Name: Calamos Antetokounmpo Sustainable Equities Fund\nStrategy: Actively managed equity fund seeking long-term capital appreciation by applying a proprietary sustainability rating system developed by Calamos Advisors, supplemented with third-party ESG data, to screen and select holdings. The fund's sustainability filters may result in sector and industry tilts relative to the broader equity market, and it may engage in frequent trading.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Calamos Antetokounmpo Sustainable Equities Trust",
+        "etf_name": "Calamos Antetokounmpo Sustainable Equities Fund",
+        "strategy": "Actively managed equity fund seeking long-term capital appreciation by applying a proprietary sustainability rating system developed by Calamos Advisors, supplemented with third-party ESG data, to screen and select holdings. The fund's sustainability filters may result in sector and industry tilts relative to the broader equity market, and it may engage in frequent trading.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-15T19:26:25.533355+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000310826",
+    "company_name": "PROTECTIVE LIFE INSURANCE CO",
+    "accession_number": "0001104659-26-043719",
+    "filed_date": "2026-04-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/0001104659-26-043719-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity contract offering multiple index-linked investment options (\"Strategies\") that credit returns based on the price-return performance of one or more equity indices, subject to caps, participation rates, buffers, and floors over defined terms Downside exposure ranges from \u22125% (floor-based strategies) to \u221285% (buffer-based strategies) per term, with no dividend component reflecte...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Protective Life Insurance Co",
+        "etf_name": "Unknown",
+        "strategy": "This is a registered index-linked annuity contract offering multiple index-linked investment options (\"Strategies\") that credit returns based on the price-return performance of one or more equity indices, subject to caps, participation rates, buffers, and floors over defined terms Downside exposure ranges from \u22125% (floor-based strategies) to \u221285% (buffer-based strategies) per term, with no dividend component reflecte...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-15T17:55:31.327730+00:00",
     "form_type": "485BPOS",
     "cik": "0000310826",
@@ -11,7 +69,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes an indexed annuity contract \u2014 not an ETF \u2014 offering allocation options including a Declared Rate Account, a Guaranteed Interest Strategy, and various index-linked strategies with Caps, Participation Rates, and Floors tied to price-return indexes Downside protection ranges from 0% to \u221220% depending on the strategy elected, and credited interest excludes dividends since the contract tracks price-r...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF; it is a registered index-linked annuity contract offering allocation options including a Declared Rate Account, a Guaranteed Interest Strategy, and various Indexed Strategies tied to price-return indexes such as the MSCI EAFE Index, with credited interest subject to Caps, Participation Rates, and downside Floors ranging from 0% to \u221220% The contract explicitly states that allocating to an Indexed S...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -14444,68 +14502,6 @@
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-20T21:23:30.899535+00:00",
-    "form_type": "485APOS",
-    "cik": "0001782952",
-    "company_name": "Kurv ETF Trust",
-    "accession_number": "0001999371-26-006638",
-    "filed_date": "2026-03-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126006638/0001999371-26-006638-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1782952/000199937126006638/kurv-485apos_032026.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126006638/kurv-485apos_032026.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Kurv ETF Trust\nETF Name: Principal Investment Strategies The Energy Fund\nStrategy: The Energy Fund may gain exposures to an Energy Company through different instruments including the equity or debt securities of Energy Companies, or derivative instruments relating to the securities of Energy Companies, as well as the shares of other ETFs that invest in at least 50% of the securities of, or derivative instruments relating to, Energy Companies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Kurv ETF Trust",
-        "etf_name": "Principal Investment Strategies The Energy Fund",
-        "strategy": "The Energy Fund may gain exposures to an Energy Company through different instruments including the equity or debt securities of Energy Companies, or derivative instruments relating to the securities of Energy Companies, as well as the shares of other ETFs that invest in at least 50% of the securities of, or derivative instruments relating to, Energy Companies",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-20T20:53:06.867381+00:00",
-    "form_type": "S-1",
-    "cik": "0002107730",
-    "company_name": "1 - Grayscale HYPE ETF",
-    "accession_number": "0001193125-26-117603",
-    "filed_date": "2026-03-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2107730/000119312526117603/0001193125-26-117603-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2107730/000119312526117603/ck0002107730-20260320.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2107730/000119312526117603/ck0002107730-20260320.htm",
-    "matched_keywords": [
-      "Bitcoin",
-      "Digital Asset",
-      "Coinbase Custody"
-    ],
-    "is_crypto": true,
-    "synopsis": "Synopsis 1\nFiler: Grayscale Investments (via Grayscale Spot HYPE LLC, consolidated subsidiary of Digital Currency Group)\nETF Name: Grayscale HYPE ETF (proposed ticker: GHYP)\nStrategy: Passive spot-exposure trust designed to hold Hyperliquid's native HYPE token and reflect its value per share, benchmarked to the CoinDesk Hyperliquid Benchmark Extended Rate, with no leverage or derivatives\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Crypto-linked ETF disclosures can move market narrative and regulatory coverage.",
-    "synopsis_items": [
-      {
-        "filer": "Grayscale Investments (via Grayscale Spot HYPE LLC, consolidated subsidiary of Digital Currency Group)",
-        "etf_name": "Grayscale HYPE ETF (proposed ticker: GHYP)",
-        "strategy": "Passive spot-exposure trust designed to hold Hyperliquid's native HYPE token and reflect its value per share, benchmarked to the CoinDesk Hyperliquid Benchmark Extended Rate, with no leverage or derivatives",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Crypto-linked ETF disclosures can move market narrative and regulatory coverage."
     ],
     "email_sent": true,
     "error": null
