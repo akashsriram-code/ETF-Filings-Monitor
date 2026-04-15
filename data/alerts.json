@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-04-15T10:33:42.200160+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001329377",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND",
+    "accession_number": "0001445546-26-002724",
+    "filed_date": "2026-04-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1329377/000144554626002724/0001445546-26-002724-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1329377/000144554626002724/ftetf-20260414.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1329377/000144554626002724/ftetf-20260414.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund\nETF Name: FT Vest Laddered Autocallable Barrier & Resilient Income ETF (ACYS)\nStrategy: Actively managed ETF that uses swap agreements and option contracts to synthetically replicate a laddered portfolio of autocallable yield notes, rolling contracts upon call or maturity to maintain staggered exposures and reduce single-period concentration risk The income-oriented strategy depends on counterparty willingness and pricing, and may involve active, frequent trading of synthetic positions\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "First Trust Exchange-Traded Fund",
+        "etf_name": "FT Vest Laddered Autocallable Barrier & Resilient Income ETF (ACYS)",
+        "strategy": "Actively managed ETF that uses swap agreements and option contracts to synthetically replicate a laddered portfolio of autocallable yield notes, rolling contracts upon call or maturity to maintain staggered exposures and reduce single-period concentration risk The income-oriented strategy depends on counterparty willingness and pricing, and may involve active, frequent trading of synthetic positions",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-15T10:34:59.622377+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001683471",
+    "company_name": "Listed Funds Trust",
+    "accession_number": "0000894189-26-012084",
+    "filed_date": "2026-04-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926012084/0000894189-26-012084-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1683471/000089418926012084/ck0001683471-20260414.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926012084/ck0001683471-20260414.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: 21Shares\nETF Name: 21Shares 2x Long HYPE ETF\nStrategy: The fund seeks to deliver 200% of daily returns on the Hyperliquid Index using leveraged derivatives such as HYPE swaps, HYPE ETPs, and HYPE futures rather than direct token custody Exposure is rebalanced daily at market close, with leverage maintained via reverse repurchase agreements and a Cayman Islands subsidiary structure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "21Shares",
+        "etf_name": "21Shares 2x Long HYPE ETF",
+        "strategy": "The fund seeks to deliver 200% of daily returns on the Hyperliquid Index using leveraged derivatives such as HYPE swaps, HYPE ETPs, and HYPE futures rather than direct token custody Exposure is rebalanced daily at market close, with leverage maintained via reverse repurchase agreements and a Cayman Islands subsidiary structure",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-14T22:00:06.744059+00:00",
     "form_type": "485APOS",
     "cik": "0001064642",
@@ -11,7 +69,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1064642/000119312526155136/d132738d485apos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SPDR SERIES TRUST\nETF Name: Unknown\nStrategy: In certain situations or market conditions, the Fund may temporarily depart from its normal investment policies and strategies, provided that the alternative is consistent with the Fund\u2019s investment objective and is in the best interest of the Fund For example, the Fund may make larger than normal investments in derivatives to maintain exposure to its Index if it is unable to invest directly in a component security\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: SPDR Series Trust\nETF Name: State Street S&P 500 Index Fund\nStrategy: The fund seeks to passively track the S&P 500 Index by holding a representative subset or substantially all of the index's constituents, selected via quantitative analysis to match its risk and return profile large-cap equities and may also use other equities, shares of investment companies, and derivatives to maintain index exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "SPDR SERIES TRUST",
@@ -185,7 +243,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926043313/tm265163d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: Unknown\nStrategy: Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Lincoln Life Variable Annuity Account N\nETF Name: LVIP Vanguard International Equity ETF\nStrategy: The fund pursues long-term capital appreciation through a fund-of-funds structure that allocates across underlying Vanguard international equity ETFs. It is advised by Lincoln Financial Investments Corporation and offered as a subaccount option within a variable annuity contract.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
@@ -272,7 +330,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926043307/tm265161d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: Unknown\nStrategy: Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: LVIP Vanguard International Equity ETF\nStrategy: This fund of funds seeks long-term capital appreciation by investing in underlying Vanguard international equity ETFs within a variable annuity contract framework\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
@@ -533,7 +591,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1388485/000182912626003501/fundvantage_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FundVantage Trust\nETF Name: Unknown\nStrategy: Polen Euro High Yield Bond ETF (the \u201cFund\u201d) seeks to generate attractive income and long-term capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $ 56 $ 213 1 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: FundVantage Trust\nETF Name: Polen Euro High Yield Bond ETF\nStrategy: Actively managed euro-denominated high-yield bond ETF seeking to generate attractive income and long-term capital appreciation by investing flexibly across the capital structure\u2014including senior bank loans and junior high-yield bonds\u2014of European issuers. Aims to outperform the broader euro high-yield market on a rolling three-year basis through issuer-specific credit selection.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "FundVantage Trust",
@@ -649,7 +707,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1093278/000110465926043290/tm265175d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES\nETF Name: Unknown\nStrategy: Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES\nETF Name: LVIP Vanguard Domestic Equity ETF\nStrategy: The fund is a fund of funds seeking long-term capital appreciation through exposure to domestic equities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
@@ -1577,7 +1635,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126008256/cerebras_485apos-041426.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Unknown\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: T-REX 2X Inverse Cerebras Systems Daily Target ETF\nStrategy: Seeks daily investment results of -200% (-2X) of the daily percentage change in Cerebras Systems Inc common stock, using swap contracts and options for inverse leveraged exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Tidal Trust II",
@@ -2012,7 +2070,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1562577/000156257726000162/ck0001562577-20260414.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: MEMBERS Life Insurance Co\nETF Name: Unknown\nStrategy: There is an implicit ongoing fee on the Risk Control Accounts to the extent that the Cap Rate, Participation Rate, or Dual Step Rate limit your participation in Index gains, which is not reflected in the tables below Additional information about certain investment products, including index-linked annuities, has been prepared by the Securities and Exchange Commission\u2019s staff and is available at investor.gov/\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: MEMBERS Life Insurance Co\nETF Name: TruStage Ventures Discovery Fund\nStrategy: This is an index-linked annuity contract (Form N-4) offering participation in index performance\u2014including the Barclays Risk Balanced Index and various price-return indices\u2014through Risk Control Accounts with Cap Rate, Participation Rate, Dual Step Rate, Buffer, Floor, and Boost crediting strategies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "MEMBERS Life Insurance Co",
@@ -2041,7 +2099,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/836687/000083668726000113/f485barchitect.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SEPARATE ACCOUNT B OF VENERABLE INSURANCE & ANNUITY Co\nETF Name: Unknown\nStrategy: THE FUNDS You will find more detailed information about each Fund currently available under your Contract in \u201cAPPENDIX A\u201d including each Fund\u2019s name and share class, investment objective, investment adviser and any subadvisers, current expenses, and performance When determining which underlying Funds to make available, we may consider various factors, including, but not limited to, asset class coverage, the alignment\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Separate Account B of Venerable Insurance & Annuity Company\nETF Name: Company electronically. To elect and consent to the electronic receipt of Fund\nStrategy: The filing describes a variable annuity contract offering subaccounts that each invest exclusively in one underlying mutual fund, spanning multiple asset classes Certain underlying funds employ managed volatility strategies designed to reduce overall portfolio volatility and downside risk while supporting the insurer's guarantee-hedging program\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "SEPARATE ACCOUNT B OF VENERABLE INSURANCE & ANNUITY Co",
@@ -2070,7 +2128,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1479026/000119312526154126/d58512d485apos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Goldman Sachs ETF Trust\nETF Name: Unknown\nStrategy: If the Fund is unable to achieve such exposure it may not be able to meet its investment objectives and the Fund\u2019s returns may be different or lower than expected In the event that there are persistent disconnects between bitcoin and Bitcoin ETP Options, the Fund may not be able to obtain the desired exposure and may not be able to achieve its investment objectives\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Goldman Sachs ETF Trust\nETF Name: Goldman Sachs Bitcoin Premium Income ETF\nStrategy: The fund seeks current income with prospects for capital appreciation by investing at least 80% of net assets in bitcoin exposure through Spot Bitcoin ETPs and a Cayman Islands subsidiary, while selling call options on Bitcoin ETPs and Bitcoin ETP Indices to generate premium income\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Goldman Sachs ETF Trust",
@@ -2099,7 +2157,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1562577/000156257726000153/ck0001562577-20260414.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: MEMBERS Life Insurance Co\nETF Name: Unknown\nStrategy: Additional information about certain investment products, including index-linked annuities, has been prepared by the Securities and Exchange Commission\u2019s staff and is available at investor.gov/ There is a risk of loss of principal and previously credited interest of up to the Floor (a maximum loss of 10 % with a Floor of -10%) each Interest Term due to negative Index performance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: MEMBERS Life Insurance Co\nETF Name: TruStage Ventures Discovery Fund\nStrategy: This is not an ETF; it is a registered index-linked annuity (RILA) offering Risk Control Accounts tied to indices such as the S&P 500 and Barclays Risk Balanced Index, with returns shaped by caps, participation rates, floors, buffers, and boosts\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "MEMBERS Life Insurance Co",
@@ -2128,7 +2186,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1562577/000156257726000145/ck0001562577-20260414.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: MEMBERS Life Insurance Co\nETF Name: Unknown\nStrategy: Additional information about certain investment products, including index-linked annuities, has been prepared by the Securities and Exchange Commission\u2019s staff and is available at investor.gov/ There is a risk of loss of principal and previously credited interest of up to the Floor (a maximum loss of 10 % with a Floor of -10%) each Interest Term due to negative Index performance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: MEMBERS Life Insurance Co\nETF Name: TruStage Ventures Discovery Fund\nStrategy: This is not an ETF but a registered index-linked annuity (RILA) offering allocation options tied to indices such as the S&P 500 and Barclays Risk Balanced Index, with downside protection via buffers and floors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "MEMBERS Life Insurance Co",
@@ -2186,7 +2244,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1562577/000156257726000136/ck0001562577-20260414.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: MEMBERS Life Insurance Co\nETF Name: Unknown\nStrategy: Additional information about certain investment products, including index-linked annuities, has been prepared by the Securities and Exchange Commission\u2019s staff and is available at investor.gov/ 36 Risk Control Account and Index Changes\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: MEMBERS Life Insurance Co\nETF Name: TruStage Ventures Discovery Fund\nStrategy: This is not an ETF but an index-linked annuity contract offering index-linked returns through a Growth Account (with a \u221210% floor) and Risk Control Accounts (with capped upside), tied to price-return indices such as the S&P 500 and the Barclays Risk Balanced Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "MEMBERS Life Insurance Co",
@@ -2215,7 +2273,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1562577/000156257726000130/memberszoneannuityn-4202604.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: MEMBERS Life Insurance Co\nETF Name: Unknown\nStrategy: Additional information about certain investment products, including index-linked annuities, has been prepared by the Securities and Exchange Commission\u2019s staff and is available at investor.gov/ 23 Investment Option and Index Changes\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: MEMBERS Life Insurance Co\nETF Name: TruStage Ventures Discovery Fund\nStrategy: This is not an ETF filing; it is an index-linked annuity contract prospectus describing a product that allocates contract value to index-linked accounts crediting interest based on a reference index's performance, subject to a Cap and a Floor\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "MEMBERS Life Insurance Co",
@@ -2273,7 +2331,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1862281/000119312526153396/d118043d486bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ADAMS STREET PRIVATE EQUITY NAVIGATOR FUND LLC\nETF Name: Unknown\nStrategy: The Fund seeks to achieve its investment objective by investing in a broad portfolio of global private markets investments The Fund seeks to achieve its investment objective by investing in a broad portfolio of global private markets investments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Adams Street Private Equity Navigator Fund LLC\nETF Name: Adams Street Private Markets Fund\nStrategy: The fund seeks long-term capital appreciation through an evergreen, diversified portfolio of global private markets investments spanning growth equity, buyout, venture capital, senior debt, mezzanine, restructuring/distressed debt, and special situations via primary commitments, secondary purchases, and direct co-investments\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "ADAMS STREET PRIVATE EQUITY NAVIGATOR FUND LLC",
@@ -14445,64 +14503,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-13T21:42:33.433389+00:00",
-    "form_type": "485BPOS",
-    "cik": "0002069687",
-    "company_name": "FIS Trust",
-    "accession_number": "0001999371-26-005823",
-    "filed_date": "2026-03-13",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2069687/000199937126005823/0001999371-26-005823-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2069687/000199937126005823/shrd-485bpos_031326.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2069687/000199937126005823/shrd-485bpos_031326.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Faith Investor Services (FIS Trust)\nETF Name: Arimathea Catholic Bond Index ETF\nStrategy: Passively tracks the Arimathea Catholic Bond Index, a U.S The fund commits at least 90% of assets to index constituents using a representative sampling approach, with both the sub-adviser and index provider disclosed as new entrants with no prior ETF management experience\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Faith Investor Services (FIS Trust)",
-        "etf_name": "Arimathea Catholic Bond Index ETF",
-        "strategy": "Passively tracks the Arimathea Catholic Bond Index, a U.S The fund commits at least 90% of assets to index constituents using a representative sampling approach, with both the sub-adviser and index provider disclosed as new entrants with no prior ETF management experience",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-13T21:43:54.634460+00:00",
-    "form_type": "485APOS",
-    "cik": "0002081199",
-    "company_name": "Baron ETF Trust",
-    "accession_number": "0001193125-26-106440",
-    "filed_date": "2026-03-13",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081199/000119312526106440/0001193125-26-106440-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081199/000119312526106440/d114744d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081199/000119312526106440/d114744d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Baron ETF Trust\nETF Name: Baron RO Large Cap ETF\nStrategy: large-cap equity ETF that invests at least 80% of net assets in equity securities of U.S companies with market capitalizations within the range of the S&P 500 Index\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Baron ETF Trust",
-        "etf_name": "Baron RO Large Cap ETF",
-        "strategy": "large-cap equity ETF that invests at least 80% of net assets in equity securities of U.S companies with market capitalizations within the range of the S&P 500 Index",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
