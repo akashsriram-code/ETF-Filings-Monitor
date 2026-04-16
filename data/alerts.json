@@ -417,7 +417,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Company\nETF Name: Unknown\nStrategy: This is an index-linked annuity contract offering multiple investment options (\"Strategies\") that credit returns based on the performance of price-return equity indexes, subject to participation rates, caps, buffers, and floors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: The contract offers multiple index-linked investment options (\"Strategies\") that credit returns\u2014positive, negative, or zero\u2014based on the price-return performance of selected equity indexes, subject to caps, participation rates, buffers, and floors Downside exposure ranges from \u22125% to \u221285% per term depending on the elected Strategy, and the product is not FDIC-insured\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -446,7 +446,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes an indexed annuity contract\u2014not an ETF\u2014that allocates purchase payments to fixed options (Declared Rate Account, Guaranteed Interest Strategy) or index-linked investment options with Caps, Participation Rates, and Floors tied to price-return indexes such as the MSCI EAFE Index Downside protection ranges from 0% to \u221220% depending on the strategy elected, and dividends are excluded from index perf...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a registered index-linked annuity contract \u2014 not an ETF \u2014 offering multiple indexed strategies tied to price-return indexes (e.g., MSCI EAFE) with defined caps, participation rates, and downside floors, plus a guaranteed interest option Purchase payments may be allocated across fixed options, a Declared Rate Account, a Guaranteed Interest Strategy, or various index-linked investment options\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
