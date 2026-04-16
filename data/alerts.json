@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-04-16T10:48:59.095743+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001547950",
+    "company_name": "Exchange Listed Funds Trust",
+    "accession_number": "0001213900-26-044196",
+    "filed_date": "2026-04-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026044196/0001213900-26-044196-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547950/000121390026044196/ea0286417-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026044196/ea0286417-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Exchange Listed Funds Trust\nETF Name: PurePlay Nvidia Ecosystem Picks & Shovels Index ETF (NVPS)\nStrategy: equity index ETF that invests at least 80% of net assets in a \"picks and shovels\" index of Nvidia ecosystem supply-chain and infrastructure enablers, excluding Nvidia itself The fund tracks the index using a representative sampling approach, employs cash creations and redemptions, and charges a 0.75% management fee with no 12b-1 fees\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Exchange Listed Funds Trust",
+        "etf_name": "PurePlay Nvidia Ecosystem Picks & Shovels Index ETF (NVPS)",
+        "strategy": "equity index ETF that invests at least 80% of net assets in a \"picks and shovels\" index of Nvidia ecosystem supply-chain and infrastructure enablers, excluding Nvidia itself The fund tracks the index using a representative sampling approach, employs cash creations and redemptions, and charges a 0.75% management fee with no 12b-1 fees",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-15T22:15:13.720815+00:00",
     "form_type": "485APOS",
     "cik": "0001547576",
@@ -330,7 +359,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a registered index-linked annuity (RILA) contract, not an ETF, offering multiple index-linked investment options that credit returns based on price-return performance of underlying indexes subject to caps, participation rates, buffers, and floors Maximum downside exposure ranges from \u22125% to \u221285% depending on the elected strategy, with indexes excluding dividend returns\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity contract offering strategies that credit interest based on price-return performance of underlying indexes, with upside limited by caps and participation rates\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -359,7 +388,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a registered indexed annuity contract\u2014not an ETF\u2014offering index-linked investment options tied to price-return equity indexes (including the MSCI EAFE Index) with Caps, Participation Rates, and Floors providing downside protection ranging from \u22125% to \u221220% per term A Declared Rate Account and Guaranteed Interest Strategy are also available as fixed allocation options alongside the indexed strateg...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity (RILA) contract offering multiple indexed strategies tied to price-return indexes such as the MSCI EAFE Index, with credited interest subject to caps, participation rates, and downside floors, alongside a Guaranteed Interest Strategy Allocations may be directed to fixed options including a Declared Rate Account, Guaranteed Interest Strategy, or various index-linked investment...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -14466,35 +14495,6 @@
         "filer": "The RBB Fund Trust",
         "etf_name": "The Snowball ETF",
         "strategy": "issuers, with possible foreign developed-market exposure via ADRs",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-24T17:06:44.888532+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001592900",
-    "company_name": "EA Series Trust",
-    "accession_number": "0001592900-26-001211",
-    "filed_date": "2026-03-24",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001211/0001592900-26-001211-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026001211/ck0001592900-20260324.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001211/ck0001592900-20260324.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Coastal Compass 100 ETF\nStrategy: The fund may tactically shift up to 100% of the portfolio into cash or cash equivalents as a downside-protection mechanism\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "EA Series Trust",
-        "etf_name": "Coastal Compass 100 ETF",
-        "strategy": "The fund may tactically shift up to 100% of the portfolio into cash or cash equivalents as a downside-protection mechanism",
         "is_alert_worthy": "LOW"
       }
     ],
