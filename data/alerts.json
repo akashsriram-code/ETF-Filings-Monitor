@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-04-16T22:01:17.730493+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001011378",
+    "company_name": "MORGAN STANLEY VARIABLE INSURANCE FUND INC.",
+    "accession_number": "0001133228-26-005514",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1011378/000113322826005514/0001133228-26-005514-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1011378/000113322826005514/msvif-efp23955_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1011378/000113322826005514/msvif-efp23955_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Morgan Stanley Variable Insurance Fund, Inc\nETF Name: Discovery Portfolio\nStrategy: mid-cap growth equity fund investing primarily in established and emerging companies within the Russell Midcap\u00ae Growth Index capitalization range, with ESG factors integrated as an additional fundamental research lens\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Morgan Stanley Variable Insurance Fund, Inc",
+        "etf_name": "Discovery Portfolio",
+        "strategy": "mid-cap growth equity fund investing primarily in established and emerging companies within the Russell Midcap\u00ae Growth Index capitalization range, with ESG factors integrated as an additional fundamental research lens",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T22:02:32.368174+00:00",
+    "form_type": "486BPOS",
+    "cik": "0001837532",
+    "company_name": "Apollo Debt Solutions BDC",
+    "accession_number": "0001193125-26-159295",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1837532/000119312526159295/0001193125-26-159295-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1837532/000119312526159295/ck0001837532-20260416.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1837532/000119312526159295/ck0001837532-20260416.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Apollo Debt Solutions BDC\nETF Name: Apollo Debt Solutions BDC\nStrategy: It leverages Apollo's credit platform for deal sourcing, with up to 30% of the portfolio allocable to non-qualifying investments including non-U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Apollo Debt Solutions BDC",
+        "etf_name": "Apollo Debt Solutions BDC",
+        "strategy": "It leverages Apollo's credit platform for deal sourcing, with up to 30% of the portfolio allocable to non-qualifying investments including non-U.S",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-16T21:09:44.187877+00:00",
     "form_type": "485BPOS",
     "cik": "0000923495",
@@ -1983,7 +2041,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity (RILA) contract offering multiple index-linked investment options that credit interest based on price-return index performance, subject to caps, participation rates, buffers, and floors Maximum potential loss ranges from \u22125% to \u221285% per term depending on the strategy elected, with downside protection via buffers absorbing initial losses or floors capping credited losses at se...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This registered index-linked annuity contract offers multiple investment options (\"Strategies\") that credit returns based on price-return performance of underlying equity indices, subject to participation rates, caps, and downside protection via buffers (absorbing initial losses up to \u221215%) or floors (capping maximum loss between \u22125% and \u221220%)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -2012,7 +2070,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF; it is a registered indexed annuity contract that allocates purchase payments to fixed options (Declared Rate Account, Guaranteed Interest Strategy) or index-linked investment options with capped upside and floored downside tied to price-return indexes such as the MSCI EAFE Index Indexed Strategies credit interest based on index performance subject to Caps, Participation Rates, and Floors ranging f...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: PROTECTIVE LIFE INSURANCE CO\nETF Name: Unknown\nStrategy: This is not an ETF; it is a registered indexed-linked annuity contract offering multiple index-linked investment options tied to price-return equity indexes (such as the MSCI EAFE Index) with defined Caps, Participation Rates, and Floors, plus a Guaranteed Interest Strategy Allocations to Indexed Strategies do not constitute investments in the securities markets or the underlying indexes, and credited interest exclud...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -14437,64 +14495,6 @@
       }
     ],
     "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T10:34:02.102108+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000788606",
-    "company_name": "VANGUARD PENNSYLVANIA TAX-FREE FUNDS",
-    "accession_number": "0000788606-26-000025",
-    "filed_date": "2026-03-26",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/788606/000078860626000025/0000788606-26-000025-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/788606/000078860626000025/f44468d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/788606/000078860626000025/f44468d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Vanguard Pennsylvania Tax-Free Funds\nETF Name: Vanguard Pennsylvania Municipal Bond Fund\nStrategy: The fund invests primarily in investment-grade municipal bonds issued by Pennsylvania state and local governments, seeking current income exempt from both federal and Pennsylvania personal income taxes\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Vanguard Pennsylvania Tax-Free Funds",
-        "etf_name": "Vanguard Pennsylvania Municipal Bond Fund",
-        "strategy": "The fund invests primarily in investment-grade municipal bonds issued by Pennsylvania state and local governments, seeking current income exempt from both federal and Pennsylvania personal income taxes",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T10:34:51.504947+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000788599",
-    "company_name": "VANGUARD NEW YORK TAX-FREE FUNDS",
-    "accession_number": "0000788599-26-000032",
-    "filed_date": "2026-03-26",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/788599/000078859926000032/0000788599-26-000032-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/788599/000078859926000032/f44517d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/788599/000078859926000032/f44517d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Vanguard New York Tax-Free Funds\nETF Name: Vanguard New York Tax-Exempt Bond ETF\nStrategy: The fund uses a passive, sampling-based indexing approach to track the S&P New York AMT-Free Municipal USD 10 Million Par Bond Index, investing at least 80% of net assets in investment-grade New York municipal bonds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Vanguard New York Tax-Free Funds",
-        "etf_name": "Vanguard New York Tax-Exempt Bond ETF",
-        "strategy": "The fund uses a passive, sampling-based indexing approach to track the S&P New York AMT-Free Municipal USD 10 Million Par Bond Index, investing at least 80% of net assets in investment-grade New York municipal bonds",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
