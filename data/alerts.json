@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-04-16T16:30:58.864394+00:00",
+    "form_type": "485APOS",
+    "cik": "0001572661",
+    "company_name": "Principal Exchange-Traded Funds",
+    "accession_number": "0001572661-26-000024",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1572661/000157266126000024/0001572661-26-000024-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1572661/000157266126000024/etf485aequitypremiumfinista.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1572661/000157266126000024/etf485aequitypremiumfinista.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Principal Exchange-Traded Funds\nETF Name: Principal Finisterre Emerging Markets Diversified Income ETF\nStrategy: Actively managed emerging-markets income ETF investing across fixed-income securities, including high-yield and foreign-currency-denominated bonds, sub-advised under Principal's Finisterre affiliate. The fund uses derivatives, hedging, and leverage to pursue diversified income from EM debt.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Principal Exchange-Traded Funds",
+        "etf_name": "Principal Finisterre Emerging Markets Diversified Income ETF",
+        "strategy": "Actively managed emerging-markets income ETF investing across fixed-income securities, including high-yield and foreign-currency-denominated bonds, sub-advised under Principal's Finisterre affiliate. The fund uses derivatives, hedging, and leverage to pursue diversified income from EM debt.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-16T15:00:43.219943+00:00",
     "form_type": "485BPOS",
     "cik": "0001142728",
@@ -388,7 +417,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Company\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity (RILA) offering multiple index-linked investment options (\"Strategies\") that credit returns based on the price-return performance of underlying indexes, subject to caps, participation rates, buffers, and floors Investors bear potential loss of principal beyond the elected downside-protection level, with maximum possible loss ranging from approximately \u22125% to \u221285% per term dep...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Company\nETF Name: Unknown\nStrategy: This is an index-linked annuity contract offering multiple investment options (\"Strategies\") that credit returns based on the performance of price-return equity indexes, subject to participation rates, caps, buffers, and floors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -417,7 +446,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF; it is a registered index-linked annuity (RILA) contract offering multiple indexed strategies tied to price-return equity indexes (including the MSCI EAFE Index) with caps, participation rates, and floors ranging from 0% to \u221220% The contract also includes a Guaranteed Interest Strategy and a Declared Rate Account, with credited interest excluding dividends on underlying index constituents\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes an indexed annuity contract\u2014not an ETF\u2014that allocates purchase payments to fixed options (Declared Rate Account, Guaranteed Interest Strategy) or index-linked investment options with Caps, Participation Rates, and Floors tied to price-return indexes such as the MSCI EAFE Index Downside protection ranges from 0% to \u221220% depending on the strategy elected, and dividends are excluded from index perf...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -14470,35 +14499,6 @@
       }
     ],
     "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-24T21:48:06.317163+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001518042",
-    "company_name": "NORTHERN LIGHTS FUND TRUST II",
-    "accession_number": "0001580642-26-001983",
-    "filed_date": "2026-03-24",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1518042/000158064226001983/0001580642-26-001983-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1518042/000158064226001983/weitz-sdbetf_485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1518042/000158064226001983/weitz-sdbetf_485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust II\nETF Name: Weitz Short Duration Bond ETF\nStrategy: The fund does not track an index, instead employing active security selection with the ability to use derivatives for hedging, return enhancement, and cash flow management\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Northern Lights Fund Trust II",
-        "etf_name": "Weitz Short Duration Bond ETF",
-        "strategy": "The fund does not track an index, instead employing active security selection with the ability to use derivatives for hedging, return enhancement, and cash flow management",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
