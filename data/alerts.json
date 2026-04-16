@@ -1,5 +1,527 @@
 [
   {
+    "created_at": "2026-04-16T20:15:21.971461+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000811394",
+    "company_name": "PRUDENTIAL VARIABLE CONTRACT ACCOUNT 24",
+    "accession_number": "0000811394-26-000009",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/811394/000081139426000009/0000811394-26-000009-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/811394/000081139426000009/ck0000811394-20260416.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/811394/000081139426000009/ck0000811394-20260416.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PRUDENTIAL VARIABLE CONTRACT ACCOUNT 24\nETF Name: The Prudential Series Fund\nStrategy: This variable annuity contract account is structured as a unit investment trust offering participants access to underlying Series Fund Portfolios spanning government money market, total return bond, balanced, and equity index strategies sub-advised primarily by PGIM Available investment options include the PSF PGIM Government Money Market Portfolio, PSF PGIM Total Return Bond Portfolio, PSF PGIM 50/50 Balanced Portfo...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PRUDENTIAL VARIABLE CONTRACT ACCOUNT 24",
+        "etf_name": "The Prudential Series Fund",
+        "strategy": "This variable annuity contract account is structured as a unit investment trust offering participants access to underlying Series Fund Portfolios spanning government money market, total return bond, balanced, and equity index strategies sub-advised primarily by PGIM Available investment options include the PSF PGIM Government Money Market Portfolio, PSF PGIM Total Return Bond Portfolio, PSF PGIM 50/50 Balanced Portfo...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T20:16:17.627380+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000711321",
+    "company_name": "PRUDENTIAL QUALIFIED INDIVIDUAL VARIABLE CONTRACT ACCOUNT/NJ",
+    "accession_number": "0001133228-26-005500",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/711321/000113322826005500/0001133228-26-005500-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/711321/000113322826005500/qvip-efp23953_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/711321/000113322826005500/qvip-efp23953_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Prudential Qualified Individual Variable Contract Account/NJ (The Prudential Insurance Company of America)\nETF Name: Any underlying mutual fund\nStrategy: Prudential offers variable annuity contracts that allocate across multiple underlying Portfolios (Variable Options), some modeled after retail mutual funds with substantially similar objectives but differing actual holdings. A formulaic rebalancing mechanism transfers funds between Variable Options and AST Bond Portfolios or fixed accounts to meet pension-like cash-flow obligations through bonds and short-term invest...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Prudential Qualified Individual Variable Contract Account/NJ (The Prudential Insurance Company of America)",
+        "etf_name": "Any underlying mutual fund",
+        "strategy": "Prudential offers variable annuity contracts that allocate across multiple underlying Portfolios (Variable Options), some modeled after retail mutual funds with substantially similar objectives but differing actual holdings. A formulaic rebalancing mechanism transfers funds between Variable Options and AST Bond Portfolios or fixed accounts to meet pension-like cash-flow obligations through bonds and short-term invest...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T20:17:05.240171+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001026708",
+    "company_name": "WILSHIRE VARIABLE INSURANCE TRUST",
+    "accession_number": "0000894189-26-012169",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1026708/000089418926012169/0000894189-26-012169-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1026708/000089418926012169/ck0001026708-20260416.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1026708/000089418926012169/ck0001026708-20260416.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: WILSHIRE VARIABLE INSURANCE TRUST\nETF Name: Wilshire Global Allocation Fund\nStrategy: Wilshire Advisors LLC determines asset-class weightings and selects underlying fund allocations across the portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "WILSHIRE VARIABLE INSURANCE TRUST",
+        "etf_name": "Wilshire Global Allocation Fund",
+        "strategy": "Wilshire Advisors LLC determines asset-class weightings and selects underlying fund allocations across the portfolio",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T20:17:49.276842+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000701275",
+    "company_name": "PRUDENTIAL VARIABLE CONTRACT ACCOUNT 11",
+    "accession_number": "0000701275-26-000010",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/701275/000070127526000010/0000701275-26-000010-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/701275/000070127526000010/ck0000701275-20260416.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/701275/000070127526000010/ck0000701275-20260416.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Prudential Variable Contract Account 11\nETF Name: The Prudential Series Fund\nStrategy: This variable annuity contract channels participant contributions into the PSF PGIM Government Money Market Portfolio, a government money market strategy within The Prudential Series Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Prudential Variable Contract Account 11",
+        "etf_name": "The Prudential Series Fund",
+        "strategy": "This variable annuity contract channels participant contributions into the PSF PGIM Government Money Market Portfolio, a government money market strategy within The Prudential Series Fund",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T20:18:43.183914+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000711201",
+    "company_name": "PRUDENTIAL INDIVIDUAL VARIABLE CONTRACT ACCOUNT",
+    "accession_number": "0001133228-26-005498",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/711201/000113322826005498/0001133228-26-005498-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/711201/000113322826005498/dp-efp23952_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/711201/000113322826005498/dp-efp23952_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Prudential Individual Variable Contract Account\nETF Name: You should not compare the performance of a publicly traded mutual fund\nStrategy: This filing pertains to variable annuity and variable life insurance separate-account portfolios offered by The Prudential Insurance Company of America, not an ETF. The underlying \"Variable Option Portfolios\" are modeled after retail mutual funds with substantially similar objectives but differing actual holdings.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Prudential Individual Variable Contract Account",
+        "etf_name": "You should not compare the performance of a publicly traded mutual fund",
+        "strategy": "This filing pertains to variable annuity and variable life insurance separate-account portfolios offered by The Prudential Insurance Company of America, not an ETF. The underlying \"Variable Option Portfolios\" are modeled after retail mutual funds with substantially similar objectives but differing actual holdings.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T20:19:28.352875+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000701276",
+    "company_name": "PRUDENTIAL VARIABLE CONTRACT ACCOUNT 10",
+    "accession_number": "0000701276-26-000009",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/701276/000070127626000009/0000701276-26-000009-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/701276/000070127626000009/ck0000701276-20260416.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/701276/000070127626000009/ck0000701276-20260416.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PRUDENTIAL VARIABLE CONTRACT ACCOUNT 10\nETF Name: The Prudential Series Fund\nStrategy: The Prudential Series Fund offers variable-annuity sub-account portfolios spanning U.S. large-cap equity indexing (S&P 500), government money market, investment-grade bonds, balanced/flexible multi-asset blends, and global equities.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PRUDENTIAL VARIABLE CONTRACT ACCOUNT 10",
+        "etf_name": "The Prudential Series Fund",
+        "strategy": "The Prudential Series Fund offers variable-annuity sub-account portfolios spanning U.S. large-cap equity indexing (S&P 500), government money market, investment-grade bonds, balanced/flexible multi-asset blends, and global equities.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T20:20:20.597740+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001048606",
+    "company_name": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
+    "accession_number": "0001104659-26-044334",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926044334/0001104659-26-044334-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000110465926044334/tm265208d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926044334/tm265208d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: LVIP Vanguard Domestic Equity ETF / LVIP Vanguard International Equity ETF Fund\nStrategy: Both are funds of funds advised by Lincoln Financial Investments Corporation that seek long-term capital appreciation by investing through underlying Vanguard equity portfolios spanning domestic and international markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
+        "etf_name": "LVIP Vanguard Domestic Equity ETF / LVIP Vanguard International Equity ETF Fund",
+        "strategy": "Both are funds of funds advised by Lincoln Financial Investments Corporation that seek long-term capital appreciation by investing through underlying Vanguard equity portfolios spanning domestic and international markets",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T20:21:14.715097+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001048606",
+    "company_name": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
+    "accession_number": "0001104659-26-044332",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926044332/0001104659-26-044332-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000110465926044332/tm265207d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926044332/tm265207d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: LVIP Vanguard Domestic Equity ETF\nStrategy: The fund is a fund of funds that seeks long-term capital appreciation by investing in underlying domestic equity ETFs Its objective is capital appreciation, with performance benchmarked against standard domestic equity indices\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
+        "etf_name": "LVIP Vanguard Domestic Equity ETF",
+        "strategy": "The fund is a fund of funds that seeks long-term capital appreciation by investing in underlying domestic equity ETFs Its objective is capital appreciation, with performance benchmarked against standard domestic equity indices",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T20:22:12.765088+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000847552",
+    "company_name": "LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H",
+    "accession_number": "0001104659-26-044328",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/847552/000110465926044328/0001104659-26-044328-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/847552/000110465926044328/tm265206d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/847552/000110465926044328/tm265206d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Lincoln National Variable Annuity Account H\nETF Name: As a percentage of fund\nStrategy: The contract provides investors access to a menu of variable subaccounts, each linked to an underlying mutual fund spanning various asset classes and objectives, alongside a fixed account option guaranteeing principal and a minimum interest rate. Fund selection within the contract is guided by asset-class diversification, manager reputation, issuer affiliation, and the fund's compatibility with the contract's living-...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Lincoln National Variable Annuity Account H",
+        "etf_name": "As a percentage of fund",
+        "strategy": "The contract provides investors access to a menu of variable subaccounts, each linked to an underlying mutual fund spanning various asset classes and objectives, alongside a fixed account option guaranteeing principal and a minimum interest rate. Fund selection within the contract is guided by asset-class diversification, manager reputation, issuer affiliation, and the fund's compatibility with the contract's living-...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T20:23:14.175396+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001045008",
+    "company_name": "LINCOLN LIFE & ANNUITY VARIABLE ANNUITY ACCOUNT H",
+    "accession_number": "0001104659-26-044323",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1045008/000110465926044323/0001104659-26-044323-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1045008/000110465926044323/tm265205d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1045008/000110465926044323/tm265205d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Lincoln Life & Annuity Variable Annuity Account H\nETF Name: As a percentage of fund\nStrategy: This is a variable annuity contract offering subaccounts invested in underlying mutual funds\u2014including American Funds Insurance Series Target Date Funds\u2014with allocations across multiple asset classes and an optional fixed account. The contract allows policyholders to transfer among subaccounts, with a reserved right to charge a $25 fee beginning with the 13th transfer per contract year, excluding automatic dollar cos...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Lincoln Life & Annuity Variable Annuity Account H",
+        "etf_name": "As a percentage of fund",
+        "strategy": "This is a variable annuity contract offering subaccounts invested in underlying mutual funds\u2014including American Funds Insurance Series Target Date Funds\u2014with allocations across multiple asset classes and an optional fixed account. The contract allows policyholders to transfer among subaccounts, with a reserved right to charge a $25 fee beginning with the 13th transfer per contract year, excluding automatic dollar cos...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T20:24:14.523088+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001048606",
+    "company_name": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
+    "accession_number": "0001104659-26-044320",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926044320/0001104659-26-044320-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000110465926044320/tm265204d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926044320/tm265204d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: LVIP Vanguard International Equity ETF\nStrategy: The fund seeks long-term capital appreciation through a fund-of-funds structure that allocates across underlying international equity and fixed-income funds, including subaccounts such as LVIP Vanguard Bond Allocation Fund and PIMCO VIT All Asset Portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
+        "etf_name": "LVIP Vanguard International Equity ETF",
+        "strategy": "The fund seeks long-term capital appreciation through a fund-of-funds structure that allocates across underlying international equity and fixed-income funds, including subaccounts such as LVIP Vanguard Bond Allocation Fund and PIMCO VIT All Asset Portfolio",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T20:25:03.991614+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001048606",
+    "company_name": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
+    "accession_number": "0001104659-26-044317",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926044317/0001104659-26-044317-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000110465926044317/tm265203d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926044317/tm265203d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: LVIP Vanguard Domestic Equity ETF\nStrategy: The fund pursues long-term capital appreciation through a fund-of-funds structure, investing in underlying Vanguard domestic equity ETFs and advised by Lincoln Financial Investments Corporation. Risk-managed allocation subaccounts are also available, which may limit participation in market gains during periods of significant volatility.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
+        "etf_name": "LVIP Vanguard Domestic Equity ETF",
+        "strategy": "The fund pursues long-term capital appreciation through a fund-of-funds structure, investing in underlying Vanguard domestic equity ETFs and advised by Lincoln Financial Investments Corporation. Risk-managed allocation subaccounts are also available, which may limit participation in market gains during periods of significant volatility.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T20:25:52.753806+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000080941",
+    "company_name": "PRUDENTIAL VARIABLE CONTRACT ACCOUNT 2",
+    "accession_number": "0000080941-26-000013",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/80941/000008094126000013/0000080941-26-000013-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/80941/000008094126000013/ck0000080941-20260416.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/80941/000008094126000013/ck0000080941-20260416.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Prudential Variable Contract Account 2\nETF Name: Fidelity VIP Index 500 Portfolio (Initial Class Shares)\nStrategy: The separate account invests solely in the Fidelity VIP Index 500 Portfolio, a passively managed U.S large-cap equity fund tracking the S&P 500 index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Prudential Variable Contract Account 2",
+        "etf_name": "Fidelity VIP Index 500 Portfolio (Initial Class Shares)",
+        "strategy": "The separate account invests solely in the Fidelity VIP Index 500 Portfolio, a passively managed U.S large-cap equity fund tracking the S&P 500 index",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T20:26:42.744594+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001093278",
+    "company_name": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
+    "accession_number": "0001104659-26-044309",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1093278/000110465926044309/0001104659-26-044309-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1093278/000110465926044309/tm265202d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1093278/000110465926044309/tm265202d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES\nETF Name: LVIP Vanguard Domestic Equity ETF\nStrategy: The fund is a fund-of-funds seeking long-term capital appreciation by investing in underlying domestic equity ETFs. It serves as a subaccount option within a variable annuity contract, with fund selection guided by asset-class coverage, manager reputation, and performance criteria.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
+        "etf_name": "LVIP Vanguard Domestic Equity ETF",
+        "strategy": "The fund is a fund-of-funds seeking long-term capital appreciation by investing in underlying domestic equity ETFs. It serves as a subaccount option within a variable annuity contract, with fund selection guided by asset-class coverage, manager reputation, and performance criteria.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T20:27:37.280108+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001045008",
+    "company_name": "LINCOLN LIFE & ANNUITY VARIABLE ANNUITY ACCOUNT H",
+    "accession_number": "0001104659-26-044302",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1045008/000110465926044302/0001104659-26-044302-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1045008/000110465926044302/tm265201d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1045008/000110465926044302/tm265201d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE & ANNUITY VARIABLE ANNUITY ACCOUNT H\nETF Name: As a percentage of fund\nStrategy: The issuer may employ risk-management strategies around optional Living Benefit Riders to limit exposure to market volatility, which can constrain upside participation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "LINCOLN LIFE & ANNUITY VARIABLE ANNUITY ACCOUNT H",
+        "etf_name": "As a percentage of fund",
+        "strategy": "The issuer may employ risk-management strategies around optional Living Benefit Riders to limit exposure to market volatility, which can constrain upside participation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T20:28:26.819492+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001093278",
+    "company_name": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
+    "accession_number": "0001104659-26-044292",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1093278/000110465926044292/0001104659-26-044292-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1093278/000110465926044292/tm265200d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1093278/000110465926044292/tm265200d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES\nETF Name: LVIP Vanguard Domestic Equity ETF\nStrategy: A fund of funds seeking long-term capital appreciation by investing in underlying Vanguard domestic equity ETFs. The fund is offered as a subaccount option within a Lincoln variable annuity contract, advised by Lincoln Financial Investments Corporation.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
+        "etf_name": "LVIP Vanguard Domestic Equity ETF",
+        "strategy": "A fund of funds seeking long-term capital appreciation by investing in underlying Vanguard domestic equity ETFs. The fund is offered as a subaccount option within a Lincoln variable annuity contract, advised by Lincoln Financial Investments Corporation.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T20:29:10.275131+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001034925",
+    "company_name": "PRUDENTIAL DISCOVERY SELECT GROUP VARIABLE CONTRACT ACCOUNT",
+    "accession_number": "0001034925-26-000011",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1034925/000103492526000011/0001034925-26-000011-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1034925/000103492526000011/ck0001034925-20260416.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1034925/000103492526000011/ck0001034925-20260416.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Prudential Discovery Select Group Variable Contract Account\nETF Name: Underlying Fund\nStrategy: This filing describes a variable annuity contract that offers a Guaranteed Interest Account and multiple underlying investment portfolios with varying objectives, managed by Prudential and affiliated or sub-advised managers. It is a long-term insurance product where contract obligations depend on Prudential's financial strength and claims-paying ability, with all subaccount investment risk borne by the contractholder...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Prudential Discovery Select Group Variable Contract Account",
+        "etf_name": "Underlying Fund",
+        "strategy": "This filing describes a variable annuity contract that offers a Guaranteed Interest Account and multiple underlying investment portfolios with varying objectives, managed by Prudential and affiliated or sub-advised managers. It is a long-term insurance product where contract obligations depend on Prudential's financial strength and claims-paying ability, with all subaccount investment risk borne by the contractholder...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-16T20:30:02.756757+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000847552",
+    "company_name": "LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H",
+    "accession_number": "0001104659-26-044289",
+    "filed_date": "2026-04-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/847552/000110465926044289/0001104659-26-044289-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/847552/000110465926044289/tm265199d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/847552/000110465926044289/tm265199d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H\nETF Name: As a percentage of fund\nStrategy: This is a variable annuity contract offering investors a menu of mutual-fund subaccounts spanning multiple asset classes, alongside a fixed account option guaranteeing principal and a minimum interest rate. The issuer imposes investment-allocation requirements on subaccounts to manage risk related to optional living-benefit guarantees.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H",
+        "etf_name": "As a percentage of fund",
+        "strategy": "This is a variable annuity contract offering investors a menu of mutual-fund subaccounts spanning multiple asset classes, alongside a fixed account option guaranteeing principal and a minimum interest rate. The issuer imposes investment-allocation requirements on subaccounts to manage risk related to optional living-benefit guarantees.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-16T19:24:36.654580+00:00",
     "form_type": "485BPOS",
     "cik": "0001045008",
@@ -794,7 +1316,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This registered index-linked annuity contract offers multiple index-linked investment options (\"Strategies\") that credit a rate of return\u2014positive, negative, or zero\u2014based on the price-return performance of one or more indices over a defined Term, subject to caps, participation rates, and downside protection via buffers or floors Downside protection mechanisms include buffers (where the issuer absorbs initial losses,...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a registered index-linked annuity (RILA) contract, not an ETF, offering multiple index-linked investment options (\"Strategies\") that credit returns based on price-return equity index performance over defined terms\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -823,7 +1345,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROTECTIVE LIFE INSURANCE CO\nETF Name: Unknown\nStrategy: This filing describes an indexed annuity contract, not an ETF, offering multiple index-linked investment options (\"Indexed Strategies\") tied to price-return indexes such as the MSCI EAFE Index, with credited interest subject to Caps, Floors, and Participation Rates A Guaranteed Interest Strategy and Declared Rate Account are also available as conservative fixed allocation options within the contract\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes an indexed annuity contract offering fixed options (Declared Rate Account and Guaranteed Interest Strategy) and various index-linked investment options with credited interest subject to Caps, Floors, and Participation Rates tied to price-return indexes such as the MSCI EAFE Index Allocating to an Indexed Strategy does not constitute a direct investment in the underlying securities or index, and...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -13973,532 +14495,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-26T17:44:42.322680+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000931491",
-    "company_name": "CAPITAL MANAGEMENT INVESTMENT TRUST",
-    "accession_number": "0001413042-26-000246",
-    "filed_date": "2026-03-26",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/931491/000141304226000246/0001413042-26-000246-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/931491/000141304226000246/fp0098032-1_485bposixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/931491/000141304226000246/fp0098032-1_485bposixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Capital Management Investment Trust\nETF Name: Wellington Shields All-Cap Fund\nStrategy: Seeks capital appreciation by investing primarily in U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Capital Management Investment Trust",
-        "etf_name": "Wellington Shields All-Cap Fund",
-        "strategy": "Seeks capital appreciation by investing primarily in U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-26T16:40:05.444199+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001742912",
-    "company_name": "Tidal Trust I",
-    "accession_number": "0001999371-26-006956",
-    "filed_date": "2026-03-26",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126006956/0001999371-26-006956-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1742912/000199937126006956/spfunds-485bpos_032626.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126006956/spfunds-485bpos_032626.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust I\nETF Name: SP Funds S&P Global REIT Sharia ETF\nStrategy: Passively tracks the S&P Global All Equity REIT Shariah Capped Index, investing in Sharia-compliant REITs across developed and emerging markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust I",
-        "etf_name": "SP Funds S&P Global REIT Sharia ETF",
-        "strategy": "Passively tracks the S&P Global All Equity REIT Shariah Capped Index, investing in Sharia-compliant REITs across developed and emerging markets",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-26T16:41:10.452400+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001645192",
-    "company_name": "WP Trust",
-    "accession_number": "0001413042-26-000244",
-    "filed_date": "2026-03-26",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1645192/000141304226000244/0001413042-26-000244-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1645192/000141304226000244/fp0098029-1_485bposixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1645192/000141304226000244/fp0098029-1_485bposixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: WP Trust\nETF Name: Large Cap Fund\nStrategy: The Fund invests at least 80% of total assets in U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "WP Trust",
-        "etf_name": "Large Cap Fund",
-        "strategy": "The Fund invests at least 80% of total assets in U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-26T16:41:51.272639+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001103243",
-    "company_name": "PFS FUNDS",
-    "accession_number": "0001413042-26-000242",
-    "filed_date": "2026-03-26",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1103243/000141304226000242/0001413042-26-000242-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1103243/000141304226000242/fp0098028-1_485bposixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1103243/000141304226000242/fp0098028-1_485bposixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PFS Funds\nETF Name: Taylor Frigon Core Growth Fund\nStrategy: The fund seeks long-term capital appreciation by investing primarily in common stocks of companies across all market capitalizations, including small- and micro-cap names, selected through a proprietary process emphasizing management quality and growth prospects It is managed by Taylor Frigon Capital Management using its TFCM Core Growth Strategy with a concentrated, conviction-driven approach\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PFS Funds",
-        "etf_name": "Taylor Frigon Core Growth Fund",
-        "strategy": "The fund seeks long-term capital appreciation by investing primarily in common stocks of companies across all market capitalizations, including small- and micro-cap names, selected through a proprietary process emphasizing management quality and growth prospects It is managed by Taylor Frigon Capital Management using its TFCM Core Growth Strategy with a concentrated, conviction-driven approach",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-26T16:42:36.519298+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000102816",
-    "company_name": "Eaton Vance Growth Trust",
-    "accession_number": "0001133228-26-004073",
-    "filed_date": "2026-03-26",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/102816/000113322826004073/0001133228-26-004073-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/102816/000113322826004073/evgt-efp23090_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/102816/000113322826004073/evgt-efp23090_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Eaton Vance Growth Trust\nETF Name: Eaton Vance International Small-Cap Fund\nStrategy: The fund maintains broad issuer and industry diversification, benchmarked to the MSCI EAFE Index, and may use ETFs for cash management or sector exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Eaton Vance Growth Trust",
-        "etf_name": "Eaton Vance International Small-Cap Fund",
-        "strategy": "The fund maintains broad issuer and industry diversification, benchmarked to the MSCI EAFE Index, and may use ETFs for cash management or sector exposure",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-26T13:59:32.698951+00:00",
-    "form_type": "S-1",
-    "cik": "0001527613",
-    "company_name": "1 - CIMG Inc.",
-    "accession_number": "0001493152-26-012765",
-    "filed_date": "2026-03-26",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1527613/000149315226012765/0001493152-26-012765-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1527613/000149315226012765/forms-1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1527613/000149315226012765/forms-1.htm",
-    "matched_keywords": [
-      "Bitcoin"
-    ],
-    "is_crypto": true,
-    "synopsis": "Synopsis 1\nFiler: CIMG Inc\nETF Name: Subsidiaries may only distribute dividends after it has made allowances to fund\nStrategy: No fund structure, investment objective, index, or ETF strategy is described in the filing\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Crypto-linked ETF disclosures can move market narrative and regulatory coverage.",
-    "synopsis_items": [
-      {
-        "filer": "CIMG Inc",
-        "etf_name": "Subsidiaries may only distribute dividends after it has made allowances to fund",
-        "strategy": "No fund structure, investment objective, index, or ETF strategy is described in the filing",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Crypto-linked ETF disclosures can move market narrative and regulatory coverage."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-25T21:46:50.138245+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001888997",
-    "company_name": "SEI Exchange Traded Funds",
-    "accession_number": "0001104659-26-034603",
-    "filed_date": "2026-03-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1888997/000110465926034603/0001104659-26-034603-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1888997/000110465926034603/tm263619d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1888997/000110465926034603/tm263619d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SEI Exchange Traded Funds\nETF Name: SEI QiM U.S. Equity Factor Allocation Active ETF\nStrategy: The fund seeks long-term growth of capital and income by investing at least 80% of net assets in U.S Holdings are selected using equity factor strategies, including a low-volatility component, combined with portfolio optimization across common stocks, preferred stocks, structured notes, convertible bonds, and ADRs\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "SEI Exchange Traded Funds",
-        "etf_name": "SEI QiM U.S. Equity Factor Allocation Active ETF",
-        "strategy": "The fund seeks long-term growth of capital and income by investing at least 80% of net assets in U.S Holdings are selected using equity factor strategies, including a low-volatility component, combined with portfolio optimization across common stocks, preferred stocks, structured notes, convertible bonds, and ADRs",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-25T21:47:46.161235+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000722885",
-    "company_name": "Pear Tree Funds",
-    "accession_number": "0001999371-26-006901",
-    "filed_date": "2026-03-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/722885/000199937126006901/0001999371-26-006901-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/722885/000199937126006901/peartree-485bpos_033026.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/722885/000199937126006901/peartree-485bpos_033026.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Pear Tree Funds\nETF Name: Pear Tree Polaris Foreign Value Small Cap Fund\nStrategy: Targets small-cap companies ($50 million\u2013$5 billion market cap) in foreign markets, benchmarked to the MSCI ACWI ex-US Small Cap Index, using a bottom-up value approach seeking undervalued stocks with strong fundamentals The portfolio is diversified across industry and sector, with many holdings thinly covered by analysts\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Pear Tree Funds",
-        "etf_name": "Pear Tree Polaris Foreign Value Small Cap Fund",
-        "strategy": "Targets small-cap companies ($50 million\u2013$5 billion market cap) in foreign markets, benchmarked to the MSCI ACWI ex-US Small Cap Index, using a bottom-up value approach seeking undervalued stocks with strong fundamentals The portfolio is diversified across industry and sector, with many holdings thinly covered by analysts",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-25T20:55:32.067212+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001587982",
-    "company_name": "Investment Managers Series Trust II",
-    "accession_number": "0001213900-26-034120",
-    "filed_date": "2026-03-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026034120/0001213900-26-034120-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587982/000121390026034120/ea0282416-01_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026034120/ea0282416-01_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust II\nETF Name: ACR Equity International Fund\nStrategy: International equity fund focused on capital preservation from permanent impairment, targeting returns above both the fund's cost of capital and its benchmark over a full market cycle. The fund applies ACR's value-oriented security selection framework to non-U.S.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Investment Managers Series Trust II",
-        "etf_name": "ACR Equity International Fund",
-        "strategy": "International equity fund focused on capital preservation from permanent impairment, targeting returns above both the fund's cost of capital and its benchmark over a full market cycle. The fund applies ACR's value-oriented security selection framework to non-U.S.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-25T20:56:56.536808+00:00",
-    "form_type": "485APOS",
-    "cik": "0001771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-000647",
-    "filed_date": "2026-03-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000647/0001771146-26-000647-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000647/t-rex2xlongskhynixetf485af.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000647/t-rex2xlongskhynixetf485af.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: REX ETF Trust\nETF Name: T-REX 2X Long SK Hynix Daily Target ETF\nStrategy: Seeks daily investment results equal to 200% (2X) of the daily performance of SK Hynix Inc This is a single-stock leveraged product designed for short-term, actively monitored trading rather than buy-and-hold exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "REX ETF Trust",
-        "etf_name": "T-REX 2X Long SK Hynix Daily Target ETF",
-        "strategy": "Seeks daily investment results equal to 200% (2X) of the daily performance of SK Hynix Inc This is a single-stock leveraged product designed for short-term, actively monitored trading rather than buy-and-hold exposure",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-25T20:57:47.258028+00:00",
-    "form_type": "S-1",
-    "cik": "0002115027",
-    "company_name": "1 - Cryptex Digital Market Cap ETF",
-    "accession_number": "0001213900-26-034064",
-    "filed_date": "2026-03-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2115027/000121390026034064/0001213900-26-034064-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2115027/000121390026034064/ea0279816-s1_cryptex.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2115027/000121390026034064/ea0279816-s1_cryptex.htm",
-    "matched_keywords": [
-      "Coinbase Custody"
-    ],
-    "is_crypto": true,
-    "synopsis": "Synopsis 1\nFiler: Cryptex Finance, LLC\nETF Name: Cryptex Digital Market Cap ETF\nStrategy: The fund tracks the Cryptex Digital Market Cap Index by holding a market-capitalization-weighted portfolio of crypto assets, excluding stablecoins, wrapped tokens, rebasing tokens, centralized exchange tokens, and assets under active regulatory enforcement A staking program is employed for eligible portfolio crypto assets to generate additional yield, while the fund uses no leverage or derivatives\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Crypto-linked ETF disclosures can move market narrative and regulatory coverage.",
-    "synopsis_items": [
-      {
-        "filer": "Cryptex Finance, LLC",
-        "etf_name": "Cryptex Digital Market Cap ETF",
-        "strategy": "The fund tracks the Cryptex Digital Market Cap Index by holding a market-capitalization-weighted portfolio of crypto assets, excluding stablecoins, wrapped tokens, rebasing tokens, centralized exchange tokens, and assets under active regulatory enforcement A staking program is employed for eligible portfolio crypto assets to generate additional yield, while the fund uses no leverage or derivatives",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Crypto-linked ETF disclosures can move market narrative and regulatory coverage."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-25T20:58:36.241869+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000764624",
-    "company_name": "LEGG MASON PARTNERS INCOME TRUST",
-    "accession_number": "0001193125-26-124078",
-    "filed_date": "2026-03-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/764624/000119312526124078/0001193125-26-124078-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/764624/000119312526124078/d83593d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/764624/000119312526124078/d83593d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Legg Mason Partners Income Trust\nETF Name: Western Asset Intermediate Maturity California Municipals Fund\nStrategy: The fund invests at least 80% of net assets in investment-grade California municipal securities with intermediate maturities, seeking current income exempt from both federal and California state personal income taxes\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Legg Mason Partners Income Trust",
-        "etf_name": "Western Asset Intermediate Maturity California Municipals Fund",
-        "strategy": "The fund invests at least 80% of net assets in investment-grade California municipal securities with intermediate maturities, seeking current income exempt from both federal and California state personal income taxes",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-25T20:00:57.182828+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001644419",
-    "company_name": "Northern Lights Fund Trust IV",
-    "accession_number": "0001580642-26-002003",
-    "filed_date": "2026-03-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1644419/000158064226002003/0001580642-26-002003-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1644419/000158064226002003/nsi-485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1644419/000158064226002003/nsi-485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust IV\nETF Name: National Security Emerging Markets Index ETF (NSI)\nStrategy: Passively tracks the Alerian National Security Emerging Markets Index, investing at least 80% of assets in globally listed emerging-market equities while excluding companies deemed by sponsor National Security Index, LLC to pose a threat to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Northern Lights Fund Trust IV",
-        "etf_name": "National Security Emerging Markets Index ETF (NSI)",
-        "strategy": "Passively tracks the Alerian National Security Emerging Markets Index, investing at least 80% of assets in globally listed emerging-market equities while excluding companies deemed by sponsor National Security Index, LLC to pose a threat to U.S",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-25T20:01:38.761197+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001661813",
-    "company_name": "GoodHaven Funds Trust",
-    "accession_number": "0000894189-26-008391",
-    "filed_date": "2026-03-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1661813/000089418926008391/0000894189-26-008391-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1661813/000089418926008391/ck0001661813-20260325.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1661813/000089418926008391/ck0001661813-20260325.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GoodHaven Funds Trust\nETF Name: GoodHaven Fund\nStrategy: Actively managed, concentrated equity fund seeking long-term capital growth through a focused portfolio of equity securities selected via fundamental analysis\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GoodHaven Funds Trust",
-        "etf_name": "GoodHaven Fund",
-        "strategy": "Actively managed, concentrated equity fund seeking long-term capital growth through a focused portfolio of equity securities selected via fundamental analysis",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-25T20:03:14.921907+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001644419",
-    "company_name": "Northern Lights Fund Trust IV",
-    "accession_number": "0001580642-26-002001",
-    "filed_date": "2026-03-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1644419/000158064226002001/0001580642-26-002001-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1644419/000158064226002001/moerus-485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1644419/000158064226002001/moerus-485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust IV\nETF Name: Fund of Funds Investment Agreement between VanEck ETF Trust\nStrategy: The fund pursues long-term capital appreciation through a concentrated, bottom-up value portfolio of 15\u201350 domestic and foreign common stocks, including frontier and emerging market equities via ADRs\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Northern Lights Fund Trust IV",
-        "etf_name": "Unknown",
-        "strategy": "Although your actual costs may be higher or lower, based upon these assumptions your costs would be: 1 Year 3 Years 5 Years 10 Years Class N $ 154 $ 488 $ 845 $ 1,852 Institutional Class $ 128 $ 410 $ 713 $ 1,575 Portfolio Turnover: The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) 1 AND RELATED RISKS INVESTMENT OBJECTIVE: The Fund\u2019s objective is l",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-25T19:17:04.482168+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001592900",
-    "company_name": "EA Series Trust",
-    "accession_number": "0001592900-26-001413",
-    "filed_date": "2026-03-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001413/0001592900-26-001413-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026001413/ck0001592900-20260325.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001413/ck0001592900-20260325.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Cambria Global Shareholder Yield ETF\nStrategy: The fund seeks income and capital appreciation by actively investing in equity securities of publicly listed companies worldwide that deliver high shareholder yield through dividends, buybacks, and debt paydown\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "EA Series Trust",
-        "etf_name": "Cambria Global Shareholder Yield ETF",
-        "strategy": "The fund seeks income and capital appreciation by actively investing in equity securities of publicly listed companies worldwide that deliver high shareholder yield through dividends, buybacks, and debt paydown",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-25T19:17:29.242038+00:00",
-    "form_type": "485APOS",
-    "cik": "0001137360",
-    "company_name": "VanEck ETF Trust",
-    "accession_number": "0001137360-26-000319",
-    "filed_date": "2026-03-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000319/0001137360-26-000319-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1137360/000113736026000319/vechinasemiconductor485a32.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000319/vechinasemiconductor485a32.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: VanEck ETF Trust\nETF Name: None Annual Fund\nStrategy: The Fund will seek to achieve its investment objective by primarily investing directly in A-shares\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "VanEck ETF Trust",
-        "etf_name": "None Annual Fund",
-        "strategy": "The Fund will seek to achieve its investment objective by primarily investing directly in A-shares",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-25T18:14:58.975543+00:00",
-    "form_type": "485APOS",
-    "cik": "0001924868",
-    "company_name": "Tidal Trust II",
-    "accession_number": "0001999371-26-006882",
-    "filed_date": "2026-03-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126006882/0001999371-26-006882-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126006882/defiance_485apos-032526.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126006882/defiance_485apos-032526.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Defiance Silver Autocallable Income ETF\nStrategy: Actively managed ETF seeking high current income through swap agreements referencing an autocallable index linked to the Cboe Edge Silver 35% Volatility Target 6% Decrement Index\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust II",
-        "etf_name": "Defiance Silver Autocallable Income ETF",
-        "strategy": "Actively managed ETF seeking high current income through swap agreements referencing an autocallable index linked to the Cboe Edge Silver 35% Volatility Target 6% Decrement Index",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
