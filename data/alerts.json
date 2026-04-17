@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-04-17T15:35:16.966017+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000701804",
+    "company_name": "MERGER FUND",
+    "accession_number": "0000930413-26-001077",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/701804/000093041326001077/0000930413-26-001077-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/701804/000093041326001077/c116167_485bpos-ixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/701804/000093041326001077/c116167_485bpos-ixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: The Merger Fund (associated with Westchester Capital Management / Virtus Investment Partners)\nETF Name: The Merger\u00ae Fund\nStrategy: The fund pursues a merger-arbitrage and event-driven strategy, seeking attractive risk-adjusted returns independent of market cycles by investing in securities of companies involved in mergers, reorganizations, SPACs, and other corporate events\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "The Merger Fund (associated with Westchester Capital Management / Virtus Investment Partners)",
+        "etf_name": "The Merger\u00ae Fund",
+        "strategy": "The fund pursues a merger-arbitrage and event-driven strategy, seeking attractive risk-adjusted returns independent of market cycles by investing in securities of companies involved in mergers, reorganizations, SPACs, and other corporate events",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-17T15:35:58.815882+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000837274",
+    "company_name": "FRANKLIN TEMPLETON VARIABLE INSURANCE PRODUCTS TRUST",
+    "accession_number": "0001655589-26-000547",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/837274/000165558926000547/0001655589-26-000547-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/837274/000165558926000547/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/837274/000165558926000547/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Franklin Templeton Variable Insurance Products Trust\nETF Name: Franklin Gold and Precious Metals VIP Fund\nStrategy: The fund actively invests at least 80% of its assets in securities of companies engaged in gold and precious metals operations, including foreign and emerging-market issuers Shares are offered exclusively through variable annuity and variable life insurance contracts as a non-diversified, sector-concentrated precious metals equity strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Franklin Templeton Variable Insurance Products Trust",
+        "etf_name": "Franklin Gold and Precious Metals VIP Fund",
+        "strategy": "The fund actively invests at least 80% of its assets in securities of companies engaged in gold and precious metals operations, including foreign and emerging-market issuers Shares are offered exclusively through variable annuity and variable life insurance contracts as a non-diversified, sector-concentrated precious metals equity strategy",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-17T14:15:05.830874+00:00",
     "form_type": "485APOS",
     "cik": "0001587551",
@@ -2505,7 +2563,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This registered index-linked annuity offers multiple strategies that credit interest based on price-return equity index performance, with upside limited by caps and participation rates Each strategy provides downside protection via either a buffer (issuer absorbs initial losses up to a set percentage) or a floor (maximum credited loss), with potential investor losses ranging from \u22125% to \u221285% per term\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: The contract offers index-linked investment options (\"Strategies\") that provide returns\u2014positive, negative, or zero\u2014based on the price-return performance of one or more equity indices over defined terms, subject to caps, participation rates, buffers, and floors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -2534,7 +2592,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROTECTIVE LIFE INSURANCE CO\nETF Name: Unknown\nStrategy: This filing describes an index-linked annuity contract, not an ETF, offering multiple indexed strategies tied to price-return indexes with credited interest subject to caps, participation rates, and downside floors ranging from 0% to \u221220% The contract also includes a Guaranteed Interest Strategy and a Declared Rate Account, with all index-linked options subject to term-based crediting and no reflection of underlying...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered indexed-linked annuity (RILA) contract, not an ETF, offering index-linked investment options with defined terms tied to price-return indexes such as the MSCI EAFE Index Credited interest is subject to caps, participation rates, and downside floors ranging from 0% to \u221220%, alongside a Guaranteed Interest Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -14433,64 +14491,6 @@
         "filer": "Unified Series Trust",
         "etf_name": "Absolute Select Value ETF",
         "strategy": "The fund invests in a diversified portfolio of U.S.-listed common stocks selected for substantial recent sales and earnings growth combined with a relatively low price-to-earnings ratio",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T16:42:53.014490+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000225322",
-    "company_name": "FIDELITY SUMMER STREET TRUST",
-    "accession_number": "0000225322-26-000074",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/225322/000022532226000074/0000225322-26-000074-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/225322/000022532226000074/filing11247.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/225322/000022532226000074/filing11247.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fidelity Summer Street Trust\nETF Name: Fidelity Series Sustainable U.S. Market Fund\nStrategy: The fund seeks long-term growth of capital by combining a quantitative ESG-ratings-driven portfolio-construction model with fundamental bottom-up analysis of U.S It may use derivatives to maintain market exposure consistent with its 80% sustainable-investment policy and is available only as an underlying fund for other Fidelity products\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fidelity Summer Street Trust",
-        "etf_name": "Fidelity Series Sustainable U.S. Market Fund",
-        "strategy": "The fund seeks long-term growth of capital by combining a quantitative ESG-ratings-driven portfolio-construction model with fundamental bottom-up analysis of U.S It may use derivatives to maintain market exposure consistent with its 80% sustainable-investment policy and is available only as an underlying fund for other Fidelity products",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T16:43:44.426414+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000357057",
-    "company_name": "FIDELITY MASSACHUSETTS MUNICIPAL TRUST",
-    "accession_number": "0000357057-26-000025",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/357057/000035705726000025/0000357057-26-000025-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/357057/000035705726000025/filing11243.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/357057/000035705726000025/filing11243.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fidelity Massachusetts Municipal Trust\nETF Name: Fidelity Massachusetts Municipal Money Market Fund\nStrategy: Seeks high current income exempt from federal and Massachusetts personal income tax while preserving capital and liquidity at a stable $1.00 NAV Invests in short-term municipal securities complying with regulatory requirements for quality, maturity, liquidity, and diversification\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fidelity Massachusetts Municipal Trust",
-        "etf_name": "Fidelity Massachusetts Municipal Money Market Fund",
-        "strategy": "Seeks high current income exempt from federal and Massachusetts personal income tax while preserving capital and liquidity at a stable $1.00 NAV Invests in short-term municipal securities complying with regulatory requirements for quality, maturity, liquidity, and diversification",
         "is_alert_worthy": "LOW"
       }
     ],
