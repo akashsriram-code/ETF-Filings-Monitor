@@ -1,5 +1,150 @@
 [
   {
+    "created_at": "2026-04-17T20:33:09.999114+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001000249",
+    "company_name": "FIRST EAGLE VARIABLE FUNDS",
+    "accession_number": "0000930413-26-001083",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1000249/000093041326001083/0000930413-26-001083-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1000249/000093041326001083/c115140_485bpos-ixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1000249/000093041326001083/c115140_485bpos-ixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: First Eagle Variable Funds\nETF Name: First Eagle Overseas Variable Fund\nStrategy: Seeks long-term capital growth by investing primarily in non-U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "First Eagle Variable Funds",
+        "etf_name": "First Eagle Overseas Variable Fund",
+        "strategy": "Seeks long-term capital growth by investing primarily in non-U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-17T20:33:59.946284+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001553899",
+    "company_name": "Wilton Reassurance Life Co of New York",
+    "accession_number": "0001133228-26-005661",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1553899/000113322826005661/0001133228-26-005661-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1553899/000113322826005661/wm-efp23951_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1553899/000113322826005661/wm-efp23951_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Wilton Reassurance Life Co of New York\nETF Name: Separate Account A (Variable Annuity & Variable Life)\nStrategy: This is not an ETF but a variable annuity/variable life insurance separate account offering contractholders a menu of underlying mutual fund portfolios spanning U.S. equity, international equity, emerging markets, fixed income, and asset allocation strategies from managers including Fidelity, Invesco, Goldman Sachs, Morgan Stanley, and AllianceBernstein.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Wilton Reassurance Life Co of New York",
+        "etf_name": "Separate Account A (Variable Annuity & Variable Life)",
+        "strategy": "This is not an ETF but a variable annuity/variable life insurance separate account offering contractholders a menu of underlying mutual fund portfolios spanning U.S. equity, international equity, emerging markets, fixed income, and asset allocation strategies from managers including Fidelity, Invesco, Goldman Sachs, Morgan Stanley, and AllianceBernstein.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-17T20:34:45.403150+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000822977",
+    "company_name": "GOLDMAN SACHS TRUST",
+    "accession_number": "0001193125-26-161524",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/822977/000119312526161524/0001193125-26-161524-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/822977/000119312526161524/d90465d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/822977/000119312526161524/d90465d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Goldman Sachs Trust\nETF Name: Goldman Sachs Central Government Fund\nStrategy: The Fund seeks to maximize current income consistent with the preservation of capital and the maintenance of liquidity by investing exclusively in high-quality U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Goldman Sachs Trust",
+        "etf_name": "Goldman Sachs Central Government Fund",
+        "strategy": "The Fund seeks to maximize current income consistent with the preservation of capital and the maintenance of liquidity by investing exclusively in high-quality U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-17T20:35:29.309523+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000925981",
+    "company_name": "VARIABLE ANNUITY ACCOUNT I OF VOYA RETIREMENT INSURANCE & ANNUITY Co",
+    "accession_number": "0001133228-26-005654",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/925981/000113322826005654/0001133228-26-005654-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/925981/000113322826005654/rm-efp24071_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/925981/000113322826005654/rm-efp24071_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Variable Annuity Account I of Voya Retirement Insurance & Annuity Co\nETF Name: Variable Annuity Account I (not an ETF; variable annuity separate account)\nStrategy: Each Subaccount invests in shares of a corresponding underlying mutual fund spanning multiple asset classes, with the contract holder bearing all investment risk\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Variable Annuity Account I of Voya Retirement Insurance & Annuity Co",
+        "etf_name": "Variable Annuity Account I (not an ETF; variable annuity separate account)",
+        "strategy": "Each Subaccount invests in shares of a corresponding underlying mutual fund spanning multiple asset classes, with the contract holder bearing all investment risk",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-17T20:36:18.716722+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000103007",
+    "company_name": "VARIABLE ANNUITY ACCOUNT C OF VOYA RETIREMENT INSURANCE & ANNUITY Co",
+    "accession_number": "0001133228-26-005652",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/103007/000113322826005652/0001133228-26-005652-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/103007/000113322826005652/vfi-efp24068_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/103007/000113322826005652/vfi-efp24068_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Variable Annuity Account C of Voya Retirement Insurance & Annuity Co\nETF Name: The way in which payments are received that will not vary. Fund\nStrategy: This is a variable annuity prospectus offering multiple subaccounts that each invest in a corresponding underlying mutual fund spanning equities, fixed income, and money market instruments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Variable Annuity Account C of Voya Retirement Insurance & Annuity Co",
+        "etf_name": "The way in which payments are received that will not vary. Fund",
+        "strategy": "This is a variable annuity prospectus offering multiple subaccounts that each invest in a corresponding underlying mutual fund spanning equities, fixed income, and money market instruments",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-17T19:46:54.988327+00:00",
     "form_type": "485BPOS",
     "cik": "0001174610",
@@ -3085,7 +3230,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a registered index-linked annuity contract\u2014not an ETF\u2014offering multiple investment strategies that credit returns based on price-return performance of underlying indexes, subject to caps, participation rates, buffers, and floors Maximum potential loss from negative index performance ranges from \u20135% to \u201385% per term depending on the elected downside-protection type\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity (RILA), not an ETF, offering multiple index-linked investment strategies that credit interest based on index price-return performance subject to caps, participation rates, buffers, and floors Downside protection ranges from a \u22125% floor to a \u221215% buffer, with maximum possible losses between \u22125% and \u221285% per term depending on the strategy elected\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -3114,7 +3259,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a registered index-linked annuity contract, not an ETF, offering multiple Indexed Strategies tied to price-return equity indexes with credited interest subject to Participation Rates and Caps A Guaranteed Interest Strategy and downside Floors ranging from 0% to \u221220% provide principal protection on defined Terms\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: PROTECTIVE LIFE INSURANCE CO\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity (RILA) contract offering multiple indexed strategies tied to price-return indexes such as the MSCI EAFE Index, with credited interest subject to Caps, Participation Rates, and Floors ranging from 0% to \u221220% A Declared Rate Account and Guaranteed Interest Strategy are also available as conservative allocation options within the contract\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -14346,151 +14491,6 @@
         "filer": "First Trust Exchange-Traded Fund VIII",
         "etf_name": "FT Vest Laddered Emerging Markets Buffer ETF (BUFE)",
         "strategy": "The fund builds a laddered portfolio of four FT Vest Emerging Markets Buffer ETFs, each using FLEX Options on the iShares MSCI Emerging Markets ETF (EEM) to deliver capped upside with downside buffer protection across staggered target outcome periods The structure rolls exposure continuously across emerging-market equities, reducing the single-entry-point timing risk inherent in standalone buffer funds",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T20:04:44.098639+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001884762",
-    "company_name": "Connors Funds",
-    "accession_number": "0001580642-26-002057",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1884762/000158064226002057/0001580642-26-002057-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1884762/000158064226002057/connors-hedged_485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1884762/000158064226002057/connors-hedged_485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Connors Funds\nETF Name: Connors Hedged Equity Fund\nStrategy: The fund seeks capital appreciation and income with lower volatility than the broad U.S High portfolio turnover is expected, which may increase transaction costs, elevate fund expenses, and trigger realization of short-term capital gains for shareholders\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Connors Funds",
-        "etf_name": "Connors Hedged Equity Fund",
-        "strategy": "The fund seeks capital appreciation and income with lower volatility than the broad U.S High portfolio turnover is expected, which may increase transaction costs, elevate fund expenses, and trigger realization of short-term capital gains for shareholders",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T20:05:41.394436+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001592900",
-    "company_name": "EA Series Trust",
-    "accession_number": "0001592900-26-001432",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001432/0001592900-26-001432-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026001432/ck0001592900-20260327.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001432/ck0001592900-20260327.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Militia Long/Short Equity ETF\nStrategy: The fund seeks capital appreciation through an actively managed long/short equity approach, taking both long and short positions in global equities and ETFs\u2014including leveraged and inverse ETFs\u2014across all market capitalizations At least 80% of net assets are invested in equity securities or equity-exposure ETFs, with a non-diversified, high-turnover fundamental stock-selection process managed by a former professional...\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "EA Series Trust",
-        "etf_name": "Militia Long/Short Equity ETF",
-        "strategy": "The fund seeks capital appreciation through an actively managed long/short equity approach, taking both long and short positions in global equities and ETFs\u2014including leveraged and inverse ETFs\u2014across all market capitalizations At least 80% of net assets are invested in equity securities or equity-exposure ETFs, with a non-diversified, high-turnover fundamental stock-selection process managed by a former professional...",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T20:06:29.910722+00:00",
-    "form_type": "485BPOS",
-    "cik": "0002042316",
-    "company_name": "Victory Portfolios IV",
-    "accession_number": "0001193125-26-128874",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2042316/000119312526128874/0001193125-26-128874-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2042316/000119312526128874/f44569d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2042316/000119312526128874/f44569d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Victory Portfolios IV\nETF Name: Victory Pioneer International Equity Fund\nStrategy: equity securities\u2014including common stocks, depositary receipts, REITs, and preferred stocks\u2014across developed and emerging markets, with notable geographic exposure to Japan, Germany, and the U.K\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Victory Portfolios IV",
-        "etf_name": "Victory Pioneer International Equity Fund",
-        "strategy": "equity securities\u2014including common stocks, depositary receipts, REITs, and preferred stocks\u2014across developed and emerging markets, with notable geographic exposure to Japan, Germany, and the U.K",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T19:31:21.502860+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001505064",
-    "company_name": "MainGate Trust",
-    "accession_number": "0000894189-26-009601",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1505064/000089418926009601/0000894189-26-009601-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1505064/000089418926009601/ck0001505064-20260327.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1505064/000089418926009601/ck0001505064-20260327.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: MainGate Trust\nETF Name: MainGate MLP Fund\nStrategy: Structured as a C-corporation due to concentrated MLP exposure, with the adviser selecting MLPs based on relative attractiveness and target valuations while retaining discretion to rotate defensively into cash\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "MainGate Trust",
-        "etf_name": "MainGate MLP Fund",
-        "strategy": "Structured as a C-corporation due to concentrated MLP exposure, with the adviser selecting MLPs based on relative attractiveness and target valuations while retaining discretion to rotate defensively into cash",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T19:32:14.658675+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001558372",
-    "company_name": "YCG Mutual Funds",
-    "accession_number": "0000894189-26-009598",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1558372/000089418926009598/0000894189-26-009598-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1558372/000089418926009598/ck0001558372-20260327.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1558372/000089418926009598/ck0001558372-20260327.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: YCG Mutual Funds\nETF Name: YCG Enhanced Fund\nStrategy: Employs a low-turnover, conviction-driven approach with notable sector concentration in information technology, including AI and cloud computing themes, plus emerging-markets exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "YCG Mutual Funds",
-        "etf_name": "YCG Enhanced Fund",
-        "strategy": "Employs a low-turnover, conviction-driven approach with notable sector concentration in information technology, including AI and cloud computing themes, plus emerging-markets exposure",
         "is_alert_worthy": "LOW"
       }
     ],
