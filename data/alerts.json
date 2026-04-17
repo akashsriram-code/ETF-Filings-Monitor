@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-04-17T12:46:35.002264+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000792359",
+    "company_name": "VIRTUS VARIABLE INSURANCE TRUST",
+    "accession_number": "0000930413-26-001071",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/792359/000093041326001071/0000930413-26-001071-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/792359/000093041326001071/c116165_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/792359/000093041326001071/c116165_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Virtus Variable Insurance Trust\nETF Name: Virtus Duff & Phelps Real Estate Securities Series\nStrategy: The Series invests primarily in equity REITs using a quality and relative-value style driven by fundamental security analysis with ESG factor integration, benchmarked to the FTSE NAREIT Equity REITs Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Virtus Variable Insurance Trust",
+        "etf_name": "Virtus Duff & Phelps Real Estate Securities Series",
+        "strategy": "The Series invests primarily in equity REITs using a quality and relative-value style driven by fundamental security analysis with ESG factor integration, benchmarked to the FTSE NAREIT Equity REITs Index",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-17T10:47:33.829084+00:00",
     "form_type": "485BPOS",
     "cik": "0000702184",
@@ -2418,7 +2447,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: The contract offers index-linked investment strategies that credit returns\u2014positive, negative, or zero\u2014based on the price-return performance of equity indexes over defined terms, subject to participation rates, caps, buffers, and floors Investors bear residual downside risk beyond the buffer or floor, with potential maximum losses ranging from \u22125% to \u221285% per term depending on the strategy elected\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity (RILA) offering multiple index-linked investment options (\"Strategies\") that credit returns based on the performance of one or more price-return indexes, subject to caps, participation rates, buffers, and floors Maximum potential loss from negative index performance ranges from \u22125% to \u221285% per term depending on the Strategy elected\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -2447,7 +2476,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROTECTIVE LIFE INSURANCE CO\nETF Name: Unknown\nStrategy: This filing covers a registered index-linked annuity contract, not an ETF, offering indexed strategies tied to price-return indexes (including the MSCI EAFE Index) with capped upside and floored downside ranging from 0% to \u221220% The contract also provides a Declared Rate Account and a Guaranteed Interest Strategy for fixed-allocation options\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered indexed-linked annuity contract\u2014not an ETF\u2014offering allocation across fixed options (Declared Rate Account, Guaranteed Interest Strategy) and various index-linked investment options tied to price-return indexes such as the MSCI EAFE Index Downside protection is provided via Floors ranging from 0% to \u221220% depending on the strategy elected, with upside subject to Caps and Participation Rates\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -14462,35 +14491,6 @@
         "filer": "FIDELITY NEW YORK MUNICIPAL TRUST",
         "etf_name": "Fidelity\u00ae New York Municipal Income Fund",
         "strategy": "The fund seeks a high level of current income exempt from federal and New York State and City personal income taxes It invests at least 80% of assets in investment-grade New York municipal securities, managing overall interest rate risk to align with a market value-weighted index of New York investment-grade fixed-rate municipal bonds",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T16:46:09.506424+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000320351",
-    "company_name": "FIDELITY SELECT PORTFOLIOS",
-    "accession_number": "0000320351-26-000068",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/320351/000032035126000068/0000320351-26-000068-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/320351/000032035126000068/filing11233.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/320351/000032035126000068/filing11233.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fidelity Select Portfolios\nETF Name: Fidelity\u00ae Telecom and Utilities Fund\nStrategy: Seeks high total return through current income and capital appreciation by investing at least 80% of assets in telecom and utility company securities, selected via bottom-up fundamental analysis of financial condition, earnings outlook, and industry position May use derivative instruments for additional exposure consistent with its sector-concentration policy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fidelity Select Portfolios",
-        "etf_name": "Fidelity\u00ae Telecom and Utilities Fund",
-        "strategy": "Seeks high total return through current income and capital appreciation by investing at least 80% of assets in telecom and utility company securities, selected via bottom-up fundamental analysis of financial condition, earnings outlook, and industry position May use derivative instruments for additional exposure consistent with its sector-concentration policy",
         "is_alert_worthy": "LOW"
       }
     ],
