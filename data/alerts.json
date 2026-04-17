@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-04-17T16:36:57.984593+00:00",
+    "form_type": "485APOS",
+    "cik": "0001350487",
+    "company_name": "WisdomTree Trust",
+    "accession_number": "0001214659-26-004770",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1350487/000121465926004770/0001214659-26-004770-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1350487/000121465926004770/pea99141526485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1350487/000121465926004770/pea99141526485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: WisdomTree Trust\nETF Name: WisdomTree Space Economy ETF\nStrategy: Actively managed global equity ETF that invests at least 80% of net assets in companies involved in the space economy, using a proprietary quantitative investment model\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "WisdomTree Trust",
+        "etf_name": "WisdomTree Space Economy ETF",
+        "strategy": "Actively managed global equity ETF that invests at least 80% of net assets in companies involved in the space economy, using a proprietary quantitative investment model",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-17T16:37:45.377283+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001572617",
+    "company_name": "Virtus Event Opportunities Trust",
+    "accession_number": "0000930413-26-001080",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1572617/000093041326001080/0000930413-26-001080-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1572617/000093041326001080/c116177_485bpos-ixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1572617/000093041326001080/c116177_485bpos-ixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Virtus Event Opportunities Trust\nETF Name: The Merger\u00ae Fund\nStrategy: The fund pursues capital growth through merger arbitrage, investing in securities of companies involved in mergers, reorganizations, SPACs, and other corporate events to seek attractive risk-adjusted returns independent of market cycles It may also use derivatives, hedging, and invest in affiliated or unaffiliated funds while maintaining significant cash flexibility\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Virtus Event Opportunities Trust",
+        "etf_name": "The Merger\u00ae Fund",
+        "strategy": "The fund pursues capital growth through merger arbitrage, investing in securities of companies involved in mergers, reorganizations, SPACs, and other corporate events to seek attractive risk-adjusted returns independent of market cycles It may also use derivatives, hedging, and invest in affiliated or unaffiliated funds while maintaining significant cash flexibility",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-17T16:38:35.955305+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002077057",
+    "company_name": "Founder Funds Trust",
+    "accession_number": "0001171520-26-000056",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2077057/000117152026000056/0001171520-26-000056-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2077057/000117152026000056/eps12535_fffe.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2077057/000117152026000056/eps12535_fffe.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Founder Funds Trust\nETF Name: Founders 100 ETF\nStrategy: equity ETF that invests at least 90% of assets in \"Founder-Led Companies\" selected through a proprietary \"Founder Factor\" screening process across five or more GICS sectors The portfolio holds exactly 100 stocks and is rebalanced quarterly to align with earnings-season information flow\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Founder Funds Trust",
+        "etf_name": "Founders 100 ETF",
+        "strategy": "equity ETF that invests at least 90% of assets in \"Founder-Led Companies\" selected through a proprietary \"Founder Factor\" screening process across five or more GICS sectors The portfolio holds exactly 100 stocks and is rebalanced quarterly to align with earnings-season information flow",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-17T15:35:16.966017+00:00",
     "form_type": "485BPOS",
     "cik": "0000701804",
@@ -2563,7 +2650,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: The contract offers index-linked investment options (\"Strategies\") that provide returns\u2014positive, negative, or zero\u2014based on the price-return performance of one or more equity indices over defined terms, subject to caps, participation rates, buffers, and floors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a registered index-linked annuity (RILA) contract\u2014not an ETF\u2014offering multiple index-linked investment options (\"Strategies\") that credit returns based on the price-return performance of underlying equity indexes, subject to caps, participation rates, buffers, and floors Maximum potential loss per term ranges from approximately \u22125% to \u221285% depending on the strategy elected, and the product is no...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -2592,7 +2679,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered indexed-linked annuity (RILA) contract, not an ETF, offering index-linked investment options with defined terms tied to price-return indexes such as the MSCI EAFE Index Credited interest is subject to caps, participation rates, and downside floors ranging from 0% to \u221220%, alongside a Guaranteed Interest Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a registered indexed annuity contract \u2014 not an ETF \u2014 that allows owners to allocate purchase payments among a Declared Rate Account, a Guaranteed Interest Strategy, and various index-linked investment options tied to price-return indexes with caps, participation rates, and downside floors The product is an insurance contract offering structured index-linked returns with loss limitation, and it d...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -14404,93 +14491,6 @@
         "filer": "GENERAL MONEY MARKET FUND, INC",
         "etf_name": "BNY Mellon International Stock Index Fund",
         "strategy": "The fund seeks to replicate its benchmark index by maintaining a portfolio closely resembling the index's constituent securities It uses shareholder purchase and redemption cash flows to sustain portfolio alignment with the index, supplemented by cash or cash equivalents",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T16:40:51.322713+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001469192",
-    "company_name": "NEW YORK LIFE INVESTMENTS FUNDS TRUST",
-    "accession_number": "0001469192-26-000083",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1469192/000146919226000083/0001469192-26-000083-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1469192/000146919226000083/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1469192/000146919226000083/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: New York Life Investments Funds Trust\nETF Name: NYLI Cushing MLP Premier Fund\nStrategy: Seeks current income and capital appreciation by investing at least 80% of net assets in master limited partnerships and MLP-related investments, with more than 25% concentrated in natural resources\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "New York Life Investments Funds Trust",
-        "etf_name": "NYLI Cushing MLP Premier Fund",
-        "strategy": "Seeks current income and capital appreciation by investing at least 80% of net assets in master limited partnerships and MLP-related investments, with more than 25% concentrated in natural resources",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T16:41:32.305506+00:00",
-    "form_type": "485APOS",
-    "cik": "0001592900",
-    "company_name": "EA Series Trust",
-    "accession_number": "0001592900-26-001429",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001429/0001592900-26-001429-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026001429/tih485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001429/tih485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Discipline Fund ETF\nStrategy: The fund seeks long-term capital appreciation, is not benchmarked to any index, and may also invest in other ETFs\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "EA Series Trust",
-        "etf_name": "Discipline Fund ETF",
-        "strategy": "The fund seeks long-term capital appreciation, is not benchmarked to any index, and may also invest in other ETFs",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T16:42:13.210333+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001199046",
-    "company_name": "UNIFIED SERIES TRUST",
-    "accession_number": "0001580642-26-002047",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1199046/000158064226002047/0001580642-26-002047-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1199046/000158064226002047/auer_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1199046/000158064226002047/auer_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unified Series Trust\nETF Name: Absolute Select Value ETF\nStrategy: The fund invests in a diversified portfolio of U.S.-listed common stocks selected for substantial recent sales and earnings growth combined with a relatively low price-to-earnings ratio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Unified Series Trust",
-        "etf_name": "Absolute Select Value ETF",
-        "strategy": "The fund invests in a diversified portfolio of U.S.-listed common stocks selected for substantial recent sales and earnings growth combined with a relatively low price-to-earnings ratio",
         "is_alert_worthy": "LOW"
       }
     ],
