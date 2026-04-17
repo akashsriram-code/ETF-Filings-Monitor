@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-04-17T17:34:18.439145+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000815915",
+    "company_name": "Brighthouse Variable Annuity Account C",
+    "accession_number": "0001193125-26-161002",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/815915/000119312526161002/0001193125-26-161002-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/815915/000119312526161002/d17874d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/815915/000119312526161002/d17874d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Variable Annuity Account C\nETF Name: Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF\nStrategy: These are insurance separate-account investment portfolios within a variable annuity product, not exchange-traded funds, spanning objectives from capital appreciation to balanced income-and-growth across multiple asset classes. Contract owners must allocate at least 30% of purchase payments or account value to Platform 1 portfolios and/or the Fixed Account, with remaining allocations capped across Platforms 2 through...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Variable Annuity Account C",
+        "etf_name": "Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF",
+        "strategy": "These are insurance separate-account investment portfolios within a variable annuity product, not exchange-traded funds, spanning objectives from capital appreciation to balanced income-and-growth across multiple asset classes. Contract owners must allocate at least 30% of purchase payments or account value to Platform 1 portfolios and/or the Fixed Account, with remaining allocations capped across Platforms 2 through...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-17T17:35:13.225025+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000815915",
+    "company_name": "Brighthouse Variable Annuity Account C",
+    "accession_number": "0001193125-26-160987",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/815915/000119312526160987/0001193125-26-160987-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/815915/000119312526160987/d21164d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/815915/000119312526160987/d21164d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Variable Annuity Account C\nETF Name: Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF Portfolio\nStrategy: The filing describes a variable annuity offering a menu of underlying investment portfolios\u2014spanning equity, fixed-income, and multi-asset strategies with managed-volatility overlays\u2014requiring contract owners to allocate purchase payments across platform tiers (at least 30% to Platform 1/Fixed Account, up to 70% to Platform 2, and up to 15% to Platform 3). Sub-advised sleeves from BlackRock, American Funds, Invesco,...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Variable Annuity Account C",
+        "etf_name": "Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF Portfolio",
+        "strategy": "The filing describes a variable annuity offering a menu of underlying investment portfolios\u2014spanning equity, fixed-income, and multi-asset strategies with managed-volatility overlays\u2014requiring contract owners to allocate purchase payments across platform tiers (at least 30% to Platform 1/Fixed Account, up to 70% to Platform 2, and up to 15% to Platform 3). Sub-advised sleeves from BlackRock, American Funds, Invesco,...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-17T17:36:04.742885+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000815915",
+    "company_name": "Brighthouse Variable Annuity Account C",
+    "accession_number": "0001193125-26-160964",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/815915/000119312526160964/0001193125-26-160964-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/815915/000119312526160964/d97219d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/815915/000119312526160964/d97219d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Variable Annuity Account C\nETF Name: Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF\nStrategy: The filing describes underlying investment portfolios within a variable annuity contract, requiring contract owners to allocate at least 30% of purchase payments or account value to Platform 1 portfolios and/or the Fixed Account, with tiered caps of up to 70%, 15%, and 15% across Platforms 2, 3, and 4 respectively. The portfolios span multi-asset, global diversified, and moderate risk strategies managed through sub-a...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Variable Annuity Account C",
+        "etf_name": "Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF",
+        "strategy": "The filing describes underlying investment portfolios within a variable annuity contract, requiring contract owners to allocate at least 30% of purchase payments or account value to Platform 1 portfolios and/or the Fixed Account, with tiered caps of up to 70%, 15%, and 15% across Platforms 2, 3, and 4 respectively. The portfolios span multi-asset, global diversified, and moderate risk strategies managed through sub-a...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-17T16:36:57.984593+00:00",
     "form_type": "485APOS",
     "cik": "0001350487",
@@ -2650,7 +2737,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a registered index-linked annuity (RILA) contract\u2014not an ETF\u2014offering multiple index-linked investment options (\"Strategies\") that credit returns based on the price-return performance of underlying equity indexes, subject to caps, participation rates, buffers, and floors Maximum potential loss per term ranges from approximately \u22125% to \u221285% depending on the strategy elected, and the product is no...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: The contract offers multiple index-linked investment options (\"Strategies\") that credit interest based on the price-return performance of underlying indexes, subject to participation rates, caps, buffers (absorbing initial losses), and floors (capping maximum losses) Downside exposure after protections ranges from \u22125% to \u221285% per term depending on the strategy elected, while upside is limited by applicable caps or pa...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -2679,7 +2766,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a registered indexed annuity contract \u2014 not an ETF \u2014 that allows owners to allocate purchase payments among a Declared Rate Account, a Guaranteed Interest Strategy, and various index-linked investment options tied to price-return indexes with caps, participation rates, and downside floors The product is an insurance contract offering structured index-linked returns with loss limitation, and it d...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: PROTECTIVE LIFE INSURANCE CO\nETF Name: Unknown\nStrategy: This filing describes an indexed annuity contract\u2014not an ETF\u2014offering index-linked investment options tied to price-return equity indexes (including the MSCI EAFE Index) with Caps, Participation Rates, and downside Floors, alongside a Guaranteed Interest Strategy Allocations may be directed to fixed options such as the Declared Rate Account or various Indexed Strategies, with credited interest determined by index per...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -14404,93 +14491,6 @@
         "filer": "BNY Mellon Investment Funds VI",
         "etf_name": "BNY Mellon International Stock Index Fund",
         "strategy": "The fund passively tracks an international equity index by maintaining portfolio holdings that closely mirror the index's securities composition It uses cash flows from shareholder purchases and redemptions to sustain index alignment rather than relying on frequent active rebalancing",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T17:38:33.998883+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001545440",
-    "company_name": "Ultimus Managers Trust",
-    "accession_number": "0001580642-26-002048",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1545440/000158064226002048/0001580642-26-002048-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1545440/000158064226002048/umt-funds_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1545440/000158064226002048/umt-funds_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Ultimus Managers Trust\nETF Name: Q3 All-Season Systematic Opportunities Fund\nStrategy: The fund seeks capital appreciation using a systematic, tactical approach designed to perform across varying market environments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Ultimus Managers Trust",
-        "etf_name": "Q3 All-Season Systematic Opportunities Fund",
-        "strategy": "The fund seeks capital appreciation using a systematic, tactical approach designed to perform across varying market environments",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T16:39:02.123743+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000797920",
-    "company_name": "BNY MELLON NEW YORK AMT-FREE MUNICIPAL BOND FUND",
-    "accession_number": "0000030146-26-000141",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/797920/000003014626000141/0000030146-26-000141-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/797920/000003014626000141/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/797920/000003014626000141/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BNY Investment Adviser, Inc. (BNYIA)\nETF Name: BNY Mellon New York Tax-Exempt Municipal Bond Fund\nStrategy: The fund seeks to maximize current income exempt from federal, New York state, and New York City personal income taxes by investing at least 80% of net assets in New York municipal bonds, with at least 70% in investment-grade issues\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BNY Investment Adviser, Inc. (BNYIA)",
-        "etf_name": "BNY Mellon New York Tax-Exempt Municipal Bond Fund",
-        "strategy": "The fund seeks to maximize current income exempt from federal, New York state, and New York City personal income taxes by investing at least 80% of net assets in New York municipal bonds, with at least 70% in investment-grade issues",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T16:39:53.828449+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000353560",
-    "company_name": "GENERAL MONEY MARKET FUND, INC.",
-    "accession_number": "0000030146-26-000140",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/353560/000003014626000140/0000030146-26-000140-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/353560/000003014626000140/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/353560/000003014626000140/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GENERAL MONEY MARKET FUND, INC\nETF Name: BNY Mellon International Stock Index Fund\nStrategy: The fund seeks to replicate its benchmark index by maintaining a portfolio closely resembling the index's constituent securities It uses shareholder purchase and redemption cash flows to sustain portfolio alignment with the index, supplemented by cash or cash equivalents\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GENERAL MONEY MARKET FUND, INC",
-        "etf_name": "BNY Mellon International Stock Index Fund",
-        "strategy": "The fund seeks to replicate its benchmark index by maintaining a portfolio closely resembling the index's constituent securities It uses shareholder purchase and redemption cash flows to sustain portfolio alignment with the index, supplemented by cash or cash equivalents",
         "is_alert_worthy": "LOW"
       }
     ],
