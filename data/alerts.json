@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-04-17T14:15:05.830874+00:00",
+    "form_type": "485APOS",
+    "cik": "0001587551",
+    "company_name": "Capitol Series Trust",
+    "accession_number": "0001580642-26-002546",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587551/000158064226002546/0001580642-26-002546-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587551/000158064226002546/mrpsynthequity485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587551/000158064226002546/mrpsynthequity485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Capitol Series Trust\nETF Name: Although an underlying stable NAV money market fund\nStrategy: Actively managed ETF that seeks synthetic long exposure to the Nasdaq-100 Index through an Options Strategy allocating 15\u201318% of assets to approximately one-year call options on the Index or Underlying ETFs, combined with a U.S The strategy targets a built-in downside floor, capping maximum losses at roughly 18% per rolling twelve-month measurement period\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Capitol Series Trust",
+        "etf_name": "Although an underlying stable NAV money market fund",
+        "strategy": "Actively managed ETF that seeks synthetic long exposure to the Nasdaq-100 Index through an Options Strategy allocating 15\u201318% of assets to approximately one-year call options on the Index or Underlying ETFs, combined with a U.S The strategy targets a built-in downside floor, capping maximum losses at roughly 18% per rolling twelve-month measurement period",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-17T14:15:50.872799+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001208133",
+    "company_name": "MERGER FUND VL",
+    "accession_number": "0000930413-26-001073",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1208133/000093041326001073/0000930413-26-001073-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1208133/000093041326001073/c116166_485bpos-ixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1208133/000093041326001073/c116166_485bpos-ixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Merger Fund VL\nETF Name: The Merger Fund\u00ae VL\nStrategy: The fund pursues capital growth through merger arbitrage, investing at least 80% of total assets in equity securities of companies involved in publicly announced mergers, takeovers, tender offers, leveraged buyouts, spin-offs, liquidations, and other corporate reorganizations. It may also hold corporate debt, other investment companies and ETFs, and significant cash positions, and is offered exclusively as an underly...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Merger Fund VL",
+        "etf_name": "The Merger Fund\u00ae VL",
+        "strategy": "The fund pursues capital growth through merger arbitrage, investing at least 80% of total assets in equity securities of companies involved in publicly announced mergers, takeovers, tender offers, leveraged buyouts, spin-offs, liquidations, and other corporate reorganizations. It may also hold corporate debt, other investment companies and ETFs, and significant cash positions, and is offered exclusively as an underly...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-17T12:46:35.002264+00:00",
     "form_type": "485BPOS",
     "cik": "0000792359",
@@ -2447,7 +2505,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity (RILA) offering multiple index-linked investment options (\"Strategies\") that credit returns based on the performance of one or more price-return indexes, subject to caps, participation rates, buffers, and floors Maximum potential loss from negative index performance ranges from \u22125% to \u221285% per term depending on the Strategy elected\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This registered index-linked annuity offers multiple strategies that credit interest based on price-return equity index performance, with upside limited by caps and participation rates Each strategy provides downside protection via either a buffer (issuer absorbs initial losses up to a set percentage) or a floor (maximum credited loss), with potential investor losses ranging from \u22125% to \u221285% per term\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -2476,7 +2534,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered indexed-linked annuity contract\u2014not an ETF\u2014offering allocation across fixed options (Declared Rate Account, Guaranteed Interest Strategy) and various index-linked investment options tied to price-return indexes such as the MSCI EAFE Index Downside protection is provided via Floors ranging from 0% to \u221220% depending on the strategy elected, with upside subject to Caps and Participation Rates\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: PROTECTIVE LIFE INSURANCE CO\nETF Name: Unknown\nStrategy: This filing describes an index-linked annuity contract, not an ETF, offering multiple indexed strategies tied to price-return indexes with credited interest subject to caps, participation rates, and downside floors ranging from 0% to \u221220% The contract also includes a Guaranteed Interest Strategy and a Declared Rate Account, with all index-linked options subject to term-based crediting and no reflection of underlying...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -14433,64 +14491,6 @@
         "filer": "Fidelity Massachusetts Municipal Trust",
         "etf_name": "Fidelity Massachusetts Municipal Money Market Fund",
         "strategy": "Seeks high current income exempt from federal and Massachusetts personal income tax while preserving capital and liquidity at a stable $1.00 NAV Invests in short-term municipal securities complying with regulatory requirements for quality, maturity, liquidity, and diversification",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T16:44:50.824908+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001898391",
-    "company_name": "Fidelity Greenwood Street Trust",
-    "accession_number": "0001898391-26-000042",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1898391/000189839126000042/0001898391-26-000042-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1898391/000189839126000042/filing11245.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1898391/000189839126000042/filing11245.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fidelity Greenwood Street Trust\nETF Name: Fidelity\u00ae Hedged Equity Fund\nStrategy: Seeks capital appreciation by constructing a U.S large-cap equity portfolio with risk-return characteristics similar to the S&P 500\u00ae Index, combined with a disciplined options-based overlay designed to provide downside protection in declining markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fidelity Greenwood Street Trust",
-        "etf_name": "Fidelity\u00ae Hedged Equity Fund",
-        "strategy": "Seeks capital appreciation by constructing a U.S large-cap equity portfolio with risk-return characteristics similar to the S&P 500\u00ae Index, combined with a disciplined options-based overlay designed to provide downside protection in declining markets",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T16:45:31.796304+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000718581",
-    "company_name": "FIDELITY NEW YORK MUNICIPAL TRUST",
-    "accession_number": "0000718581-26-000016",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/718581/000071858126000016/0000718581-26-000016-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/718581/000071858126000016/filing11241.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/718581/000071858126000016/filing11241.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FIDELITY NEW YORK MUNICIPAL TRUST\nETF Name: Fidelity\u00ae New York Municipal Income Fund\nStrategy: The fund seeks a high level of current income exempt from federal and New York State and City personal income taxes It invests at least 80% of assets in investment-grade New York municipal securities, managing overall interest rate risk to align with a market value-weighted index of New York investment-grade fixed-rate municipal bonds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FIDELITY NEW YORK MUNICIPAL TRUST",
-        "etf_name": "Fidelity\u00ae New York Municipal Income Fund",
-        "strategy": "The fund seeks a high level of current income exempt from federal and New York State and City personal income taxes It invests at least 80% of assets in investment-grade New York municipal securities, managing overall interest rate risk to align with a market value-weighted index of New York investment-grade fixed-rate municipal bonds",
         "is_alert_worthy": "LOW"
       }
     ],
