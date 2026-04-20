@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-04-20T14:14:15.670375+00:00",
+    "form_type": "485APOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-018010",
+    "filed_date": "2026-04-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226018010/0001493152-26-018010-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226018010/form485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226018010/form485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares 2x Short CBRS Daily ETF\nStrategy: Single-stock inverse ETF targeting the daily inverse (-100%) of Cerebras Systems Inc. common stock performance.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "GraniteShares 2x Short CBRS Daily ETF",
+        "strategy": "Single-stock inverse ETF targeting the daily inverse (-100%) of Cerebras Systems Inc. common stock performance.",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-20T14:15:23.688319+00:00",
+    "form_type": "485APOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-018007",
+    "filed_date": "2026-04-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226018007/0001493152-26-018007-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226018007/form485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226018007/form485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares 2x Short XNDU Daily ETF\nStrategy: Seeks daily investment results of \u2013200% (inverse 2\u00d7) the daily percentage change of Xanadu Quantum Technologies common stock (Nasdaq: XNDU)\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "GraniteShares 2x Short XNDU Daily ETF",
+        "strategy": "Seeks daily investment results of \u2013200% (inverse 2\u00d7) the daily percentage change of Xanadu Quantum Technologies common stock (Nasdaq: XNDU)",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-20T10:59:33.607450+00:00",
     "form_type": "486BPOS",
     "cik": "0001838126",
@@ -3549,7 +3607,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROTECTIVE LIFE INSURANCE CO\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity contract offering multiple investment options (\"Strategies\") that credit interest based on price-return index performance, subject to caps, participation rates, and defined downside protection via buffers or floors Downside buffers absorb initial losses (e.g., first \u221215%), while floors cap maximum credited losses (e.g., \u22125% to \u221220%), with worst-case loss up to \u221285% on a buffe...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Company\nETF Name: Unknown\nStrategy: This registered index-linked annuity contract offers multiple index-linked investment options (\"Strategies\") that credit a rate of return\u2014positive, negative, or zero\u2014based on the price-return performance of one or more underlying indexes over a set term, subject to caps, participation rates, and downside buffers or floors Downside protection ranges from a floor limiting losses to as little as \u22125% to buffer strategies...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -3578,7 +3636,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity contract offering allocation options including a Declared Rate Account, a Guaranteed Interest Strategy, and various index-linked investment options with caps, participation rates, and downside floors Credited interest is tied to price-return indexes such as the MSCI EAFE Index, with gains capped and losses limited by floors ranging from 0% to \u221220% per term\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: PROTECTIVE LIFE INSURANCE CO\nETF Name: Unknown\nStrategy: This is a registered indexed-linked annuity contract offering allocation options including a Declared Rate Account, a Guaranteed Interest Strategy, and various index-linked investment options tied to price-return indexes such as the MSCI EAFE Index Each indexed strategy applies caps, floors (ranging from 0% to \u221220%), and participation rates over defined terms to credit interest based on index performance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -14433,64 +14491,6 @@
         "filer": "Global X Funds",
         "etf_name": "Global X MLP ETF",
         "strategy": "The fund seeks to provide investment results that correspond generally to the price and yield performance of the Solactive MLP Infrastructure Index, which is composed of midstream MLPs engaged in transportation, storage, and processing of natural resources It invests at least 80% of total assets in index constituents and may use representative sampling when full replication is impractical",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T21:51:11.651084+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001580956",
-    "company_name": "Cohen & Steers Future of Energy Fund, INC",
-    "accession_number": "0001193125-26-129233",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1580956/000119312526129233/0001193125-26-129233-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1580956/000119312526129233/d96496d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1580956/000119312526129233/d96496d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Cohen & Steers Future of Energy Fund, INC\nETF Name: Steers ETF Trust\nStrategy: The investment objective of Cohen & Steers Future of Energy Fund, Inc\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Cohen & Steers Future of Energy Fund, INC",
-        "etf_name": "Steers ETF Trust",
-        "strategy": "The investment objective of Cohen & Steers Future of Energy Fund, Inc",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T21:52:14.374288+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001496608",
-    "company_name": "AB Active ETFs, Inc.",
-    "accession_number": "0000919574-26-001950",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1496608/000091957426001950/0000919574-26-001950-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1496608/000091957426001950/cik0001496608_17828.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1496608/000091957426001950/cik0001496608_17828.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AB Active ETFs, Inc\nETF Name: Davis Fundamental ETF Trust\nStrategy: The AB Buffer ETFs are actively managed defined-outcome funds that gain market exposure through underlying ETFs while integrating ESG considerations, and the fixed-income suite includes the AB High Yield ETF (benchmarked to the Corporate High Yield 2% Issuer Capped Index, converted from a mutual fund predecessor in May 2023), the AB Ultra Short Income ETF (seeking current income with capital preservation at a 0.25% e...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AB Active ETFs, Inc",
-        "etf_name": "Davis Fundamental ETF Trust",
-        "strategy": "The AB Buffer ETFs are actively managed defined-outcome funds that gain market exposure through underlying ETFs while integrating ESG considerations, and the fixed-income suite includes the AB High Yield ETF (benchmarked to the Corporate High Yield 2% Issuer Capped Index, converted from a mutual fund predecessor in May 2023), the AB Ultra Short Income ETF (seeking current income with capital preservation at a 0.25% e...",
         "is_alert_worthy": "LOW"
       }
     ],
