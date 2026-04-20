@@ -1,5 +1,266 @@
 [
   {
+    "created_at": "2026-04-20T18:49:26.556525+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000846800",
+    "company_name": "BNY MELLON STOCK INDEX FUND, INC.",
+    "accession_number": "0000030146-26-000179",
+    "filed_date": "2026-04-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/846800/000003014626000179/0000030146-26-000179-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/846800/000003014626000179/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/846800/000003014626000179/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BNY Mellon Stock Index Fund, Inc\nETF Name: BNY Mellon Stock Index Fund\nStrategy: Passively tracks the S&P 500 Index by investing substantially all assets in index constituents and S&P 500-linked futures, and may also use index-tied ETFs The fund concentrates in industries proportionally to the index and may operate as non-diversified to the extent the index itself becomes concentrated\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BNY Mellon Stock Index Fund, Inc",
+        "etf_name": "BNY Mellon Stock Index Fund",
+        "strategy": "Passively tracks the S&P 500 Index by investing substantially all assets in index constituents and S&P 500-linked futures, and may also use index-tied ETFs The fund concentrates in industries proportionally to the index and may operate as non-diversified to the extent the index itself becomes concentrated",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-20T18:50:26.507983+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000813383",
+    "company_name": "BNY MELLON VARIABLE INVESTMENT FUND",
+    "accession_number": "0000030146-26-000178",
+    "filed_date": "2026-04-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/813383/000003014626000178/0000030146-26-000178-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/813383/000003014626000178/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/813383/000003014626000178/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BNY Mellon Variable Investment Fund\nETF Name: BNY Mellon Variable Investment Fund: Government Money Market Portfolio\nStrategy: Conservative money market fund investing exclusively in U.S. government securities issued or guaranteed by the U.S.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BNY Mellon Variable Investment Fund",
+        "etf_name": "BNY Mellon Variable Investment Fund: Government Money Market Portfolio",
+        "strategy": "Conservative money market fund investing exclusively in U.S. government securities issued or guaranteed by the U.S.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-20T18:51:13.156071+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000906564",
+    "company_name": "MIDLAND NATIONAL LIFE SEPARATE ACCOUNT C",
+    "accession_number": "0000906564-26-000038",
+    "filed_date": "2026-04-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/906564/000090656426000038/0000906564-26-000038-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/906564/000090656426000038/ck0000906564-20251231.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/906564/000090656426000038/ck0000906564-20251231.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Midland National Life Separate Account C\nETF Name: Invesco QQQ ETF\nStrategy: This variable annuity contract offers index-linked \"Cycle Investments\" tied to benchmarks including the Russell 2000 Price Return Index and the Nasdaq-100 Max 30 Index, which exclude dividend reinvestment and may underperform direct holdings The Invesco QQQ ETF is referenced as an underlying investment portfolio option selected by Midland National based on asset-class coverage, hedging alignment, and manager criteria\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Midland National Life Separate Account C",
+        "etf_name": "Invesco QQQ ETF",
+        "strategy": "This variable annuity contract offers index-linked \"Cycle Investments\" tied to benchmarks including the Russell 2000 Price Return Index and the Nasdaq-100 Max 30 Index, which exclude dividend reinvestment and may underperform direct holdings The Invesco QQQ ETF is referenced as an underlying investment portfolio option selected by Midland National based on asset-class coverage, hedging alignment, and manager criteria",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-20T18:52:08.936197+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001167609",
+    "company_name": "BRIGHTHOUSE LIFE INSURANCE Co OF NY",
+    "accession_number": "0001193125-26-163552",
+    "filed_date": "2026-04-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1167609/000119312526163552/0001193125-26-163552-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1167609/000119312526163552/d46806d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1167609/000119312526163552/d46806d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Life Insurance Company of NY\nETF Name: Shield Annuity Contract (Registered Index-Linked Annuity)\nStrategy: This is a registered index-linked annuity (RILA) that credits interest based on the performance of equity price-return indices\u2014S&P 500, Russell 2000, MSCI EAFE, and Nasdaq-100\u2014over defined terms, using Shield Rates (10%, 15%, or 25%) to buffer downside losses while capping upside via Cap Rate, Step Rate, or Edge Rate crediting mechanisms The contract also offers optional Performance Lock functionality and Fixed Accou...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Life Insurance Company of NY",
+        "etf_name": "Shield Annuity Contract (Registered Index-Linked Annuity)",
+        "strategy": "This is a registered index-linked annuity (RILA) that credits interest based on the performance of equity price-return indices\u2014S&P 500, Russell 2000, MSCI EAFE, and Nasdaq-100\u2014over defined terms, using Shield Rates (10%, 15%, or 25%) to buffer downside losses while capping upside via Cap Rate, Step Rate, or Edge Rate crediting mechanisms The contract also offers optional Performance Lock functionality and Fixed Accou...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-20T18:53:01.588670+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002040519",
+    "company_name": "MIDLAND NATIONAL LIFE INSURANCE CO RILA",
+    "accession_number": "0002040519-26-000036",
+    "filed_date": "2026-04-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2040519/000204051926000036/0002040519-26-000036-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2040519/000204051926000036/ck0002040519-20251231.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2040519/000204051926000036/ck0002040519-20251231.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Midland National Life Insurance Company\nETF Name: Invesco QQQ ETF\nStrategy: This registered index-linked annuity (RILA) offers Cycle Investments benchmarked to indices including the Russell 2000 Price Return Index and the Nasdaq-100 Max 30 Index, which do not reflect dividends paid on their component securities The structure may cause index returns to underperform a direct investment in the underlying securities, as dividends are excluded from the price-return calculation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Midland National Life Insurance Company",
+        "etf_name": "Invesco QQQ ETF",
+        "strategy": "This registered index-linked annuity (RILA) offers Cycle Investments benchmarked to indices including the Russell 2000 Price Return Index and the Nasdaq-100 Max 30 Index, which do not reflect dividends paid on their component securities The structure may cause index returns to underperform a direct investment in the underlying securities, as dividends are excluded from the price-return calculation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-20T18:53:59.797559+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002041679",
+    "company_name": "Brighthouse Life Insurance Co (RILA MVA)",
+    "accession_number": "0001193125-26-163537",
+    "filed_date": "2026-04-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2041679/000119312526163537/0001193125-26-163537-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2041679/000119312526163537/d206823d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2041679/000119312526163537/d206823d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Life Insurance Company\nETF Name: Brighthouse Shield Level Pay Plus\u00ae II Annuity / Brighthouse Shield Level Pay Plus\u00ae Advisory II Annuity\nStrategy: These are registered index-linked annuities (RILAs), not ETFs, offering Shield Options that link returns to price-return indices (S&P 500, Russell 2000, MSCI EAFE, Nasdaq-100) with defined downside buffers (Shield Rates) and capped or stepped upside (Cap Rates, Step Rates, Edge Rates) over set terms Any index loss exceeding the Shield Rate reduces the investment amount dollar-for-dollar, and the issuer retains an imp...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Life Insurance Company",
+        "etf_name": "Brighthouse Shield Level Pay Plus\u00ae II Annuity / Brighthouse Shield Level Pay Plus\u00ae Advisory II Annuity",
+        "strategy": "These are registered index-linked annuities (RILAs), not ETFs, offering Shield Options that link returns to price-return indices (S&P 500, Russell 2000, MSCI EAFE, Nasdaq-100) with defined downside buffers (Shield Rates) and capped or stepped upside (Cap Rates, Step Rates, Edge Rates) over set terms Any index loss exceeding the Shield Rate reduces the investment amount dollar-for-dollar, and the issuer retains an imp...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-20T18:54:55.150972+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002041679",
+    "company_name": "Brighthouse Life Insurance Co (RILA MVA)",
+    "accession_number": "0001193125-26-163529",
+    "filed_date": "2026-04-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2041679/000119312526163529/0001193125-26-163529-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2041679/000119312526163529/d33510d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2041679/000119312526163529/d33510d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Life Insurance Co\nETF Name: Shield Annuity (Registered Index-Linked Annuity \u2014 not an ETF)\nStrategy: This is a registered index-linked annuity offering Shield Options that credit interest based on the price-return performance of equity indices (S&P 500, Russell 2000, MSCI EAFE, Nasdaq-100), with buffered downside protection at 10%, 15%, or 25% Shield Rate levels and upside limited by Cap Rates or Step Rates over defined terms\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Life Insurance Co",
+        "etf_name": "Shield Annuity (Registered Index-Linked Annuity \u2014 not an ETF)",
+        "strategy": "This is a registered index-linked annuity offering Shield Options that credit interest based on the price-return performance of equity indices (S&P 500, Russell 2000, MSCI EAFE, Nasdaq-100), with buffered downside protection at 10%, 15%, or 25% Shield Rate levels and upside limited by Cap Rates or Step Rates over defined terms",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-20T18:55:47.226410+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000906564",
+    "company_name": "MIDLAND NATIONAL LIFE SEPARATE ACCOUNT C",
+    "accession_number": "0000906564-26-000035",
+    "filed_date": "2026-04-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/906564/000090656426000035/0000906564-26-000035-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/906564/000090656426000035/ck0000906564-20251231.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/906564/000090656426000035/ck0000906564-20251231.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Midland National Life Separate Account C\nETF Name: Dimensional US Large Cap Vector ETF\nStrategy: The ETF pursues a US large-cap equity strategy that emphasizes stocks with higher relative profitability, which may cause it to perform differently from the broader market It tracks a price-return index that excludes dividends and distributions\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Midland National Life Separate Account C",
+        "etf_name": "Dimensional US Large Cap Vector ETF",
+        "strategy": "The ETF pursues a US large-cap equity strategy that emphasizes stocks with higher relative profitability, which may cause it to perform differently from the broader market It tracks a price-return index that excludes dividends and distributions",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-20T18:56:37.240026+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002041679",
+    "company_name": "Brighthouse Life Insurance Co (RILA MVA)",
+    "accession_number": "0001193125-26-163519",
+    "filed_date": "2026-04-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2041679/000119312526163519/0001193125-26-163519-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2041679/000119312526163519/d53512d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2041679/000119312526163519/d53512d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Brighthouse Life Insurance Co\nETF Name: UL III for Variable Life Insurance Brighthouse Funds Trust\nStrategy: This is a Shield Annuity (RILA) offering index-linked crediting options tied to the S&P 500, Russell 2000, MSCI EAFE, and Nasdaq-100, with capped upside via Cap, Step, or Edge Rates and defined downside buffers of 10%, 15%, or 25%\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Brighthouse Life Insurance Co",
+        "etf_name": "UL III for Variable Life Insurance Brighthouse Funds Trust",
+        "strategy": "This is a Shield Annuity (RILA) offering index-linked crediting options tied to the S&P 500, Russell 2000, MSCI EAFE, and Nasdaq-100, with capped upside via Cap, Step, or Edge Rates and defined downside buffers of 10%, 15%, or 25%",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-20T17:50:01.731697+00:00",
     "form_type": "485BPOS",
     "cik": "0001314414",
@@ -11,7 +272,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1314414/000158064226002568/biondo-focusfund_485b.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust\nETF Name: Unknown\nStrategy: Although your actual costs may be higher or lower, based upon these assumptions your costs would be: 1 Year 3 Years 5 Years 10 Years $ 153 $ 531 $ 934 $ 2,062 Portfolio Turnover : The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust\nETF Name: Fund of Funds Investment Agreement between Blackrock ETF Trust\nStrategy: The fund is an actively managed, concentrated multi-asset vehicle investing in U.S. equities of any market cap, ADRs, investment-grade fixed income, and equity ETFs\u2014with fund-of-funds agreements covering BlackRock ETF Trust, SPDR Series Trust, and SSGA Active Trust underlying holdings.\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Northern Lights Fund Trust",
@@ -4042,7 +4303,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a registered index-linked annuity (RILA) contract, not an ETF, offering multiple index-linked investment options (\"Strategies\") with returns tied to price-return index performance over set terms\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity (RILA) offering multiple index-linked investment options (\"Strategies\") that credit returns based on price-return index performance, subject to participation rates, caps, and downside protection via buffers or floors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -4071,7 +4332,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF; it is an indexed annuity contract offering index-linked investment options tied to price-return indexes such as the MSCI EAFE Index, with credited interest subject to caps, participation rates, and downside floors Allocations may be directed to a Declared Rate Account, a Guaranteed Interest Strategy, or various indexed strategies with defined terms and loss-protection features ranging from 0% to \u2212...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Company\nETF Name: Unknown\nStrategy: This is not an ETF but a registered index-linked annuity contract offering multiple indexed strategies tied to price-return indexes such as the MSCI EAFE Index, with capped upside, participation rates, and downside floors ranging from 0% to \u221220% A Declared Rate Account and Guaranteed Interest Strategy are also available as fixed allocation options alongside the indexed segments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -14230,267 +14491,6 @@
         "filer": "ALPS ETF Trust (ALPS Advisors)",
         "etf_name": "ALPS ETF Trust",
         "strategy": "Each fund is passively managed, seeking to replicate the performance of a corresponding S-Network Sector Dividend Dogs index that targets the highest-dividend-yielding stocks within each sector of its respective universe \u2014 U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-30T22:03:10.206511+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-000685",
-    "filed_date": "2026-03-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000685/0001771146-26-000685-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000685/ck0001771146-20260330.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000685/ck0001771146-20260330.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Kingsbarn Tactical Bond ETF\nStrategy: Treasury futures, generally tracking the Bloomberg Aggregate Bond Index's credit and duration profile\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Opportunities Trust",
-        "etf_name": "Kingsbarn Tactical Bond ETF",
-        "strategy": "Treasury futures, generally tracking the Bloomberg Aggregate Bond Index's credit and duration profile",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-30T22:04:17.338127+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001667919",
-    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
-    "accession_number": "0001445546-26-002391",
-    "filed_date": "2026-03-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626002391/0001445546-26-002391-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1667919/000144554626002391/ft-20251130.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626002391/ft-20251130.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund VIII\nETF Name: First Trust Active Global Quality Income ETF (AGQI)\nStrategy: Actively managed global equity ETF, sub-advised by Janus Henderson Investors US LLC, that invests in dividend-paying stocks\u2014including common stocks, depositary receipts, preferred securities, and REITs\u2014emphasizing companies with stable and growing dividends\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "First Trust Exchange-Traded Fund VIII",
-        "etf_name": "First Trust Active Global Quality Income ETF (AGQI)",
-        "strategy": "Actively managed global equity ETF, sub-advised by Janus Henderson Investors US LLC, that invests in dividend-paying stocks\u2014including common stocks, depositary receipts, preferred securities, and REITs\u2014emphasizing companies with stable and growing dividends",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-30T22:05:37.323479+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001650149",
-    "company_name": "Series Portfolios Trust",
-    "accession_number": "0000894189-26-009800",
-    "filed_date": "2026-03-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926009800/0000894189-26-009800-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1650149/000089418926009800/ck0001650149-20260330.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926009800/ck0001650149-20260330.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Series Portfolios Trust\nETF Name: Infrastructure Capital Small Cap Income ETF\nStrategy: The Adviser expects to engage in active trading with high portfolio turnover of the Fund\u2019s portfolio investments to achieve the Fund\u2019s investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Series Portfolios Trust",
-        "etf_name": "Infrastructure Capital Small Cap Income ETF",
-        "strategy": "The Adviser expects to engage in active trading with high portfolio turnover of the Fund\u2019s portfolio investments to achieve the Fund\u2019s investment objective",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-30T21:03:44.140573+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001319067",
-    "company_name": "360 Funds",
-    "accession_number": "0001999371-26-007190",
-    "filed_date": "2026-03-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1319067/000199937126007190/0001999371-26-007190-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1319067/000199937126007190/threesixty_485bpos-033026.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1319067/000199937126007190/threesixty_485bpos-033026.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Leader Funds Trust\nETF Name: M3Sixty Income and Opportunity Fund\nStrategy: The fund also employs an options overlay\u2014selling and purchasing put and call options on equity indexes, ETFs, and individual equities\u2014to reduce overall portfolio volatility\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Leader Funds Trust",
-        "etf_name": "M3Sixty Income and Opportunity Fund",
-        "strategy": "The fund also employs an options overlay\u2014selling and purchasing put and call options on equity indexes, ETFs, and individual equities\u2014to reduce overall portfolio volatility",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-30T21:04:26.633912+00:00",
-    "form_type": "485BPOS",
-    "cik": "0002034406",
-    "company_name": "Tortoise Capital Series Trust",
-    "accession_number": "0001213900-26-036353",
-    "filed_date": "2026-03-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2034406/000121390026036353/0001213900-26-036353-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2034406/000121390026036353/ea0279507-01_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2034406/000121390026036353/ea0279507-01_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tortoise Capital Series Trust\nETF Name: Global Water ETF\nStrategy: Uses an indexing approach providing exposure to developed-market water-related securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tortoise Capital Series Trust",
-        "etf_name": "Global Water ETF",
-        "strategy": "Uses an indexing approach providing exposure to developed-market water-related securities",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-30T17:12:11.259034+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001970751",
-    "company_name": "Advisor Managed Portfolios",
-    "accession_number": "0000894189-26-009762",
-    "filed_date": "2026-03-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1970751/000089418926009762/0000894189-26-009762-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1970751/000089418926009762/ck0001970751-20260330.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1970751/000089418926009762/ck0001970751-20260330.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Advisor Managed Portfolios\nETF Name: Ruk Strategic Growth ETF\nStrategy: The Ruk Strategic Growth ETF (the \u201cFund\u201d) seeks to track total return The Fund is an exchange-traded fund (\u201cETF\u201d) that employs a \u201cpassive\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Advisor Managed Portfolios",
-        "etf_name": "Ruk Strategic Growth ETF",
-        "strategy": "The Ruk Strategic Growth ETF (the \u201cFund\u201d) seeks to track total return The Fund is an exchange-traded fund (\u201cETF\u201d) that employs a \u201cpassive",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-30T16:11:37.473088+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000872825",
-    "company_name": "AMERICAN CENTURY WORLD MUTUAL FUNDS INC",
-    "accession_number": "0000872825-26-000006",
-    "filed_date": "2026-03-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/872825/000087282526000006/0000872825-26-000006-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/872825/000087282526000006/ck0000872825-20260330.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/872825/000087282526000006/ck0000872825-20260330.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AMERICAN CENTURY WORLD MUTUAL FUNDS INC\nETF Name: American Century Investments Prospectus Emerging Markets Fund\nStrategy: Investment Objective The fund seeks capital growth Investment Objective The fund seeks capital growth\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AMERICAN CENTURY WORLD MUTUAL FUNDS INC",
-        "etf_name": "American Century Investments Prospectus Emerging Markets Fund",
-        "strategy": "Investment Objective The fund seeks capital growth Investment Objective The fund seeks capital growth",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-30T16:12:40.164820+00:00",
-    "form_type": "485BPOS",
-    "cik": "0002068712",
-    "company_name": "VegaShares ETF Trust",
-    "accession_number": "0001213900-26-036131",
-    "filed_date": "2026-03-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2068712/000121390026036131/0001213900-26-036131-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2068712/000121390026036131/ea0283886-01_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2068712/000121390026036131/ea0283886-01_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: VegaShares ETF Trust\nETF Name: These fees, which are not reflected in this Annual Fund\nStrategy: The Fund seeks to generate high income while providing reduced downside risk through exposure to the NYSE \u00ae U.S The Fund's investment objective may be changed by the Board of Trustees (the \"Board\" or \"Trustees\") of VegaShares ETF Trust (the \"Trust\") without shareholder approval upon prior written notice to shareholders indefinitely\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "VegaShares ETF Trust",
-        "etf_name": "These fees, which are not reflected in this Annual Fund",
-        "strategy": "The Fund seeks to generate high income while providing reduced downside risk through exposure to the NYSE \u00ae U.S The Fund's investment objective may be changed by the Board of Trustees (the \"Board\" or \"Trustees\") of VegaShares ETF Trust (the \"Trust\") without shareholder approval upon prior written notice to shareholders indefinitely",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-30T16:13:40.518171+00:00",
-    "form_type": "485APOS",
-    "cik": "0001635073",
-    "company_name": "Nushares ETF Trust",
-    "accession_number": "0001193125-26-130712",
-    "filed_date": "2026-03-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1635073/000119312526130712/0001193125-26-130712-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1635073/000119312526130712/d115464d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1635073/000119312526130712/d115464d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nushares ETF Trust\nETF Name: Nuveen Real Estate ETF\nStrategy: U.S.-focused equity ETF that concentrates in real estate companies and REITs, with additional holdings in common stocks, preferred securities, convertible debt, and MLPs. Managed by Nuveen Fund Advisors, LLC with Nuveen Asset Management, LLC serving as sub-adviser.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nushares ETF Trust",
-        "etf_name": "Nuveen Real Estate ETF",
-        "strategy": "U.S.-focused equity ETF that concentrates in real estate companies and REITs, with additional holdings in common stocks, preferred securities, convertible debt, and MLPs. Managed by Nuveen Fund Advisors, LLC with Nuveen Asset Management, LLC serving as sub-adviser.",
         "is_alert_worthy": "LOW"
       }
     ],
