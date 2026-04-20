@@ -5492,7 +5492,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Company\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity (RILA) contract offering multiple index-linked investment options (\"Strategies\") that credit returns based on the price-return performance of underlying equity indexes, subject to Participation Rates and Caps on the upside Downside protection is provided via Buffers (absorbing initial index losses up to a set percentage) and Floors (capping the maximum credited loss per term,...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF; it is a registered index-linked annuity (RILA) contract offering multiple index-linked investment options (\"Strategies\") that provide returns based on the performance of one or more price-return indexes over defined terms\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -5521,7 +5521,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF; it is a registered index-linked annuity (RILA) contract offering fixed options (Declared Rate Account, Guaranteed Interest Strategy) and various index-linked investment options with credited interest subject to caps, participation rates, and downside floors tied to price-return indexes such as the MSCI EAFE Index Purchasers allocate payments among these Allocation Options, with floors ranging from...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Company\nETF Name: Unknown\nStrategy: The contract offers index-linked investment options tied to price-return indexes such as the MSCI EAFE, with credited interest subject to Caps, Participation Rates, and Floors, alongside a Guaranteed Interest Strategy and a Declared Rate Account Investors may allocate purchase payments among fixed options and various indexed strategies that provide downside protection through loss buffers ranging from 0% to \u221220% depe...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
