@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-04-20T10:59:33.607450+00:00",
+    "form_type": "486BPOS",
+    "cik": "0001838126",
+    "company_name": "HPS Corporate Lending Fund",
+    "accession_number": "0001193125-26-162182",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1838126/000119312526162182/0001193125-26-162182-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1838126/000119312526162182/d103750d486bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1838126/000119312526162182/d103750d486bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: HPS Corporate Lending Fund\nETF Name: HPS Corporate Lending Fund\nStrategy: The fund invests primarily in newly originated senior secured debt and other securities of private U.S companies, targeting upper middle market borrowers with select global exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "HPS Corporate Lending Fund",
+        "etf_name": "HPS Corporate Lending Fund",
+        "strategy": "The fund invests primarily in newly originated senior secured debt and other securities of private U.S companies, targeting upper middle market borrowers with select global exposure",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-20T11:00:44.047928+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001500604",
+    "company_name": "Janus Detroit Street Trust",
+    "accession_number": "0001398344-26-006681",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1500604/000139834426006681/0001398344-26-006681-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1500604/000139834426006681/fp0098169-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1500604/000139834426006681/fp0098169-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Janus Detroit Street Trust\nETF Name: Janus Henderson Equity Linked Moderate Income ETF (JELM)\nStrategy: Seeks high current income through the same equity-linked note and autocallable instrument approach, packaging structured debt with returns linked to equity performance into a daily-liquidity ETF wrapper\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Janus Detroit Street Trust",
+        "etf_name": "Janus Henderson Equity Linked Moderate Income ETF (JELM)",
+        "strategy": "Seeks high current income through the same equity-linked note and autocallable instrument approach, packaging structured debt with returns linked to equity performance into a daily-liquidity ETF wrapper",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-20T11:02:17.968273+00:00",
+    "form_type": "485APOS",
+    "cik": "0001547576",
+    "company_name": "Krane Shares Trust",
+    "accession_number": "0001829126-26-003620",
+    "filed_date": "2026-04-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547576/000182912626003620/0001829126-26-003620-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547576/000182912626003620/kraneshares_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547576/000182912626003620/kraneshares_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: KraneShares Trust\nETF Name: KraneShares High-Bandwidth Memory ETF\nStrategy: Actively managed equity ETF investing at least 80% of net assets in companies within the High-Bandwidth Memory (HBM) segment of the semiconductor supply chain, selected based on revenue composition, competitive positioning, and exposure to AI-infrastructure-driven HBM demand\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "KraneShares Trust",
+        "etf_name": "KraneShares High-Bandwidth Memory ETF",
+        "strategy": "Actively managed equity ETF investing at least 80% of net assets in companies within the High-Bandwidth Memory (HBM) segment of the semiconductor supply chain, selected based on revenue composition, competitive positioning, and exposure to AI-infrastructure-driven HBM demand",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-17T21:28:14.501649+00:00",
     "form_type": "485BPOS",
     "cik": "0000910475",
@@ -3462,7 +3549,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROTECTIVE LIFE INSURANCE CO\nETF Name: Unknown\nStrategy: This filing describes a registered index-linked annuity (RILA) contract\u2014not an ETF\u2014offering multiple index-linked investment options (\"Strategies\") that credit returns based on price-return index performance, subject to caps, participation rates, buffers, and floors over defined terms Downside protection mechanisms include buffers (issuer absorbs initial losses up to a set percentage) and floors (capping maximum cred...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Company\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity contract offering multiple investment options (\"Strategies\") that credit returns based on the performance of one or more price-return indexes, subject to caps, participation rates, and downside protection via buffers or floors Maximum potential loss ranges from \u22125% to \u221285% per term depending on the elected strategy, with buffers absorbing initial index losses and floors cappi...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -3491,7 +3578,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF; it is a registered indexed annuity contract offering index-linked investment options tied to price-return indexes with credited interest subject to Caps, Floors, and Participation Rates, alongside a Guaranteed Interest Strategy and a Declared Rate Account Purchasers may allocate payments among fixed options and various index-linked allocation options over defined Terms, with downside protection ra...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This indexed annuity contract allows allocation across a Declared Rate Account, a Guaranteed Interest Strategy, and various index-linked investment options with caps, participation rates, and downside floors tied to equity indexes such as the MSCI EAFE Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -14404,93 +14491,6 @@
         "filer": "AB Active ETFs, Inc",
         "etf_name": "Davis Fundamental ETF Trust",
         "strategy": "The AB Buffer ETFs are actively managed defined-outcome funds that gain market exposure through underlying ETFs while integrating ESG considerations, and the fixed-income suite includes the AB High Yield ETF (benchmarked to the Corporate High Yield 2% Issuer Capped Index, converted from a mutual fund predecessor in May 2023), the AB Ultra Short Income ETF (seeking current income with capital preservation at a 0.25% e...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T21:53:22.170965+00:00",
-    "form_type": "485APOS",
-    "cik": "0002069687",
-    "company_name": "FIS Trust",
-    "accession_number": "0001999371-26-007079",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2069687/000199937126007079/0001999371-26-007079-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2069687/000199937126007079/shrd_485apos-032726.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2069687/000199937126007079/shrd_485apos-032726.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FIS Trust\nETF Name: Arimathea Catholic Core Bond ETF\nStrategy: The fund seeks income generation and capital preservation by investing in bonds screened through Catholic values criteria, with a Sub-Adviser applying a faith-based overlay that may exit non-compliant holdings The actively managed approach benchmarks against a reference bond index while integrating Catholic moral theology into security selection\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FIS Trust",
-        "etf_name": "Arimathea Catholic Core Bond ETF",
-        "strategy": "The fund seeks income generation and capital preservation by investing in bonds screened through Catholic values criteria, with a Sub-Adviser applying a faith-based overlay that may exit non-compliant holdings The actively managed approach benchmarks against a reference bond index while integrating Catholic moral theology into security selection",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T21:54:01.043512+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000745338",
-    "company_name": "OCM MUTUAL FUND",
-    "accession_number": "0001999371-26-007078",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/745338/000199937126007078/0001999371-26-007078-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/745338/000199937126007078/ocm-485bpos_032726.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/745338/000199937126007078/ocm-485bpos_032726.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: OCM Mutual Fund\nETF Name: OCM Gold Fund\nStrategy: Seeks long-term capital growth by investing at least 80% of net assets in equity securities of domestic and foreign gold mining and precious metals companies of any market capitalization\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "OCM Mutual Fund",
-        "etf_name": "OCM Gold Fund",
-        "strategy": "Seeks long-term capital growth by investing at least 80% of net assets in equity securities of domestic and foreign gold mining and precious metals companies of any market capitalization",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-03-27T21:55:31.122049+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001547950",
-    "company_name": "Exchange Listed Funds Trust",
-    "accession_number": "0001213900-26-035567",
-    "filed_date": "2026-03-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026035567/0001213900-26-035567-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547950/000121390026035567/ea0282658-01_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026035567/ea0282658-01_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Exchange Listed Funds Trust\nETF Name: Bancreek International Large Cap ETF\nStrategy: May also hold other investment companies and ETFs with similar international large-cap exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Exchange Listed Funds Trust",
-        "etf_name": "Bancreek International Large Cap ETF",
-        "strategy": "May also hold other investment companies and ETFs with similar international large-cap exposure",
         "is_alert_worthy": "LOW"
       }
     ],
