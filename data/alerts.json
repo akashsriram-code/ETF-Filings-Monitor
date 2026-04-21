@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-04-21T15:45:06.629474+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000927730",
+    "company_name": "JACKSON NATIONAL SEPARATE ACCOUNT - I",
+    "accession_number": "0000927730-26-000181",
+    "filed_date": "2026-04-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/927730/000092773026000181/0000927730-26-000181-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/927730/000092773026000181/ck0000927730-20260421.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/927730/000092773026000181/ck0000927730-20260421.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Jackson National Separate Account - I\nETF Name: JNL Moderate ETF Allocation Fund\nStrategy: The fund operates within a variable annuity separate account using a fund-of-funds structure, allocating across underlying index and actively managed funds spanning U.S JNAM selects and oversees the underlying funds, ETFs, and master funds under Rule 12d1-4 agreements with providers including First Trust, PIMCO, and Vanguard to build a moderate-risk multi-asset portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Jackson National Separate Account - I",
+        "etf_name": "JNL Moderate ETF Allocation Fund",
+        "strategy": "The fund operates within a variable annuity separate account using a fund-of-funds structure, allocating across underlying index and actively managed funds spanning U.S JNAM selects and oversees the underlying funds, ETFs, and master funds under Rule 12d1-4 agreements with providers including First Trust, PIMCO, and Vanguard to build a moderate-risk multi-asset portfolio",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-21T15:45:44.361729+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002047976",
+    "company_name": "Jackson National Life Insurance Co (RILA)",
+    "accession_number": "0002047976-26-000115",
+    "filed_date": "2026-04-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2047976/000204797626000115/0002047976-26-000115-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2047976/000204797626000115/jmlp485bcombined.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2047976/000204797626000115/jmlp485bcombined.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Jackson National Life Insurance Company\nETF Name: Jackson National Registered Index-Linked Annuity Contract\nStrategy: This is a registered index-linked annuity (RILA) offering index account options with buffer and floor protection levels, cap and performance trigger crediting methods, and a fixed account option Returns are tied to index performance over set terms, with potential loss of up to 90% of principal depending on the protection option selected\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Jackson National Life Insurance Company",
+        "etf_name": "Jackson National Registered Index-Linked Annuity Contract",
+        "strategy": "This is a registered index-linked annuity (RILA) offering index account options with buffer and floor protection levels, cap and performance trigger crediting methods, and a fixed account option Returns are tied to index performance over set terms, with potential loss of up to 90% of principal depending on the protection option selected",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-21T14:09:50.676821+00:00",
     "form_type": "485BPOS",
     "cik": "0001589756",
@@ -5695,7 +5753,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: The contract offers index-linked investment options (\"Strategies\") that provide returns\u2014positive, negative, or zero\u2014based on the price-return performance of one or more indices over defined periods\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Company\nETF Name: Unknown\nStrategy: This registered index-linked annuity contract offers multiple index-linked investment options (\"Strategies\") that credit returns\u2014positive, negative, or zero\u2014based on the price-return performance of one or more equity indexes, subject to caps, participation rates, buffers, and floors Downside protection varies by strategy, ranging from a floor capping losses at \u20135% to a buffer structure that absorbs initial losses but...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -5724,7 +5782,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered indexed-linked annuity contract offering fixed options (Declared Rate Account, Guaranteed Interest Strategy) and various index-linked investment options tied to price-return indexes with structured Caps, Participation Rates, and Floors Allocation Options provide downside protection ranging from 0% to \u221220% per Term depending on the strategy elected, while credited interest excludes dividends paid...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Company\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity (RILA) contract, not an ETF, offering allocation across a Declared Rate Account, a Guaranteed Interest Strategy, and various index-linked investment options with defined Caps, Floors, and Participation Rates tied to price-return equity indexes Downside exposure is limited by Floors ranging from 0% to \u221220% depending on the strategy elected, while upside credited interest is su...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -14430,64 +14488,6 @@
         "filer": "Athene Annuity & Life Co",
         "etf_name": "Unknown",
         "strategy": "and risk profile to the original Reference Index, but there is a risk that the",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-03T20:50:45.209336+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000837332",
-    "company_name": "Athene Annuity & Life Co",
-    "accession_number": "0000837332-26-000033",
-    "filed_date": "2026-04-03",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/837332/000083733226000033/0000837332-26-000033-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/837332/000083733226000033/aaia-20260403.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/837332/000083733226000033/aaia-20260403.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Athene Annuity and Life Company\nETF Name: We may fund\nStrategy: The product offers index-linked segment options tied to reference indices such as MSCI EAFE, with returns shaped by Cap Rates, Participation Rates, and Buffer Rates over defined Segment Term Periods\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Athene Annuity & Life Co",
-        "etf_name": "Unknown",
-        "strategy": "and risk profile to the original Reference Index, but there is a risk that the",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-03T17:41:27.940846+00:00",
-    "form_type": "485APOS",
-    "cik": "0001547576",
-    "company_name": "Krane Shares Trust",
-    "accession_number": "0001829126-26-003156",
-    "filed_date": "2026-04-03",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547576/000182912626003156/0001829126-26-003156-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547576/000182912626003156/kraneshares_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547576/000182912626003156/kraneshares_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Krane Shares Trust\nETF Name: None Annual Fund\nStrategy: The Fund may not achieve its investment objective and an investment in the Fund is not by itself a complete or balanced investment program The Fund\u2019s investment strategy is actively-managed and the Fund may not meet its investment objective based on Krane\u2019s success or failure to implement investment strategies for the Fund for these investments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Krane Shares Trust",
-        "etf_name": "None Annual Fund",
-        "strategy": "The Fund may not achieve its investment objective and an investment in the Fund is not by itself a complete or balanced investment program The Fund\u2019s investment strategy is actively-managed and the Fund may not meet its investment objective based on Krane\u2019s success or failure to implement investment strategies for the Fund for these investments",
         "is_alert_worthy": "LOW"
       }
     ],
