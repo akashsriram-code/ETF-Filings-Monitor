@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-04-21T14:09:50.676821+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001589756",
+    "company_name": "VIRTUS ALTERNATIVE SOLUTIONS TRUST",
+    "accession_number": "0000930413-26-001131",
+    "filed_date": "2026-04-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1589756/000093041326001131/0000930413-26-001131-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1589756/000093041326001131/c116169_485bpos-ixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1589756/000093041326001131/c116169_485bpos-ixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Virtus Alternative Solutions Trust\nETF Name: Virtus AlphaSimplex Managed Futures Strategy Fund\nStrategy: Absolute return strategy seeking capital appreciation primarily through derivatives including futures, options, forwards, and swaps Short-term investment horizon with no traditional portfolio turnover rate calculated, offered across multiple share classes (A, C, I, R6)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Virtus Alternative Solutions Trust",
+        "etf_name": "Virtus AlphaSimplex Managed Futures Strategy Fund",
+        "strategy": "Absolute return strategy seeking capital appreciation primarily through derivatives including futures, options, forwards, and swaps Short-term investment horizon with no traditional portfolio turnover rate calculated, offered across multiple share classes (A, C, I, R6)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-21T14:11:43.951811+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-008597",
+    "filed_date": "2026-04-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126008597/0001999371-26-008597-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126008597/stripe-485apos_042126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126008597/stripe-485apos_042126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: T-Rex 2X Inverse Stripe Daily Target ETF\nStrategy: common stock, gaining exposure through swaps and options\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "T-Rex 2X Inverse Stripe Daily Target ETF",
+        "strategy": "common stock, gaining exposure through swaps and options",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-21T10:58:24.816783+00:00",
     "form_type": "486BPOS",
     "cik": "0001869453",
@@ -5637,7 +5695,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered index-linked annuity (RILA) contract offering multiple index-linked investment options (\"Strategies\") tied to price-return equity indexes, with capped upside via Participation Rates and Caps and defined downside protection through Buffers or Floors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: The contract offers index-linked investment options (\"Strategies\") that provide returns\u2014positive, negative, or zero\u2014based on the price-return performance of one or more indices over defined periods\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -5666,7 +5724,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This registered indexed-linked annuity offers allocations across fixed options (Declared Rate Account, Guaranteed Interest Strategy) and various index-linked investment options tied to price-return benchmarks such as the MSCI EAFE Index, with returns subject to participation rates, caps, and floors Downside protection ranges from 0% to \u221220% per term depending on the strategy elected, while upside credited interest is...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This is a registered indexed-linked annuity contract offering fixed options (Declared Rate Account, Guaranteed Interest Strategy) and various index-linked investment options tied to price-return indexes with structured Caps, Participation Rates, and Floors Allocation Options provide downside protection ranging from 0% to \u221220% per Term depending on the strategy elected, while credited interest excludes dividends paid...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -14430,64 +14488,6 @@
         "filer": "Krane Shares Trust",
         "etf_name": "None Annual Fund",
         "strategy": "The Fund may not achieve its investment objective and an investment in the Fund is not by itself a complete or balanced investment program The Fund\u2019s investment strategy is actively-managed and the Fund may not meet its investment objective based on Krane\u2019s success or failure to implement investment strategies for the Fund for these investments",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-03T17:41:30.297090+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000737026",
-    "company_name": "Brighthouse Fund UL for Variable Life Insurance",
-    "accession_number": "0001193125-26-141699",
-    "filed_date": "2026-04-03",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/737026/000119312526141699/0001193125-26-141699-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/737026/000119312526141699/d26050d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/737026/000119312526141699/d26050d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Brighthouse Fund UL for Variable Life Insurance\nETF Name: Policy due to cyber-attacks, disruptions or failures in the future. Each Fund\nStrategy: (iii) its investment adviser and any sub-investment adviser (iv) current expenses and (v)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Brighthouse Fund UL for Variable Life Insurance",
-        "etf_name": "Policy due to cyber-attacks, disruptions or failures in the future. Each Fund",
-        "strategy": "(iii) its investment adviser and any sub-investment adviser (iv) current expenses and (v)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-03T10:56:23.149787+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001683471",
-    "company_name": "Listed Funds Trust",
-    "accession_number": "0000894189-26-011843",
-    "filed_date": "2026-04-02",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926011843/0000894189-26-011843-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1683471/000089418926011843/ck0001683471-20260402.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926011843/ck0001683471-20260402.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Listed Funds Trust\nETF Name: None Annual Fund\nStrategy: by investing, under normal circumstances, at least 80% of its net assets, plus borrowings for investment purposes, in Crypto Assets or in securities or other instruments that provide economic exposure to Crypto Assets or have economic characteristics that are substantially similar to Crypto Assets (\u201cCrypto Asset-related investments\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Listed Funds Trust",
-        "etf_name": "None Annual Fund",
-        "strategy": "by investing, under normal circumstances, at least 80% of its net assets, plus borrowings for investment purposes, in Crypto Assets or in securities or other instruments that provide economic exposure to Crypto Assets or have economic characteristics that are substantially similar to Crypto Assets (\u201cCrypto Asset-related investments\u201d)",
         "is_alert_worthy": "LOW"
       }
     ],
