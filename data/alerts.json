@@ -1,5 +1,585 @@
 [
   {
+    "created_at": "2026-04-22T16:00:40.876574+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001822818",
+    "company_name": "Equitable America Variable Account No.70A",
+    "accession_number": "0001193125-26-169349",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1822818/000119312526169349/0001193125-26-169349-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1822818/000119312526169349/d15245d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1822818/000119312526169349/d15245d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable America Variable Account No.70A\nETF Name: If you are purchasing the contract to fund a charitable remainder trust\nStrategy: Variable investment options Contract value allocated to one of the variable investment options will vary based on the investment performance of the underlying Portfolio in which the variable investment option invests\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable America Variable Account No.70A",
+        "etf_name": "If you are purchasing the contract to fund a charitable remainder trust",
+        "strategy": "Variable investment options Contract value allocated to one of the variable investment options will vary based on the investment performance of the underlying Portfolio in which the variable investment option invests",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:01:52.054923+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001822818",
+    "company_name": "Equitable America Variable Account No.70A",
+    "accession_number": "0001193125-26-169343",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1822818/000119312526169343/0001193125-26-169343-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1822818/000119312526169343/d51297d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1822818/000119312526169343/d51297d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EQ Advisors Trust (Equitable Financial Life Insurance Company of America)\nETF Name: EQ Managed Volatility Portfolios (references MSCI EAFE ETF as a strategy instrument)\nStrategy: These insurance-linked portfolios employ a proprietary volatility management strategy using ETFs, futures, and options to systematically reduce equity exposure when market volatility exceeds preset thresholds The fund-of-fund structure invests in affiliated EQ Portfolios and may substitute comparable benchmarks (e.g., NASDAQ Composite for Russell 2000) if an index becomes unavailable\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EQ Advisors Trust (Equitable Financial Life Insurance Company of America)",
+        "etf_name": "EQ Managed Volatility Portfolios (references MSCI EAFE ETF as a strategy instrument)",
+        "strategy": "These insurance-linked portfolios employ a proprietary volatility management strategy using ETFs, futures, and options to systematically reduce equity exposure when market volatility exceeds preset thresholds The fund-of-fund structure invests in affiliated EQ Portfolios and may substitute comparable benchmarks (e.g., NASDAQ Composite for Russell 2000) if an index becomes unavailable",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:02:46.426157+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001822818",
+    "company_name": "Equitable America Variable Account No.70A",
+    "accession_number": "0001193125-26-169314",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1822818/000119312526169314/0001193125-26-169314-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1822818/000119312526169314/d60538d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1822818/000119312526169314/d60538d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Company\nETF Name: Series ADV Variable Annuity Contract with Structured Investment Option\nStrategy: This is a variable annuity contract offering index-linked Structured Investment Option segments with defined performance caps and downside buffers, alongside a menu of variable investment Portfolios sub-advised under EQ Advisors Trust An Automated Transfer Program shifts account value between the EQ/Ultra Conservative Strategy Portfolio and other Portfolios using predetermined mathematical formulas to manage guarante...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable Financial Life Insurance Company",
+        "etf_name": "Series ADV Variable Annuity Contract with Structured Investment Option",
+        "strategy": "This is a variable annuity contract offering index-linked Structured Investment Option segments with defined performance caps and downside buffers, alongside a menu of variable investment Portfolios sub-advised under EQ Advisors Trust An Automated Transfer Program shifts account value between the EQ/Ultra Conservative Strategy Portfolio and other Portfolios using predetermined mathematical formulas to manage guarante...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:03:39.779509+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001822818",
+    "company_name": "Equitable America Variable Account No.70A",
+    "accession_number": "0001193125-26-169311",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1822818/000119312526169311/0001193125-26-169311-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1822818/000119312526169311/d62149d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1822818/000119312526169311/d62149d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Company (via Equitable America Variable Account No.70A)\nETF Name: Series ADV Variable Annuity Contract \u2014 Structured Investment Option (SIO) and Variable Investment Portfolios\nStrategy: A Dollar Cap Averaging Program and an Asset Transfer Program use predetermined mathematical formulas to shift account value between the EQ/Ultra Conservative Strategy Portfolio and other portfolios to manage guaranteed-benefit exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable Financial Life Insurance Company (via Equitable America Variable Account No.70A)",
+        "etf_name": "Series ADV Variable Annuity Contract \u2014 Structured Investment Option (SIO) and Variable Investment Portfolios",
+        "strategy": "A Dollar Cap Averaging Program and an Asset Transfer Program use predetermined mathematical formulas to shift account value between the EQ/Ultra Conservative Strategy Portfolio and other portfolios to manage guaranteed-benefit exposure",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:04:37.190048+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000029440",
+    "company_name": "DODGE & COX FUNDS",
+    "accession_number": "0001193125-26-169303",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/29440/000119312526169303/0001193125-26-169303-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/29440/000119312526169303/d21586d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/29440/000119312526169303/d21586d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Dodge & Cox Funds\nETF Name: Dodge & Cox Stock Fund / Dodge & Cox Global Stock Fund / Dodge & Cox International Stock Fund / Dodge & Cox Emerging Markets Stock Fund\nStrategy: Investment decisions are made by dedicated committees rather than single portfolio managers, with Class I and Class X shares available and Class X expense reimbursement agreements effective through April 30, 2029\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Dodge & Cox Funds",
+        "etf_name": "Dodge & Cox Stock Fund / Dodge & Cox Global Stock Fund / Dodge & Cox International Stock Fund / Dodge & Cox Emerging Markets Stock Fund",
+        "strategy": "Investment decisions are made by dedicated committees rather than single portfolio managers, with Class I and Class X shares available and Class X expense reimbursement agreements effective through April 30, 2029",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:05:33.067763+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001822818",
+    "company_name": "Equitable America Variable Account No.70A",
+    "accession_number": "0001193125-26-169295",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1822818/000119312526169295/0001193125-26-169295-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1822818/000119312526169295/d935136d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1822818/000119312526169295/d935136d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable America Variable Account No.70A\nETF Name: MSCI EAFE ETF\nStrategy: The product offers structured index-linked segments that tie investor returns to the performance of underlying indices or ETFs, subject to performance caps on the upside and segment buffers that absorb a defined amount of downside loss If a referenced index becomes unavailable, a substitute index with a similar return and risk profile may be used\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable America Variable Account No.70A",
+        "etf_name": "MSCI EAFE ETF",
+        "strategy": "The product offers structured index-linked segments that tie investor returns to the performance of underlying indices or ETFs, subject to performance caps on the upside and segment buffers that absorb a defined amount of downside loss If a referenced index becomes unavailable, a substitute index with a similar return and risk profile may be used",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:06:29.912937+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001822818",
+    "company_name": "Equitable America Variable Account No.70A",
+    "accession_number": "0001193125-26-169289",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1822818/000119312526169289/0001193125-26-169289-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1822818/000119312526169289/d11515d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1822818/000119312526169289/d11515d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable America Variable Account No.70A\nETF Name: Dow Jones U.S. Real Estate Index Fund\nStrategy: This is an underlying portfolio option within a variable annuity structure that seeks to track U.S real estate equity performance, offered alongside multiple other index-linked portfolios managed by Equitable Investment Management Group, LLC and various sub-advisers\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable America Variable Account No.70A",
+        "etf_name": "Dow Jones U.S. Real Estate Index Fund",
+        "strategy": "This is an underlying portfolio option within a variable annuity structure that seeks to track U.S real estate equity performance, offered alongside multiple other index-linked portfolios managed by Equitable Investment Management Group, LLC and various sub-advisers",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:07:35.808423+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001537470",
+    "company_name": "Separate Account No. 70",
+    "accession_number": "0001193125-26-169285",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1537470/000119312526169285/0001193125-26-169285-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1537470/000119312526169285/d35621d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1537470/000119312526169285/d35621d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Company (Separate Account No. 70)\nETF Name: Structured Investment Option (SIO) / EQ Managed Volatility Portfolios / EQ Fund of Fund Portfolios\nStrategy: The Structured Investment Option allows contract owners to invest in index-linked Segments that provide performance tied to an Index over a defined period, without investing in any underlying portfolio\u2014returns are a direct obligation of the Company The EQ Managed Volatility Portfolios use a proprietary strategy employing ETFs, futures, and options to dynamically reduce equity exposure when volatility exceeds preset t...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable Financial Life Insurance Company (Separate Account No. 70)",
+        "etf_name": "Structured Investment Option (SIO) / EQ Managed Volatility Portfolios / EQ Fund of Fund Portfolios",
+        "strategy": "The Structured Investment Option allows contract owners to invest in index-linked Segments that provide performance tied to an Index over a defined period, without investing in any underlying portfolio\u2014returns are a direct obligation of the Company The EQ Managed Volatility Portfolios use a proprietary strategy employing ETFs, futures, and options to dynamically reduce equity exposure when volatility exceeds preset t...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:08:33.902735+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001537470",
+    "company_name": "Separate Account No. 70",
+    "accession_number": "0001193125-26-169282",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1537470/000119312526169282/0001193125-26-169282-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1537470/000119312526169282/d53010d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1537470/000119312526169282/d53010d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Company (Separate Account No. 70)\nETF Name: EQ Managed Volatility Portfolios / EQ Fund of Fund Portfolios\nStrategy: These insurance-wrapped portfolios employ a proprietary volatility management strategy using ETFs, futures, and options to dynamically reduce equity exposure when market volatility exceeds preset thresholds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable Financial Life Insurance Company (Separate Account No. 70)",
+        "etf_name": "EQ Managed Volatility Portfolios / EQ Fund of Fund Portfolios",
+        "strategy": "These insurance-wrapped portfolios employ a proprietary volatility management strategy using ETFs, futures, and options to dynamically reduce equity exposure when market volatility exceeds preset thresholds",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:09:23.651520+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001537470",
+    "company_name": "Separate Account No. 70",
+    "accession_number": "0001193125-26-169267",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1537470/000119312526169267/0001193125-26-169267-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1537470/000119312526169267/d949763d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1537470/000119312526169267/d949763d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Company (Separate Account No. 70)\nETF Name: If you are purchasing the contract to fund a charitable remainder trust\nStrategy: These are variable annuity insurance investment options spanning equity, fixed income, and asset allocation sleeves, many employing a proprietary volatility management strategy that dynamically reduces equity exposure during periods of elevated market volatility\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable Financial Life Insurance Company (Separate Account No. 70)",
+        "etf_name": "If you are purchasing the contract to fund a charitable remainder trust",
+        "strategy": "These are variable annuity insurance investment options spanning equity, fixed income, and asset allocation sleeves, many employing a proprietary volatility management strategy that dynamically reduces equity exposure during periods of elevated market volatility",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:10:14.934490+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001537470",
+    "company_name": "Separate Account No. 70",
+    "accession_number": "0001193125-26-169259",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1537470/000119312526169259/0001193125-26-169259-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1537470/000119312526169259/d939630d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1537470/000119312526169259/d939630d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Company (Separate Account No. 70)\nETF Name: If you are purchasing the contract to fund a charitable remainder trust\nStrategy: These are insurance-wrapped variable annuity portfolio options\u2014not standalone ETFs\u2014that employ Equitable IMG's proprietary volatility management strategy using ETFs, futures, and options to dynamically reduce equity exposure when market volatility breaches preset thresholds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable Financial Life Insurance Company (Separate Account No. 70)",
+        "etf_name": "If you are purchasing the contract to fund a charitable remainder trust",
+        "strategy": "These are insurance-wrapped variable annuity portfolio options\u2014not standalone ETFs\u2014that employ Equitable IMG's proprietary volatility management strategy using ETFs, futures, and options to dynamically reduce equity exposure when market volatility breaches preset thresholds",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:11:09.051881+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001537470",
+    "company_name": "Separate Account No. 70",
+    "accession_number": "0001193125-26-169251",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1537470/000119312526169251/0001193125-26-169251-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1537470/000119312526169251/d89834d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1537470/000119312526169251/d89834d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Company (Separate Account No. 70)\nETF Name: EQ Advisors Trust Variable Insurance Portfolios (including EQ Managed Volatility Portfolios and EQ Fund of Fund Portfolios)\nStrategy: The filing describes a variable annuity platform offering a suite of insurance-linked investment portfolios spanning equity, fixed income, and asset allocation categories, many incorporating a proprietary volatility management strategy that systematically reduces equity exposure during periods of elevated market volatility Underlying sub-advisers include BlackRock, Fidelity, PIMCO, Wellington, and others, with portfo...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable Financial Life Insurance Company (Separate Account No. 70)",
+        "etf_name": "EQ Advisors Trust Variable Insurance Portfolios (including EQ Managed Volatility Portfolios and EQ Fund of Fund Portfolios)",
+        "strategy": "The filing describes a variable annuity platform offering a suite of insurance-linked investment portfolios spanning equity, fixed income, and asset allocation categories, many incorporating a proprietary volatility management strategy that systematically reduces equity exposure during periods of elevated market volatility Underlying sub-advisers include BlackRock, Fidelity, PIMCO, Wellington, and others, with portfo...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:12:03.994334+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001537470",
+    "company_name": "Separate Account No. 70",
+    "accession_number": "0001193125-26-169234",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1537470/000119312526169234/0001193125-26-169234-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1537470/000119312526169234/d863219d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1537470/000119312526169234/d863219d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Company (Separate Account No. 70)\nETF Name: If you are purchasing the contract to fund a charitable remainder trust\nStrategy: and international equities, fixed income, commodities, and asset allocation styles, many employing Equitable's proprietary volatility management strategy that dynamically reduces equity exposure during periods of elevated market volatility\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable Financial Life Insurance Company (Separate Account No. 70)",
+        "etf_name": "If you are purchasing the contract to fund a charitable remainder trust",
+        "strategy": "and international equities, fixed income, commodities, and asset allocation styles, many employing Equitable's proprietary volatility management strategy that dynamically reduces equity exposure during periods of elevated market volatility",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:13:14.407325+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001537470",
+    "company_name": "Separate Account No. 70",
+    "accession_number": "0001193125-26-169233",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1537470/000119312526169233/0001193125-26-169233-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1537470/000119312526169233/d947464d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1537470/000119312526169233/d947464d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Company \u2014 Separate Account No. 70\nETF Name: If you are purchasing the contract to fund a charitable remainder trust\nStrategy: These are insurance-linked variable annuity portfolios\u2014not standalone ETFs\u2014offering a broad menu of sub-advised options across equity, fixed income, commodity, and multi-asset strategies, with select portfolios employing a proprietary volatility management overlay using ETFs, futures, and options to reduce equity exposure during high-volatility regimes\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable Financial Life Insurance Company \u2014 Separate Account No. 70",
+        "etf_name": "If you are purchasing the contract to fund a charitable remainder trust",
+        "strategy": "These are insurance-linked variable annuity portfolios\u2014not standalone ETFs\u2014offering a broad menu of sub-advised options across equity, fixed income, commodity, and multi-asset strategies, with select portfolios employing a proprietary volatility management overlay using ETFs, futures, and options to reduce equity exposure during high-volatility regimes",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:14:18.056033+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001537470",
+    "company_name": "Separate Account No. 70",
+    "accession_number": "0001193125-26-169230",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1537470/000119312526169230/0001193125-26-169230-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1537470/000119312526169230/d120089d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1537470/000119312526169230/d120089d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Company \u2014 Separate Account No. 70\nETF Name: EQ Managed Volatility Portfolios (and affiliated variable investment options within EQ Advisors Trust)\nStrategy: A proprietary EQ volatility management strategy uses ETFs, futures, and options to systematically reduce equity exposure when market volatility exceeds preset thresholds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable Financial Life Insurance Company \u2014 Separate Account No. 70",
+        "etf_name": "EQ Managed Volatility Portfolios (and affiliated variable investment options within EQ Advisors Trust)",
+        "strategy": "A proprietary EQ volatility management strategy uses ETFs, futures, and options to systematically reduce equity exposure when market volatility exceeds preset thresholds",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:15:19.483282+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001015570",
+    "company_name": "SEPARATE ACCOUNT NO. 49",
+    "accession_number": "0001193125-26-169227",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1015570/000119312526169227/0001193125-26-169227-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1015570/000119312526169227/d83868d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1015570/000119312526169227/d83868d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Company (Separate Account No. 49)\nETF Name: MSCI EAFE ETF\nStrategy: The filing describes buffered Segment investments with Performance Caps linked to the iShares MSCI EAFE ETF, which tracks international developed-market equities across Europe, Australasia, and the Far East These segments are offered within a variable annuity/insurance wrapper alongside EQ Managed Volatility Portfolios that use ETFs, futures, and options to dynamically reduce equity exposure when market volatility ex...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable Financial Life Insurance Company (Separate Account No. 49)",
+        "etf_name": "MSCI EAFE ETF",
+        "strategy": "The filing describes buffered Segment investments with Performance Caps linked to the iShares MSCI EAFE ETF, which tracks international developed-market equities across Europe, Australasia, and the Far East These segments are offered within a variable annuity/insurance wrapper alongside EQ Managed Volatility Portfolios that use ETFs, futures, and options to dynamically reduce equity exposure when market volatility ex...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:16:12.571069+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001015570",
+    "company_name": "SEPARATE ACCOUNT NO. 49",
+    "accession_number": "0001193125-26-169204",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1015570/000119312526169204/0001193125-26-169204-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1015570/000119312526169204/d19347d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1015570/000119312526169204/d19347d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SEPARATE ACCOUNT NO. 49\nETF Name: If you are purchasing the contract to fund a charitable remainder trust\nStrategy: The Structured Investment Option and the Segment Type Holding Accounts are discussed later in this section under \u201cStructured Investment Option.\u201d The Dollar Cap Averaging Program invests in the dollar cap averaging account, which is part of the EQ/Money Market variable investment option\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SEPARATE ACCOUNT NO. 49",
+        "etf_name": "If you are purchasing the contract to fund a charitable remainder trust",
+        "strategy": "The Structured Investment Option and the Segment Type Holding Accounts are discussed later in this section under \u201cStructured Investment Option.\u201d The Dollar Cap Averaging Program invests in the dollar cap averaging account, which is part of the EQ/Money Market variable investment option",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:17:10.337258+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001015570",
+    "company_name": "SEPARATE ACCOUNT NO. 49",
+    "accession_number": "0001193125-26-169187",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1015570/000119312526169187/0001193125-26-169187-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1015570/000119312526169187/d12102d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1015570/000119312526169187/d12102d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Company (Separate Account No. 49)\nETF Name: Series ADV Variable Annuity Contract (Structured Investment Option / SIO)\nStrategy: This is a variable annuity contract offering multiple underlying Portfolio investment options alongside a Structured Index Option that provides index-linked returns with a defined Segment Buffer to limit downside losses An Automated Transfer Program dynamically reallocates contract value between the EQ/Ultra Conservative Strategy Portfolio and other Portfolios, while a Dollar Cap Averaging Program channels contributi...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable Financial Life Insurance Company (Separate Account No. 49)",
+        "etf_name": "Series ADV Variable Annuity Contract (Structured Investment Option / SIO)",
+        "strategy": "This is a variable annuity contract offering multiple underlying Portfolio investment options alongside a Structured Index Option that provides index-linked returns with a defined Segment Buffer to limit downside losses An Automated Transfer Program dynamically reallocates contract value between the EQ/Ultra Conservative Strategy Portfolio and other Portfolios, while a Dollar Cap Averaging Program channels contributi...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:18:10.337148+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001015570",
+    "company_name": "SEPARATE ACCOUNT NO. 49",
+    "accession_number": "0001193125-26-169184",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1015570/000119312526169184/0001193125-26-169184-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1015570/000119312526169184/d94647d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1015570/000119312526169184/d94647d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Company (Separate Account No. 49)\nETF Name: MSCI EAFE ETF\nStrategy: This is a variable annuity separate-account structure that uses equity index and sector ETF benchmarks\u2014including the MSCI EAFE ETF\u2014as reference assets for buffered/indexed segments with performance caps and downside buffers If a referenced index becomes unavailable, the product may substitute an index with a similar investment objective and risk profile, such as replacing the Russell 2000\u00ae Index with the NASDAQ Compo...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable Financial Life Insurance Company (Separate Account No. 49)",
+        "etf_name": "MSCI EAFE ETF",
+        "strategy": "This is a variable annuity separate-account structure that uses equity index and sector ETF benchmarks\u2014including the MSCI EAFE ETF\u2014as reference assets for buffered/indexed segments with performance caps and downside buffers If a referenced index becomes unavailable, the product may substitute an index with a similar investment objective and risk profile, such as replacing the Russell 2000\u00ae Index with the NASDAQ Compo...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-22T16:19:13.142810+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001015570",
+    "company_name": "SEPARATE ACCOUNT NO. 49",
+    "accession_number": "0001193125-26-169175",
+    "filed_date": "2026-04-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1015570/000119312526169175/0001193125-26-169175-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1015570/000119312526169175/d84587d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1015570/000119312526169175/d84587d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Company (Separate Account No. 49)\nETF Name: Dow Jones U.S. Real Estate Index Fund\nStrategy: This is a registered index-linked annuity platform offering exposure to index performance over defined Segment Durations, subject to Performance Cap Rates that limit upside and Segment Buffers that absorb a set amount of downside losses The platform may substitute comparable indices if an underlying benchmark becomes unavailable, matching the general asset class and risk profile of the replaced index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable Financial Life Insurance Company (Separate Account No. 49)",
+        "etf_name": "Dow Jones U.S. Real Estate Index Fund",
+        "strategy": "This is a registered index-linked annuity platform offering exposure to index performance over defined Segment Durations, subject to Performance Cap Rates that limit upside and Segment Buffers that absorb a set amount of downside losses The platform may substitute comparable indices if an underlying benchmark becomes unavailable, matching the general asset class and risk profile of the replaced index",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-22T10:48:32.385220+00:00",
     "form_type": "485BPOS",
     "cik": "0000072499",
@@ -13177,7 +13757,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043719/tm262867d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a registered index-linked annuity (RILA) contract offering multiple index-linked investment options (\"Strategies\") that credit returns based on price-return index performance over defined terms, subject to caps, participation rates, and downside protection via buffers or floors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Company\nETF Name: Unknown\nStrategy: This filing describes a registered index-linked annuity (RILA) offering multiple index-linked investment options (\"Strategies\") that credit returns based on price-return index performance over defined terms, subject to participation rates, caps, buffers, and floors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -13206,7 +13786,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/310826/000110465926043716/tm262865d1_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROTECTIVE LIFE INSURANCE CO\nETF Name: Unknown\nStrategy: This filing describes a registered index-linked annuity (RILA) contract, not an ETF; it offers index-linked investment options tied to price-return indexes with credited interest subject to caps, participation rates, and downside floors A Guaranteed Interest Strategy is also available as a fixed allocation option alongside the indexed strategies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Co\nETF Name: Unknown\nStrategy: This indexed annuity contract allows policyholders to allocate purchase payments among fixed options (a Declared Rate Account and a Guaranteed Interest Strategy) and various index-linked investment options tied to price-return equity indexes, with credited interest subject to caps, participation rates, and downside floors The index-linked strategies offer defined-outcome exposure with floors ranging from 0% to \u221210% (...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Protective Life Insurance Co",
@@ -13908,586 +14488,6 @@
         "filer": "J.P. Morgan Exchange-Traded Fund Trust",
         "etf_name": "JPMorgan Managed Futures Plus ETF",
         "strategy": "The fund combines a proprietary managed-futures strategy\u2014using systematic trend-following and macro-alpha models across equities, fixed income, currencies, and commodities via derivatives\u2014with a U.S Implementation relies primarily on futures, forwards, swaps, and options, with additional derivative exposure gained through a Cayman subsidiary",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-15T10:33:42.200160+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001329377",
-    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND",
-    "accession_number": "0001445546-26-002724",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1329377/000144554626002724/0001445546-26-002724-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1329377/000144554626002724/ftetf-20260414.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1329377/000144554626002724/ftetf-20260414.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund\nETF Name: FT Vest Laddered Autocallable Barrier & Resilient Income ETF (ACYS)\nStrategy: Actively managed ETF that uses swap agreements and option contracts to synthetically replicate a laddered portfolio of autocallable yield notes, rolling contracts upon call or maturity to maintain staggered exposures and reduce single-period concentration risk The income-oriented strategy depends on counterparty willingness and pricing, and may involve active, frequent trading of synthetic positions\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "First Trust Exchange-Traded Fund",
-        "etf_name": "FT Vest Laddered Autocallable Barrier & Resilient Income ETF (ACYS)",
-        "strategy": "Actively managed ETF that uses swap agreements and option contracts to synthetically replicate a laddered portfolio of autocallable yield notes, rolling contracts upon call or maturity to maintain staggered exposures and reduce single-period concentration risk The income-oriented strategy depends on counterparty willingness and pricing, and may involve active, frequent trading of synthetic positions",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-15T10:34:59.622377+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001683471",
-    "company_name": "Listed Funds Trust",
-    "accession_number": "0000894189-26-012084",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926012084/0000894189-26-012084-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1683471/000089418926012084/ck0001683471-20260414.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926012084/ck0001683471-20260414.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: 21Shares\nETF Name: 21Shares 2x Long HYPE ETF\nStrategy: The fund seeks to deliver 200% of daily returns on the Hyperliquid Index using leveraged derivatives such as HYPE swaps, HYPE ETPs, and HYPE futures rather than direct token custody Exposure is rebalanced daily at market close, with leverage maintained via reverse repurchase agreements and a Cayman Islands subsidiary structure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "21Shares",
-        "etf_name": "21Shares 2x Long HYPE ETF",
-        "strategy": "The fund seeks to deliver 200% of daily returns on the Hyperliquid Index using leveraged derivatives such as HYPE swaps, HYPE ETPs, and HYPE futures rather than direct token custody Exposure is rebalanced daily at market close, with leverage maintained via reverse repurchase agreements and a Cayman Islands subsidiary structure",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:00:06.744059+00:00",
-    "form_type": "485APOS",
-    "cik": "0001064642",
-    "company_name": "SPDR SERIES TRUST",
-    "accession_number": "0001193125-26-155136",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1064642/000119312526155136/0001193125-26-155136-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1064642/000119312526155136/d132738d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1064642/000119312526155136/d132738d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SPDR Series Trust\nETF Name: State Street S&P 500 Index Fund\nStrategy: The fund seeks to passively track the S&P 500 Index by holding a representative subset or substantially all of the index's constituents, selected via quantitative analysis to match its risk and return profile large-cap equities and may also use other equities, shares of investment companies, and derivatives to maintain index exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "SPDR SERIES TRUST",
-        "etf_name": "Unknown",
-        "strategy": "In certain situations or market conditions, the Fund may temporarily depart from its normal investment policies and strategies, provided that the alternative is consistent with the Fund\u2019s investment objective and is in the best interest of the Fund For example, the Fund may make larger than normal investments in derivatives to maintain exposure to its Index if it is unable to invest directly in a component security",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:00:10.700554+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001048606",
-    "company_name": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-    "accession_number": "0001104659-26-043326",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926043326/0001104659-26-043326-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000110465926043326/tm265183d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926043326/tm265183d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: Subaccount, you are exposed to the investment risks of the underlying fund\nStrategy: Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-        "etf_name": "Subaccount, you are exposed to the investment risks of the underlying fund",
-        "strategy": "Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:00:15.432159+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001048606",
-    "company_name": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-    "accession_number": "0001104659-26-043325",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926043325/0001104659-26-043325-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000110465926043325/tm265177d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926043325/tm265177d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: Subaccount, you are exposed to the investment risks of the underlying fund\nStrategy: Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-        "etf_name": "Subaccount, you are exposed to the investment risks of the underlying fund",
-        "strategy": "Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:00:18.732070+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001048606",
-    "company_name": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-    "accession_number": "0001104659-26-043323",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926043323/0001104659-26-043323-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000110465926043323/tm265172d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926043323/tm265172d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: Subaccount, you are exposed to the investment risks of the underlying fund\nStrategy: Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-        "etf_name": "Subaccount, you are exposed to the investment risks of the underlying fund",
-        "strategy": "Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:00:22.542346+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001048606",
-    "company_name": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-    "accession_number": "0001104659-26-043322",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926043322/0001104659-26-043322-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000110465926043322/tm265170d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926043322/tm265170d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: Subaccount, you are exposed to the investment risks of the underlying fund\nStrategy: Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-        "etf_name": "Subaccount, you are exposed to the investment risks of the underlying fund",
-        "strategy": "Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:00:25.628879+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000847552",
-    "company_name": "LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H",
-    "accession_number": "0001104659-26-043318",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/847552/000110465926043318/0001104659-26-043318-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/847552/000110465926043318/tm265187d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/847552/000110465926043318/tm265187d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H\nETF Name: Subaccount, you are exposed to the investment risks of the underlying fund\nStrategy: Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H",
-        "etf_name": "Subaccount, you are exposed to the investment risks of the underlying fund",
-        "strategy": "Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:00:28.761071+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001048606",
-    "company_name": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-    "accession_number": "0001104659-26-043313",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926043313/0001104659-26-043313-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000110465926043313/tm265163d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926043313/tm265163d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Lincoln Life Variable Annuity Account N\nETF Name: LVIP Vanguard International Equity ETF\nStrategy: The fund pursues long-term capital appreciation through a fund-of-funds structure that allocates across underlying Vanguard international equity ETFs. It is advised by Lincoln Financial Investments Corporation and offered as a subaccount option within a variable annuity contract.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-        "etf_name": "Unknown",
-        "strategy": "Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:00:32.525885+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000847552",
-    "company_name": "LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H",
-    "accession_number": "0001104659-26-043311",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/847552/000110465926043311/0001104659-26-043311-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/847552/000110465926043311/tm265179d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/847552/000110465926043311/tm265179d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H\nETF Name: Subaccount, you are exposed to the investment risks of the underlying fund\nStrategy: Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H",
-        "etf_name": "Subaccount, you are exposed to the investment risks of the underlying fund",
-        "strategy": "Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:00:38.876342+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000847552",
-    "company_name": "LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H",
-    "accession_number": "0001104659-26-043308",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/847552/000110465926043308/0001104659-26-043308-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/847552/000110465926043308/tm265173d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/847552/000110465926043308/tm265173d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H\nETF Name: Subaccount, you are exposed to the investment risks of the underlying fund\nStrategy: Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H",
-        "etf_name": "Subaccount, you are exposed to the investment risks of the underlying fund",
-        "strategy": "Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:00:42.985829+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001048606",
-    "company_name": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-    "accession_number": "0001104659-26-043307",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926043307/0001104659-26-043307-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000110465926043307/tm265161d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926043307/tm265161d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: LVIP Vanguard International Equity ETF\nStrategy: This fund of funds seeks long-term capital appreciation by investing in underlying Vanguard international equity ETFs within a variable annuity contract framework\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-        "etf_name": "Unknown",
-        "strategy": "Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:00:48.748163+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001093278",
-    "company_name": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
-    "accession_number": "0001104659-26-043306",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1093278/000110465926043306/0001104659-26-043306-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1093278/000110465926043306/tm265178d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1093278/000110465926043306/tm265178d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES\nETF Name: Subaccount, you are exposed to the investment risks of the underlying fund\nStrategy: Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
-        "etf_name": "Subaccount, you are exposed to the investment risks of the underlying fund",
-        "strategy": "Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:00:54.167832+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000847552",
-    "company_name": "LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H",
-    "accession_number": "0001104659-26-043305",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/847552/000110465926043305/0001104659-26-043305-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/847552/000110465926043305/tm265169d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/847552/000110465926043305/tm265169d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H\nETF Name: Subaccount, you are exposed to the investment risks of the underlying fund\nStrategy: Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H",
-        "etf_name": "Subaccount, you are exposed to the investment risks of the underlying fund",
-        "strategy": "Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:00:59.029756+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000847552",
-    "company_name": "LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H",
-    "accession_number": "0001104659-26-043303",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/847552/000110465926043303/0001104659-26-043303-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/847552/000110465926043303/tm265167d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/847552/000110465926043303/tm265167d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H\nETF Name: Subaccount, you are exposed to the investment risks of the underlying fund\nStrategy: Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H",
-        "etf_name": "Subaccount, you are exposed to the investment risks of the underlying fund",
-        "strategy": "Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:01:05.573605+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001048606",
-    "company_name": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-    "accession_number": "0001104659-26-043302",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926043302/0001104659-26-043302-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000110465926043302/tm265158d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000110465926043302/tm265158d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: Subaccount, you are exposed to the investment risks of the underlying fund\nStrategy: Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-        "etf_name": "Subaccount, you are exposed to the investment risks of the underlying fund",
-        "strategy": "Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:01:10.915953+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001093278",
-    "company_name": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
-    "accession_number": "0001104659-26-043301",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1093278/000110465926043301/0001104659-26-043301-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1093278/000110465926043301/tm265176d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1093278/000110465926043301/tm265176d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES\nETF Name: Subaccount, you are exposed to the investment risks of the underlying fund\nStrategy: Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
-        "etf_name": "Subaccount, you are exposed to the investment risks of the underlying fund",
-        "strategy": "Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:01:13.473711+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000726865",
-    "company_name": "LINCOLN NATIONAL LIFE INSURANCE CO /IN/",
-    "accession_number": "0001104659-26-043300",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/726865/000110465926043300/0001104659-26-043300-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/726865/000110465926043300/tm265191d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/726865/000110465926043300/tm265191d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN NATIONAL LIFE INSURANCE CO /IN/\nETF Name: Investment Options Available Under The Contract. A market index, unlike an ETF\nStrategy: The fund\u2019s investment objective is to provide growth of capital The Indices used are \u201cprice return Indices,\u201d not \u201ctotal return Indices,\u201d meaning that each Index\u2019s returns do not include any dividends or other distributions declared by the companies included in the Index and will cause the Index to underperform a direct investment in the companies included in the Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN NATIONAL LIFE INSURANCE CO /IN/",
-        "etf_name": "Investment Options Available Under The Contract. A market index, unlike an ETF",
-        "strategy": "The fund\u2019s investment objective is to provide growth of capital The Indices used are \u201cprice return Indices,\u201d not \u201ctotal return Indices,\u201d meaning that each Index\u2019s returns do not include any dividends or other distributions declared by the companies included in the Index and will cause the Index to underperform a direct investment in the companies included in the Index",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:01:20.682145+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000847552",
-    "company_name": "LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H",
-    "accession_number": "0001104659-26-043299",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/847552/000110465926043299/0001104659-26-043299-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/847552/000110465926043299/tm265164d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/847552/000110465926043299/tm265164d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H\nETF Name: Subaccount, you are exposed to the investment risks of the underlying fund\nStrategy: Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN NATIONAL VARIABLE ANNUITY ACCOUNT H",
-        "etf_name": "Subaccount, you are exposed to the investment risks of the underlying fund",
-        "strategy": "Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-14T22:01:24.391154+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001045008",
-    "company_name": "LINCOLN LIFE & ANNUITY VARIABLE ANNUITY ACCOUNT H",
-    "accession_number": "0001104659-26-043297",
-    "filed_date": "2026-04-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1045008/000110465926043297/0001104659-26-043297-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1045008/000110465926043297/tm265189d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1045008/000110465926043297/tm265189d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE & ANNUITY VARIABLE ANNUITY ACCOUNT H\nETF Name: Subaccount, you are exposed to the investment risks of the underlying fund\nStrategy: Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. 14 Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN LIFE & ANNUITY VARIABLE ANNUITY ACCOUNT H",
-        "etf_name": "Subaccount, you are exposed to the investment risks of the underlying fund",
-        "strategy": "Certain funds offered as part of this Contract have similar investment objectives and policies to other portfolios managed by the adviser. 14 Our affiliates may promote the benefits of such funds to Contractowners and/or suggest that Contractowners consider whether allocating some or all of their Contract Value to such portfolios is consistent with their desired investment objectives.",
         "is_alert_worthy": "LOW"
       }
     ],
