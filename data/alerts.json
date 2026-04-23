@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-04-23T12:42:17.020426+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001722388",
+    "company_name": "Tidal Trust III",
+    "accession_number": "0001999371-26-008782",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126008782/0001999371-26-008782-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1722388/000199937126008782/wrth_485bpos-042326.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126008782/wrth_485bpos-042326.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust III\nETF Name: Worth Charting Options Income ETF\nStrategy: Actively managed ETF that seeks current income by generating premium income through a proprietary options-based strategy sub-advised by Worth Charting Group LLC The fund expects high portfolio turnover, may hold other ETFs under Rule 12d1-4, and will not shift to defensive positions during adverse market conditions\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust III",
+        "etf_name": "Worth Charting Options Income ETF",
+        "strategy": "Actively managed ETF that seeks current income by generating premium income through a proprietary options-based strategy sub-advised by Worth Charting Group LLC The fund expects high portfolio turnover, may hold other ETFs under Rule 12d1-4, and will not shift to defensive positions during adverse market conditions",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-23T11:23:34.450098+00:00",
     "form_type": "485BPOS",
     "cik": "0001081400",
@@ -14459,35 +14488,6 @@
         "filer": "Brighthouse Variable Annuity Account C",
         "etf_name": "Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF",
         "strategy": "Contract owners must follow platform-based allocation rules, committing at least 30% to Platform 1 portfolios and/or the Fixed Account, with capped exposure to Platform 2 (70%), Platform 3 (15%), and Platform 4 (15%)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T17:34:18.439145+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000815915",
-    "company_name": "Brighthouse Variable Annuity Account C",
-    "accession_number": "0001193125-26-161002",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/815915/000119312526161002/0001193125-26-161002-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/815915/000119312526161002/d17874d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/815915/000119312526161002/d17874d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Brighthouse Variable Annuity Account C\nETF Name: Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF\nStrategy: These are insurance separate-account investment portfolios within a variable annuity product, not exchange-traded funds, spanning objectives from capital appreciation to balanced income-and-growth across multiple asset classes. Contract owners must allocate at least 30% of purchase payments or account value to Platform 1 portfolios and/or the Fixed Account, with remaining allocations capped across Platforms 2 through...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Brighthouse Variable Annuity Account C",
-        "etf_name": "Global Diversified Risk Portfolio / Schroders Global Multi-Asset Portfolio / State Street Moderate ETF",
-        "strategy": "These are insurance separate-account investment portfolios within a variable annuity product, not exchange-traded funds, spanning objectives from capital appreciation to balanced income-and-growth across multiple asset classes. Contract owners must allocate at least 30% of purchase payments or account value to Platform 1 portfolios and/or the Fixed Account, with remaining allocations capped across Platforms 2 through...",
         "is_alert_worthy": "LOW"
       }
     ],
