@@ -1,5 +1,962 @@
 [
   {
+    "created_at": "2026-04-23T16:19:41.723417+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001081402",
+    "company_name": "ALLSPRING VARIABLE TRUST",
+    "accession_number": "0001081402-26-000005",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1081402/000108140226000005/0001081402-26-000005-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1081402/000108140226000005/allspring-20260501.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1081402/000108140226000005/allspring-20260501.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Allspring Variable Trust\nETF Name: Allspring VT Opportunity Fund\nStrategy: equity fund benchmarked to the Russell 3000\u00ae Index, blending fundamental analysis with systematic risk tools and optional ESG materiality assessments Seeks long-term capital appreciation with up to 25% foreign exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Allspring Variable Trust",
+        "etf_name": "Allspring VT Opportunity Fund",
+        "strategy": "equity fund benchmarked to the Russell 3000\u00ae Index, blending fundamental analysis with systematic risk tools and optional ESG materiality assessments Seeks long-term capital appreciation with up to 25% foreign exposure",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:20:32.140431+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002038891",
+    "company_name": "Equitable Financial Life Insurance Co of America (RILA)",
+    "accession_number": "0001104659-26-047476",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2038891/000110465926047476/0001104659-26-047476-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2038891/000110465926047476/tm262882d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2038891/000110465926047476/tm262882d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Company of America\nETF Name: EQ Managed Volatility Portfolios\nStrategy: These variable-annuity subaccount portfolios employ a proprietary volatility-management strategy using ETFs, futures, and options to dynamically reduce equity exposure when market-volatility indicators breach preset thresholds equity, international equity, and taxable bond sleeves, with an Automatic Transfer Program that algorithmically shifts account value into an ultra-conservative portfolio to hedge guaranteed-ben...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable Financial Life Insurance Company of America",
+        "etf_name": "EQ Managed Volatility Portfolios",
+        "strategy": "These variable-annuity subaccount portfolios employ a proprietary volatility-management strategy using ETFs, futures, and options to dynamically reduce equity exposure when market-volatility indicators breach preset thresholds equity, international equity, and taxable bond sleeves, with an Automatic Transfer Program that algorithmically shifts account value into an ultra-conservative portfolio to hedge guaranteed-ben...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:21:16.250611+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002038891",
+    "company_name": "Equitable Financial Life Insurance Co of America (RILA)",
+    "accession_number": "0001104659-26-047474",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2038891/000110465926047474/0001104659-26-047474-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2038891/000110465926047474/tm262883d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2038891/000110465926047474/tm262883d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Co of America\nETF Name: MONY Variable Annuity Series (Options 1, 2, or 3)\nStrategy: This is a variable annuity contract offering multiple underlying investment portfolios and a Guaranteed Interest Account with a Market Value Adjustment feature inside a tax-deferred insurance wrapper. Contract holders bear full investment risk, including possible loss of principal, as well as issuer credit risk.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable Financial Life Insurance Co of America",
+        "etf_name": "MONY Variable Annuity Series (Options 1, 2, or 3)",
+        "strategy": "This is a variable annuity contract offering multiple underlying investment portfolios and a Guaranteed Interest Account with a Market Value Adjustment feature inside a tax-deferred insurance wrapper. Contract holders bear full investment risk, including possible loss of principal, as well as issuer credit risk.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:22:03.776318+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000763862",
+    "company_name": "Equitable America Variable Account L of Equitable Financial Life Insurance Co of America",
+    "accession_number": "0001104659-26-047472",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/763862/000110465926047472/0001104659-26-047472-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/763862/000110465926047472/tm262880d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/763862/000110465926047472/tm262880d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Co of America\nETF Name: EQ Managed Volatility Portfolios\nStrategy: The portfolios employ Equitable IMG's proprietary volatility management strategy, using ETFs, futures, and options to systematically reduce equity exposure when market-volatility indicators breach preset thresholds An accompanying Asset Transfer Program shifts account value between the EQ/Ultra Conservative Strategy Portfolio and other offered portfolios via mathematical formulas to manage insurer exposure tied to gu...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable Financial Life Insurance Co of America",
+        "etf_name": "EQ Managed Volatility Portfolios",
+        "strategy": "The portfolios employ Equitable IMG's proprietary volatility management strategy, using ETFs, futures, and options to systematically reduce equity exposure when market-volatility indicators breach preset thresholds An accompanying Asset Transfer Program shifts account value between the EQ/Ultra Conservative Strategy Portfolio and other offered portfolios via mathematical formulas to manage insurer exposure tied to gu...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:22:47.749620+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000763862",
+    "company_name": "Equitable America Variable Account L of Equitable Financial Life Insurance Co of America",
+    "accession_number": "0001104659-26-047470",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/763862/000110465926047470/0001104659-26-047470-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/763862/000110465926047470/tm262875d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/763862/000110465926047470/tm262875d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable America Variable Account L of Equitable Financial Life Insurance Co of America\nETF Name: EQ Managed Volatility Portfolios\nStrategy: Insurance-linked variable annuity portfolios employing Equitable IMG's proprietary volatility management strategy, using ETFs, futures, and options to dynamically reduce equity exposure when market volatility exceeds preset thresholds Underlying options span equity and allocation styles with an Automatic Transfer Program that shifts account value into the EQ/Ultra Conservative Strategy Portfolio based on guaranteed-b...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable America Variable Account L of Equitable Financial Life Insurance Co of America",
+        "etf_name": "EQ Managed Volatility Portfolios",
+        "strategy": "Insurance-linked variable annuity portfolios employing Equitable IMG's proprietary volatility management strategy, using ETFs, futures, and options to dynamically reduce equity exposure when market volatility exceeds preset thresholds Underlying options span equity and allocation styles with an Automatic Transfer Program that shifts account value into the EQ/Ultra Conservative Strategy Portfolio based on guaranteed-b...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:23:40.889649+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000814378",
+    "company_name": "Equitable America Variable Account A of Equitable Financial Life Insurance Co of America",
+    "accession_number": "0001104659-26-047467",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/814378/000110465926047467/0001104659-26-047467-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/814378/000110465926047467/tm262879d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/814378/000110465926047467/tm262879d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Equitable America Variable Account A of Equitable Financial Life Insurance Co of America\nETF Name: EQ Managed Volatility Portfolios; EQ Fund of Fund Portfolios\nStrategy: Multi-asset portfolios employing a proprietary volatility-management overlay that uses ETFs, futures, and options to dynamically reduce equity exposure when market-volatility indicators breach preset thresholds Fund-of-fund versions gain indirect volatility-managed exposure by investing in the affiliated EQ Managed Volatility Portfolios\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Equitable America Variable Account A of Equitable Financial Life Insurance Co of America",
+        "etf_name": "EQ Managed Volatility Portfolios; EQ Fund of Fund Portfolios",
+        "strategy": "Multi-asset portfolios employing a proprietary volatility-management overlay that uses ETFs, futures, and options to dynamically reduce equity exposure when market-volatility indicators breach preset thresholds Fund-of-fund versions gain indirect volatility-managed exposure by investing in the affiliated EQ Managed Volatility Portfolios",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:24:23.776826+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001686062",
+    "company_name": "Invesco Unit Trusts Taxable Income Series 642",
+    "accession_number": "0001528621-26-000424",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1686062/000152862126000424/0001528621-26-000424-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1686062/000152862126000424/tis642_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1686062/000152862126000424/tis642_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Capital Markets, Inc\nETF Name: Invesco Unit Trusts, Taxable Income Series 642 \u2014 Investment Grade Corporate Trust, 3\u20137 Year Series 39\nStrategy: The portfolio is static and not actively traded, with sector allocations spanning Communications, among others, and issuers such as Discovery Communications and Booking Holdings\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Capital Markets, Inc",
+        "etf_name": "Invesco Unit Trusts, Taxable Income Series 642 \u2014 Investment Grade Corporate Trust, 3\u20137 Year Series 39",
+        "strategy": "The portfolio is static and not actively traded, with sector allocations spanning Communications, among others, and issuers such as Discovery Communications and Booking Holdings",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:25:08.387334+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001608176",
+    "company_name": "Invesco Unit Trusts Taxable Income Series 542",
+    "accession_number": "0001528621-26-000423",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1608176/000152862126000423/0001528621-26-000423-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1608176/000152862126000423/tis542_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1608176/000152862126000423/tis542_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Capital Markets, Inc\nETF Name: Investment Grade Income Trust, 20+ Year Series 68\nStrategy: A unit investment trust holding a fixed portfolio of long-duration (20+ year) investment-grade bonds, weighted approximately 75% corporate bonds with smaller allocations to higher education, transportation, utilities, and certificates of participation Roughly 29% of the portfolio is allocated to taxable municipal bonds across Colorado, Illinois, Michigan, Washington, and the District of Columbia\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Capital Markets, Inc",
+        "etf_name": "Investment Grade Income Trust, 20+ Year Series 68",
+        "strategy": "A unit investment trust holding a fixed portfolio of long-duration (20+ year) investment-grade bonds, weighted approximately 75% corporate bonds with smaller allocations to higher education, transportation, utilities, and certificates of participation Roughly 29% of the portfolio is allocated to taxable municipal bonds across Colorado, Illinois, Michigan, Washington, and the District of Columbia",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:25:51.430212+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001608169",
+    "company_name": "Invesco Unit Trusts Taxable Income Series 535",
+    "accession_number": "0001528621-26-000422",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1608169/000152862126000422/0001528621-26-000422-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1608169/000152862126000422/tis535_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1608169/000152862126000422/tis535_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Capital Markets, Inc\nETF Name: Invesco Unit Trusts, Taxable Income Series 535 \u2014 Investment Grade Income Trust, 10-20 Year Series 58\nStrategy: A fixed-income unit investment trust holding a static portfolio of investment-grade bonds with 10\u201320 year maturities, split roughly 65% corporate bonds and 35% municipal bonds including taxable Build America Bonds The portfolio is unmanaged and diversified across states and sectors including utilities, higher education, and general obligation issuers\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Capital Markets, Inc",
+        "etf_name": "Invesco Unit Trusts, Taxable Income Series 535 \u2014 Investment Grade Income Trust, 10-20 Year Series 58",
+        "strategy": "A fixed-income unit investment trust holding a static portfolio of investment-grade bonds with 10\u201320 year maturities, split roughly 65% corporate bonds and 35% municipal bonds including taxable Build America Bonds The portfolio is unmanaged and diversified across states and sectors including utilities, higher education, and general obligation issuers",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:26:34.701934+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001563118",
+    "company_name": "Invesco Unit Trusts Taxable Income Series 495",
+    "accession_number": "0001528621-26-000421",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1563118/000152862126000421/0001528621-26-000421-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1563118/000152862126000421/tis495_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1563118/000152862126000421/tis495_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Capital Markets, Inc\nETF Name: Investment Grade Income Trust, 10-20 Year Series 51\nStrategy: A fixed-income unit investment trust holding primarily investment-grade corporate bonds (63%), general obligation municipal bonds (20%), and utilities (12%) with 10\u201320 year maturities. Geographic concentration in the municipal sleeve is heaviest in California (21%) and Illinois (11%), targeting steady income from intermediate-to-long-duration investment-grade debt.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Capital Markets, Inc",
+        "etf_name": "Investment Grade Income Trust, 10-20 Year Series 51",
+        "strategy": "A fixed-income unit investment trust holding primarily investment-grade corporate bonds (63%), general obligation municipal bonds (20%), and utilities (12%) with 10\u201320 year maturities. Geographic concentration in the municipal sleeve is heaviest in California (21%) and Illinois (11%), targeting steady income from intermediate-to-long-duration investment-grade debt.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:27:17.672115+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001563145",
+    "company_name": "Invesco Unit Trusts Taxable Income Series 462",
+    "accession_number": "0001528621-26-000420",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1563145/000152862126000420/0001528621-26-000420-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1563145/000152862126000420/tis462_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1563145/000152862126000420/tis462_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Capital Markets, Inc\nETF Name: Investment Grade Income Trust, 20+ Year Series 54\nStrategy: A fixed, unmanaged unit investment trust holding a portfolio of investment-grade bonds with maturities beyond 20 years, weighted primarily toward corporate bonds (62%) with additional exposure to municipal bonds and certificates of participation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Capital Markets, Inc",
+        "etf_name": "Investment Grade Income Trust, 20+ Year Series 54",
+        "strategy": "A fixed, unmanaged unit investment trust holding a portfolio of investment-grade bonds with maturities beyond 20 years, weighted primarily toward corporate bonds (62%) with additional exposure to municipal bonds and certificates of participation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:28:01.655975+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001563143",
+    "company_name": "Invesco Unit Trusts Taxable Income Series 460",
+    "accession_number": "0001528621-26-000419",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1563143/000152862126000419/0001528621-26-000419-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1563143/000152862126000419/tis460_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1563143/000152862126000419/tis460_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Capital Markets, Inc\nETF Name: Investment Grade Income Trust, 10-20 Year Series 44\nStrategy: The trust targets income generation over a 10\u201320 year maturity horizon with municipal exposure concentrated in Florida, Illinois, and New York\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Capital Markets, Inc",
+        "etf_name": "Investment Grade Income Trust, 10-20 Year Series 44",
+        "strategy": "The trust targets income generation over a 10\u201320 year maturity horizon with municipal exposure concentrated in Florida, Illinois, and New York",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:28:45.412242+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001547611",
+    "company_name": "Invesco Unit Trusts Taxable Income Series 434",
+    "accession_number": "0001528621-26-000418",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547611/000152862126000418/0001528621-26-000418-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547611/000152862126000418/tis434_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547611/000152862126000418/tis434_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Capital Markets, Inc\nETF Name: Invesco Unit Trusts, Taxable Income Series 434 \u2014 Investment Grade Income Trust, 20+ Year Series 42\nStrategy: A fixed-income unit investment trust holding a static portfolio of long-duration (20+ year) investment-grade bonds, split roughly 46% municipal bonds and 54% taxable instruments including corporate bonds, certificates of participation, and utility revenue bonds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Capital Markets, Inc",
+        "etf_name": "Invesco Unit Trusts, Taxable Income Series 434 \u2014 Investment Grade Income Trust, 20+ Year Series 42",
+        "strategy": "A fixed-income unit investment trust holding a static portfolio of long-duration (20+ year) investment-grade bonds, split roughly 46% municipal bonds and 54% taxable instruments including corporate bonds, certificates of participation, and utility revenue bonds",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:29:27.866339+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001547609",
+    "company_name": "Invesco Unit Trusts Taxable Income Series 433",
+    "accession_number": "0001528621-26-000417",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547609/000152862126000417/0001528621-26-000417-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547609/000152862126000417/tis433_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547609/000152862126000417/tis433_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Capital Markets, Inc. (Sponsor of Invesco Unit Trusts, Taxable Income Series 433)\nETF Name: Investment Grade Income Trust, 20+ Year Series 41\nStrategy: A fixed-income unit investment trust holding primarily investment-grade corporate bonds (~77%) and municipal bonds (~23%) with a 20+ year duration target. The municipal allocation is diversified across several U.S.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Capital Markets, Inc. (Sponsor of Invesco Unit Trusts, Taxable Income Series 433)",
+        "etf_name": "Investment Grade Income Trust, 20+ Year Series 41",
+        "strategy": "A fixed-income unit investment trust holding primarily investment-grade corporate bonds (~77%) and municipal bonds (~23%) with a 20+ year duration target. The municipal allocation is diversified across several U.S.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:30:07.993139+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001547607",
+    "company_name": "Invesco Unit Trusts Taxable Income Series 431",
+    "accession_number": "0001528621-26-000416",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547607/000152862126000416/0001528621-26-000416-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547607/000152862126000416/tis431_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547607/000152862126000416/tis431_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Capital Markets, Inc\nETF Name: Investment Grade Income Trust, 10-20 Year Series 36\nStrategy: A fixed-income unit investment trust holding investment-grade bonds with 10\u201320 year maturities, weighted toward corporate bonds (52%), utility bonds (25%), and general-purpose municipal bonds (16%), with notable state-level concentration in California and North Carolina. The trust is designed for monthly income distribution and follows a buy-and-hold approach, meaning it will not sell bonds solely due to price declin...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Capital Markets, Inc",
+        "etf_name": "Investment Grade Income Trust, 10-20 Year Series 36",
+        "strategy": "A fixed-income unit investment trust holding investment-grade bonds with 10\u201320 year maturities, weighted toward corporate bonds (52%), utility bonds (25%), and general-purpose municipal bonds (16%), with notable state-level concentration in California and North Carolina. The trust is designed for monthly income distribution and follows a buy-and-hold approach, meaning it will not sell bonds solely due to price declin...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:30:52.049339+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001547606",
+    "company_name": "Invesco Unit Trusts Taxable Income Series 430",
+    "accession_number": "0001528621-26-000415",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547606/000152862126000415/0001528621-26-000415-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547606/000152862126000415/tis430_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547606/000152862126000415/tis430_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Capital Markets, Inc\nETF Name: Investment Grade Income Trust, 10-20 Year Series 35\nStrategy: Municipal bond exposure is concentrated in California, Florida, and West Virginia, spanning general-purpose, transportation, and utility sectors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Capital Markets, Inc",
+        "etf_name": "Investment Grade Income Trust, 10-20 Year Series 35",
+        "strategy": "Municipal bond exposure is concentrated in California, Florida, and West Virginia, spanning general-purpose, transportation, and utility sectors",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:31:34.869346+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001524254",
+    "company_name": "Van Kampen Unit Trusts Taxable Income Series 367",
+    "accession_number": "0001528621-26-000414",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1524254/000152862126000414/0001528621-26-000414-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1524254/000152862126000414/tis367_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1524254/000152862126000414/tis367_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Capital Markets, Inc\nETF Name: Investment Grade Income Trust, 10-20 Year Series 18\nStrategy: Fixed-income unit investment trust holding a static portfolio of approximately 60% corporate bonds and 40% municipal bonds with maturities in the 10-to-20-year range Municipal exposure is concentrated in Illinois and California, spanning general obligation, utility, healthcare, and transportation issuers rated investment grade\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Capital Markets, Inc",
+        "etf_name": "Investment Grade Income Trust, 10-20 Year Series 18",
+        "strategy": "Fixed-income unit investment trust holding a static portfolio of approximately 60% corporate bonds and 40% municipal bonds with maturities in the 10-to-20-year range Municipal exposure is concentrated in Illinois and California, spanning general obligation, utility, healthcare, and transportation issuers rated investment grade",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:32:20.203386+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001524253",
+    "company_name": "Van Kampen Unit Trusts Taxable Income Series 366",
+    "accession_number": "0001528621-26-000413",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1524253/000152862126000413/0001528621-26-000413-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1524253/000152862126000413/tis366_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1524253/000152862126000413/tis366_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Van Kampen Unit Trusts Taxable Income Series 366\nETF Name: Investment Grade Income Trust, 10-20 Year Series 17\nStrategy: A fixed-income unit investment trust holding a static portfolio of investment-grade bonds with 10\u201320 year maturities, allocated primarily across corporate bonds (60%) and general obligation municipals (31%) with smaller positions in certificates of participation, general purpose, and utilities Municipal bond exposure is concentrated in Illinois (23%), Washington (7%), and Colorado (5%), carrying notable state-level c...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Van Kampen Unit Trusts Taxable Income Series 366",
+        "etf_name": "Investment Grade Income Trust, 10-20 Year Series 17",
+        "strategy": "A fixed-income unit investment trust holding a static portfolio of investment-grade bonds with 10\u201320 year maturities, allocated primarily across corporate bonds (60%) and general obligation municipals (31%) with smaller positions in certificates of participation, general purpose, and utilities Municipal bond exposure is concentrated in Illinois (23%), Washington (7%), and Colorado (5%), carrying notable state-level c...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:33:07.344016+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001524252",
+    "company_name": "Van Kampen Unit Trusts Taxable Income Series 365",
+    "accession_number": "0001528621-26-000412",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1524252/000152862126000412/0001528621-26-000412-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1524252/000152862126000412/tis365_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1524252/000152862126000412/tis365_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Van Kampen Unit Trusts Taxable Income Series 365\nETF Name: Investment Grade Income Trust, 20+ Year Series 13\nStrategy: Fixed-income unit investment trust holding a static portfolio of investment-grade corporate bonds and municipal bonds with maturities exceeding 20 years Municipal bond exposure is concentrated in California and Nevada, with corporate bonds comprising roughly 40% of the portfolio and the remainder allocated across general-purpose, transportation, and general-obligation municipal sectors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Van Kampen Unit Trusts Taxable Income Series 365",
+        "etf_name": "Investment Grade Income Trust, 20+ Year Series 13",
+        "strategy": "Fixed-income unit investment trust holding a static portfolio of investment-grade corporate bonds and municipal bonds with maturities exceeding 20 years Municipal bond exposure is concentrated in California and Nevada, with corporate bonds comprising roughly 40% of the portfolio and the remainder allocated across general-purpose, transportation, and general-obligation municipal sectors",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:33:49.922464+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001524251",
+    "company_name": "Van Kampen Unit Trusts Taxable Income Series 364",
+    "accession_number": "0001528621-26-000411",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1524251/000152862126000411/0001528621-26-000411-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1524251/000152862126000411/tis364_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1524251/000152862126000411/tis364_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Van Kampen Unit Trusts, Taxable Income Series 364\nETF Name: Investment Grade Income Trust, 20+ Year Series 12\nStrategy: A fixed-income unit investment trust holding a static portfolio of long-duration (20+ year) investment-grade bonds, split approximately 63% taxable municipal bonds and 40% corporate bonds with geographic concentration in Missouri, Nevada, California, and Virginia The trust is not actively managed; in the event of failed bond deliveries, the Sponsor may direct the Trustee to acquire replacement bonds to complete the o...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Van Kampen Unit Trusts, Taxable Income Series 364",
+        "etf_name": "Investment Grade Income Trust, 20+ Year Series 12",
+        "strategy": "A fixed-income unit investment trust holding a static portfolio of long-duration (20+ year) investment-grade bonds, split approximately 63% taxable municipal bonds and 40% corporate bonds with geographic concentration in Missouri, Nevada, California, and Virginia The trust is not actively managed; in the event of failed bond deliveries, the Sponsor may direct the Trustee to acquire replacement bonds to complete the o...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:34:30.034401+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001172269",
+    "company_name": "VAN KAMPEN FOCUS PORTFOLIOS TAXABLE INCOME SERIES 25",
+    "accession_number": "0001528621-26-000410",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1172269/000152862126000410/0001528621-26-000410-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1172269/000152862126000410/tis025_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1172269/000152862126000410/tis025_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Van Kampen Focus Portfolios, Taxable Income Series 25\nETF Name: Long-Term Investment Grade Trust, Series 11\nStrategy: A static unit investment trust holding a fixed portfolio of long-term, investment-grade taxable corporate bonds concentrated in Communications (55%), Consumer Discretionary (22%), Financials (13%), and Consumer Staples (10%)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Van Kampen Focus Portfolios, Taxable Income Series 25",
+        "etf_name": "Long-Term Investment Grade Trust, Series 11",
+        "strategy": "A static unit investment trust holding a fixed portfolio of long-term, investment-grade taxable corporate bonds concentrated in Communications (55%), Consumer Discretionary (22%), Financials (13%), and Consumer Staples (10%)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:35:34.130102+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001778936",
+    "company_name": "Invesco Unit Trusts, Municipal Series 1358",
+    "accession_number": "0001528621-26-000409",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1778936/000152862126000409/0001528621-26-000409-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1778936/000152862126000409/focus1358_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1778936/000152862126000409/focus1358_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1358\nETF Name: Investment Grade Municipal Trust, 20+ Year Series 201\nStrategy: Holds a fixed, laddered portfolio of tax-exempt, investment-grade municipal bonds with maturities beyond 20 years, diversified across Health Care (30%), General Obligation (27%), Transportation (22%), Higher Education (13%), and other sectors spanning 14 states\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Unit Trusts, Municipal Series 1358",
+        "etf_name": "Investment Grade Municipal Trust, 20+ Year Series 201",
+        "strategy": "Holds a fixed, laddered portfolio of tax-exempt, investment-grade municipal bonds with maturities beyond 20 years, diversified across Health Care (30%), General Obligation (27%), Transportation (22%), Higher Education (13%), and other sectors spanning 14 states",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:36:16.089117+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001778926",
+    "company_name": "Invesco Unit Trusts, Municipal Series 1353",
+    "accession_number": "0001528621-26-000408",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1778926/000152862126000408/0001528621-26-000408-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1778926/000152862126000408/focus1353_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1778926/000152862126000408/focus1353_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1353\nETF Name: Investment Grade Municipal Trust, 20+ Year Series 196\nStrategy: Holds a fixed, laddered portfolio of investment-grade, tax-exempt municipal bonds with maturities beyond 20 years, concentrated in Health Care, General Obligation, and Higher Education sectors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Unit Trusts, Municipal Series 1353",
+        "etf_name": "Investment Grade Municipal Trust, 20+ Year Series 196",
+        "strategy": "Holds a fixed, laddered portfolio of investment-grade, tax-exempt municipal bonds with maturities beyond 20 years, concentrated in Health Care, General Obligation, and Higher Education sectors",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:36:59.698604+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001689990",
+    "company_name": "Invesco Unit Trusts, Municipal Series 1345",
+    "accession_number": "0001528621-26-000407",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689990/000152862126000407/0001528621-26-000407-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689990/000152862126000407/focus1345_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689990/000152862126000407/focus1345_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1345\nETF Name: Quality Municipal Income Trust, 20+ Year Series 207\nStrategy: Invests in a static, laddered portfolio of long-duration investment-grade tax-exempt municipal bonds concentrated in Health Care (64%) and Higher Education (26%) revenue bonds, with maturities spanning approximately 10\u201330 years The trust may acquire Replacement Bonds if originally contracted bonds fail to deliver, but otherwise holds a fixed portfolio without active management through termination\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Unit Trusts, Municipal Series 1345",
+        "etf_name": "Quality Municipal Income Trust, 20+ Year Series 207",
+        "strategy": "Invests in a static, laddered portfolio of long-duration investment-grade tax-exempt municipal bonds concentrated in Health Care (64%) and Higher Education (26%) revenue bonds, with maturities spanning approximately 10\u201330 years The trust may acquire Replacement Bonds if originally contracted bonds fail to deliver, but otherwise holds a fixed portfolio without active management through termination",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:37:46.815632+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001689989",
+    "company_name": "Invesco Unit Trusts, Municipal Series 1344",
+    "accession_number": "0001528621-26-000406",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689989/000152862126000406/0001528621-26-000406-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689989/000152862126000406/focus1344_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689989/000152862126000406/focus1344_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1344\nETF Name: Quality Municipal Income Trust, 10-20 Year Series 104\nStrategy: Invests in a fixed, laddered portfolio of tax-exempt investment-grade municipal bonds with maturities of approximately 10\u201320 years, with roughly 20% of holdings maturing every five years to manage interest-rate risk The portfolio is allocated across sectors including General Obligation, Health Care, Higher Education, Utilities, and Certificates of Participation, seeking tax-advantaged income from municipal issuers in...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Unit Trusts, Municipal Series 1344",
+        "etf_name": "Quality Municipal Income Trust, 10-20 Year Series 104",
+        "strategy": "Invests in a fixed, laddered portfolio of tax-exempt investment-grade municipal bonds with maturities of approximately 10\u201320 years, with roughly 20% of holdings maturing every five years to manage interest-rate risk The portfolio is allocated across sectors including General Obligation, Health Care, Higher Education, Utilities, and Certificates of Participation, seeking tax-advantaged income from municipal issuers in...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:38:29.644384+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001689969",
+    "company_name": "Invesco Unit Trusts, Municipal Series 1329",
+    "accession_number": "0001528621-26-000405",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689969/000152862126000405/0001528621-26-000405-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689969/000152862126000405/focus1329_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689969/000152862126000405/focus1329_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1329\nETF Name: Insured Municipals Income Trust, Series 704\nStrategy: Tax-exempt fixed-income unit investment trust holding a static portfolio of insured municipal bonds laddered across approximately 10\u201330 year maturities, with roughly 20% of holdings maturing every five years The portfolio is concentrated in General Obligation, Health Care, Utilities, Airport, and Higher Education bonds, and is not actively managed or rebalanced\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Unit Trusts, Municipal Series 1329",
+        "etf_name": "Insured Municipals Income Trust, Series 704",
+        "strategy": "Tax-exempt fixed-income unit investment trust holding a static portfolio of insured municipal bonds laddered across approximately 10\u201330 year maturities, with roughly 20% of holdings maturing every five years The portfolio is concentrated in General Obligation, Health Care, Utilities, Airport, and Higher Education bonds, and is not actively managed or rebalanced",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:39:12.650607+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001689951",
+    "company_name": "Invesco Unit Trusts, Municipal Series 1312",
+    "accession_number": "0001528621-26-000404",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689951/000152862126000404/0001528621-26-000404-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689951/000152862126000404/focus1312_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689951/000152862126000404/focus1312_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1312\nETF Name: Investment Grade Municipal Trust, 10-20 Year Series 16\nStrategy: Invests in a fixed, buy-and-hold portfolio of investment-grade, tax-exempt municipal bonds with maturities of approximately 10\u201320 years, laddered so roughly 20% of bonds mature every five years starting around year ten\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Unit Trusts, Municipal Series 1312",
+        "etf_name": "Investment Grade Municipal Trust, 10-20 Year Series 16",
+        "strategy": "Invests in a fixed, buy-and-hold portfolio of investment-grade, tax-exempt municipal bonds with maturities of approximately 10\u201320 years, laddered so roughly 20% of bonds mature every five years starting around year ten",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:39:57.657458+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001689948",
+    "company_name": "Invesco Unit Trusts, Municipal Series 1309",
+    "accession_number": "0001528621-26-000403",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689948/000152862126000403/0001528621-26-000403-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689948/000152862126000403/focus1309_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689948/000152862126000403/focus1309_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1309\nETF Name: Insured Municipals Income Trust, Series 698\nStrategy: The static portfolio is concentrated in GO bonds (45%) and Transportation (31%), with holdings in FL, KS, CA, OH, TX, and NY, and coupon rates ranging from 3.000%\u20134.000%\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Unit Trusts, Municipal Series 1309",
+        "etf_name": "Insured Municipals Income Trust, Series 698",
+        "strategy": "The static portfolio is concentrated in GO bonds (45%) and Transportation (31%), with holdings in FL, KS, CA, OH, TX, and NY, and coupon rates ranging from 3.000%\u20134.000%",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:40:41.018585+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001689947",
+    "company_name": "Invesco Unit Trusts, Municipal Series 1308",
+    "accession_number": "0001528621-26-000402",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689947/000152862126000402/0001528621-26-000402-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689947/000152862126000402/focus1308_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689947/000152862126000402/focus1308_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1308\nETF Name: Quality Municipal Income Trust, 20+ Year Series 198\nStrategy: This is a fixed, buy-and-hold unit investment trust holding long-duration investment-grade tax-exempt municipal bonds laddered over approximately 10\u201330 years, with heavy concentration in health care revenue (46%) and higher education (27%) sectors. Holdings are geographically diversified across multiple states with credit ratings ranging from BBB- to AA, and roughly 20% of bonds mature every five years beginning arou...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Unit Trusts, Municipal Series 1308",
+        "etf_name": "Quality Municipal Income Trust, 20+ Year Series 198",
+        "strategy": "This is a fixed, buy-and-hold unit investment trust holding long-duration investment-grade tax-exempt municipal bonds laddered over approximately 10\u201330 years, with heavy concentration in health care revenue (46%) and higher education (27%) sectors. Holdings are geographically diversified across multiple states with credit ratings ranging from BBB- to AA, and roughly 20% of bonds mature every five years beginning arou...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:41:27.831165+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001633407",
+    "company_name": "Invesco Unit Trusts, Municipal Series 1285",
+    "accession_number": "0001528621-26-000401",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1633407/000152862126000401/0001528621-26-000401-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1633407/000152862126000401/focus1285_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1633407/000152862126000401/focus1285_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1285\nETF Name: Investment Grade Municipal Trust, 10-20 Year Series 12\nStrategy: This unit investment trust holds a laddered portfolio of investment-grade, tax-exempt municipal bonds with 10\u201320 year maturities, concentrated in Health Care, Higher Education, and Transportation revenue bonds across states including Florida, Illinois, and Wisconsin Replacement bonds may be acquired if originally contracted bonds fail to deliver, and the portfolio is selected based on credit ratings, relative pricing...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Unit Trusts, Municipal Series 1285",
+        "etf_name": "Investment Grade Municipal Trust, 10-20 Year Series 12",
+        "strategy": "This unit investment trust holds a laddered portfolio of investment-grade, tax-exempt municipal bonds with 10\u201320 year maturities, concentrated in Health Care, Higher Education, and Transportation revenue bonds across states including Florida, Illinois, and Wisconsin Replacement bonds may be acquired if originally contracted bonds fail to deliver, and the portfolio is selected based on credit ratings, relative pricing...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:42:22.468810+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001633408",
+    "company_name": "Invesco Unit Trusts, Municipal Series 1284",
+    "accession_number": "0001528621-26-000400",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1633408/000152862126000400/0001528621-26-000400-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1633408/000152862126000400/focus1284_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1633408/000152862126000400/focus1284_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1284\nETF Name: Insured Municipals Income Trust, Series 692\nStrategy: The Trust holds a laddered, fixed portfolio of insured tax-exempt municipal bonds with maturities spanning approximately 10\u201330 years, concentrated in General Obligation, Higher Education, Utilities, and Transportation sectors Replacement Bonds may be acquired if any purchased bonds fail to deliver, maintaining the original portfolio composition\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Unit Trusts, Municipal Series 1284",
+        "etf_name": "Insured Municipals Income Trust, Series 692",
+        "strategy": "The Trust holds a laddered, fixed portfolio of insured tax-exempt municipal bonds with maturities spanning approximately 10\u201330 years, concentrated in General Obligation, Higher Education, Utilities, and Transportation sectors Replacement Bonds may be acquired if any purchased bonds fail to deliver, maintaining the original portfolio composition",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:43:01.652580+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001633409",
+    "company_name": "Invesco Unit Trusts, Municipal Series 1283",
+    "accession_number": "0001528621-26-000399",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1633409/000152862126000399/0001528621-26-000399-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1633409/000152862126000399/focus1283_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1633409/000152862126000399/focus1283_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1283\nETF Name: Investment Grade Municipal Trust, 20+ Year Series 188\nStrategy: A unit investment trust holding a fixed, laddered portfolio of long-dated investment-grade municipal bonds with maturities of approximately 10\u201330 years, concentrated in higher education, health care, and general obligation sectors across 12 states\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Unit Trusts, Municipal Series 1283",
+        "etf_name": "Investment Grade Municipal Trust, 20+ Year Series 188",
+        "strategy": "A unit investment trust holding a fixed, laddered portfolio of long-dated investment-grade municipal bonds with maturities of approximately 10\u201330 years, concentrated in higher education, health care, and general obligation sectors across 12 states",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T16:43:50.575158+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001633497",
+    "company_name": "Invesco Unit Trusts, Municipal Series 1255",
+    "accession_number": "0001528621-26-000398",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1633497/000152862126000398/0001528621-26-000398-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1633497/000152862126000398/focus1255_485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1633497/000152862126000398/focus1255_485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1255\nETF Name: Quality Municipal Income Trust, 20+ Year Series 191\nStrategy: Invests in a laddered, fixed portfolio of long-dated, investment-grade tax-exempt municipal bonds with maturities of approximately 10\u201330 years, concentrated primarily in Health Care and Utilities revenue issues In the event of failed bond deliveries, the Sponsor may direct the Trustee to acquire replacement bonds to complete the original portfolio composition\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Unit Trusts, Municipal Series 1255",
+        "etf_name": "Quality Municipal Income Trust, 20+ Year Series 191",
+        "strategy": "Invests in a laddered, fixed portfolio of long-dated, investment-grade tax-exempt municipal bonds with maturities of approximately 10\u201330 years, concentrated primarily in Health Care and Utilities revenue issues In the event of failed bond deliveries, the Sponsor may direct the Trustee to acquire replacement bonds to complete the original portfolio composition",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-23T14:27:12.641734+00:00",
     "form_type": "485BPOS",
     "cik": "0000035341",
@@ -13531,963 +14488,6 @@
         "filer": "Midland National Life Insurance Company",
         "etf_name": "Target Allocation ETF",
         "strategy": "This is a variable annuity separate-account prospectus, not an ETF filing; it channels policyholder premiums into subaccounts that each invest exclusively in shares of underlying third-party investment portfolios from fund families including BlackRock, Columbia, DWS, and Legg Mason/Franklin Templeton Contract holders bear all investment risk, with accumulation values fluctuating based on each chosen portfolio's perfo...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-20T16:52:39.335766+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000874835",
-    "company_name": "LEGG MASON PARTNERS VARIABLE INCOME TRUST",
-    "accession_number": "0001193125-26-163317",
-    "filed_date": "2026-04-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/874835/000119312526163317/0001193125-26-163317-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/874835/000119312526163317/d134920d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/874835/000119312526163317/d134920d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Legg Mason Partners Variable Income Trust\nETF Name: Western Asset Core Plus VIT Portfolio\nStrategy: Seeks to maximize total return by investing at least 80% of net assets in investment-grade debt and fixed-income securities across sovereign, supranational, mortgage-backed, and asset-backed sectors with active duration management\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Legg Mason Partners Variable Income Trust",
-        "etf_name": "Western Asset Core Plus VIT Portfolio",
-        "strategy": "Seeks to maximize total return by investing at least 80% of net assets in investment-grade debt and fixed-income securities across sovereign, supranational, mortgage-backed, and asset-backed sectors with active duration management",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-20T16:53:40.934631+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001572661",
-    "company_name": "Principal Exchange-Traded Funds",
-    "accession_number": "0001104659-26-045353",
-    "filed_date": "2026-04-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1572661/000110465926045353/0001104659-26-045353-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1572661/000110465926045353/tm264493d2_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1572661/000110465926045353/tm264493d2_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Principal Exchange-Traded Funds (Trust) / Principal Global Investors, LLC (Adviser)\nETF Name: Principal Securitized Debt ETF\nStrategy: No further strategy detail is available in this filing excerpt beyond its securitized-debt mandate\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Principal Exchange-Traded Funds (Trust) / Principal Global Investors, LLC (Adviser)",
-        "etf_name": "Principal Securitized Debt ETF",
-        "strategy": "No further strategy detail is available in this filing excerpt beyond its securitized-debt mandate",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-20T15:50:41.124900+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001683471",
-    "company_name": "Listed Funds Trust",
-    "accession_number": "0000894189-26-012233",
-    "filed_date": "2026-04-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926012233/0000894189-26-012233-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1683471/000089418926012233/ck0001683471-20260420.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926012233/ck0001683471-20260420.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Listed Funds Trust\nETF Name: Teucrium 2x Long Daily BNB ETF\nStrategy: Description of Exhibit (a) (i) Certificate of Trust of Active Weighting Funds ETF Trust dated August 26, 2016 is incorporated herein by reference to Exhibit (a)(i) to the Registrant\u2019s Registration Statement on Form N-1A, as filed on April 26, 2019. (ii) Certificate of Amendment to the Certificate of Trust of Active Weighting Funds ETF Trust dated December 21, 2018 is incorporated herein by reference to Exhibit (a)(ii...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Listed Funds Trust",
-        "etf_name": "Teucrium 2x Long Daily BNB ETF",
-        "strategy": "Description of Exhibit (a) (i) Certificate of Trust of Active Weighting Funds ETF Trust dated August 26, 2016 is incorporated herein by reference to Exhibit (a)(i) to the Registrant\u2019s Registration Statement on Form N-1A, as filed on April 26, 2019. (ii) Certificate of Amendment to the Certificate of Trust of Active Weighting Funds ETF Trust dated December 21, 2018 is incorporated herein by reference to Exhibit (a)(ii...",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-20T15:51:52.534469+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001018593",
-    "company_name": "VIRTUS ASSET TRUST",
-    "accession_number": "0000930413-26-001089",
-    "filed_date": "2026-04-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1018593/000093041326001089/0000930413-26-001089-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1018593/000093041326001089/c116168_485bpos-ixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1018593/000093041326001089/c116168_485bpos-ixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Virtus Asset Trust\nETF Name: Retirement plans and deferred compensation plans and trusts used to fund\nStrategy: The Ceredex-subadvised funds pursue U.S. equity value strategies across large-, mid-, and small-cap segments, with the Large-Cap Value fund investing at least 80% of net assets in large-cap equities using a value-oriented approach.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Virtus Asset Trust",
-        "etf_name": "Retirement plans and deferred compensation plans and trusts used to fund",
-        "strategy": "The Ceredex-subadvised funds pursue U.S. equity value strategies across large-, mid-, and small-cap segments, with the Large-Cap Value fund investing at least 80% of net assets in large-cap equities using a value-oriented approach.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-20T15:53:08.468308+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000823535",
-    "company_name": "Variable Insurance Products Fund V",
-    "accession_number": "0000823535-26-000116",
-    "filed_date": "2026-04-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/823535/000082353526000116/0000823535-26-000116-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/823535/000082353526000116/filing11799.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/823535/000082353526000116/filing11799.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Insurance Products Fund V (Fidelity Investments)\nETF Name: VIP Strategic Income Portfolio / Investor Freedom\u00ae Funds (target-date suite)\nStrategy: VIP Strategic Income Portfolio is a multi-sector fixed-income fund seeking high current income with at least 80% of assets in income-producing debt securities and related derivatives Investor Freedom\u00ae Funds are a zero-management-fee, fund-of-funds target-date suite (2010\u20132050 vintages plus a Retirement Portfolio) for variable insurance products, passing through only underlying fund costs\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Insurance Products Fund V (Fidelity Investments)",
-        "etf_name": "VIP Strategic Income Portfolio / Investor Freedom\u00ae Funds (target-date suite)",
-        "strategy": "VIP Strategic Income Portfolio is a multi-sector fixed-income fund seeking high current income with at least 80% of assets in income-producing debt securities and related derivatives Investor Freedom\u00ae Funds are a zero-management-fee, fund-of-funds target-date suite (2010\u20132050 vintages plus a Retirement Portfolio) for variable insurance products, passing through only underlying fund costs",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-20T15:54:06.124713+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000720318",
-    "company_name": "VARIABLE INSURANCE PRODUCTS FUND IV",
-    "accession_number": "0000720318-26-000055",
-    "filed_date": "2026-04-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/720318/000072031826000055/0000720318-26-000055-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/720318/000072031826000055/filing11786.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/720318/000072031826000055/filing11786.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Insurance Products Fund IV (Fidelity)\nETF Name: See the sections above for information unique to each fund. Each fund\nStrategy: Security selection may include derivatives for additional sector exposure; all funds are non-diversified except VIP Financials Portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Insurance Products Fund IV (Fidelity)",
-        "etf_name": "See the sections above for information unique to each fund. Each fund",
-        "strategy": "Security selection may include derivatives for additional sector exposure; all funds are non-diversified except VIP Financials Portfolio",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-20T15:55:02.459738+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000927384",
-    "company_name": "VARIABLE INSURANCE PRODUCTS FUND III",
-    "accession_number": "0000927384-26-000030",
-    "filed_date": "2026-04-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/927384/000092738426000030/0000927384-26-000030-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/927384/000092738426000030/filing11797.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/927384/000092738426000030/filing11797.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Insurance Products Fund III (Fidelity)\nETF Name: VIP Value Strategies Portfolio / VIP Mid Cap Portfolio\nStrategy: VIP Value Strategies Portfolio seeks capital appreciation through a value-oriented U.S VIP Mid Cap Portfolio seeks long-term growth of capital focused on U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Insurance Products Fund III (Fidelity)",
-        "etf_name": "VIP Value Strategies Portfolio / VIP Mid Cap Portfolio",
-        "strategy": "VIP Value Strategies Portfolio seeks capital appreciation through a value-oriented U.S VIP Mid Cap Portfolio seeks long-term growth of capital focused on U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-20T15:55:55.126105+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001999801",
-    "company_name": "Variable Insurance Products Fund VI",
-    "accession_number": "0001999801-26-000036",
-    "filed_date": "2026-04-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1999801/000199980126000036/0001999801-26-000036-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1999801/000199980126000036/filing11783.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1999801/000199980126000036/filing11783.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Insurance Products Fund VI\nETF Name: VIP Hedged Equity Portfolio\nStrategy: Seeks capital appreciation by constructing an equity portfolio designed to mirror the risk-return characteristics of the S&P 500 Index, using a disciplined, derivatives-inclusive hedged equity approach At least 80% of assets are invested in equity securities and derivative instruments that provide equity exposure or exposure to associated market risk factors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Insurance Products Fund VI",
-        "etf_name": "VIP Hedged Equity Portfolio",
-        "strategy": "Seeks capital appreciation by constructing an equity portfolio designed to mirror the risk-return characteristics of the S&P 500 Index, using a disciplined, derivatives-inclusive hedged equity approach At least 80% of assets are invested in equity securities and derivative instruments that provide equity exposure or exposure to associated market risk factors",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-20T15:56:51.597117+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000831016",
-    "company_name": "VARIABLE INSURANCE PRODUCTS FUND II",
-    "accession_number": "0000831016-26-000031",
-    "filed_date": "2026-04-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/831016/000083101626000031/0000831016-26-000031-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/831016/000083101626000031/filing11791.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/831016/000083101626000031/filing11791.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: VARIABLE INSURANCE PRODUCTS FUND II\nETF Name: ETFs are similar to holding short positions in the underlying benchmark. ETF\nStrategy: and strategies. An ETF may seek to replicate the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "VARIABLE INSURANCE PRODUCTS FUND II",
-        "etf_name": "ETFs are similar to holding short positions in the underlying benchmark. ETF",
-        "strategy": "and strategies. An ETF may seek to replicate the",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-20T15:57:53.515946+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000356494",
-    "company_name": "VARIABLE INSURANCE PRODUCTS FUND",
-    "accession_number": "0000356494-26-000030",
-    "filed_date": "2026-04-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/356494/000035649426000030/0000356494-26-000030-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/356494/000035649426000030/filing11795.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/356494/000035649426000030/filing11795.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fidelity Variable Insurance Products Fund\nETF Name: VIP Overseas Portfolio\nStrategy: Seeks long-term growth of capital through an international equity strategy offered via variable insurance separate accounts The fund invests primarily in non-U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fidelity Variable Insurance Products Fund",
-        "etf_name": "VIP Overseas Portfolio",
-        "strategy": "Seeks long-term growth of capital through an international equity strategy offered via variable insurance separate accounts The fund invests primarily in non-U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-20T15:58:55.512923+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000822671",
-    "company_name": "PUTNAM VARIABLE TRUST",
-    "accession_number": "0001193125-26-163054",
-    "filed_date": "2026-04-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/822671/000119312526163054/0001193125-26-163054-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/822671/000119312526163054/d119285d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/822671/000119312526163054/d119285d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PUTNAM VARIABLE TRUST\nETF Name: Putnam VT Core Equity Fund\nStrategy: The fund targets broad domestic equity exposure with portfolio turnover historically ranging from approximately 391% to over 1,400%, indicating a highly active trading strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PUTNAM VARIABLE TRUST",
-        "etf_name": "Putnam VT Core Equity Fund",
-        "strategy": "The fund targets broad domestic equity exposure with portfolio turnover historically ranging from approximately 391% to over 1,400%, indicating a highly active trading strategy",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-20T14:14:15.670375+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-018010",
-    "filed_date": "2026-04-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226018010/0001493152-26-018010-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226018010/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226018010/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares 2x Short CBRS Daily ETF\nStrategy: Single-stock inverse ETF targeting the daily inverse (-100%) of Cerebras Systems Inc. common stock performance.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "GraniteShares 2x Short CBRS Daily ETF",
-        "strategy": "Single-stock inverse ETF targeting the daily inverse (-100%) of Cerebras Systems Inc. common stock performance.",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-20T14:15:23.688319+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-018007",
-    "filed_date": "2026-04-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226018007/0001493152-26-018007-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226018007/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226018007/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares 2x Short XNDU Daily ETF\nStrategy: Seeks daily investment results of \u2013200% (inverse 2\u00d7) the daily percentage change of Xanadu Quantum Technologies common stock (Nasdaq: XNDU)\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "GraniteShares 2x Short XNDU Daily ETF",
-        "strategy": "Seeks daily investment results of \u2013200% (inverse 2\u00d7) the daily percentage change of Xanadu Quantum Technologies common stock (Nasdaq: XNDU)",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-20T10:59:33.607450+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001838126",
-    "company_name": "HPS Corporate Lending Fund",
-    "accession_number": "0001193125-26-162182",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1838126/000119312526162182/0001193125-26-162182-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1838126/000119312526162182/d103750d486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1838126/000119312526162182/d103750d486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: HPS Corporate Lending Fund\nETF Name: HPS Corporate Lending Fund\nStrategy: The fund invests primarily in newly originated senior secured debt and other securities of private U.S companies, targeting upper middle market borrowers with select global exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "HPS Corporate Lending Fund",
-        "etf_name": "HPS Corporate Lending Fund",
-        "strategy": "The fund invests primarily in newly originated senior secured debt and other securities of private U.S companies, targeting upper middle market borrowers with select global exposure",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-20T11:00:44.047928+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001500604",
-    "company_name": "Janus Detroit Street Trust",
-    "accession_number": "0001398344-26-006681",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1500604/000139834426006681/0001398344-26-006681-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1500604/000139834426006681/fp0098169-1_485bposixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1500604/000139834426006681/fp0098169-1_485bposixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Janus Detroit Street Trust\nETF Name: Janus Henderson Equity Linked Moderate Income ETF (JELM)\nStrategy: Seeks high current income through the same equity-linked note and autocallable instrument approach, packaging structured debt with returns linked to equity performance into a daily-liquidity ETF wrapper\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Janus Detroit Street Trust",
-        "etf_name": "Janus Henderson Equity Linked Moderate Income ETF (JELM)",
-        "strategy": "Seeks high current income through the same equity-linked note and autocallable instrument approach, packaging structured debt with returns linked to equity performance into a daily-liquidity ETF wrapper",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-20T11:02:17.968273+00:00",
-    "form_type": "485APOS",
-    "cik": "0001547576",
-    "company_name": "Krane Shares Trust",
-    "accession_number": "0001829126-26-003620",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547576/000182912626003620/0001829126-26-003620-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547576/000182912626003620/kraneshares_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547576/000182912626003620/kraneshares_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: KraneShares Trust\nETF Name: KraneShares High-Bandwidth Memory ETF\nStrategy: Actively managed equity ETF investing at least 80% of net assets in companies within the High-Bandwidth Memory (HBM) segment of the semiconductor supply chain, selected based on revenue composition, competitive positioning, and exposure to AI-infrastructure-driven HBM demand\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "KraneShares Trust",
-        "etf_name": "KraneShares High-Bandwidth Memory ETF",
-        "strategy": "Actively managed equity ETF investing at least 80% of net assets in companies within the High-Bandwidth Memory (HBM) segment of the semiconductor supply chain, selected based on revenue composition, competitive positioning, and exposure to AI-infrastructure-driven HBM demand",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T21:28:14.501649+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000910475",
-    "company_name": "LINCOLN BENEFIT LIFE VARIABLE LIFE ACCOUNT",
-    "accession_number": "0001628280-26-025870",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/910475/000162828026025870/0001628280-26-025870-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/910475/000162828026025870/totalaccumulator485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/910475/000162828026025870/totalaccumulator485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Lincoln Benefit Life Variable Life Account\nETF Name: Morgan Stanley Investment Management Inc. Capital appreciation. Morningstar Aggressive Growth ETF\nStrategy: This is a variable life insurance separate account that allocates across multiple underlying investment portfolios, each with distinct objectives such as capital appreciation, long-term growth of capital, and long-term capital appreciation through growth-oriented equity securities including emerging markets exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Lincoln Benefit Life Variable Life Account",
-        "etf_name": "Morgan Stanley Investment Management Inc. Capital appreciation. Morningstar Aggressive Growth ETF",
-        "strategy": "This is a variable life insurance separate account that allocates across multiple underlying investment portfolios, each with distinct objectives such as capital appreciation, long-term growth of capital, and long-term capital appreciation through growth-oriented equity securities including emerging markets exposure",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T21:29:08.990270+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000910475",
-    "company_name": "LINCOLN BENEFIT LIFE VARIABLE LIFE ACCOUNT",
-    "accession_number": "0001628280-26-025864",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/910475/000162828026025864/0001628280-26-025864-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/910475/000162828026025864/investorsselect485bpos2026.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/910475/000162828026025864/investorsselect485bpos2026.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Lincoln Benefit Life Variable Life Account\nETF Name: Morningstar Aggressive Growth ETF\nStrategy: The fund seeks capital appreciation through an aggressive growth equity strategy subadvised by Morningstar Investment Management, LLC It is offered as an underlying portfolio option within a variable life insurance separate account alongside other portfolios spanning equities, fixed income, and balanced objectives\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Lincoln Benefit Life Variable Life Account",
-        "etf_name": "Morningstar Aggressive Growth ETF",
-        "strategy": "The fund seeks capital appreciation through an aggressive growth equity strategy subadvised by Morningstar Investment Management, LLC It is offered as an underlying portfolio option within a variable life insurance separate account alongside other portfolios spanning equities, fixed income, and balanced objectives",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T21:29:52.649622+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000910739",
-    "company_name": "LINCOLN BENEFIT LIFE CO",
-    "accession_number": "0001133228-26-005672",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/910739/000113322826005672/0001133228-26-005672-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/910739/000113322826005672/modeli-efp24095_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/910739/000113322826005672/modeli-efp24095_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Lincoln Benefit Life Co\nETF Name: Variable Account are invested in the shares of an underlying mutual fund\nStrategy: The assets of each Sub-Account of the Variable Account are invested in shares of underlying mutual fund portfolios, with contract values rising and falling based on portfolio performance net of applicable charges\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Lincoln Benefit Life Co",
-        "etf_name": "Variable Account are invested in the shares of an underlying mutual fund",
-        "strategy": "The assets of each Sub-Account of the Variable Account are invested in shares of underlying mutual fund portfolios, with contract values rising and falling based on portfolio performance net of applicable charges",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T21:30:33.943264+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000910739",
-    "company_name": "LINCOLN BENEFIT LIFE CO",
-    "accession_number": "0001133228-26-005671",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/910739/000113322826005671/0001133228-26-005671-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/910739/000113322826005671/model-efp24096_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/910739/000113322826005671/model-efp24096_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN BENEFIT LIFE CO\nETF Name: Variable Account are invested in the shares of an underlying mutual fund\nStrategy: Contract values rise and fall with portfolio share prices and are reduced by applicable contract charges\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN BENEFIT LIFE CO",
-        "etf_name": "Variable Account are invested in the shares of an underlying mutual fund",
-        "strategy": "Contract values rise and fall with portfolio share prices and are reduced by applicable contract charges",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T21:31:32.789808+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000910475",
-    "company_name": "LINCOLN BENEFIT LIFE VARIABLE LIFE ACCOUNT",
-    "accession_number": "0001628280-26-025862",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/910475/000162828026025862/0001628280-26-025862-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/910475/000162828026025862/consvul485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/910475/000162828026025862/consvul485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN BENEFIT LIFE VARIABLE LIFE ACCOUNT\nETF Name: Massachusetts Financial Services Company Capital appreciation. Morningstar Aggressive Growth ETF\nStrategy: LVIP ClearBridge Large Cap Value Fund - Standard Class (1) 0.72% 10.20% 10.11% 10.01% Lincoln Financial Investments Corporation (Subadviser Clearbridge Investments, LLC) Seeks capital appreciation (Subadviser Morningstar Investment Management, LLC) A-3 Type/Investment Objective Portfolio and Investment Adviser/Subadviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 year 5 year 10 year Portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN BENEFIT LIFE VARIABLE LIFE ACCOUNT",
-        "etf_name": "Massachusetts Financial Services Company Capital appreciation. Morningstar Aggressive Growth ETF",
-        "strategy": "LVIP ClearBridge Large Cap Value Fund - Standard Class (1) 0.72% 10.20% 10.11% 10.01% Lincoln Financial Investments Corporation (Subadviser Clearbridge Investments, LLC) Seeks capital appreciation (Subadviser Morningstar Investment Management, LLC) A-3 Type/Investment Objective Portfolio and Investment Adviser/Subadviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 year 5 year 10 year Portfolio",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T21:33:56.210126+00:00",
-    "form_type": "485APOS",
-    "cik": "0001540305",
-    "company_name": "ETF Series Solutions",
-    "accession_number": "0000894189-26-012222",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926012222/0000894189-26-012222-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1540305/000089418926012222/predictivemarkets485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926012222/predictivemarkets485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Series Solutions\nETF Name: Davis Fundamental ETF Trust\nStrategy: Each fund is an actively managed, options-based ETF that invests at least 80% of net assets in financial instruments\u2014primarily binary options\u2014designed to achieve a specified \"Predictive Outcome\" target upside return over a defined period, spanning crypto (Bitcoin, Ethereum), commodities (Gold), broad U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Series Solutions",
-        "etf_name": "Davis Fundamental ETF Trust",
-        "strategy": "Each fund is an actively managed, options-based ETF that invests at least 80% of net assets in financial instruments\u2014primarily binary options\u2014designed to achieve a specified \"Predictive Outcome\" target upside return over a defined period, spanning crypto (Bitcoin, Ethereum), commodities (Gold), broad U.S",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T21:35:01.382049+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001540305",
-    "company_name": "ETF Series Solutions",
-    "accession_number": "0000894189-26-012221",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926012221/0000894189-26-012221-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1540305/000089418926012221/ck0001540305-20260417.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926012221/ck0001540305-20260417.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Series Solutions\nETF Name: Aptus Defined Risk ETF\nStrategy: Actively managed fund-of-funds that invests in a laddered portfolio of buffer ETFs using FLEX Options on the SPDR S&P 500 ETF Trust (SPY), seeking capped upside participation with downside buffer protection of approximately 34% over defined Investment Periods\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Series Solutions",
-        "etf_name": "Aptus Defined Risk ETF",
-        "strategy": "Actively managed fund-of-funds that invests in a laddered portfolio of buffer ETFs using FLEX Options on the SPDR S&P 500 ETF Trust (SPY), seeking capped upside participation with downside buffer protection of approximately 34% over defined Investment Periods",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T21:35:50.620452+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000910475",
-    "company_name": "LINCOLN BENEFIT LIFE VARIABLE LIFE ACCOUNT",
-    "accession_number": "0001628280-26-025860",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/910475/000162828026025860/0001628280-26-025860-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/910475/000162828026025860/consultantaccumulator485bp.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/910475/000162828026025860/consultantaccumulator485bp.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN BENEFIT LIFE VARIABLE LIFE ACCOUNT\nETF Name: Morningstar Balanced ETF\nStrategy: The portfolio seeks maximum total return consistent with preservation of capital and prudent investment management, targeting capital appreciation and some current income\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN BENEFIT LIFE VARIABLE LIFE ACCOUNT",
-        "etf_name": "Morningstar Balanced ETF",
-        "strategy": "The portfolio seeks maximum total return consistent with preservation of capital and prudent investment management, targeting capital appreciation and some current income",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T20:33:09.999114+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001000249",
-    "company_name": "FIRST EAGLE VARIABLE FUNDS",
-    "accession_number": "0000930413-26-001083",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1000249/000093041326001083/0000930413-26-001083-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1000249/000093041326001083/c115140_485bpos-ixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1000249/000093041326001083/c115140_485bpos-ixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: First Eagle Variable Funds\nETF Name: First Eagle Overseas Variable Fund\nStrategy: Seeks long-term capital growth by investing primarily in non-U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "First Eagle Variable Funds",
-        "etf_name": "First Eagle Overseas Variable Fund",
-        "strategy": "Seeks long-term capital growth by investing primarily in non-U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T20:33:59.946284+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001553899",
-    "company_name": "Wilton Reassurance Life Co of New York",
-    "accession_number": "0001133228-26-005661",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1553899/000113322826005661/0001133228-26-005661-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1553899/000113322826005661/wm-efp23951_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1553899/000113322826005661/wm-efp23951_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Wilton Reassurance Life Co of New York\nETF Name: Separate Account A (Variable Annuity & Variable Life)\nStrategy: This is not an ETF but a variable annuity/variable life insurance separate account offering contractholders a menu of underlying mutual fund portfolios spanning U.S. equity, international equity, emerging markets, fixed income, and asset allocation strategies from managers including Fidelity, Invesco, Goldman Sachs, Morgan Stanley, and AllianceBernstein.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Wilton Reassurance Life Co of New York",
-        "etf_name": "Separate Account A (Variable Annuity & Variable Life)",
-        "strategy": "This is not an ETF but a variable annuity/variable life insurance separate account offering contractholders a menu of underlying mutual fund portfolios spanning U.S. equity, international equity, emerging markets, fixed income, and asset allocation strategies from managers including Fidelity, Invesco, Goldman Sachs, Morgan Stanley, and AllianceBernstein.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T20:34:45.403150+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000822977",
-    "company_name": "GOLDMAN SACHS TRUST",
-    "accession_number": "0001193125-26-161524",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/822977/000119312526161524/0001193125-26-161524-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/822977/000119312526161524/d90465d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/822977/000119312526161524/d90465d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Goldman Sachs Trust\nETF Name: Goldman Sachs Central Government Fund\nStrategy: The Fund seeks to maximize current income consistent with the preservation of capital and the maintenance of liquidity by investing exclusively in high-quality U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Goldman Sachs Trust",
-        "etf_name": "Goldman Sachs Central Government Fund",
-        "strategy": "The Fund seeks to maximize current income consistent with the preservation of capital and the maintenance of liquidity by investing exclusively in high-quality U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T20:35:29.309523+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000925981",
-    "company_name": "VARIABLE ANNUITY ACCOUNT I OF VOYA RETIREMENT INSURANCE & ANNUITY Co",
-    "accession_number": "0001133228-26-005654",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/925981/000113322826005654/0001133228-26-005654-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/925981/000113322826005654/rm-efp24071_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/925981/000113322826005654/rm-efp24071_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Annuity Account I of Voya Retirement Insurance & Annuity Co\nETF Name: Variable Annuity Account I (not an ETF; variable annuity separate account)\nStrategy: Each Subaccount invests in shares of a corresponding underlying mutual fund spanning multiple asset classes, with the contract holder bearing all investment risk\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Annuity Account I of Voya Retirement Insurance & Annuity Co",
-        "etf_name": "Variable Annuity Account I (not an ETF; variable annuity separate account)",
-        "strategy": "Each Subaccount invests in shares of a corresponding underlying mutual fund spanning multiple asset classes, with the contract holder bearing all investment risk",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T20:36:18.716722+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000103007",
-    "company_name": "VARIABLE ANNUITY ACCOUNT C OF VOYA RETIREMENT INSURANCE & ANNUITY Co",
-    "accession_number": "0001133228-26-005652",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/103007/000113322826005652/0001133228-26-005652-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/103007/000113322826005652/vfi-efp24068_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/103007/000113322826005652/vfi-efp24068_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Annuity Account C of Voya Retirement Insurance & Annuity Co\nETF Name: The way in which payments are received that will not vary. Fund\nStrategy: This is a variable annuity prospectus offering multiple subaccounts that each invest in a corresponding underlying mutual fund spanning equities, fixed income, and money market instruments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Annuity Account C of Voya Retirement Insurance & Annuity Co",
-        "etf_name": "The way in which payments are received that will not vary. Fund",
-        "strategy": "This is a variable annuity prospectus offering multiple subaccounts that each invest in a corresponding underlying mutual fund spanning equities, fixed income, and money market instruments",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T19:46:54.988327+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001174610",
-    "company_name": "PROSHARES TRUST",
-    "accession_number": "0001174610-26-000112",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000112/0001174610-26-000112-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000112/f44772d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000112/f44772d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ProShares Trust\nETF Name: ProShares Ultra Silver K-1 Free ETF (USIL)\nStrategy: Leveraged commodity ETF listed on NYSE Arca targeting amplified daily exposure to silver through a K-1 free structure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ProShares Trust",
-        "etf_name": "ProShares Ultra Silver K-1 Free ETF (USIL)",
-        "strategy": "Leveraged commodity ETF listed on NYSE Arca targeting amplified daily exposure to silver through a K-1 free structure",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T19:47:39.852214+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001612930",
-    "company_name": "Angel Oak Funds Trust",
-    "accession_number": "0000894189-26-012212",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1612930/000089418926012212/0000894189-26-012212-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1612930/000089418926012212/ck0001612930-20260417.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1612930/000089418926012212/ck0001612930-20260417.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Angel Oak Funds Trust\nETF Name: Angel Oak Total Return ETF\nStrategy: Actively managed, non-diversified fixed-income ETF seeking total return through income and capital appreciation across multiple bond and credit sectors, sub-advised by Brookfield Public Securities Group LLC. Employs fundamental research to identify issuers with improving credit profiles and uses derivatives (swaps, futures, options) for hedging, duration management, and speculation, while integrating ESG consideratio...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Angel Oak Funds Trust",
-        "etf_name": "Angel Oak Total Return ETF",
-        "strategy": "Actively managed, non-diversified fixed-income ETF seeking total return through income and capital appreciation across multiple bond and credit sectors, sub-advised by Brookfield Public Securities Group LLC. Employs fundamental research to identify issuers with improving credit profiles and uses derivatives (swaps, futures, options) for hedging, duration management, and speculation, while integrating ESG consideratio...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T19:48:29.430679+00:00",
-    "form_type": "485APOS",
-    "cik": "0000837010",
-    "company_name": "VOYA RETIREMENT INSURANCE & ANNUITY Co",
-    "accession_number": "0001133228-26-005644",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/837010/000113322826005644/0001133228-26-005644-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/837010/000113322826005644/suny-efp24208_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/837010/000113322826005644/suny-efp24208_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Voya Retirement Insurance & Annuity Co\nETF Name: Annuity Account C\nStrategy: Each subaccount invests in a corresponding underlying mutual fund spanning multiple asset classes including equity, fixed income, and managed volatility strategies Certain underlying funds employ hedging overlays designed to reduce portfolio volatility and cushion downside risk during periods of market stress\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Voya Retirement Insurance & Annuity Co",
-        "etf_name": "Annuity Account C",
-        "strategy": "Each subaccount invests in a corresponding underlying mutual fund spanning multiple asset classes including equity, fixed income, and managed volatility strategies Certain underlying funds employ hedging overlays designed to reduce portfolio volatility and cushion downside risk during periods of market stress",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-17T19:49:17.760090+00:00",
-    "form_type": "485APOS",
-    "cik": "0000103007",
-    "company_name": "VARIABLE ANNUITY ACCOUNT C OF VOYA RETIREMENT INSURANCE & ANNUITY Co",
-    "accession_number": "0001133228-26-005642",
-    "filed_date": "2026-04-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/103007/000113322826005642/0001133228-26-005642-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/103007/000113322826005642/suny-efp24207_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/103007/000113322826005642/suny-efp24207_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Annuity Account C of Voya Retirement Insurance & Annuity Co\nETF Name: Annuity Account C\nStrategy: This is a variable annuity separate account, not an ETF, offering multiple subaccounts that each invest in a corresponding underlying mutual fund spanning equity, fixed income, and managed-volatility strategies Certain subaccounts employ managed-volatility overlays using hedging instruments to reduce portfolio downside risk, which may also cap upside participation in rising markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Annuity Account C of Voya Retirement Insurance & Annuity Co",
-        "etf_name": "Annuity Account C",
-        "strategy": "This is a variable annuity separate account, not an ETF, offering multiple subaccounts that each invest in a corresponding underlying mutual fund spanning equity, fixed income, and managed-volatility strategies Certain subaccounts employ managed-volatility overlays using hedging instruments to reduce portfolio downside risk, which may also cap upside participation in rising markets",
         "is_alert_worthy": "LOW"
       }
     ],
