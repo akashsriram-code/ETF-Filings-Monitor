@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-04-23T22:04:56.080976+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000353448",
+    "company_name": "ZALICO VARIABLE ANNUITY SEPARATE ACCOUNT",
+    "accession_number": "0001193125-26-174054",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/353448/000119312526174054/0001193125-26-174054-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/353448/000119312526174054/d29975d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/353448/000119312526174054/d29975d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Zurich American Life Insurance Company (ZALICO)\nETF Name: ZALICO Variable Annuity Separate Account\nStrategy: large-cap, mid-cap, and small-cap equity index strategies, actively managed growth and balanced equity funds, and fixed-income portfolios ZALICO's own separate account strategy matches guarantee-period liabilities with debt instruments while retaining the right to substitute underlying portfolios\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Zurich American Life Insurance Company (ZALICO)",
+        "etf_name": "ZALICO Variable Annuity Separate Account",
+        "strategy": "large-cap, mid-cap, and small-cap equity index strategies, actively managed growth and balanced equity funds, and fixed-income portfolios ZALICO's own separate account strategy matches guarantee-period liabilities with debt instruments while retaining the right to substitute underlying portfolios",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-23T22:06:14.669329+00:00",
+    "form_type": "485APOS",
+    "cik": "0001928561",
+    "company_name": "Bitwise Funds Trust",
+    "accession_number": "0001213900-26-047140",
+    "filed_date": "2026-04-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026047140/0001213900-26-047140-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1928561/000121390026047140/ea0287498-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026047140/ea0287498-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Bitwise Funds Trust\nETF Name: PredictionShares Fewer Tech Layoffs in 2026 Than 2025\nStrategy: Seeks capital appreciation through event contracts designed to gain value if total reported tech-sector layoffs in 2026 do not exceed those in 2025\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Bitwise Funds Trust",
+        "etf_name": "PredictionShares Fewer Tech Layoffs in 2026 Than 2025",
+        "strategy": "Seeks capital appreciation through event contracts designed to gain value if total reported tech-sector layoffs in 2026 do not exceed those in 2025",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-23T21:11:47.374556+00:00",
     "form_type": "485BPOS",
     "cik": "0000067873",
@@ -14430,64 +14488,6 @@
         "filer": "Equitable Financial Life Insurance Company",
         "etf_name": "EQ Managed Volatility Portfolios (EQ Advisors Trust)",
         "strategy": "Variable-annuity investment options that employ a proprietary volatility-management strategy using futures, options, and ETFs to reduce equity exposure when market-volatility indicators breach preset thresholds A rules-based Automatic Transfer Program further reallocates account value between an ultra-conservative portfolio and other options to manage the insurer's guaranteed-benefit exposure",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-21T22:00:22.887563+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000045947",
-    "company_name": "TALCOTT RESOLUTION LIFE INSURANCE CO",
-    "accession_number": "0000045947-26-000026",
-    "filed_date": "2026-04-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/45947/000004594726000026/0000045947-26-000026-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/45947/000004594726000026/a2026crcsel3combo.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/45947/000004594726000026/a2026crcsel3combo.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Talcott Resolution Life Insurance Co\nETF Name: Surrenders and other fund\nStrategy: This is not an ETF but a modified guaranty annuity contract whose proceeds are generally invested in investment-grade debt instruments with durations designed to match applicable Guarantee Periods. The product offers fixed-interest investment options with defined maturity windows, subject to the issuer's credit risk.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Talcott Resolution Life Insurance Co",
-        "etf_name": "Surrenders and other fund",
-        "strategy": "This is not an ETF but a modified guaranty annuity contract whose proceeds are generally invested in investment-grade debt instruments with durations designed to match applicable Guarantee Periods. The product offers fixed-interest investment options with defined maturity windows, subject to the issuer's credit risk.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-21T22:01:09.160982+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001043846",
-    "company_name": "JOHN HANCOCK LIFE INSURANCE CO OF NEW YORK SEPARATE ACCOUNT B",
-    "accession_number": "0001193125-26-166296",
-    "filed_date": "2026-04-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1043846/000119312526166296/0001193125-26-166296-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1043846/000119312526166296/d946398d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1043846/000119312526166296/d946398d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: John Hancock Life Insurance Co of New York Separate Account B\nETF Name: Fundamental All Cap Core Trust \u2013 Series I\nStrategy: Seeks long-term growth of capital through an all-cap U.S This is a variable-insurance sub-account portfolio offered within the John Hancock Variable Trust, not a standalone ETF\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "John Hancock Life Insurance Co of New York Separate Account B",
-        "etf_name": "Fundamental All Cap Core Trust \u2013 Series I",
-        "strategy": "Seeks long-term growth of capital through an all-cap U.S This is a variable-insurance sub-account portfolio offered within the John Hancock Variable Trust, not a standalone ETF",
         "is_alert_worthy": "LOW"
       }
     ],
