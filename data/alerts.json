@@ -1,5 +1,179 @@
 [
   {
+    "created_at": "2026-04-24T16:40:34.645152+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002041358",
+    "company_name": "USL Separate Account RS",
+    "accession_number": "0001193125-26-176325",
+    "filed_date": "2026-04-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2041358/000119312526176325/0001193125-26-176325-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2041358/000119312526176325/d84112d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2041358/000119312526176325/d84112d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: USL Separate Account RS\nETF Name: Portfolio Director Variable Annuity Contract\nStrategy: Investors select from Portfolio Companies and may incur platform charges, with maximum total operating expenses varying by underlying option chosen\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "USL Separate Account RS",
+        "etf_name": "Portfolio Director Variable Annuity Contract",
+        "strategy": "Investors select from Portfolio Companies and may incur platform charges, with maximum total operating expenses varying by underlying option chosen",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-24T16:41:30.715577+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002041358",
+    "company_name": "USL Separate Account RS",
+    "accession_number": "0001193125-26-176318",
+    "filed_date": "2026-04-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2041358/000119312526176318/0001193125-26-176318-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2041358/000119312526176318/d61167d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2041358/000119312526176318/d61167d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: USL Separate Account RS\nETF Name: Impax Funds Series Trust\nStrategy: This is a variable annuity contract filing\u2014not an ETF\u2014offering participants indirect exposure to underlying Portfolio Companies (including Impax Funds Series Trust I and Impax Trust III) through participation and administrative services agreements with Foreside Financial Services, LLC Allocations span equity index, international, fixed-income, and money-market options within an optional advisory program (Guided Portf...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "USL Separate Account RS",
+        "etf_name": "Impax Funds Series Trust",
+        "strategy": "This is a variable annuity contract filing\u2014not an ETF\u2014offering participants indirect exposure to underlying Portfolio Companies (including Impax Funds Series Trust I and Impax Trust III) through participation and administrative services agreements with Foreside Financial Services, LLC Allocations span equity index, international, fixed-income, and money-market options within an optional advisory program (Guided Portf...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-24T16:43:19.301062+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-003859",
+    "filed_date": "2026-04-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626003859/0001829126-26-003859-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626003859/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626003859/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Leverage Shares 2X Long Groq Daily ETF\nStrategy: The fund is an ETF that seeks daily leveraged investment results of 200% (two times) the daily percentage change in the publicly traded common stock of Groq, Inc., using swaps, standardized exchange-traded options, and FLEX options\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Leverage Shares 2X Long Groq Daily ETF",
+        "strategy": "The fund is an ETF that seeks daily leveraged investment results of 200% (two times) the daily percentage change in the publicly traded common stock of Groq, Inc., using swaps, standardized exchange-traded options, and FLEX options",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-24T16:45:06.558451+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-003858",
+    "filed_date": "2026-04-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626003858/0001829126-26-003858-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626003858/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626003858/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Leverage Shares 2X Long NSCL Daily ETF\nStrategy: The fund seeks daily leveraged investment results equal to 200% (2X) of the daily percentage change in the common stock of NScale Global Holdings Ltd., an AI cloud-infrastructure company providing GPU computing to the generative-AI market Exposure is obtained primarily through swap agreements and options contracts, with at least 80% of net assets in the underlying security or financial instruments providing the targe...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Leverage Shares 2X Long NSCL Daily ETF",
+        "strategy": "The fund seeks daily leveraged investment results equal to 200% (2X) of the daily percentage change in the common stock of NScale Global Holdings Ltd., an AI cloud-infrastructure company providing GPU computing to the generative-AI market Exposure is obtained primarily through swap agreements and options contracts, with at least 80% of net assets in the underlying security or financial instruments providing the targe...",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-24T16:46:04.504337+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001587982",
+    "company_name": "Investment Managers Series Trust II",
+    "accession_number": "0001213900-26-047361",
+    "filed_date": "2026-04-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026047361/0001213900-26-047361-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587982/000121390026047361/ea0286825-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026047361/ea0286825-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust II\nETF Name: Kennedy Capital ESG SMID Cap Fund, Kennedy Capital Small Cap Growth Fund, Kennedy Capital Small Cap Value Fund\nStrategy: equity funds employing bottom-up fundamental research with return on invested capital (ROIC) as a central valuation metric; the ESG SMID Cap Fund integrates ESG criteria and targets stocks within the Russell 2500 Index capitalization range, while the Small Cap Growth and Small Cap Value Funds target small-cap equities benchmarked to Russell 2000 sub-indices\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Investment Managers Series Trust II",
+        "etf_name": "Kennedy Capital ESG SMID Cap Fund, Kennedy Capital Small Cap Growth Fund, Kennedy Capital Small Cap Value Fund",
+        "strategy": "equity funds employing bottom-up fundamental research with return on invested capital (ROIC) as a central valuation metric; the ESG SMID Cap Fund integrates ESG criteria and targets stocks within the Russell 2500 Index capitalization range, while the Small Cap Growth and Small Cap Value Funds target small-cap equities benchmarked to Russell 2000 sub-indices",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-24T16:47:13.509235+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-003856",
+    "filed_date": "2026-04-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626003856/0001829126-26-003856-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626003856/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626003856/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Themes 2X Long Scale AI Daily Target ETF\nStrategy: At least 80% of net assets are invested in the underlying security or financial instruments providing leveraged exposure to it, with the portfolio rebalanced daily at market close\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Themes 2X Long Scale AI Daily Target ETF",
+        "strategy": "At least 80% of net assets are invested in the underlying security or financial instruments providing leveraged exposure to it, with the portfolio rebalanced daily at market close",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-24T15:38:31.859161+00:00",
     "form_type": "485BPOS",
     "cik": "0001771146",
@@ -14314,180 +14488,6 @@
         "filer": "John Hancock Variable Trust Advisers LLC (sub-advised by Manulife Investment Management (US) LLC)",
         "etf_name": "To seek long-term growth of capital. Fundamental All Cap Core Trust",
         "strategy": "large-cap and mid-cap index tracking, all-cap core equity, high-yield fixed income, multi-asset lifestyle allocations, and managed-volatility variants with downside-protection overlays",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-21T21:23:56.500200+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000895764",
-    "company_name": "TALCOTT RESOLUTION LIFE & ANNUITY INSURANCE CO SEPARATE ACCOUNT ONE",
-    "accession_number": "0000895764-26-000013",
-    "filed_date": "2026-04-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/895764/000089576426000013/0000895764-26-000013-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/895764/000089576426000013/dir8tlacombo.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/895764/000089576426000013/dir8tlacombo.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Talcott Resolution Life & Annuity Insurance Co Separate Account One\nETF Name: NOTICE OF FUND\nStrategy: This is a variable-annuity sub-account substitution filing in which existing funds managed by AB, Allspring, and Invesco are being replaced by corresponding Putnam VT funds (Large Cap Value, Small Cap Growth) with comparable investment objectives. Contract holders are offered a free-transfer window ahead of the substitution date, and no new investment strategies are introduced.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Talcott Resolution Life & Annuity Insurance Co Separate Account One",
-        "etf_name": "NOTICE OF FUND",
-        "strategy": "This is a variable-annuity sub-account substitution filing in which existing funds managed by AB, Allspring, and Invesco are being replaced by corresponding Putnam VT funds (Large Cap Value, Small Cap Growth) with comparable investment objectives. Contract holders are offered a free-transfer window ahead of the substitution date, and no new investment strategies are introduced.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-21T21:24:51.962116+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000925997",
-    "company_name": "TALCOTT RESOLUTION LIFE & ANNUITY INSUR CO SEPARATE ACCOUNT THREE",
-    "accession_number": "0000925997-26-000010",
-    "filed_date": "2026-04-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/925997/000092599726000010/0000925997-26-000010-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/925997/000092599726000010/a2026dirmoltlacombo.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/925997/000092599726000010/a2026dirmoltlacombo.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Talcott Resolution Life & Annuity Insurance Company Separate Account Three\nETF Name: NOTICE OF FUND\nStrategy: This filing is a fund-substitution supplement in which five variable-insurance sub-account options spanning small-cap value, international value, large-cap value, small-cap growth, and core equity \u2014 managed by AB, Allspring, and Invesco \u2014 are being replaced by corresponding Franklin Templeton and Putnam VT/VIP funds. Contract holders are granted free transfers before the substitution date, with no change to the overa...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Talcott Resolution Life & Annuity Insurance Company Separate Account Three",
-        "etf_name": "NOTICE OF FUND",
-        "strategy": "This filing is a fund-substitution supplement in which five variable-insurance sub-account options spanning small-cap value, international value, large-cap value, small-cap growth, and core equity \u2014 managed by AB, Allspring, and Invesco \u2014 are being replaced by corresponding Franklin Templeton and Putnam VT/VIP funds. Contract holders are granted free transfers before the substitution date, with no change to the overa...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-21T21:25:40.816013+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000906470",
-    "company_name": "HANCOCK JOHN VARIABLE LIFE ACCOUNT UV/",
-    "accession_number": "0001193125-26-166384",
-    "filed_date": "2026-04-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/906470/000119312526166384/0001193125-26-166384-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/906470/000119312526166384/d27915d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/906470/000119312526166384/d27915d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: John Hancock Variable Life Account UV\nETF Name: Fundamental All Cap Core Trust\nStrategy: Seeks income and capital appreciation across all market capitalizations, subadvised by Manulife Investment Management (US) LLC The portfolio is offered as an underlying investment option within a variable life insurance separate account structure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "John Hancock Variable Life Account UV",
-        "etf_name": "Fundamental All Cap Core Trust",
-        "strategy": "Seeks income and capital appreciation across all market capitalizations, subadvised by Manulife Investment Management (US) LLC The portfolio is offered as an underlying investment option within a variable life insurance separate account structure",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-21T21:26:36.923214+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001043846",
-    "company_name": "JOHN HANCOCK LIFE INSURANCE CO OF NEW YORK SEPARATE ACCOUNT B",
-    "accession_number": "0001193125-26-166381",
-    "filed_date": "2026-04-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1043846/000119312526166381/0001193125-26-166381-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1043846/000119312526166381/d27845d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1043846/000119312526166381/d27845d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: John Hancock Life Insurance Company of New York Separate Account B\nETF Name: Moderately Aggressive ETF\nStrategy: This portfolio pursues a moderately aggressive multi-asset allocation with a volatility-management overlay sub-advised by Milliman Financial Risk Management, LLC, carrying a 0.54% expense ratio that reflects temporary fee waivers or reimbursements\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "John Hancock Life Insurance Company of New York Separate Account B",
-        "etf_name": "Moderately Aggressive ETF",
-        "strategy": "This portfolio pursues a moderately aggressive multi-asset allocation with a volatility-management overlay sub-advised by Milliman Financial Risk Management, LLC, carrying a 0.54% expense ratio that reflects temporary fee waivers or reimbursements",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-21T21:27:18.833863+00:00",
-    "form_type": "485BPOS",
-    "cik": "0002038891",
-    "company_name": "Equitable Financial Life Insurance Co of America (RILA)",
-    "accession_number": "0001193125-26-166380",
-    "filed_date": "2026-04-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2038891/000119312526166380/0001193125-26-166380-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2038891/000119312526166380/d31835d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2038891/000119312526166380/d31835d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Company of America\nETF Name: EQ Managed Volatility Portfolios\nStrategy: These insurance-linked variable-annuity portfolios employ Equitable IMG's proprietary volatility management strategy, dynamically reducing equity exposure via ETFs, futures, and options when market volatility exceeds pre-set thresholds The approach targets lower overall portfolio risk but may cap upside during volatile rallies and does not guarantee protection from losses\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Equitable Financial Life Insurance Company of America",
-        "etf_name": "EQ Managed Volatility Portfolios",
-        "strategy": "These insurance-linked variable-annuity portfolios employ Equitable IMG's proprietary volatility management strategy, dynamically reducing equity exposure via ETFs, futures, and options when market volatility exceeds pre-set thresholds The approach targets lower overall portfolio risk but may cap upside during volatile rallies and does not guarantee protection from losses",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-21T21:28:11.773010+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000809013",
-    "company_name": "TALCOTT RESOLUTION LIFE INSURANCE CO SEPARATE ACCOUNT SEVEN",
-    "accession_number": "0000809013-26-000018",
-    "filed_date": "2026-04-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/809013/000080901326000018/0000809013-26-000018-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/809013/000080901326000018/a2026prm3tlcombo.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/809013/000080901326000018/a2026prm3tlcombo.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Talcott Resolution Life Insurance Co Separate Account Seven\nETF Name: Franklin Small Cap Value VIP Fund\nStrategy: This variable annuity supplement replaces six existing sub-account funds (including AB VPS Discovery Value Portfolio, MFS Growth Series, MFS Value Series, and Invesco V.I\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Talcott Resolution Life Insurance Co Separate Account Seven",
-        "etf_name": "Franklin Small Cap Value VIP Fund",
-        "strategy": "This variable annuity supplement replaces six existing sub-account funds (including AB VPS Discovery Value Portfolio, MFS Growth Series, MFS Value Series, and Invesco V.I",
         "is_alert_worthy": "LOW"
       }
     ],
