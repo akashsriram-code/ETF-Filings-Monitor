@@ -1,5 +1,150 @@
 [
   {
+    "created_at": "2026-04-24T14:10:38.818739+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000880195",
+    "company_name": "FIDELITY ABERDEEN STREET TRUST",
+    "accession_number": "0000880195-26-000133",
+    "filed_date": "2026-04-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/880195/000088019526000133/0000880195-26-000133-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/880195/000088019526000133/filing11593.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/880195/000088019526000133/filing11593.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIDELITY ABERDEEN STREET TRUST\nETF Name: Fidelity\u00ae Multi-Asset Index Fund\nStrategy: The fund seeks high total return through a passive fund-of-funds structure that allocates across seven underlying Fidelity index funds spanning U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIDELITY ABERDEEN STREET TRUST",
+        "etf_name": "Fidelity\u00ae Multi-Asset Index Fund",
+        "strategy": "The fund seeks high total return through a passive fund-of-funds structure that allocates across seven underlying Fidelity index funds spanning U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-24T14:11:25.265207+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000878662",
+    "company_name": "FIDELITY CALIFORNIA MUNICIPAL TRUST II",
+    "accession_number": "0000878662-26-000034",
+    "filed_date": "2026-04-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/878662/000087866226000034/0000878662-26-000034-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/878662/000087866226000034/filing11595.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/878662/000087866226000034/filing11595.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Fidelity California Municipal Trust II\nETF Name: Fidelity California Municipal Money Market Fund\nStrategy: Seeks as high a level of current income exempt from federal income tax and California state personal income tax as is consistent with preservation of capital Invests in California municipal money market instruments in compliance with regulatory requirements governing quality, maturity, liquidity, and diversification while targeting a stable $1.00 NAV\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Fidelity California Municipal Trust II",
+        "etf_name": "Fidelity California Municipal Money Market Fund",
+        "strategy": "Seeks as high a level of current income exempt from federal income tax and California state personal income tax as is consistent with preservation of capital Invests in California municipal money market instruments in compliance with regulatory requirements governing quality, maturity, liquidity, and diversification while targeting a stable $1.00 NAV",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-24T14:12:07.479020+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001722388",
+    "company_name": "Tidal Trust III",
+    "accession_number": "0001999371-26-008913",
+    "filed_date": "2026-04-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126008913/0001999371-26-008913-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1722388/000199937126008913/snth-485bpos_043026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126008913/snth-485bpos_043026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal ETF Trust III\nETF Name: MRP SynthEquity ETF\nStrategy: Actively managed ETF seeking long-term capital appreciation through a synthetic equity options strategy that pairs U.S Treasury holdings with index call options to gain synthetic long exposure to a broad U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal ETF Trust III",
+        "etf_name": "MRP SynthEquity ETF",
+        "strategy": "Actively managed ETF seeking long-term capital appreciation through a synthetic equity options strategy that pairs U.S Treasury holdings with index call options to gain synthetic long exposure to a broad U.S",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-24T14:13:03.772005+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002013968",
+    "company_name": "New Age Alpha Variable Funds Trust",
+    "accession_number": "0001580642-26-002632",
+    "filed_date": "2026-04-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2013968/000158064226002632/0001580642-26-002632-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2013968/000158064226002632/naavft_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2013968/000158064226002632/naavft_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: New Age Alpha Variable Funds Trust\nETF Name: ETFs are typically considered riskier investments than traditional ETFs. Options. Each Fund\nStrategy: For example, a Fund may do so to try to manage its exposure to the possibility that the 6 prices of its portfolio securities may decline or to establish a position in the securities market as a substitute for purchasing individual securities There can be no assurance that a liquid market will exist when a Fund seeks to close out an option position\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "New Age Alpha Variable Funds Trust",
+        "etf_name": "ETFs are typically considered riskier investments than traditional ETFs. Options. Each Fund",
+        "strategy": "For example, a Fund may do so to try to manage its exposure to the possibility that the 6 prices of its portfolio securities may decline or to establish a position in the securities market as a substitute for purchasing individual securities There can be no assurance that a liquid market will exist when a Fund seeks to close out an option position",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-24T14:13:58.734046+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000912577",
+    "company_name": "FEDERATED HERMES INSURANCE SERIES",
+    "accession_number": "0001623632-26-000572",
+    "filed_date": "2026-04-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/912577/000162363226000572/0001623632-26-000572-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/912577/000162363226000572/fis2432-form.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/912577/000162363226000572/fis2432-form.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Federated Hermes Insurance Series\nETF Name: Federated Hermes High Income Bond Fund II (Primary & Service Share Classes)\nStrategy: Fixed-income fund that seeks high current income by investing primarily in a diversified portfolio of high-yield, lower-rated corporate bonds with no targeted average maturity May use derivative contracts and hybrid instruments to adjust exposure, and may allocate a portion to foreign securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Federated Hermes Insurance Series",
+        "etf_name": "Federated Hermes High Income Bond Fund II (Primary & Service Share Classes)",
+        "strategy": "Fixed-income fund that seeks high current income by investing primarily in a diversified portfolio of high-yield, lower-rated corporate bonds with no targeted average maturity May use derivative contracts and hybrid instruments to adjust exposure, and may allocate a portion to foreign securities",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-24T11:15:30.152401+00:00",
     "form_type": "485BPOS",
     "cik": "0001742912",
@@ -417,7 +562,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/837010/000113322826006237/gvac-efp24256_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: VOYA RETIREMENT INSURANCE & ANNUITY Co\nETF Name: Unknown\nStrategy: When determining which underlying Funds to make available, we may consider various factors, including, but not limited to, asset class coverage, the alignment of the investment objectives of an underlying Fund with our hedging strategy, the strength of the adviser\u2019s or subadviser\u2019s reputation and tenure, brand recognition, performance, and the capability and qualification of each investment firm\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Voya Retirement Insurance and Annuity Company\nETF Name: Annuity Account B\nStrategy: This is a variable annuity contract offering subaccounts that each invest in a corresponding underlying mutual fund spanning multiple asset classes, with some employing managed-volatility hedging strategies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "VOYA RETIREMENT INSURANCE & ANNUITY Co",
@@ -446,7 +591,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/103005/000113322826006236/gvac-efp24260_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: VARIABLE ANNUITY ACCOUNT B OF VOYA RETIREMENT INSURANCE & ANNUITY Co\nETF Name: Unknown\nStrategy: When determining which underlying Funds to make available, we may consider various factors, including, but not limited to, asset class coverage, the alignment of the investment objectives of an underlying Fund with our hedging strategy, the strength of the adviser\u2019s or subadviser\u2019s reputation and tenure, brand recognition, performance, and the capability and qualification of each investment firm\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Voya Retirement Insurance and Annuity Company\nETF Name: Variable Annuity Account B\nStrategy: This is a variable annuity product (Form N-4) in which each subaccount invests in shares of a corresponding underlying mutual fund spanning multiple asset classes and advisers Certain underlying funds employ a managed volatility strategy using hedging instruments to reduce overall portfolio volatility and limit downside risk\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "VARIABLE ANNUITY ACCOUNT B OF VOYA RETIREMENT INSURANCE & ANNUITY Co",
@@ -14343,151 +14488,6 @@
         "filer": "JOHN HANCOCK LIFE INSURANCE CO (USA) SEPARATE ACCOUNT A",
         "etf_name": "To seek long-term growth of capital. Fundamental All Cap Core Trust",
         "strategy": "Portfolio and Adviser /Subadviser Current Expenses Average Annual Total Returns (as of 12/31/25) (%) 1-Year 5-Year 10-Year To seek to track the",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-21T21:40:49.562781+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000796330",
-    "company_name": "TALCOTT RESOLUTION LIFE INSURANCE CO SEPARATE ACCOUNT TWO",
-    "accession_number": "0000796330-26-000014",
-    "filed_date": "2026-04-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/796330/000079633026000014/0000796330-26-000014-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/796330/000079633026000014/a2026dir8tlcombo.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/796330/000079633026000014/a2026dir8tlcombo.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Talcott Resolution Life Insurance Co Separate Account Two\nETF Name: NOTICE OF FUND\nStrategy: This is a variable annuity sub-account fund substitution in which contract holders' assets in closing funds covering large-cap value, small-cap growth, and government bond strategies are automatically transferred to corresponding Putnam VT replacement funds. Contract holders may make free transfers out of affected sub-accounts prior to the substitution date.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Talcott Resolution Life Insurance Co Separate Account Two",
-        "etf_name": "NOTICE OF FUND",
-        "strategy": "This is a variable annuity sub-account fund substitution in which contract holders' assets in closing funds covering large-cap value, small-cap growth, and government bond strategies are automatically transferred to corresponding Putnam VT replacement funds. Contract holders may make free transfers out of affected sub-accounts prior to the substitution date.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-21T21:41:52.356937+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000906790",
-    "company_name": "HANCOCK JOHN VARIABLE LIFE ACCOUNT S",
-    "accession_number": "0001193125-26-166348",
-    "filed_date": "2026-04-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/906790/000119312526166348/0001193125-26-166348-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/906790/000119312526166348/d34849d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/906790/000119312526166348/d34849d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: John Hancock Variable Life Account S\nETF Name: TOPS\u00ae Moderately Aggressive ETF \u2013 Class 2\nStrategy: This variable investment option pursues a moderately aggressive asset allocation strategy sub-advised by ValMark Advisers, Inc\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "John Hancock Variable Life Account S",
-        "etf_name": "TOPS\u00ae Moderately Aggressive ETF \u2013 Class 2",
-        "strategy": "This variable investment option pursues a moderately aggressive asset allocation strategy sub-advised by ValMark Advisers, Inc",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-21T21:42:43.080025+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000796330",
-    "company_name": "TALCOTT RESOLUTION LIFE INSURANCE CO SEPARATE ACCOUNT TWO",
-    "accession_number": "0000796330-26-000013",
-    "filed_date": "2026-04-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/796330/000079633026000013/0000796330-26-000013-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/796330/000079633026000013/a2026dir7tlcombo.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/796330/000079633026000013/a2026dir7tlcombo.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Talcott Resolution Life Insurance Co Separate Account Two\nETF Name: NOTICE OF FUND\nStrategy: This variable-annuity sub-account substitution filing replaces three closing funds (large-cap value, small-cap growth, and government securities strategies managed by AB, Allspring, and Invesco) with corresponding Putnam VT replacement funds offering analogous mandates. Contract holders' assets will be automatically transferred on a future Substitution Date, with free transfer rights available in the interim.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Talcott Resolution Life Insurance Co Separate Account Two",
-        "etf_name": "NOTICE OF FUND",
-        "strategy": "This variable-annuity sub-account substitution filing replaces three closing funds (large-cap value, small-cap growth, and government securities strategies managed by AB, Allspring, and Invesco) with corresponding Putnam VT replacement funds offering analogous mandates. Contract holders' assets will be automatically transferred on a future Substitution Date, with free transfer rights available in the interim.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-21T21:43:38.391162+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000796330",
-    "company_name": "TALCOTT RESOLUTION LIFE INSURANCE CO SEPARATE ACCOUNT TWO",
-    "accession_number": "0000796330-26-000012",
-    "filed_date": "2026-04-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/796330/000079633026000012/0000796330-26-000012-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/796330/000079633026000012/a2026dir6tlcombo.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/796330/000079633026000012/a2026dir6tlcombo.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Talcott Resolution Life Insurance Co Separate Account Two\nETF Name: NOTICE OF FUND\nStrategy: This is a variable-insurance sub-account substitution filing in which three existing funds spanning large-cap value, small-cap growth, and government fixed income are being closed and automatically replaced by corresponding Putnam-managed funds. Contract values are transferred on the substitution date with no policyholder action required, and benefit-eligibility investment restrictions are updated accordingly.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Talcott Resolution Life Insurance Co Separate Account Two",
-        "etf_name": "NOTICE OF FUND",
-        "strategy": "This is a variable-insurance sub-account substitution filing in which three existing funds spanning large-cap value, small-cap growth, and government fixed income are being closed and automatically replaced by corresponding Putnam-managed funds. Contract values are transferred on the substitution date with no policyholder action required, and benefit-eligibility investment restrictions are updated accordingly.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-21T21:44:23.627718+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000796330",
-    "company_name": "TALCOTT RESOLUTION LIFE INSURANCE CO SEPARATE ACCOUNT TWO",
-    "accession_number": "0000796330-26-000011",
-    "filed_date": "2026-04-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/796330/000079633026000011/0000796330-26-000011-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/796330/000079633026000011/a2026dir25tlcombo.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/796330/000079633026000011/a2026dir25tlcombo.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Talcott Resolution Life Insurance Co Separate Account Two\nETF Name: Government Securities VIP Fund \u2013 Class 1\nStrategy: The fund is a U.S. government securities\u2013focused variable insurance product sub-account that is being closed to new investment and automatically substituted with a designated Replacement Fund.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Talcott Resolution Life Insurance Co Separate Account Two",
-        "etf_name": "Government Securities VIP Fund \u2013 Class 1",
-        "strategy": "The fund is a U.S. government securities\u2013focused variable insurance product sub-account that is being closed to new investment and automatically substituted with a designated Replacement Fund.",
         "is_alert_worthy": "LOW"
       }
     ],
