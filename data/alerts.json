@@ -1,5 +1,411 @@
 [
   {
+    "created_at": "2026-04-27T20:48:53.486516+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000844779",
+    "company_name": "BLACKROCK FUNDS",
+    "accession_number": "0001193125-26-182288",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/844779/000119312526182288/0001193125-26-182288-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/844779/000119312526182288/d85741d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/844779/000119312526182288/d85741d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BlackRock Funds\nETF Name: Fund may receive reduced or no benefits under the contract. A Fund\nStrategy: TIPS 0-5 Years Index using a representative sampling approach, investing at least 90% of assets in short-duration U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BlackRock Funds",
+        "etf_name": "Fund may receive reduced or no benefits under the contract. A Fund",
+        "strategy": "TIPS 0-5 Years Index using a representative sampling approach, investing at least 90% of assets in short-duration U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-27T20:50:07.336431+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-000829",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000829/0001771146-26-000829-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000829/ck0001771146-20260427.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000829/ck0001771146-20260427.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Applied Finance IVS International SMID ETF\nStrategy: International small- and mid-cap equity fund employing the IVS analytical framework to target holdings outside North America. The asterisk notation in the filing suggests this may be a newly authorized series not yet launched.\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Opportunities Trust",
+        "etf_name": "Applied Finance IVS International SMID ETF",
+        "strategy": "International small- and mid-cap equity fund employing the IVS analytical framework to target holdings outside North America. The asterisk notation in the filing suggests this may be a newly authorized series not yet launched.",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-27T20:50:55.952313+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001140019",
+    "company_name": "TALCOTT RESOLUTION LIFE INSURANCE CO SEPARATE ACCOUNT 11",
+    "accession_number": "0001140019-26-000071",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1140019/000114001926000071/0001140019-26-000071-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1140019/000114001926000071/empower-20260427.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1140019/000114001926000071/empower-20260427.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Talcott Resolution Life Insurance Company (Separate Account Eleven)\nETF Name: ClearBridge Value Trust Fund\nStrategy: This filing covers a variable insurance contract offering participants exposure to a diversified menu of third-party underlying mutual funds through sub-accounts, with contract values fluctuating based on each fund's investment performance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Talcott Resolution Life Insurance Company (Separate Account Eleven)",
+        "etf_name": "ClearBridge Value Trust Fund",
+        "strategy": "This filing covers a variable insurance contract offering participants exposure to a diversified menu of third-party underlying mutual funds through sub-accounts, with contract values fluctuating based on each fund's investment performance",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-27T20:51:59.519809+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001140019",
+    "company_name": "TALCOTT RESOLUTION LIFE INSURANCE CO SEPARATE ACCOUNT 11",
+    "accession_number": "0001140019-26-000070",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1140019/000114001926000070/0001140019-26-000070-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1140019/000114001926000070/ck0001140019-20260427.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1140019/000114001926000070/ck0001140019-20260427.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Talcott Resolution Life Insurance Co Separate Account 11\nETF Name: Massachusetts Investors Trust (underlying fund within variable annuity sub-account structure)\nStrategy: This is a variable annuity separate account that allocates contract value across sub-accounts, each investing in a single underlying open-end mutual fund spanning strategies such as large blend, foreign large value, and equity index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Talcott Resolution Life Insurance Co Separate Account 11",
+        "etf_name": "Massachusetts Investors Trust (underlying fund within variable annuity sub-account structure)",
+        "strategy": "This is a variable annuity separate account that allocates contract value across sub-accounts, each investing in a single underlying open-end mutual fund spanning strategies such as large blend, foreign large value, and equity index",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-27T20:52:55.390771+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001140019",
+    "company_name": "TALCOTT RESOLUTION LIFE INSURANCE CO SEPARATE ACCOUNT 11",
+    "accession_number": "0001140019-26-000069",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1140019/000114001926000069/0001140019-26-000069-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1140019/000114001926000069/ck0001140019-20260427.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1140019/000114001926000069/ck0001140019-20260427.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Talcott Resolution Life Insurance Co Separate Account 11\nETF Name: Massachusetts Investors Trust (underlying mutual fund, not an ETF \u2014 this is a variable annuity separate account filing)\nStrategy: Each sub-account allocates contract value to a corresponding underlying open-end mutual fund, with contract values fluctuating based on the investment experience of those funds. Talcott Resolution may receive asset-based and 12b-1 distribution/servicing fees of up to 0.55%\u20130.75% of underlying fund assets.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Talcott Resolution Life Insurance Co Separate Account 11",
+        "etf_name": "Massachusetts Investors Trust (underlying mutual fund, not an ETF \u2014 this is a variable annuity separate account filing)",
+        "strategy": "Each sub-account allocates contract value to a corresponding underlying open-end mutual fund, with contract values fluctuating based on the investment experience of those funds. Talcott Resolution may receive asset-based and 12b-1 distribution/servicing fees of up to 0.55%\u20130.75% of underlying fund assets.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-27T20:54:22.897933+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000088525",
+    "company_name": "GUGGENHEIM FUNDS TRUST",
+    "accession_number": "0001193125-26-182119",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/88525/000119312526182119/0001193125-26-182119-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/88525/000119312526182119/d108181d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/88525/000119312526182119/d108181d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Guggenheim Funds Trust\nETF Name: Guggenheim Ultra Short Income ETF (GCSH)\nStrategy: Invests primarily in a diversified portfolio of investment-grade debt securities with a target duration normally not exceeding one year, and may gain exposure via affiliated closed-end funds, ETFs, and mutual funds The fund converts from a predecessor fund structure, repackaging an existing ultra-short fixed-income strategy into an ETF wrapper\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Guggenheim Funds Trust",
+        "etf_name": "Guggenheim Ultra Short Income ETF (GCSH)",
+        "strategy": "Invests primarily in a diversified portfolio of investment-grade debt securities with a target duration normally not exceeding one year, and may gain exposure via affiliated closed-end funds, ETFs, and mutual funds The fund converts from a predecessor fund structure, repackaging an existing ultra-short fixed-income strategy into an ETF wrapper",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-27T20:55:13.987037+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000109907",
+    "company_name": "TALCOTT RESOLUTION LIFE INSURANCE CO DC VARIABLE ACCOUNT I",
+    "accession_number": "0000109907-26-000007",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/109907/000010990726000007/0000109907-26-000007-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/109907/000010990726000007/ck0000109907-20260427.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/109907/000010990726000007/ck0000109907-20260427.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Talcott Resolution Life Insurance Company (DC Variable Account I)\nETF Name: As a percentage of Underlying Fund\nStrategy: large-cap, small-cap, mid-cap, international, real return, and S&P 500 index strategies managed by third-party asset managers\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Talcott Resolution Life Insurance Company (DC Variable Account I)",
+        "etf_name": "As a percentage of Underlying Fund",
+        "strategy": "large-cap, small-cap, mid-cap, international, real return, and S&P 500 index strategies managed by third-party asset managers",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-27T20:56:03.859389+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000276183",
+    "company_name": "TALCOTT RESOLUTION LIFE INSURANCE CO SEPARATE ACCOUNT TWO QP VARI ACCO",
+    "accession_number": "0000276183-26-000007",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/276183/000027618326000007/0000276183-26-000007-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/276183/000027618326000007/ck00276183-20260427.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/276183/000027618326000007/ck00276183-20260427.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Talcott Resolution Life Insurance Company\nETF Name: Talcott Resolution Variable Annuity Separate Account Two\nStrategy: This is a variable annuity separate account offering participants a menu of underlying funds spanning large-cap value, large-cap growth, small-cap growth, international value, capital appreciation, and fixed income. The filing details fund substitutions replacing existing portfolios with Putnam-managed alternatives having similar investment objectives while maintaining standard mortality and expense risk charges.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Talcott Resolution Life Insurance Company",
+        "etf_name": "Talcott Resolution Variable Annuity Separate Account Two",
+        "strategy": "This is a variable annuity separate account offering participants a menu of underlying funds spanning large-cap value, large-cap growth, small-cap growth, international value, capital appreciation, and fixed income. The filing details fund substitutions replacing existing portfolios with Putnam-managed alternatives having similar investment objectives while maintaining standard mortality and expense risk charges.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-27T20:57:06.505050+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000882748",
+    "company_name": "BOSTON TRUST WALDEN FUNDS",
+    "accession_number": "0001398344-26-007318",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/882748/000139834426007318/0001398344-26-007318-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/882748/000139834426007318/fp0098118-14_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/882748/000139834426007318/fp0098118-14_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BOSTON TRUST WALDEN FUNDS\nETF Name: Boston Trust Asset Management Fund, Boston Trust Equity Fund, Boston Trust Midcap Fund\nStrategy: Actively managed suite of U.S. equity and multi-asset funds that integrate financially material ESG factors into security selection, with the Asset Management Fund maintaining minimum 20% allocations each to domestic/foreign equities and fixed income.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BOSTON TRUST WALDEN FUNDS",
+        "etf_name": "Boston Trust Asset Management Fund, Boston Trust Equity Fund, Boston Trust Midcap Fund",
+        "strategy": "Actively managed suite of U.S. equity and multi-asset funds that integrate financially material ESG factors into security selection, with the Asset Management Fund maintaining minimum 20% allocations each to domestic/foreign equities and fixed income.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-27T20:57:58.940680+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000314900",
+    "company_name": "TALCOTT RESOLUTION LIFE INSURANCE CO SEPARATE ACCOUNT TWO NQ VARI ACCO",
+    "accession_number": "0000314900-26-000006",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/314900/000031490026000006/0000314900-26-000006-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/314900/000031490026000006/bpos-20260427.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/314900/000031490026000006/bpos-20260427.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Talcott Resolution Life Insurance Company\nETF Name: For additional information on the underlying Fund\nStrategy: This is a variable annuity contract that allocates participant assets across underlying diversified mutual funds, with the filing documenting a series of fund substitutions replacing existing sub-account options (e.g., AB Relative Value, Allspring VT Small Cap Growth, Columbia VP Large Cap Growth) with corresponding Putnam VT alternatives. The substitutions are intended to match similar investment objectives and risk...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Talcott Resolution Life Insurance Company",
+        "etf_name": "For additional information on the underlying Fund",
+        "strategy": "This is a variable annuity contract that allocates participant assets across underlying diversified mutual funds, with the filing documenting a series of fund substitutions replacing existing sub-account options (e.g., AB Relative Value, Allspring VT Small Cap Growth, Columbia VP Large Cap Growth) with corresponding Putnam VT alternatives. The substitutions are intended to match similar investment objectives and risk...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-27T20:58:54.972319+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000790560",
+    "company_name": "TALCOTT RESOLUTION LIFE INSURANCE CO SEPARATE ACCOUNT TWO DC VAR AC II",
+    "accession_number": "0000790560-26-000014",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/790560/000079056026000014/0000790560-26-000014-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/790560/000079056026000014/ck0000790560-20260427.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/790560/000079056026000014/ck0000790560-20260427.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Talcott Resolution Life Insurance Company\nETF Name: Separate Account Two DC Variable Annuity Account II\nStrategy: The Separate Account allocates contract value across multiple sub-accounts investing in diversified, registered open-end underlying funds from third-party asset managers including BlackRock, AB, Putnam, PIMCO, and American Funds. The filing documents fund substitutions replacing certain AB, Allspring, Columbia, and Invesco portfolios with comparable Putnam VT funds having similar objectives and risk profiles.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Talcott Resolution Life Insurance Company",
+        "etf_name": "Separate Account Two DC Variable Annuity Account II",
+        "strategy": "The Separate Account allocates contract value across multiple sub-accounts investing in diversified, registered open-end underlying funds from third-party asset managers including BlackRock, AB, Putnam, PIMCO, and American Funds. The filing documents fund substitutions replacing certain AB, Allspring, Columbia, and Invesco portfolios with comparable Putnam VT funds having similar objectives and risk profiles.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-27T20:59:47.128191+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000790560",
+    "company_name": "TALCOTT RESOLUTION LIFE INSURANCE CO SEPARATE ACCOUNT TWO DC VAR AC II",
+    "accession_number": "0000790560-26-000013",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/790560/000079056026000013/0000790560-26-000013-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/790560/000079056026000013/ck0000790560-20260427.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/790560/000079056026000013/ck0000790560-20260427.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Talcott Resolution Life Insurance Company (Separate Account Two DC VAR AC II), reinsured by Massachusetts Mutual Life Insurance Company\nETF Name: As a percentage of Underlying Fund\nStrategy: large-cap, small-cap, mid-cap, international value, real return, and S&P 500 index strategies managed by third-party asset managers\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Talcott Resolution Life Insurance Company (Separate Account Two DC VAR AC II), reinsured by Massachusetts Mutual Life Insurance Company",
+        "etf_name": "As a percentage of Underlying Fund",
+        "strategy": "large-cap, small-cap, mid-cap, international value, real return, and S&P 500 index strategies managed by third-party asset managers",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-27T21:00:43.553841+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000811030",
+    "company_name": "PROFESSIONALLY MANAGED PORTFOLIOS",
+    "accession_number": "0000894189-26-013182",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/811030/000089418926013182/0000894189-26-013182-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/811030/000089418926013182/ck0000811030-20260427.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/811030/000089418926013182/ck0000811030-20260427.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Professionally Managed Portfolios\nETF Name: Bridges Investment Fund\nStrategy: Primarily invests in a diversified portfolio of U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Professionally Managed Portfolios",
+        "etf_name": "Bridges Investment Fund",
+        "strategy": "Primarily invests in a diversified portfolio of U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-27T21:01:31.896200+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000790560",
+    "company_name": "TALCOTT RESOLUTION LIFE INSURANCE CO SEPARATE ACCOUNT TWO DC VAR AC II",
+    "accession_number": "0000790560-26-000012",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/790560/000079056026000012/0000790560-26-000012-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/790560/000079056026000012/ck0000790560-20260427.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/790560/000079056026000012/ck0000790560-20260427.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Talcott Resolution Life Insurance Company (Separate Account Two)\nETF Name: As a percentage of Underlying Fund\nStrategy: A variable annuity separate account that allocates participant contributions across a menu of SEC-registered underlying funds managed by third-party asset managers, with investment performance risk borne by the participant. The filing documents routine fund substitutions replacing existing portfolios with Putnam VT equivalents of similar objectives and risk profiles.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Talcott Resolution Life Insurance Company (Separate Account Two)",
+        "etf_name": "As a percentage of Underlying Fund",
+        "strategy": "A variable annuity separate account that allocates participant contributions across a menu of SEC-registered underlying funds managed by third-party asset managers, with investment performance risk borne by the participant. The filing documents routine fund substitutions replacing existing portfolios with Putnam VT equivalents of similar objectives and risk profiles.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-27T19:49:32.356122+00:00",
     "form_type": "485BPOS",
     "cik": "0001738078",
@@ -14085,412 +14491,6 @@
         "filer": "PARAGON SEPARATE ACCOUNT C",
         "etf_name": "Account, through its investment decisions, will satisfy these diversification requirements. If Fund",
         "strategy": "This is a variable life insurance separate account prospectus offering policyholders exposure to multiple underlying mutual fund Portfolios across various asset classes, selected based on adviser reputation, performance, and brand recognition",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T20:06:37.817321+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000914245",
-    "company_name": "PROTECTIVE VARIABLE ANNUITY SEPARATE ACCOUNT",
-    "accession_number": "0001104659-26-046700",
-    "filed_date": "2026-04-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/914245/000110465926046700/0001104659-26-046700-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/914245/000110465926046700/tm262524d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/914245/000110465926046700/tm262524d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Variable Annuity Separate Account\nETF Name: Target Allocation ETF V.I. Fund BlackRock Global Allocation V.I. Fund\nStrategy: This is a variable annuity separate account offering a menu of underlying investment options\u2014including funds such as Target Allocation ETF V.I. Fund and BlackRock Global Allocation V.I.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Protective Variable Annuity Separate Account",
-        "etf_name": "Target Allocation ETF V.I. Fund BlackRock Global Allocation V.I. Fund",
-        "strategy": "This is a variable annuity separate account offering a menu of underlying investment options\u2014including funds such as Target Allocation ETF V.I. Fund and BlackRock Global Allocation V.I.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T20:07:28.778520+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000897956",
-    "company_name": "PARAGON SEPARATE ACCOUNT B",
-    "accession_number": "0001193125-26-169969",
-    "filed_date": "2026-04-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/897956/000119312526169969/0001193125-26-169969-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/897956/000119312526169969/d111274d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/897956/000119312526169969/d111274d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PARAGON SEPARATE ACCOUNT B\nETF Name: Brighthouse Funds Trust Portfolios (underlying mutual fund portfolios, not ETFs)\nStrategy: This is a variable life insurance separate account filing in which policyholders allocate cash value across multiple Divisions, each investing in an underlying open-end mutual fund Portfolio spanning various asset classes Approximately 85% of Portfolio assets were held in separate accounts of Metropolitan Life Insurance Company and its affiliates as of December 31, 2025, with annual portfolio expenses ranging from 0....\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PARAGON SEPARATE ACCOUNT B",
-        "etf_name": "Brighthouse Funds Trust Portfolios (underlying mutual fund portfolios, not ETFs)",
-        "strategy": "This is a variable life insurance separate account filing in which policyholders allocate cash value across multiple Divisions, each investing in an underlying open-end mutual fund Portfolio spanning various asset classes Approximately 85% of Portfolio assets were held in separate accounts of Metropolitan Life Insurance Company and its affiliates as of December 31, 2025, with annual portfolio expenses ranging from 0....",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T20:08:20.124793+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000897956",
-    "company_name": "PARAGON SEPARATE ACCOUNT B",
-    "accession_number": "0001193125-26-169941",
-    "filed_date": "2026-04-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/897956/000119312526169941/0001193125-26-169941-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/897956/000119312526169941/d113488d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/897956/000119312526169941/d113488d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PARAGON SEPARATE ACCOUNT B\nETF Name: Brighthouse Funds Trust Portfolios\nStrategy: Policyholders allocate cash value across multiple Separate Account Divisions, each investing in a registered open-end mutual fund Portfolio within Brighthouse Funds Trust Portfolios are selected based on asset class coverage, adviser reputation, performance, and firm qualifications, with approximately 85% of Portfolio assets held in separate accounts of Metropolitan Life Insurance Company and its affiliates\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PARAGON SEPARATE ACCOUNT B",
-        "etf_name": "Brighthouse Funds Trust Portfolios",
-        "strategy": "Policyholders allocate cash value across multiple Separate Account Divisions, each investing in a registered open-end mutual fund Portfolio within Brighthouse Funds Trust Portfolios are selected based on asset class coverage, adviser reputation, performance, and firm qualifications, with approximately 85% of Portfolio assets held in separate accounts of Metropolitan Life Insurance Company and its affiliates",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T20:09:06.117113+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-018518",
-    "filed_date": "2026-04-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226018518/0001493152-26-018518-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226018518/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226018518/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares 2x Short Lamba Inc. Daily ETF\nStrategy: Seeks daily investment results equal to the inverse (\u2013200%) of the daily percentage change of Lamba Inc\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "GraniteShares 2x Short Lamba Inc. Daily ETF",
-        "strategy": "Seeks daily investment results equal to the inverse (\u2013200%) of the daily percentage change of Lamba Inc",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T20:09:54.493234+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000914245",
-    "company_name": "PROTECTIVE VARIABLE ANNUITY SEPARATE ACCOUNT",
-    "accession_number": "0001104659-26-046692",
-    "filed_date": "2026-04-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/914245/000110465926046692/0001104659-26-046692-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/914245/000110465926046692/tm262377d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/914245/000110465926046692/tm262377d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Protective Life Insurance Company (Protective Variable Annuity Separate Account)\nETF Name: Target Allocation ETF V.I. Fund BlackRock Global Allocation V.I. Fund\nStrategy: This filing covers a variable annuity contract offering a menu of underlying sub-account fund options spanning balanced, fixed-income, and growth allocations, with Model Portfolios (conservative to aggressive) constructed with consulting from Milliman Financial Risk Management LLC. Fund shares are not sold directly to investors but are accessible only through Protective Life insurance contracts, with sub-account sele...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Protective Life Insurance Company (Protective Variable Annuity Separate Account)",
-        "etf_name": "Target Allocation ETF V.I. Fund BlackRock Global Allocation V.I. Fund",
-        "strategy": "This filing covers a variable annuity contract offering a menu of underlying sub-account fund options spanning balanced, fixed-income, and growth allocations, with Model Portfolios (conservative to aggressive) constructed with consulting from Milliman Financial Risk Management LLC. Fund shares are not sold directly to investors but are accessible only through Protective Life insurance contracts, with sub-account sele...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T20:10:38.845060+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000824725",
-    "company_name": "PARAGON SEPARATE ACCOUNT A",
-    "accession_number": "0001193125-26-169927",
-    "filed_date": "2026-04-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/824725/000119312526169927/0001193125-26-169927-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/824725/000119312526169927/d89892d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/824725/000119312526169927/d89892d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Brighthouse Life Insurance Company (Paragon Separate Account A)\nETF Name: Company and its affiliates were allocated to Portfolios in Brighthouse Funds Trust\nStrategy: This filing is a variable life insurance separate-account prospectus offering exposure to multiple underlying mutual fund portfolios spanning diverse asset classes, available exclusively through variable annuity and variable life insurance policies issued by MetLife/Brighthouse affiliates\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Brighthouse Life Insurance Company (Paragon Separate Account A)",
-        "etf_name": "Company and its affiliates were allocated to Portfolios in Brighthouse Funds Trust",
-        "strategy": "This filing is a variable life insurance separate-account prospectus offering exposure to multiple underlying mutual fund portfolios spanning diverse asset classes, available exclusively through variable annuity and variable life insurance policies issued by MetLife/Brighthouse affiliates",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T20:11:18.586267+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000858997",
-    "company_name": "Metropolitan Life Separate Account UL",
-    "accession_number": "0001193125-26-169923",
-    "filed_date": "2026-04-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/858997/000119312526169923/0001193125-26-169923-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/858997/000119312526169923/d121492d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/858997/000119312526169923/d121492d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Metropolitan Life Separate Account UL\nETF Name: Brighthouse Funds Trust I / Brighthouse Funds Trust II\nStrategy: Policyholders may allocate cash value into portfolios such as the MetLife Stock Index Portfolio and the Morgan Stanley Discovery Portfolio, selected based on asset-class coverage, adviser reputation, and performance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Metropolitan Life Separate Account UL",
-        "etf_name": "Brighthouse Funds Trust I / Brighthouse Funds Trust II",
-        "strategy": "Policyholders may allocate cash value into portfolios such as the MetLife Stock Index Portfolio and the Morgan Stanley Discovery Portfolio, selected based on asset-class coverage, adviser reputation, and performance",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T20:12:06.255329+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000858997",
-    "company_name": "Metropolitan Life Separate Account UL",
-    "accession_number": "0001193125-26-169914",
-    "filed_date": "2026-04-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/858997/000119312526169914/0001193125-26-169914-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/858997/000119312526169914/d118816d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/858997/000119312526169914/d118816d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Metropolitan Life Separate Account UL\nETF Name: Allocation State Street Moderate ETF Portfolio\nStrategy: A multi-asset allocation portfolio subadvised by SSGA Funds Management, Inc that invests across ETFs to pursue moderate growth and income\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Metropolitan Life Separate Account UL",
-        "etf_name": "Allocation State Street Moderate ETF Portfolio",
-        "strategy": "A multi-asset allocation portfolio subadvised by SSGA Funds Management, Inc that invests across ETFs to pursue moderate growth and income",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T20:12:47.907416+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000858997",
-    "company_name": "Metropolitan Life Separate Account UL",
-    "accession_number": "0001193125-26-169905",
-    "filed_date": "2026-04-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/858997/000119312526169905/0001193125-26-169905-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/858997/000119312526169905/d42382d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/858997/000119312526169905/d42382d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Metropolitan Life Insurance Company (Metropolitan Life Separate Account UL)\nETF Name: Company and its affiliates were allocated to Portfolios in Brighthouse Funds Trust\nStrategy: small-cap, fixed income, and index strategies such as the MSCI EAFE Index and Russell 2000 Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Metropolitan Life Insurance Company (Metropolitan Life Separate Account UL)",
-        "etf_name": "Company and its affiliates were allocated to Portfolios in Brighthouse Funds Trust",
-        "strategy": "small-cap, fixed income, and index strategies such as the MSCI EAFE Index and Russell 2000 Index",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T18:17:17.216552+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000858997",
-    "company_name": "Metropolitan Life Separate Account UL",
-    "accession_number": "0001193125-26-169840",
-    "filed_date": "2026-04-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/858997/000119312526169840/0001193125-26-169840-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/858997/000119312526169840/d77182d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/858997/000119312526169840/d77182d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Metropolitan Life Separate Account UL\nETF Name: Allocation State Street Moderate ETF Portfolio; Allocation State Street Moderately Aggressive ETF Portfolio\nStrategy: The portfolios target moderate to moderately aggressive risk profiles through diversified asset-class exposure via underlying ETFs\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Metropolitan Life Separate Account UL",
-        "etf_name": "Allocation State Street Moderate ETF Portfolio; Allocation State Street Moderately Aggressive ETF Portfolio",
-        "strategy": "The portfolios target moderate to moderately aggressive risk profiles through diversified asset-class exposure via underlying ETFs",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T18:18:06.655938+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000858997",
-    "company_name": "Metropolitan Life Separate Account UL",
-    "accession_number": "0001193125-26-169833",
-    "filed_date": "2026-04-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/858997/000119312526169833/0001193125-26-169833-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/858997/000119312526169833/d46192d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/858997/000119312526169833/d46192d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Metropolitan Life Separate Account UL\nETF Name: Allocation State Street Moderate ETF Portfolio\nStrategy: This is an underlying portfolio option within a variable life insurance separate account, subadvised by SSGA Funds Management, Inc under Brighthouse Investment Advisers, LLC, pursuing a moderate asset-allocation strategy using ETFs\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Metropolitan Life Separate Account UL",
-        "etf_name": "Allocation State Street Moderate ETF Portfolio",
-        "strategy": "This is an underlying portfolio option within a variable life insurance separate account, subadvised by SSGA Funds Management, Inc under Brighthouse Investment Advisers, LLC, pursuing a moderate asset-allocation strategy using ETFs",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T18:19:00.635863+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000072499",
-    "company_name": "ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA",
-    "accession_number": "0000072499-26-000028",
-    "filed_date": "2026-04-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/72499/000007249926000028/0000072499-26-000028-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/72499/000007249926000028/indadvposam.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/72499/000007249926000028/indadvposam.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Allianz Life Insurance Company of North America\nETF Name: The iShares MSCI Emerging Markets ETF\nStrategy: This variable annuity prospectus references the iShares MSCI Emerging Markets ETF, which seeks to track an index of large- and mid-cap emerging market equities, as one of several index-linked crediting options alongside benchmarks such as the S&P 500 and EURO STOXX 50 The annuity offers multiple defined-outcome strategies (Index Performance, Index Guard, Index Precision, Index Protection) with varying buffers and flo...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Allianz Life Insurance Company of North America",
-        "etf_name": "The iShares MSCI Emerging Markets ETF",
-        "strategy": "This variable annuity prospectus references the iShares MSCI Emerging Markets ETF, which seeks to track an index of large- and mid-cap emerging market equities, as one of several index-linked crediting options alongside benchmarks such as the S&P 500 and EURO STOXX 50 The annuity offers multiple defined-outcome strategies (Index Performance, Index Guard, Index Precision, Index Protection) with varying buffers and flo...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T18:19:55.429661+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000072499",
-    "company_name": "ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA",
-    "accession_number": "0000072499-26-000029",
-    "filed_date": "2026-04-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/72499/000007249926000029/0000072499-26-000029-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/72499/000007249926000029/indadvadv485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/72499/000007249926000029/indadvadv485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Allianz Life Insurance Company of North America\nETF Name: The iShares MSCI Emerging Markets ETF\nStrategy: The iShares MSCI Emerging Markets ETF is referenced as a benchmark within the Allianz Index Advantage ADV\u00ae Variable Annuity, seeking to track an index of large- and mid-capitalization emerging market equities It is not being launched or modified in this filing but serves as one of several index-linked crediting strategy references alongside the S&P 500\u00ae and EURO STOXX 50\u00ae\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Allianz Life Insurance Company of North America",
-        "etf_name": "The iShares MSCI Emerging Markets ETF",
-        "strategy": "The iShares MSCI Emerging Markets ETF is referenced as a benchmark within the Allianz Index Advantage ADV\u00ae Variable Annuity, seeking to track an index of large- and mid-capitalization emerging market equities It is not being launched or modified in this filing but serves as one of several index-linked crediting strategy references alongside the S&P 500\u00ae and EURO STOXX 50\u00ae",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T18:20:47.423322+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000072499",
-    "company_name": "ALLIANZ LIFE INSURANCE CO OF NORTH AMERICA",
-    "accession_number": "0000072499-26-000030",
-    "filed_date": "2026-04-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/72499/000007249926000030/0000072499-26-000030-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/72499/000007249926000030/indadvnf485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/72499/000007249926000030/indadvnf485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Allianz Life Insurance Company of North America\nETF Name: Index Advantage NF\u00ae Variable Annuity\nStrategy: This variable annuity offers index-linked crediting strategies (Index Protection, Index Precision, Index Guard, and Index Performance) tied to the S&P 500, EURO STOXX 50, and iShares MSCI Emerging Markets ETF, with downside buffers ranging from 10% to full principal protection in exchange for capped upside\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Allianz Life Insurance Company of North America",
-        "etf_name": "Index Advantage NF\u00ae Variable Annuity",
-        "strategy": "This variable annuity offers index-linked crediting strategies (Index Protection, Index Precision, Index Guard, and Index Performance) tied to the S&P 500, EURO STOXX 50, and iShares MSCI Emerging Markets ETF, with downside buffers ranging from 10% to full principal protection in exchange for capped upside",
         "is_alert_worthy": "LOW"
       }
     ],
