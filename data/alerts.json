@@ -1,5 +1,121 @@
 [
   {
+    "created_at": "2026-04-27T12:57:39.326071+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000872625",
+    "company_name": "FRANKLIN STRATEGIC SERIES",
+    "accession_number": "0001655589-26-000587",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/872625/000165558926000587/0001655589-26-000587-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/872625/000165558926000587/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/872625/000165558926000587/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Franklin Strategic Series\nETF Name: Franklin Templeton SMACS: Series C\nStrategy: Actively managed fixed-income fund that uses quantitative models and derivatives to dynamically allocate across a broad range of debt securities, including CDOs, CLOs, and emerging-market bonds. The fund prioritizes credit quality and capital preservation while operating within a wrap-fee program structure where fund-level expenses are waived to 0.00%.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Franklin Strategic Series",
+        "etf_name": "Franklin Templeton SMACS: Series C",
+        "strategy": "Actively managed fixed-income fund that uses quantitative models and derivatives to dynamically allocate across a broad range of debt securities, including CDOs, CLOs, and emerging-market bonds. The fund prioritizes credit quality and capital preservation while operating within a wrap-fee program structure where fund-level expenses are waived to 0.00%.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-27T12:58:33.301656+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000356514",
+    "company_name": "NATIONWIDE VARIABLE ACCOUNT II",
+    "accession_number": "0001193125-26-179246",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/356514/000119312526179246/0001193125-26-179246-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/356514/000119312526179246/d146112d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/356514/000119312526179246/d146112d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Nationwide Life Insurance Company (via Nationwide Variable Account II)\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: It employs a target-allocation approach blending equity index, small-cap, and other diversified strategies to serve as a risk-based building block within Nationwide's annuity sub-account menu\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Nationwide Life Insurance Company (via Nationwide Variable Account II)",
+        "etf_name": "Target Allocation ETF V.I. Fund",
+        "strategy": "It employs a target-allocation approach blending equity index, small-cap, and other diversified strategies to serve as a risk-based building block within Nationwide's annuity sub-account menu",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-27T12:59:13.419810+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000202713",
+    "company_name": "NATIONWIDE VARIABLE ACCOUNT",
+    "accession_number": "0001193125-26-179229",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/202713/000119312526179229/0001193125-26-179229-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/202713/000119312526179229/d146034d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/202713/000119312526179229/d146034d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Nationwide Life Insurance Company\nETF Name: Fund Participation Agreement with Gartmore Mutual Fund Capital Trust\nStrategy: This is a variable annuity contract offering Sub-Accounts invested in underlying mutual funds and a Fixed Account, designed for long-term retirement accumulation and income. It is not an ETF; referenced Fund Participation Agreements (e.g., with Gartmore Mutual Fund Capital Trust and Franklin Templeton) govern the availability of underlying fund options.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Nationwide Life Insurance Company",
+        "etf_name": "Fund Participation Agreement with Gartmore Mutual Fund Capital Trust",
+        "strategy": "This is a variable annuity contract offering Sub-Accounts invested in underlying mutual funds and a Fixed Account, designed for long-term retirement accumulation and income. It is not an ETF; referenced Fund Participation Agreements (e.g., with Gartmore Mutual Fund Capital Trust and Franklin Templeton) govern the availability of underlying fund options.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-27T12:59:54.491445+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000202713",
+    "company_name": "NATIONWIDE VARIABLE ACCOUNT",
+    "accession_number": "0001193125-26-179178",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/202713/000119312526179178/0001193125-26-179178-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/202713/000119312526179178/d98646d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/202713/000119312526179178/d98646d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Nationwide Variable Account (Nationwide Life Insurance Company)\nETF Name: Fund Participation Agreement with Gartmore Mutual Fund Capital Trust\nStrategy: This is a variable annuity contract offering Sub-Accounts that invest in a menu of underlying mutual funds, including those under Fund Participation Agreements with entities such as Gartmore Mutual Fund Capital Trust and Franklin Templeton\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Nationwide Variable Account (Nationwide Life Insurance Company)",
+        "etf_name": "Fund Participation Agreement with Gartmore Mutual Fund Capital Trust",
+        "strategy": "This is a variable annuity contract offering Sub-Accounts that invest in a menu of underlying mutual funds, including those under Fund Participation Agreements with entities such as Gartmore Mutual Fund Capital Trust and Franklin Templeton",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-27T11:19:42.682039+00:00",
     "form_type": "485APOS",
     "cik": "0000837010",
@@ -14372,122 +14488,6 @@
         "filer": "JACKSON NATIONAL SEPARATE ACCOUNT - I",
         "etf_name": "JNL Moderate ETF Allocation Fund",
         "strategy": "A fund-of-funds that allocates across multiple underlying index funds and ETFs\u2014including JNL/Mellon Dow SM Index, JNL/Mellon Emerging Markets Index, JNL/Mellon World Index, and JNL/Mellon S&P funds\u2014to achieve a moderate risk profile equity, international/global equity, and emerging markets exposures via passive index strategies",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T00:20:43.535479+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001045032",
-    "company_name": "JNLNY SEPARATE ACCOUNT I",
-    "accession_number": "0001045032-26-000166",
-    "filed_date": "2026-04-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1045032/000104503226000166/0001045032-26-000166-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1045032/000104503226000166/ck0001045032-20260421.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1045032/000104503226000166/ck0001045032-20260421.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: JNLNY Separate Account I (Jackson National Life Insurance Company of New York)\nETF Name: JNL Moderate ETF Allocation Fund\nStrategy: Sub-advised portfolios from firms such as Mellon Investments Corporation track benchmarks including the Dow, S&P, Emerging Markets, and World indices\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "JNLNY Separate Account I (Jackson National Life Insurance Company of New York)",
-        "etf_name": "JNL Moderate ETF Allocation Fund",
-        "strategy": "Sub-advised portfolios from firms such as Mellon Investments Corporation track benchmarks including the Dow, S&P, Emerging Markets, and World indices",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T00:21:35.287085+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000927730",
-    "company_name": "JACKSON NATIONAL SEPARATE ACCOUNT - I",
-    "accession_number": "0000927730-26-000190",
-    "filed_date": "2026-04-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/927730/000092773026000190/0000927730-26-000190-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/927730/000092773026000190/ck0000927730-20260421.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/927730/000092773026000190/ck0000927730-20260421.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: JACKSON NATIONAL SEPARATE ACCOUNT - I\nETF Name: JNL Moderate ETF Allocation Fund\nStrategy: The fund pursues a moderate asset-allocation approach by investing in underlying JNL index funds and ETFs spanning U.S Underlying holdings include passive index-tracking vehicles sub-advised by firms such as Mellon Investments Corporation, covering benchmarks like the Dow, S&P, and world and emerging-markets indices\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "JACKSON NATIONAL SEPARATE ACCOUNT - I",
-        "etf_name": "JNL Moderate ETF Allocation Fund",
-        "strategy": "The fund pursues a moderate asset-allocation approach by investing in underlying JNL index funds and ETFs spanning U.S Underlying holdings include passive index-tracking vehicles sub-advised by firms such as Mellon Investments Corporation, covering benchmarks like the Dow, S&P, and world and emerging-markets indices",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T00:22:32.366441+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000753892",
-    "company_name": "JOHN HANCOCK LIFE INSURANCE CO (USA) SEPARATE ACCOUNT H",
-    "accession_number": "0001193125-26-167177",
-    "filed_date": "2026-04-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/753892/000119312526167177/0001193125-26-167177-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/753892/000119312526167177/d35543d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/753892/000119312526167177/d35543d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: John Hancock Life Insurance Co (USA) Separate Account H\nETF Name: John Hancock Variable Insurance Trust \u2013 Managed Volatility Portfolios\nStrategy: These are multi-asset managed-volatility portfolios offered through a variable annuity separate account, dynamically shifting exposure among equities, fixed income, cash, and derivatives to support the insurer's guarantee obligations Equity exposure is capped at prescribed levels per portfolio, while cash allocations may rise to 100% during periods of extreme volatility\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "John Hancock Life Insurance Co (USA) Separate Account H",
-        "etf_name": "John Hancock Variable Insurance Trust \u2013 Managed Volatility Portfolios",
-        "strategy": "These are multi-asset managed-volatility portfolios offered through a variable annuity separate account, dynamically shifting exposure among equities, fixed income, cash, and derivatives to support the insurer's guarantee obligations Equity exposure is capped at prescribed levels per portfolio, while cash allocations may rise to 100% during periods of extreme volatility",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-22T00:23:22.772088+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000753892",
-    "company_name": "JOHN HANCOCK LIFE INSURANCE CO (USA) SEPARATE ACCOUNT H",
-    "accession_number": "0001193125-26-167159",
-    "filed_date": "2026-04-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/753892/000119312526167159/0001193125-26-167159-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/753892/000119312526167159/d32919d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/753892/000119312526167159/d32919d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: John Hancock Life Insurance Co (USA) Separate Account H\nETF Name: John Hancock Variable Insurance Trust \u2013 Managed Volatility Portfolios\nStrategy: The Managed Volatility Portfolios dynamically shift exposure across equities, fixed income, and cash equivalents\u2014using underlying funds and derivatives\u2014to manage risk in support of the insurer's guarantee obligations under variable annuity contracts Equity exposure is normally capped at approximately 22% or 55% depending on the portfolio variant, though allocations can swing to 0% or 100% in any single asset class du...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "John Hancock Life Insurance Co (USA) Separate Account H",
-        "etf_name": "John Hancock Variable Insurance Trust \u2013 Managed Volatility Portfolios",
-        "strategy": "The Managed Volatility Portfolios dynamically shift exposure across equities, fixed income, and cash equivalents\u2014using underlying funds and derivatives\u2014to manage risk in support of the insurer's guarantee obligations under variable annuity contracts Equity exposure is normally capped at approximately 22% or 55% depending on the portfolio variant, though allocations can swing to 0% or 100% in any single asset class du...",
         "is_alert_worthy": "LOW"
       }
     ],
