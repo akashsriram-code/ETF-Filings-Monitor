@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-04-28T10:01:38.923270+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001301708",
+    "company_name": "Allianz Variable Insurance Products Fund of Funds Trust",
+    "accession_number": "0001133228-26-006795",
+    "filed_date": "2026-04-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1301708/000113322826006795/0001133228-26-006795-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1301708/000113322826006795/avfof-efp24217_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1301708/000113322826006795/avfof-efp24217_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Allianz Variable Insurance Products Fund of Funds Trust\nETF Name: AZL\u00ae Balanced Index Strategy Fund / AZL\u00ae MVP Balanced Index Strategy Fund\nStrategy: Fund-of-funds products that allocate across underlying equity index funds (S&P 500, S&P MidCap 400, S&P SmallCap 600, international) and a bond index fund (Bloomberg U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Allianz Variable Insurance Products Fund of Funds Trust",
+        "etf_name": "AZL\u00ae Balanced Index Strategy Fund / AZL\u00ae MVP Balanced Index Strategy Fund",
+        "strategy": "Fund-of-funds products that allocate across underlying equity index funds (S&P 500, S&P MidCap 400, S&P SmallCap 600, international) and a bond index fund (Bloomberg U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-27T21:44:39.825394+00:00",
     "form_type": "485BPOS",
     "cik": "0001091439",
@@ -14462,35 +14491,6 @@
         "filer": "Invesco Unit Trusts, Municipal Series 1284",
         "etf_name": "Insured Municipals Income Trust, Series 692",
         "strategy": "The Trust holds a laddered, fixed portfolio of insured tax-exempt municipal bonds with maturities spanning approximately 10\u201330 years, concentrated in General Obligation, Higher Education, Utilities, and Transportation sectors Replacement Bonds may be acquired if any purchased bonds fail to deliver, maintaining the original portfolio composition",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-23T16:43:01.652580+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001633409",
-    "company_name": "Invesco Unit Trusts, Municipal Series 1283",
-    "accession_number": "0001528621-26-000399",
-    "filed_date": "2026-04-23",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1633409/000152862126000399/0001528621-26-000399-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1633409/000152862126000399/focus1283_485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1633409/000152862126000399/focus1283_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1283\nETF Name: Investment Grade Municipal Trust, 20+ Year Series 188\nStrategy: A unit investment trust holding a fixed, laddered portfolio of long-dated investment-grade municipal bonds with maturities of approximately 10\u201330 years, concentrated in higher education, health care, and general obligation sectors across 12 states\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Invesco Unit Trusts, Municipal Series 1283",
-        "etf_name": "Investment Grade Municipal Trust, 20+ Year Series 188",
-        "strategy": "A unit investment trust holding a fixed, laddered portfolio of long-dated investment-grade municipal bonds with maturities of approximately 10\u201330 years, concentrated in higher education, health care, and general obligation sectors across 12 states",
         "is_alert_worthy": "LOW"
       }
     ],
