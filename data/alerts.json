@@ -1,5 +1,672 @@
 [
   {
+    "created_at": "2026-04-30T16:53:44.366202+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000073981",
+    "company_name": "AuguStar Variable Account A",
+    "accession_number": "0001398344-26-007789",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/73981/000139834426007789/0001398344-26-007789-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/73981/000139834426007789/fp0098633-1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/73981/000139834426007789/fp0098633-1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AuguStar Life (formerly Ohio National Life Insurance Company)\nETF Name: N/A \u2014 Variable Annuity Separate Account (AuguStar Variable Account A)\nStrategy: Contract holders electing guaranteed lifetime withdrawal benefit or guaranteed protection portfolio riders must follow category-based allocation restrictions across predefined fund categories\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AuguStar Life (formerly Ohio National Life Insurance Company)",
+        "etf_name": "N/A \u2014 Variable Annuity Separate Account (AuguStar Variable Account A)",
+        "strategy": "Contract holders electing guaranteed lifetime withdrawal benefit or guaranteed protection portfolio riders must follow category-based allocation restrictions across predefined fund categories",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T16:55:39.043726+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001329377",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND",
+    "accession_number": "0001445546-26-003178",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1329377/000144554626003178/0001445546-26-003178-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1329377/000144554626003178/ftetf-20251231.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1329377/000144554626003178/ftetf-20251231.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund\nETF Name: First Trust Bloomberg Inflation Sensitive Equity ETF\nStrategy: The fund tracks an equal-weighted index of U.S It generally employs a full replication strategy, investing in all securities comprising the index in proportion to their weightings\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "First Trust Exchange-Traded Fund",
+        "etf_name": "First Trust Bloomberg Inflation Sensitive Equity ETF",
+        "strategy": "The fund tracks an equal-weighted index of U.S It generally employs a full replication strategy, investing in all securities comprising the index in proportion to their weightings",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T16:56:32.636749+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001928561",
+    "company_name": "Bitwise Funds Trust",
+    "accession_number": "0001213900-26-049948",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026049948/0001213900-26-049948-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1928561/000121390026049948/ea0287769-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026049948/ea0287769-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Bitwise Funds Trust\nETF Name: Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF\nStrategy: Employs a proprietary trend-following signal based on bitcoin's 10-day versus 20-day exponential moving averages to rotate between 100% bitcoin futures exposure and 100% U.S The objective is capital appreciation with reduced bitcoin downside risk, holding no bitcoin futures at all during unfavorable trend periods\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Bitwise Funds Trust",
+        "etf_name": "Bitwise Trendwise Bitcoin and Treasuries Rotation Strategy ETF",
+        "strategy": "Employs a proprietary trend-following signal based on bitcoin's 10-day versus 20-day exponential moving averages to rotate between 100% bitcoin futures exposure and 100% U.S The objective is capital appreciation with reduced bitcoin downside risk, holding no bitcoin futures at all during unfavorable trend periods",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T16:57:30.584797+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001217673",
+    "company_name": "BARON SELECT FUNDS",
+    "accession_number": "0001193125-26-195847",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1217673/000119312526195847/0001193125-26-195847-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1217673/000119312526195847/d117158d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1217673/000119312526195847/d117158d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Baron Select Funds\nETF Name: Baron Focused Growth Fund / Baron SMID Cap ETF\nStrategy: The portfolio manager may also allocate assets across Baron Underlying Funds and ETFs, weighting exposures based on relative valuations and market outlook\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Baron Select Funds",
+        "etf_name": "Baron Focused Growth Fund / Baron SMID Cap ETF",
+        "strategy": "The portfolio manager may also allocate assets across Baron Underlying Funds and ETFs, weighting exposures based on relative valuations and market outlook",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T16:58:32.655448+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001976517",
+    "company_name": "Roundhill ETF Trust",
+    "accession_number": "0001398344-26-007785",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426007785/0001398344-26-007785-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976517/000139834426007785/fp0098595-41_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426007785/fp0098595-41_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Roundhill ETF Trust\nETF Name: Roundhill Bitcoin Covered Call Strategy ETF (YBTC)\nStrategy: Employs a synthetic covered call strategy using exchange-traded and FLEX options on U.S.-listed Bitcoin ETFs to generate weekly current income while providing exposure to Bitcoin ETF price returns\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Roundhill ETF Trust",
+        "etf_name": "Roundhill Bitcoin Covered Call Strategy ETF (YBTC)",
+        "strategy": "Employs a synthetic covered call strategy using exchange-traded and FLEX options on U.S.-listed Bitcoin ETFs to generate weekly current income while providing exposure to Bitcoin ETF price returns",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T16:59:45.405364+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001217673",
+    "company_name": "BARON SELECT FUNDS",
+    "accession_number": "0001193125-26-195805",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1217673/000119312526195805/0001193125-26-195805-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1217673/000119312526195805/d33467d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1217673/000119312526195805/d33467d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Baron Select Funds\nETF Name: Baron ETF Trust\nStrategy: Baron Select Funds is a suite of actively managed, growth-oriented equity mutual funds spanning U.S. concentrated equity, emerging markets, global, and sector-specific mandates (real estate, health care, India), all seeking capital appreciation with an ESG exclusionary screen.\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Baron Select Funds",
+        "etf_name": "Baron ETF Trust",
+        "strategy": "Baron Select Funds is a suite of actively managed, growth-oriented equity mutual funds spanning U.S. concentrated equity, emerging markets, global, and sector-specific mandates (real estate, health care, India), all seeking capital appreciation with an ESG exclusionary screen.",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T17:00:43.964606+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001936157",
+    "company_name": "Elevation Series Trust",
+    "accession_number": "0001999371-26-009496",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1936157/000199937126009496/0001999371-26-009496-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1936157/000199937126009496/trueshares_485bpos-043026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1936157/000199937126009496/trueshares_485bpos-043026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Elevation Series Trust\nETF Name: TrueShares Structured Outcome ETF (S&P 500 series)\nStrategy: Actively managed ETF employing a \"buffer protect\" options strategy on the S&P 500 Price Index, buying calls and writing puts to provide upside exposure while buffering the first 8%\u201312% of index losses over a rolling 12-month period\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Elevation Series Trust",
+        "etf_name": "TrueShares Structured Outcome ETF (S&P 500 series)",
+        "strategy": "Actively managed ETF employing a \"buffer protect\" options strategy on the S&P 500 Price Index, buying calls and writing puts to provide upside exposure while buffering the first 8%\u201312% of index losses over a rolling 12-month period",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T17:01:36.591775+00:00",
+    "form_type": "486BPOS",
+    "cik": "0001911321",
+    "company_name": "Kennedy Lewis Capital Co",
+    "accession_number": "0001140361-26-018131",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1911321/000114036126018131/0001140361-26-018131-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1911321/000114036126018131/ef20071143_486bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1911321/000114036126018131/ef20071143_486bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Kennedy Lewis Capital Holdings LLC\nETF Name: Kennedy Lewis Capital Holdings\nStrategy: The fund seeks to maximize total return primarily through current income by directly originating first-lien, senior-secured private loans to U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Kennedy Lewis Capital Holdings LLC",
+        "etf_name": "Kennedy Lewis Capital Holdings",
+        "strategy": "The fund seeks to maximize total return primarily through current income by directly originating first-lien, senior-secured private loans to U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T17:02:25.368251+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000803020",
+    "company_name": "OBERWEIS FUNDS",
+    "accession_number": "0001213900-26-049924",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/803020/000121390026049924/0001213900-26-049924-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/803020/000121390026049924/ea0286192-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/803020/000121390026049924/ea0286192-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Oberweis Funds\nETF Name: Oberweis Small-Cap Opportunities Fund\nStrategy: Seeks maximum capital appreciation by investing at least 80% of net assets in small-cap companies with market capitalizations within the range of the Russell 2000 Growth Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Oberweis Funds",
+        "etf_name": "Oberweis Small-Cap Opportunities Fund",
+        "strategy": "Seeks maximum capital appreciation by investing at least 80% of net assets in small-cap companies with market capitalizations within the range of the Russell 2000 Growth Index",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T17:03:16.264712+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000925737",
+    "company_name": "BISHOP STREET FUNDS",
+    "accession_number": "0001398344-26-007779",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/925737/000139834426007779/0001398344-26-007779-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/925737/000139834426007779/fp0098578-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/925737/000139834426007779/fp0098578-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Bishop Street Funds\nETF Name: Bishop Street Hawaii Municipal Bond Fund\nStrategy: Non-diversified fixed-income fund concentrated in Hawaii municipal bond issuers, targeting portfolio duration within approximately 10% of its benchmark index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Bishop Street Funds",
+        "etf_name": "Bishop Street Hawaii Municipal Bond Fund",
+        "strategy": "Non-diversified fixed-income fund concentrated in Hawaii municipal bond issuers, targeting portfolio duration within approximately 10% of its benchmark index",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T17:04:10.031636+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000727892",
+    "company_name": "RIVERSOURCE LIFE INSURANCE CO",
+    "accession_number": "0001193125-26-195402",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/727892/000119312526195402/0001193125-26-195402-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/727892/000119312526195402/d80308d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/727892/000119312526195402/d80308d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: RiverSource Life Insurance Company\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: Managed-volatility \"Portfolio Stabilizer\" funds-of-funds are available as subaccount options, designed to reduce downside risk through asset allocation across underlying funds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "RiverSource Life Insurance Company",
+        "etf_name": "Columbia Funds Variable Insurance Trust",
+        "strategy": "Managed-volatility \"Portfolio Stabilizer\" funds-of-funds are available as subaccount options, designed to reduce downside risk through asset allocation across underlying funds",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T17:05:15.185610+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000866256",
+    "company_name": "PARNASSUS FUNDS II",
+    "accession_number": "0001193125-26-195360",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/866256/000119312526195360/0001193125-26-195360-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/866256/000119312526195360/d42488d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/866256/000119312526195360/d42488d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Parnassus Funds II\nETF Name: Parnassus Core Select ETF\nStrategy: large-cap core equity ETF that holds a concentrated portfolio of approximately 25 high-quality, attractively priced stocks, investing at least 80% of net assets in equity securities selected using its core strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Parnassus Funds II",
+        "etf_name": "Parnassus Core Select ETF",
+        "strategy": "large-cap core equity ETF that holds a concentrated portfolio of approximately 25 high-quality, attractively priced stocks, investing at least 80% of net assets in equity securities selected using its core strategy",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T17:06:22.369954+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000747546",
+    "company_name": "PARNASSUS FUNDS",
+    "accession_number": "0001193125-26-195343",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/747546/000119312526195343/0001193125-26-195343-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/747546/000119312526195343/d104764d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/747546/000119312526195343/d104764d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Parnassus Funds\nETF Name: Parnassus Mid Cap Fund\nStrategy: The Parnassus Mid Cap Fund seeks capital appreciation by investing primarily (at least 80% of net assets) in a diversified portfolio of mid-cap equity securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Parnassus Funds",
+        "etf_name": "Parnassus Mid Cap Fund",
+        "strategy": "The Parnassus Mid Cap Fund seeks capital appreciation by investing primarily (at least 80% of net assets) in a diversified portfolio of mid-cap equity securities",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T17:07:43.289616+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-009476",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126009476/0001999371-26-009476-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126009476/drmy_485apos-043026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126009476/drmy_485apos-043026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: XFUNDS Memory Income ETF\nStrategy: The fund is an actively managed ETF that invests at least 80% of net assets in equities and instruments tied to memory-sector companies (including underlying ETFs and depositary receipts), seeking primarily capital appreciation with a secondary income objective It employs a credit-put-spread options overlay on equity and commodities portfolio holdings to generate premium income while managing downside risk, with expe...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "XFUNDS Memory Income ETF",
+        "strategy": "The fund is an actively managed ETF that invests at least 80% of net assets in equities and instruments tied to memory-sector companies (including underlying ETFs and depositary receipts), seeking primarily capital appreciation with a secondary income objective It employs a credit-put-spread options overlay on equity and commodities portfolio holdings to generate premium income while managing downside risk, with expe...",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T17:08:42.666483+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001649227",
+    "company_name": "Community Development Fund",
+    "accession_number": "0001398344-26-007764",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1649227/000139834426007764/0001398344-26-007764-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1649227/000139834426007764/fp0098579-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1649227/000139834426007764/fp0098579-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Davis Fundamental ETF Trust\nETF Name: Community Development Fund\nStrategy: The fund invests at least 80% of net assets in Community Reinvestment Act (CRA)-qualifying debt securities focused on affordable housing and community development benefiting low-to-moderate-income households\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Davis Fundamental ETF Trust",
+        "etf_name": "Community Development Fund",
+        "strategy": "The fund invests at least 80% of net assets in Community Reinvestment Act (CRA)-qualifying debt securities focused on affordable housing and community development benefiting low-to-moderate-income households",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T17:09:35.719261+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001849998",
+    "company_name": "Federated Hermes ETF Trust",
+    "accession_number": "0001623632-26-000634",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1849998/000162363226000634/0001623632-26-000634-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1849998/000162363226000634/fhetf2454-form.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1849998/000162363226000634/fhetf2454-form.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Federated Hermes ETF Trust\nETF Name: Federated Hermes Ultrashort Bond ETF (FUSD)\nStrategy: Targets total return consistent with current income through an ultrashort-duration fixed-income portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Federated Hermes ETF Trust",
+        "etf_name": "Federated Hermes Ultrashort Bond ETF (FUSD)",
+        "strategy": "Targets total return consistent with current income through an ultrashort-duration fixed-income portfolio",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T17:10:20.851661+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001635073",
+    "company_name": "Nushares ETF Trust",
+    "accession_number": "0001193125-26-195108",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1635073/000119312526195108/0001193125-26-195108-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1635073/000119312526195108/d940972d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1635073/000119312526195108/d940972d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Nushares ETF Trust\nETF Name: Nuveen Short-Term REIT ETF\nStrategy: The Fund passively tracks the Select Short-Term REIT Index, which is composed of U.S Up to 20% of assets may be allocated to non-principal holdings such as other ETFs, derivatives, and cash to aid index replication\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Nushares ETF Trust",
+        "etf_name": "Nuveen Short-Term REIT ETF",
+        "strategy": "The Fund passively tracks the Select Short-Term REIT Index, which is composed of U.S Up to 20% of assets may be allocated to non-principal holdings such as other ETFs, derivatives, and cash to aid index replication",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T17:11:07.058476+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001559992",
+    "company_name": "STONE RIDGE TRUST",
+    "accession_number": "0001193125-26-195106",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1559992/000119312526195106/0001193125-26-195106-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1559992/000119312526195106/d103906d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1559992/000119312526195106/d103906d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Stone Ridge Trust\nETF Name: LifeX Durable Income ETF\nStrategy: The fund invests in U.S. Government debt securities, selecting specific bond maturities and investment amounts designed to lock in interest rates and sustain planned periodic distributions on a defined glide path.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Stone Ridge Trust",
+        "etf_name": "LifeX Durable Income ETF",
+        "strategy": "The fund invests in U.S. Government debt securities, selecting specific bond maturities and investment amounts designed to lock in interest rates and sustain planned periodic distributions on a defined glide path.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T17:12:00.302208+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000110698",
+    "company_name": "HORACE MANN LIFE INSURANCE CO SEPARATE ACCOUNT",
+    "accession_number": "0001193125-26-194233",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/110698/000119312526194233/0001193125-26-194233-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/110698/000119312526194233/d932355d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/110698/000119312526194233/d932355d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Horace Mann Life Insurance Company Separate Account\nETF Name: Each Subaccount purchases shares in a corresponding Underlying Fund\nStrategy: The Separate Account allocates contract-owner assets across multiple underlying mutual fund subaccounts, each investing in a corresponding Portfolio Company selected by HMLIC based on asset-class coverage, adviser reputation, performance, and investment-firm qualifications\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Horace Mann Life Insurance Company Separate Account",
+        "etf_name": "Each Subaccount purchases shares in a corresponding Underlying Fund",
+        "strategy": "The Separate Account allocates contract-owner assets across multiple underlying mutual fund subaccounts, each investing in a corresponding Portfolio Company selected by HMLIC based on asset-class coverage, adviser reputation, performance, and investment-firm qualifications",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T17:12:48.756945+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000110698",
+    "company_name": "HORACE MANN LIFE INSURANCE CO SEPARATE ACCOUNT",
+    "accession_number": "0001193125-26-194212",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/110698/000119312526194212/0001193125-26-194212-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/110698/000119312526194212/d103510d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/110698/000119312526194212/d103510d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Horace Mann Life Insurance Company Separate Account\nETF Name: This prospectus and the underlying fund\nStrategy: HMLIC selects and may substitute these underlying Portfolio Companies based on asset-class coverage, adviser reputation, performance, and brand recognition\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Horace Mann Life Insurance Company Separate Account",
+        "etf_name": "This prospectus and the underlying fund",
+        "strategy": "HMLIC selects and may substitute these underlying Portfolio Companies based on asset-class coverage, adviser reputation, performance, and brand recognition",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T17:13:45.939826+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001379482",
+    "company_name": "Horace Mann Life Insurance CO Qualified Group Annuity Separate Account",
+    "accession_number": "0001193125-26-194173",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1379482/000119312526194173/0001193125-26-194173-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1379482/000119312526194173/d13605d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1379482/000119312526194173/d13605d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Horace Mann Life Insurance Company Qualified Group Annuity Separate Account\nETF Name: This prospectus and the underlying fund\nStrategy: The Separate Account invests through subaccounts (Variable Investment Options) in corresponding underlying mutual funds, allowing participants to allocate net premium and account value among a Fixed Account or a menu of underlying fund options\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Horace Mann Life Insurance Company Qualified Group Annuity Separate Account",
+        "etf_name": "This prospectus and the underlying fund",
+        "strategy": "The Separate Account invests through subaccounts (Variable Investment Options) in corresponding underlying mutual funds, allowing participants to allocate net premium and account value among a Fixed Account or a menu of underlying fund options",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T17:14:27.576677+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001587551",
+    "company_name": "Capitol Series Trust",
+    "accession_number": "0001580642-26-002777",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587551/000158064226002777/0001580642-26-002777-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587551/000158064226002777/sterlingbond-etf_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587551/000158064226002777/sterlingbond-etf_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Capitol Series Trust\nETF Name: Sterling Capital Enhanced Core Bond ETF\nStrategy: fixed-income ETF that invests at least 80% of net assets in investment-grade bonds while allocating up to 20% to high-yield debt, employing a top-down process across interest-rate, sector, and credit dimensions The fund, which commenced operations in March 2025, may also use derivatives such as futures, swaps, and forwards on a non-primary basis for hedging and efficient exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Capitol Series Trust",
+        "etf_name": "Sterling Capital Enhanced Core Bond ETF",
+        "strategy": "fixed-income ETF that invests at least 80% of net assets in investment-grade bonds while allocating up to 20% to high-yield debt, employing a top-down process across interest-rate, sector, and credit dimensions The fund, which commenced operations in March 2025, may also use derivatives such as futures, swaps, and forwards on a non-primary basis for hedging and efficient exposure",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-04-30T17:15:15.612382+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000891160",
+    "company_name": "SCHWARTZ INVESTMENT TRUST",
+    "accession_number": "0001580642-26-002774",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/891160/000158064226002774/0001580642-26-002774-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/891160/000158064226002774/schwartz_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/891160/000158064226002774/schwartz_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Schwartz Investment Trust\nETF Name: Ave Maria Rising Dividend Fund\nStrategy: Seeks increasing dividend income over time, long-term capital growth, and reasonable current income through fundamentally analyzed U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Schwartz Investment Trust",
+        "etf_name": "Ave Maria Rising Dividend Fund",
+        "strategy": "Seeks increasing dividend income over time, long-term capital growth, and reasonable current income through fundamentally analyzed U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-30T11:07:17.398596+00:00",
     "form_type": "485BPOS",
     "cik": "0001380786",
@@ -4361,7 +5028,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative-sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative-sampling approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -13824,673 +14491,6 @@
         "filer": "Nationwide VL Separate Account-G",
         "etf_name": "Fixed Income ETF Fund",
         "strategy": "This is a variable life insurance prospectus offering sub-accounts that invest in underlying mutual funds and ETF portfolios spanning equity, fixed income, and managed-risk strategies managed by advisors such as ValMark Advisers, Milliman Financial Risk Management, and T The policy's cash value and death benefit fluctuate based on the investment performance of policyholder-selected sub-accounts, which include options...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T18:57:55.159200+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001924868",
-    "company_name": "Tidal Trust II",
-    "accession_number": "0001999371-26-009117",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126009117/0001999371-26-009117-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126009117/newfound_485bpos-042726.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126009117/newfound_485bpos-042726.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Return Stacked\u00ae U.S. Stocks & Gold/Bitcoin ETF\nStrategy: Equity strategy while simultaneously being fully invested in a Gold/Bitcoin strategy through derivative instruments providing financial leverage For gold and bitcoin exposure, a risk parity framework dynamically adjusts allocations so each asset contributes equally to overall portfolio risk, typically allocating more to the lower-volatility asset\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust II",
-        "etf_name": "Return Stacked\u00ae U.S. Stocks & Gold/Bitcoin ETF",
-        "strategy": "Equity strategy while simultaneously being fully invested in a Gold/Bitcoin strategy through derivative instruments providing financial leverage For gold and bitcoin exposure, a risk parity framework dynamically adjusts allocations so each asset contributes equally to overall portfolio risk, typically allocating more to the lower-volatility asset",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T18:58:48.039799+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001313581",
-    "company_name": "Nationwide VL Separate Account-G",
-    "accession_number": "0001193125-26-180229",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1313581/000119312526180229/0001193125-26-180229-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1313581/000119312526180229/d251620d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1313581/000119312526180229/d251620d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nationwide VL Separate Account-G\nETF Name: Fixed Income ETF Fund\nStrategy: This is a variable life insurance sub-account that invests in underlying funds\u2014including ETF portfolios such as the TOPS Managed Risk Moderately Aggressive ETF Portfolio\u2014with sub-advisory from Milliman Financial Risk Management, LLC for risk-managed allocation strategies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nationwide VL Separate Account-G",
-        "etf_name": "Fixed Income ETF Fund",
-        "strategy": "This is a variable life insurance sub-account that invests in underlying funds\u2014including ETF portfolios such as the TOPS Managed Risk Moderately Aggressive ETF Portfolio\u2014with sub-advisory from Milliman Financial Risk Management, LLC for risk-managed allocation strategies",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T18:59:37.179396+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001313581",
-    "company_name": "Nationwide VL Separate Account-G",
-    "accession_number": "0001193125-26-180227",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1313581/000119312526180227/0001193125-26-180227-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1313581/000119312526180227/d117218d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1313581/000119312526180227/d117218d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nationwide VL Separate Account-G\nETF Name: Fixed Income ETF Fund\nStrategy: This is a variable life insurance separate account offering policyholders access to underlying mutual fund sub-accounts\u2014including a Fixed Income ETF Fund option\u2014alongside general account fixed and indexed interest strategies. The product's cash value fluctuates based on sub-account performance and is not designed as a standalone ETF but as an insurance-wrapped investment vehicle with a broad menu of fund choices.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nationwide VL Separate Account-G",
-        "etf_name": "Fixed Income ETF Fund",
-        "strategy": "This is a variable life insurance separate account offering policyholders access to underlying mutual fund sub-accounts\u2014including a Fixed Income ETF Fund option\u2014alongside general account fixed and indexed interest strategies. The product's cash value fluctuates based on sub-account performance and is not designed as a standalone ETF but as an insurance-wrapped investment vehicle with a broad menu of fund choices.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:00:19.417375+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001081400",
-    "company_name": "ALLSPRING FUNDS TRUST",
-    "accession_number": "0001081400-26-000149",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1081400/000108140026000149/0001081400-26-000149-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1081400/000108140026000149/allspring-20260501.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1081400/000108140026000149/allspring-20260501.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Allspring Funds Trust\nETF Name: 100% Treasury Money Market Fund\nStrategy: Seeks current income while preserving capital and liquidity by investing exclusively in short-term U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Allspring Funds Trust",
-        "etf_name": "100% Treasury Money Market Fund",
-        "strategy": "Seeks current income while preserving capital and liquidity by investing exclusively in short-term U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:01:15.537897+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001413032",
-    "company_name": "Columbia Funds Variable Series Trust II",
-    "accession_number": "0001193125-26-180216",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1413032/000119312526180216/0001193125-26-180216-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1413032/000119312526180216/d48101d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1413032/000119312526180216/d48101d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Columbia Funds Variable Series Trust II\nETF Name: Columbia Variable Portfolio \u2013 Commodity Strategy Fund\nStrategy: The fund seeks commodity-market exposure primarily through derivatives (futures, swaps, structured notes) and a subsidiary structure rather than physical commodities, while maintaining a short-duration investment-grade fixed-income sleeve It also holds non-investment-grade debt and mortgage-/asset-backed securities, with portfolio turnover typically exceeding 300% annually\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Columbia Funds Variable Series Trust II",
-        "etf_name": "Columbia Variable Portfolio \u2013 Commodity Strategy Fund",
-        "strategy": "The fund seeks commodity-market exposure primarily through derivatives (futures, swaps, structured notes) and a subsidiary structure rather than physical commodities, while maintaining a short-duration investment-grade fixed-income sleeve It also holds non-investment-grade debt and mortgage-/asset-backed securities, with portfolio turnover typically exceeding 300% annually",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:02:09.922038+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001313581",
-    "company_name": "Nationwide VL Separate Account-G",
-    "accession_number": "0001193125-26-180218",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1313581/000119312526180218/0001193125-26-180218-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1313581/000119312526180218/d250228d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1313581/000119312526180218/d250228d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nationwide VL Separate Account-G\nETF Name: Fixed Income ETF Fund\nStrategy: This is a sub-account within a Nationwide variable life insurance product that allocates to fixed-income-oriented underlying mutual fund portfolios, including short-duration bond and other debt strategies. The broader product offers a menu of equity and fixed-income sub-accounts managed by third-party advisers such as Neuberger Berman and Brandywine Global, with selection based on risk, expense, and adviser criteria.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nationwide VL Separate Account-G",
-        "etf_name": "Fixed Income ETF Fund",
-        "strategy": "This is a sub-account within a Nationwide variable life insurance product that allocates to fixed-income-oriented underlying mutual fund portfolios, including short-duration bond and other debt strategies. The broader product offers a menu of equity and fixed-income sub-accounts managed by third-party advisers such as Neuberger Berman and Brandywine Global, with selection based on risk, expense, and adviser criteria.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:03:02.966370+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001313581",
-    "company_name": "Nationwide VL Separate Account-G",
-    "accession_number": "0001193125-26-180213",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1313581/000119312526180213/0001193125-26-180213-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1313581/000119312526180213/d93328d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1313581/000119312526180213/d93328d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nationwide VL Separate Account-G\nETF Name: Fixed Income ETF Fund\nStrategy: This is a variable life insurance separate account offering sub-accounts that invest in underlying mutual funds and managed-risk ETF portfolios, with sub-advisors such as Milliman Financial Risk Management applying risk-overlay strategies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nationwide VL Separate Account-G",
-        "etf_name": "Fixed Income ETF Fund",
-        "strategy": "This is a variable life insurance separate account offering sub-accounts that invest in underlying mutual funds and managed-risk ETF portfolios, with sub-advisors such as Milliman Financial Risk Management applying risk-overlay strategies",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:03:46.765411+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001618629",
-    "company_name": "Nationwide Jefferson National VA Separate Account 1",
-    "accession_number": "0001193125-26-180176",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1618629/000119312526180176/0001193125-26-180176-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1618629/000119312526180176/d82609d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1618629/000119312526180176/d82609d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nationwide Jefferson National VA Separate Account 1\nETF Name: Fixed Income ETF Fund\nStrategy: This is a variable annuity separate account\u2014not a standalone ETF\u2014offering contract holders exposure to a menu of underlying fund sub-accounts, including the Fixed Income ETF Fund, with allocations managed in part by subadvisor Milliman Financial Risk Management, LLC\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nationwide Jefferson National VA Separate Account 1",
-        "etf_name": "Fixed Income ETF Fund",
-        "strategy": "This is a variable annuity separate account\u2014not a standalone ETF\u2014offering contract holders exposure to a menu of underlying fund sub-accounts, including the Fixed Income ETF Fund, with allocations managed in part by subadvisor Milliman Financial Risk Management, LLC",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:04:32.944839+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001005336",
-    "company_name": "JEFFERSON NATIONAL LIFE ANNUITY ACCOUNT G",
-    "accession_number": "0001193125-26-180171",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1005336/000119312526180171/0001193125-26-180171-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1005336/000119312526180171/d69065d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1005336/000119312526180171/d69065d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Jefferson National Life Annuity Account G\nETF Name: Fixed Income ETF Fund\nStrategy: This is a variable annuity separate account that allocates among underlying mutual fund sub-accounts\u2014including ETF-based portfolios such as the TOPS Aggressive ETF Portfolio\u2014spanning multiple asset classes and managed by subadvisors including Milliman Financial Risk Management and ValMark Advisers\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Jefferson National Life Annuity Account G",
-        "etf_name": "Fixed Income ETF Fund",
-        "strategy": "This is a variable annuity separate account that allocates among underlying mutual fund sub-accounts\u2014including ETF-based portfolios such as the TOPS Aggressive ETF Portfolio\u2014spanning multiple asset classes and managed by subadvisors including Milliman Financial Risk Management and ValMark Advisers",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:05:13.575186+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000356723",
-    "company_name": "NATIONWIDE MULTI FLEX VARIABLE ACCOUNT",
-    "accession_number": "0001193125-26-180161",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/356723/000119312526180161/0001193125-26-180161-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/356723/000119312526180161/d476245d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/356723/000119312526180161/d476245d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nationwide Life Insurance Company (NATIONWIDE MULTI FLEX VARIABLE ACCOUNT)\nETF Name: Fixed Income Guggenheim Variable Funds Trust\nStrategy: This is a variable annuity contract offering multiple underlying mutual fund sub-accounts and a Fixed Account, designed for long-term retirement accumulation with eventual income payments. Contract owners allocate among investment options based on individual goals and risk tolerance, with built-in services such as asset rebalancing, dollar cost averaging, and systematic withdrawal.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nationwide Life Insurance Company (NATIONWIDE MULTI FLEX VARIABLE ACCOUNT)",
-        "etf_name": "Fixed Income Guggenheim Variable Funds Trust",
-        "strategy": "This is a variable annuity contract offering multiple underlying mutual fund sub-accounts and a Fixed Account, designed for long-term retirement accumulation with eventual income payments. Contract owners allocate among investment options based on individual goals and risk tolerance, with built-in services such as asset rebalancing, dollar cost averaging, and systematic withdrawal.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:06:10.595463+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001413032",
-    "company_name": "Columbia Funds Variable Series Trust II",
-    "accession_number": "0001193125-26-180155",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1413032/000119312526180155/0001193125-26-180155-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1413032/000119312526180155/d39543d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1413032/000119312526180155/d39543d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Columbia Funds Variable Series Trust II\nETF Name: Columbia Variable Portfolio \u2013 Balanced Fund\nStrategy: Actively managed balanced fund allocating across large-cap U.S. equities, investment-grade and high-yield fixed income, and mortgage-backed securities, using derivatives and an asset-allocation approach.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Columbia Funds Variable Series Trust II",
-        "etf_name": "Columbia Variable Portfolio \u2013 Balanced Fund",
-        "strategy": "Actively managed balanced fund allocating across large-cap U.S. equities, investment-grade and high-yield fixed income, and mortgage-backed securities, using derivatives and an asset-allocation approach.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:07:33.725178+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001755596",
-    "company_name": "Nationwide Variable Account-15",
-    "accession_number": "0001193125-26-180148",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1755596/000119312526180148/0001193125-26-180148-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1755596/000119312526180148/d456137d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1755596/000119312526180148/d456137d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nationwide Variable Account-15\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: This variable annuity sub-account invests in underlying mutual fund portfolios\u2014including Dimensional VA Equity Allocation and Dimensional VA Global Bond portfolios\u2014spanning global equity and fixed-income asset classes\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nationwide Variable Account-15",
-        "etf_name": "Target Allocation ETF V.I. Fund",
-        "strategy": "This variable annuity sub-account invests in underlying mutual fund portfolios\u2014including Dimensional VA Equity Allocation and Dimensional VA Global Bond portfolios\u2014spanning global equity and fixed-income asset classes",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:08:23.984229+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001761055",
-    "company_name": "BlackRock ETF Trust",
-    "accession_number": "0001193125-26-180145",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526180145/0001193125-26-180145-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1761055/000119312526180145/d54944d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526180145/d54944d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BlackRock ETF Trust\nETF Name: BlackRock ETF Trust\nStrategy: large-cap equity fund that writes call options on portfolio holdings to generate consistent premium income while targeting lower volatility than the broader U.S Security selection and option writing are driven by proprietary quantitative return-forecast models rather than index tracking\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BlackRock ETF Trust",
-        "etf_name": "BlackRock ETF Trust",
-        "strategy": "large-cap equity fund that writes call options on portfolio holdings to generate consistent premium income while targeting lower volatility than the broader U.S Security selection and option writing are driven by proprietary quantitative return-forecast models rather than index tracking",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:09:10.719808+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001755596",
-    "company_name": "Nationwide Variable Account-15",
-    "accession_number": "0001193125-26-180142",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1755596/000119312526180142/0001193125-26-180142-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1755596/000119312526180142/d44828d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1755596/000119312526180142/d44828d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nationwide Variable Account-15\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: This is a variable annuity sub-account option that allocates among underlying funds, including the Dimensional VA Equity Allocation Portfolio and Dimensional VA Global Bond Portfolio, both managed by Dimensional Fund Advisors LP\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nationwide Variable Account-15",
-        "etf_name": "Target Allocation ETF V.I. Fund",
-        "strategy": "This is a variable annuity sub-account option that allocates among underlying funds, including the Dimensional VA Equity Allocation Portfolio and Dimensional VA Global Bond Portfolio, both managed by Dimensional Fund Advisors LP",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:09:54.611247+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001173507",
-    "company_name": "NATIONWIDE VARIABLE ACCOUNT-12",
-    "accession_number": "0001193125-26-180127",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1173507/000119312526180127/0001193125-26-180127-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1173507/000119312526180127/d44255d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1173507/000119312526180127/d44255d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nationwide Life Insurance Company\nETF Name: Nationwide Variable Annuity Contract (NATIONWIDE VARIABLE ACCOUNT-12)\nStrategy: This variable annuity offers multiple Sub-Accounts, each investing in a single underlying mutual fund, alongside a Fixed Account and Guaranteed Term Options. The Guaranteed Term Options are closed to new allocations, transfers, or renewals effective May 1, 2025, while remaining options allow contract owners to allocate based on individual goals and risk tolerance.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nationwide Life Insurance Company",
-        "etf_name": "Nationwide Variable Annuity Contract (NATIONWIDE VARIABLE ACCOUNT-12)",
-        "strategy": "This variable annuity offers multiple Sub-Accounts, each investing in a single underlying mutual fund, alongside a Fixed Account and Guaranteed Term Options. The Guaranteed Term Options are closed to new allocations, transfers, or renewals effective May 1, 2025, while remaining options allow contract owners to allocate based on individual goals and risk tolerance.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:10:52.326421+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001040376",
-    "company_name": "NATIONWIDE VARIABLE ACCOUNT 9",
-    "accession_number": "0001193125-26-180120",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1040376/000119312526180120/0001193125-26-180120-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1040376/000119312526180120/d339893d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1040376/000119312526180120/d339893d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nationwide Variable Account 9\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: The fund pursues a target-allocation approach using index and actively managed portfolios such as BNY Mellon Small Cap Stock Index Portfolio and BNY Mellon Stock Index Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nationwide Variable Account 9",
-        "etf_name": "Target Allocation ETF V.I. Fund",
-        "strategy": "The fund pursues a target-allocation approach using index and actively managed portfolios such as BNY Mellon Small Cap Stock Index Portfolio and BNY Mellon Stock Index Fund",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:11:36.422033+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000946868",
-    "company_name": "Federated Hermes Total Return Government Bond Fund",
-    "accession_number": "0001623632-26-000604",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/946868/000162363226000604/0001623632-26-000604-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/946868/000162363226000604/ftrgbf2425-form.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/946868/000162363226000604/ftrgbf2425-form.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Federated Hermes\nETF Name: Federated Hermes Total Return Government Bond Fund\nStrategy: The fund targets total return consistent with current income by investing primarily in U.S. government securities and derivative contracts, benchmarked against the Bloomberg U.S.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Federated Hermes",
-        "etf_name": "Federated Hermes Total Return Government Bond Fund",
-        "strategy": "The fund targets total return consistent with current income by investing primarily in U.S. government securities and derivative contracts, benchmarked against the Bloomberg U.S.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:12:44.789836+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000089043",
-    "company_name": "SEQUOIA FUND INC",
-    "accession_number": "0001104659-26-049157",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/89043/000110465926049157/0001104659-26-049157-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/89043/000110465926049157/tm266960d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/89043/000110465926049157/tm266960d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Sequoia Fund, Inc\nETF Name: Sequoia ETF\nStrategy: equity fund seeking long-term growth of capital through a concentrated, value-oriented approach that also invests selectively in foreign issuers and is being established to receive the portfolio assets of Sequoia Fund, Inc\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Sequoia Fund, Inc",
-        "etf_name": "Sequoia ETF",
-        "strategy": "equity fund seeking long-term growth of capital through a concentrated, value-oriented approach that also invests selectively in foreign issuers and is being established to receive the portfolio assets of Sequoia Fund, Inc",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:13:34.759704+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001040376",
-    "company_name": "NATIONWIDE VARIABLE ACCOUNT 9",
-    "accession_number": "0001193125-26-180096",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1040376/000119312526180096/0001193125-26-180096-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1040376/000119312526180096/d339575d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1040376/000119312526180096/d339575d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nationwide Variable Account 9\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: The portfolio blends passively managed index exposures (such as small-cap stock index and broad stock index strategies) with actively managed sleeves to pursue a diversified, target-allocation approach\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nationwide Variable Account 9",
-        "etf_name": "Target Allocation ETF V.I. Fund",
-        "strategy": "The portfolio blends passively managed index exposures (such as small-cap stock index and broad stock index strategies) with actively managed sleeves to pursue a diversified, target-allocation approach",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:14:20.193504+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000927751",
-    "company_name": "NATIONWIDE VARIABLE ACCOUNT 7",
-    "accession_number": "0001193125-26-180084",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/927751/000119312526180084/0001193125-26-180084-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/927751/000119312526180084/d33897d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/927751/000119312526180084/d33897d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nationwide Life Insurance Company\nETF Name: Owners interests in the Sub-Accounts after the deduction of underlying mutual fund\nStrategy: This is a variable annuity contract, not an ETF, offering Sub-Accounts that each invest in a single underlying mutual fund alongside a Fixed Account and Guaranteed Term Options\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nationwide Life Insurance Company",
-        "etf_name": "Owners interests in the Sub-Accounts after the deduction of underlying mutual fund",
-        "strategy": "This is a variable annuity contract, not an ETF, offering Sub-Accounts that each invest in a single underlying mutual fund alongside a Fixed Account and Guaranteed Term Options",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:14:59.391943+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000914603",
-    "company_name": "NATIONWIDE VARIABLE ACCOUNT 5",
-    "accession_number": "0001193125-26-180060",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/914603/000119312526180060/0001193125-26-180060-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/914603/000119312526180060/d34580d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/914603/000119312526180060/d34580d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nationwide Life Insurance Company\nETF Name: Nationwide Variable Annuity Contract (Variable Account 5)\nStrategy: Nationwide reserves the right to add, remove, or substitute Sub-Accounts, requiring any substitute to have a similar investment objective and fee structure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nationwide Life Insurance Company",
-        "etf_name": "Nationwide Variable Annuity Contract (Variable Account 5)",
-        "strategy": "Nationwide reserves the right to add, remove, or substitute Sub-Accounts, requiring any substitute to have a similar investment objective and fee structure",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:15:51.342694+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000914603",
-    "company_name": "NATIONWIDE VARIABLE ACCOUNT 5",
-    "accession_number": "0001193125-26-180052",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/914603/000119312526180052/0001193125-26-180052-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/914603/000119312526180052/d24187d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/914603/000119312526180052/d24187d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nationwide Life Insurance Company (via Nationwide Variable Account 5)\nETF Name: Owners interests in the Sub-Accounts after the deduction of underlying mutual fund\nStrategy: The contract offers Sub-Accounts that each invest in a single underlying mutual fund, providing variable returns within an insurance wrapper A contingent deferred sales charge applies during the first five completed years, and Nationwide retains standard rights to add, remove, or substitute Sub-Accounts with funds of similar objective and fee profile\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nationwide Life Insurance Company (via Nationwide Variable Account 5)",
-        "etf_name": "Owners interests in the Sub-Accounts after the deduction of underlying mutual fund",
-        "strategy": "The contract offers Sub-Accounts that each invest in a single underlying mutual fund, providing variable returns within an insurance wrapper A contingent deferred sales charge applies during the first five completed years, and Nationwide retains standard rights to add, remove, or substitute Sub-Accounts with funds of similar objective and fee profile",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T19:16:35.195039+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000843075",
-    "company_name": "NATIONWIDE VARIABLE ACCOUNT 4",
-    "accession_number": "0001193125-26-180042",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/843075/000119312526180042/0001193125-26-180042-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/843075/000119312526180042/d18291d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/843075/000119312526180042/d18291d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nationwide Variable Account 4\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: This is a variable annuity sub-account that allocates across a diversified menu of underlying mutual fund portfolios spanning U.S. and international equities, fixed income, and sector strategies including energy infrastructure and global small-cap.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nationwide Variable Account 4",
-        "etf_name": "Target Allocation ETF V.I. Fund",
-        "strategy": "This is a variable annuity sub-account that allocates across a diversified menu of underlying mutual fund portfolios spanning U.S. and international equities, fixed income, and sector strategies including energy infrastructure and global small-cap.",
         "is_alert_worthy": "LOW"
       }
     ],
