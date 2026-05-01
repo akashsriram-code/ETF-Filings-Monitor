@@ -1,5 +1,208 @@
 [
   {
+    "created_at": "2026-05-01T13:55:01.945246+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001934234",
+    "company_name": "Aspida Life Insurance Co",
+    "accession_number": "0001104659-26-053308",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/0001104659-26-053308-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies with capped upside (via Index Cap Rates, Participation Rates, or Trigger Rates) and partial downside protection through Buffer or Floor Percentages, alongside a Fixed Crediting Rate Strategy Investors allocate premiums among these investment options for tax-deferred, long-term accumulation, with returns l...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Aspida Life Insurance Co",
+        "etf_name": "Unknown",
+        "strategy": "The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies with capped upside (via Index Cap Rates, Participation Rates, or Trigger Rates) and partial downside protection through Buffer or Floor Percentages, alongside a Fixed Crediting Rate Strategy Investors allocate premiums among these investment options for tax-deferred, long-term accumulation, with returns l...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-01T13:56:00.453803+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001089912",
+    "company_name": "Farmers Annuity Separate Account A",
+    "accession_number": "0000917677-26-000201",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1089912/000091767726000201/0000917677-26-000201-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1089912/000091767726000201/485bfva.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1089912/000091767726000201/485bfva.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Farmers Annuity Separate Account A\nETF Name: Templeton Developing Markets VIP Fund (Franklin Templeton Variable Insurance Products Trust)\nStrategy: Eleven subaccounts (including portfolios from DWS, Goldman Sachs, Janus Henderson, Fidelity, and Principal) are closed to new investors, with no new fund launches or material strategy changes evident\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Farmers Annuity Separate Account A",
+        "etf_name": "Templeton Developing Markets VIP Fund (Franklin Templeton Variable Insurance Products Trust)",
+        "strategy": "Eleven subaccounts (including portfolios from DWS, Goldman Sachs, Janus Henderson, Fidelity, and Principal) are closed to new investors, with no new fund launches or material strategy changes evident",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-01T13:57:03.066574+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001089913",
+    "company_name": "Farmers Variable Life Separate Account A",
+    "accession_number": "0000917677-26-000197",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1089913/000091767726000197/0000917677-26-000197-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1089913/000091767726000197/485bfvuli.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1089913/000091767726000197/485bfvuli.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Farmers Variable Life Separate Account A\nETF Name: Developing Markets VIP Fund Franklin Templeton Variable Insurance Products Trust\nStrategy: large-cap equity index tracking (S&P 500), emerging-market equities, short-duration fixed income, and balanced multi-asset strategies offered through sub-advised insurance share classes\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Farmers Variable Life Separate Account A",
+        "etf_name": "Developing Markets VIP Fund Franklin Templeton Variable Insurance Products Trust",
+        "strategy": "large-cap equity index tracking (S&P 500), emerging-market equities, short-duration fixed income, and balanced multi-asset strategies offered through sub-advised insurance share classes",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-01T13:57:54.192912+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001089913",
+    "company_name": "Farmers Variable Life Separate Account A",
+    "accession_number": "0000917677-26-000193",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1089913/000091767726000193/0000917677-26-000193-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1089913/000091767726000193/485bfvulii.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1089913/000091767726000193/485bfvulii.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Farmers Variable Life Separate Account A\nETF Name: Developing Markets VIP Fund (Franklin Templeton Variable Insurance Products Trust)\nStrategy: Each portfolio carries its own distinct investment objective managed by an SEC-registered adviser, spanning strategies including small-cap value, balanced income, and low-duration fixed income\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Farmers Variable Life Separate Account A",
+        "etf_name": "Developing Markets VIP Fund (Franklin Templeton Variable Insurance Products Trust)",
+        "strategy": "Each portfolio carries its own distinct investment objective managed by an SEC-registered adviser, spanning strategies including small-cap value, balanced income, and low-duration fixed income",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-01T13:58:55.438791+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000825316",
+    "company_name": "AB VARIABLE PRODUCTS SERIES FUND, INC.",
+    "accession_number": "0000919574-26-002506",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/825316/000091957426002506/0000919574-26-002506-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/825316/000091957426002506/cik0000825316_114241.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/825316/000091957426002506/cik0000825316_114241.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AB Variable Products Series Fund, Inc\nETF Name: Act. As with ETF\nStrategy: The portfolios may invest in ETFs, AB Mutual Funds, and options overlays as permitted under the 1940 Act, with benchmarks including the Russell 1000 Growth Index, S&P 500, and Russell 1000 Value Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AB Variable Products Series Fund, Inc",
+        "etf_name": "Act. As with ETF",
+        "strategy": "The portfolios may invest in ETFs, AB Mutual Funds, and options overlays as permitted under the 1940 Act, with benchmarks including the Russell 1000 Growth Index, S&P 500, and Russell 1000 Value Index",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-01T13:59:55.199528+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001089913",
+    "company_name": "Farmers Variable Life Separate Account A",
+    "accession_number": "0000917677-26-000189",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1089913/000091767726000189/0000917677-26-000189-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1089913/000091767726000189/485bfelvul.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1089913/000091767726000189/485bfelvul.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Farmers Variable Life Separate Account A (Farmers New World Life Insurance Company)\nETF Name: Developing Markets VIP Fund Franklin Templeton Variable Insurance Products Trust\nStrategy: Policyholders allocate among these sub-account portfolios, each managed by a separate SEC-registered investment adviser with its own investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Farmers Variable Life Separate Account A (Farmers New World Life Insurance Company)",
+        "etf_name": "Developing Markets VIP Fund Franklin Templeton Variable Insurance Products Trust",
+        "strategy": "Policyholders allocate among these sub-account portfolios, each managed by a separate SEC-registered investment adviser with its own investment objective",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-01T14:00:58.167186+00:00",
+    "form_type": "486BPOS",
+    "cik": "0001803498",
+    "company_name": "Blackstone Private Credit Fund",
+    "accession_number": "0001193125-26-198102",
+    "filed_date": "2026-04-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1803498/000119312526198102/0001193125-26-198102-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1803498/000119312526198102/d120436d486bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1803498/000119312526198102/d120436d486bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Blackstone Private Credit Fund\nETF Name: Blackstone Private Credit Fund (Class I, Class S, and Class D Shares)\nStrategy: Non-diversified, closed-end business development company that invests primarily in privately originated loans and broadly syndicated loans of U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Blackstone Private Credit Fund",
+        "etf_name": "Blackstone Private Credit Fund (Class I, Class S, and Class D Shares)",
+        "strategy": "Non-diversified, closed-end business development company that invests primarily in privately originated loans and broadly syndicated loans of U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-04-30T21:48:09.413551+00:00",
     "form_type": "485APOS",
     "cik": "0001145022",
@@ -7841,7 +8044,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index by investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index, which measures the performance of U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14285,209 +14488,6 @@
         "filer": "Separate Account VA BNY (Transamerica)",
         "etf_name": "Transamerica Income Edge SM \u2014 a variable annuity offering access to underlying fund portfolios within the Transamerica Series Trust",
         "strategy": "The product is a variable annuity that provides policyholders access to a menu of underlying fund portfolios spanning multiple asset classes within the Transamerica Series Trust. Transamerica selects available portfolios based on factors such as asset class coverage, adviser reputation, performance, and volatility, with policyholders self-directing allocations across subaccounts.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T22:19:48.189824+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000929519",
-    "company_name": "SEPARATE ACCOUNT VA BNY",
-    "accession_number": "0001164098-26-000900",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/929519/000116409826000900/0001164098-26-000900-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/929519/000116409826000900/tflicaxiomii485b_.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/929519/000116409826000900/tflicaxiomii485b_.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Separate Account VA BNY (Transamerica)\nETF Name: Variable annuity offering access to underlying fund portfolios in the Transamerica Series Trust\nStrategy: This variable annuity product provides policyholders a menu of underlying fund subaccounts spanning multiple asset classes, selected by Transamerica based on adviser reputation, performance, volatility, and hedge-ability. There is no assurance that money market portfolios can maintain a stable NAV during extended low-rate periods, and yields on the money market subaccount may become extremely low or negative partly d...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Separate Account VA BNY (Transamerica)",
-        "etf_name": "Variable annuity offering access to underlying fund portfolios in the Transamerica Series Trust",
-        "strategy": "This variable annuity product provides policyholders a menu of underlying fund subaccounts spanning multiple asset classes, selected by Transamerica based on adviser reputation, performance, volatility, and hedge-ability. There is no assurance that money market portfolios can maintain a stable NAV during extended low-rate periods, and yields on the money market subaccount may become extremely low or negative partly d...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T22:20:33.995663+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000929519",
-    "company_name": "SEPARATE ACCOUNT VA BNY",
-    "accession_number": "0001164098-26-000898",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/929519/000116409826000898/0001164098-26-000898-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/929519/000116409826000898/tflicvaseries485bpos_.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/929519/000116409826000898/tflicvaseries485bpos_.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SEPARATE ACCOUNT VA BNY\nETF Name: All underlying fund portfolios in the Transamerica Series Trust\nStrategy: This variable annuity policy offers policyholders a menu of underlying fund portfolio subaccounts within the Transamerica Series Trust, selected by the insurer based on asset class coverage, adviser reputation, performance, and volatility There is no assurance that any money market portfolio subaccount will maintain a stable net asset value, and yields may become extremely low or negative due to Policy charges and ex...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "SEPARATE ACCOUNT VA BNY",
-        "etf_name": "All underlying fund portfolios in the Transamerica Series Trust",
-        "strategy": "This variable annuity policy offers policyholders a menu of underlying fund portfolio subaccounts within the Transamerica Series Trust, selected by the insurer based on asset class coverage, adviser reputation, performance, and volatility There is no assurance that any money market portfolio subaccount will maintain a stable net asset value, and yields may become extremely low or negative due to Policy charges and ex...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T22:21:19.240624+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000859607",
-    "company_name": "SEPARATE ACCOUNT VA B",
-    "accession_number": "0001164098-26-000896",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/859607/000116409826000896/0001164098-26-000896-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/859607/000116409826000896/tlicoshare485b_2.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/859607/000116409826000896/tlicoshare485b_2.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Separate Account VA B of Transamerica\nETF Name: All underlying fund portfolios in the Transamerica Series Trust (variable annuity subaccounts, not ETFs)\nStrategy: This is a variable annuity prospectus offering policyholders access to multiple underlying fund portfolios selected by Transamerica based on asset-class coverage, adviser reputation, performance, and volatility. Designated Investment Options with volatility-control strategies are available, and money market subaccount yields may become extremely low or negative due to policy charges and sustained low interest rates.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Separate Account VA B of Transamerica",
-        "etf_name": "All underlying fund portfolios in the Transamerica Series Trust (variable annuity subaccounts, not ETFs)",
-        "strategy": "This is a variable annuity prospectus offering policyholders access to multiple underlying fund portfolios selected by Transamerica based on asset-class coverage, adviser reputation, performance, and volatility. Designated Investment Options with volatility-control strategies are available, and money market subaccount yields may become extremely low or negative due to policy charges and sustained low interest rates.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T22:22:09.120215+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000859607",
-    "company_name": "SEPARATE ACCOUNT VA B",
-    "accession_number": "0001164098-26-000894",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/859607/000116409826000894/0001164098-26-000894-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/859607/000116409826000894/tlicinspire485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/859607/000116409826000894/tlicinspire485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Transamerica (SEPARATE ACCOUNT VA B)\nETF Name: All underlying fund portfolios in the Transamerica Series Trust\nStrategy: This variable annuity product provides policyholders access to a menu of underlying fund portfolios selected by Transamerica based on asset class coverage, adviser reputation, performance, and volatility. Designated Investment Options, including volatility-controlled strategies, are available in connection with a Guaranteed Lifetime Withdrawal Benefit rider.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Transamerica (SEPARATE ACCOUNT VA B)",
-        "etf_name": "All underlying fund portfolios in the Transamerica Series Trust",
-        "strategy": "This variable annuity product provides policyholders access to a menu of underlying fund portfolios selected by Transamerica based on asset class coverage, adviser reputation, performance, and volatility. Designated Investment Options, including volatility-controlled strategies, are available in connection with a Guaranteed Lifetime Withdrawal Benefit rider.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T22:22:56.739861+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000859607",
-    "company_name": "SEPARATE ACCOUNT VA B",
-    "accession_number": "0001164098-26-000892",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/859607/000116409826000892/0001164098-26-000892-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/859607/000116409826000892/tlicishare485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/859607/000116409826000892/tlicishare485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Separate Account VA B (of Transamerica)\nETF Name: All underlying fund portfolios in the Transamerica Series Trust\nStrategy: The product is a variable annuity wrapper that allocates policyholder assets across a menu of underlying fund portfolios selected by Transamerica based on asset-class coverage, adviser reputation, performance, volatility, and hedge ability. Designated Investment Options, including volatility-control strategies, are available regardless of whether the owner elects a Guaranteed Lifetime Withdrawal Benefit rider.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Separate Account VA B (of Transamerica)",
-        "etf_name": "All underlying fund portfolios in the Transamerica Series Trust",
-        "strategy": "The product is a variable annuity wrapper that allocates policyholder assets across a menu of underlying fund portfolios selected by Transamerica based on asset-class coverage, adviser reputation, performance, volatility, and hedge ability. Designated Investment Options, including volatility-control strategies, are available regardless of whether the owner elects a Guaranteed Lifetime Withdrawal Benefit rider.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T22:23:42.914638+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000929519",
-    "company_name": "SEPARATE ACCOUNT VA BNY",
-    "accession_number": "0001164098-26-000908",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/929519/000116409826000908/0001164098-26-000908-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/929519/000116409826000908/tflicoshare485bpos-1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/929519/000116409826000908/tflicoshare485bpos-1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Separate Account VA BNY (Transamerica)\nETF Name: Transamerica Series Trust underlying fund portfolios (variable annuity subaccounts, not ETFs)\nStrategy: This variable annuity policy offers policyholders a menu of underlying fund portfolio subaccounts spanning multiple asset classes, selected by Transamerica based on factors including adviser reputation, performance, volatility, and hedge-ability There is no assurance that any money market portfolio offered will maintain a stable net asset value per share during extended periods of low interest rates, and yields on mo...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Separate Account VA BNY (Transamerica)",
-        "etf_name": "Transamerica Series Trust underlying fund portfolios (variable annuity subaccounts, not ETFs)",
-        "strategy": "This variable annuity policy offers policyholders a menu of underlying fund portfolio subaccounts spanning multiple asset classes, selected by Transamerica based on factors including adviser reputation, performance, volatility, and hedge-ability There is no assurance that any money market portfolio offered will maintain a stable net asset value per share during extended periods of low interest rates, and yields on mo...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T22:24:26.930653+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000929519",
-    "company_name": "SEPARATE ACCOUNT VA BNY",
-    "accession_number": "0001164098-26-000906",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/929519/000116409826000906/0001164098-26-000906-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/929519/000116409826000906/tflicinspire050126.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/929519/000116409826000906/tflicinspire050126.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SEPARATE ACCOUNT VA BNY (Transamerica)\nETF Name: All underlying fund portfolios in the Transamerica Series Trust\nStrategy: This variable annuity allows policyholders to allocate across a menu of underlying fund portfolios selected by Transamerica based on factors such as asset class coverage, adviser reputation, performance, and volatility. Policyholders self-direct allocations among designated investment options according to their own goals and risk tolerance.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "SEPARATE ACCOUNT VA BNY (Transamerica)",
-        "etf_name": "All underlying fund portfolios in the Transamerica Series Trust",
-        "strategy": "This variable annuity allows policyholders to allocate across a menu of underlying fund portfolios selected by Transamerica based on factors such as asset class coverage, adviser reputation, performance, and volatility. Policyholders self-direct allocations among designated investment options according to their own goals and risk tolerance.",
         "is_alert_worthy": "LOW"
       }
     ],
