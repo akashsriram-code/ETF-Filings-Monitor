@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-01T16:07:25.369094+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001896670",
+    "company_name": "Thrivent ETF Trust",
+    "accession_number": "0001193125-26-200277",
+    "filed_date": "2026-05-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1896670/000119312526200277/0001193125-26-200277-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1896670/000119312526200277/d108541d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1896670/000119312526200277/d108541d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Thrivent ETF Trust\nETF Name: Thrivent International Large Cap ETF (TILC)\nStrategy: The fund seeks long-term capital appreciation by investing in international large-cap equities through an actively managed, quantitative approach that analyzes fundamental, technical, and risk-related factors It may use derivatives such as futures contracts to hedge risk or gain market exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Thrivent ETF Trust",
+        "etf_name": "Thrivent International Large Cap ETF (TILC)",
+        "strategy": "The fund seeks long-term capital appreciation by investing in international large-cap equities through an actively managed, quantitative approach that analyzes fundamental, technical, and risk-related factors It may use derivatives such as futures contracts to hedge risk or gain market exposure",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-01T13:55:01.945246+00:00",
     "form_type": "485BPOS",
     "cik": "0001934234",
@@ -11,7 +40,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract (RILA) designed for tax-deferred investing, not an ETF It offers Indexed Crediting Rate Strategies linked to market indices with upside caps and downside buffers/floors, plus a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies tied to market indices with caps, participation rates, buffers, and floors, alongside a Fixed Crediting Rate Strategy It is designed for tax-deferred, long-term investing with defined upside limits and downside protection over multi-year strategy periods\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -8044,7 +8073,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative-sampling indexing approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund seeks to track the ICE U.S Treasury 1-10 Year Bond Index, a market-weighted index of U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14459,35 +14488,6 @@
         "filer": "Separate Account VA BNY",
         "etf_name": "Transamerica Series Trust underlying fund portfolios",
         "strategy": "This variable annuity offers policyholders access to a menu of underlying fund portfolios within the Transamerica Series Trust, selected by Transamerica based on asset-class coverage, adviser reputation, performance, and volatility. Policyholders allocate among subaccounts according to their individual goals and risk tolerance.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T22:18:59.987131+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000929519",
-    "company_name": "SEPARATE ACCOUNT VA BNY",
-    "accession_number": "0001164098-26-000902",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/929519/000116409826000902/0001164098-26-000902-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/929519/000116409826000902/tflicprincipiumiii485bpos-1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/929519/000116409826000902/tflicprincipiumiii485bpos-1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Separate Account VA BNY (Transamerica)\nETF Name: Transamerica Income Edge SM \u2014 a variable annuity offering access to underlying fund portfolios within the Transamerica Series Trust\nStrategy: The product is a variable annuity that provides policyholders access to a menu of underlying fund portfolios spanning multiple asset classes within the Transamerica Series Trust. Transamerica selects available portfolios based on factors such as asset class coverage, adviser reputation, performance, and volatility, with policyholders self-directing allocations across subaccounts.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Separate Account VA BNY (Transamerica)",
-        "etf_name": "Transamerica Income Edge SM \u2014 a variable annuity offering access to underlying fund portfolios within the Transamerica Series Trust",
-        "strategy": "The product is a variable annuity that provides policyholders access to a menu of underlying fund portfolios spanning multiple asset classes within the Transamerica Series Trust. Transamerica selects available portfolios based on factors such as asset class coverage, adviser reputation, performance, and volatility, with policyholders self-directing allocations across subaccounts.",
         "is_alert_worthy": "LOW"
       }
     ],
