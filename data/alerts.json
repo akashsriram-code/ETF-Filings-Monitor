@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-04T15:23:35.693057+00:00",
+    "form_type": "486BPOS",
+    "cik": "0001911066",
+    "company_name": "Nuveen Churchill Private Capital Income Fund",
+    "accession_number": "0001911066-26-000053",
+    "filed_date": "2026-05-04",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1911066/000191106626000053/0001911066-26-000053-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1911066/000191106626000053/pcap-20260502.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1911066/000191106626000053/pcap-20260502.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Nuveen Churchill Private Capital Income Fund\nETF Name: Nuveen Churchill Private Capital Income Fund\nStrategy: The fund seeks current income and secondary capital appreciation by investing in a diversified portfolio of U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Nuveen Churchill Private Capital Income Fund",
+        "etf_name": "Nuveen Churchill Private Capital Income Fund",
+        "strategy": "The fund seeks current income and secondary capital appreciation by investing in a diversified portfolio of U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-01T21:40:14.522589+00:00",
     "form_type": "485APOS",
     "cik": "0000908695",
@@ -707,7 +736,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies that link returns to index performance with capped upside and partial downside protection via Buffer or Floor Percentages, plus a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The contract is a single premium deferred index-linked annuity offering indexed crediting rate strategies with upside caps/participation rates and downside buffers or floors, plus a fixed crediting rate strategy This is not an ETF but an insurance-wrapper product designed for tax-deferred, long-term investing with defined multi-year strategy periods\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -8740,7 +8769,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index, which measures U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index using a representative sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14459,35 +14488,6 @@
         "filer": "Fortitude Life Insurance & Annuity Co",
         "etf_name": "You should not compare the performance of a publicly traded mutual fund",
         "strategy": "The insurer retains discretion to substitute Portfolios without holder consent and receives revenue-sharing payments from Portfolio advisers and affiliates",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T21:56:46.620492+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000826734",
-    "company_name": "FORTITUDE LIFE INSURANCE & ANNUITY Co VARIABLE ACCOUNT B",
-    "accession_number": "0001133228-26-006781",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/826734/000113322826006781/0001133228-26-006781-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/826734/000113322826006781/xt8-efp23892_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/826734/000113322826006781/xt8-efp23892_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fortitude Life Insurance & Annuity Co Variable Account B\nETF Name: You should not compare the performance of a publicly traded mutual fund\nStrategy: This is a variable annuity prospectus providing a menu of underlying investment portfolios spanning U.S. equity growth, small-cap growth, and multi-asset allocation strategies subadvised by firms such as Allspring Global Investments, Jennison Associates, and PGIM.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fortitude Life Insurance & Annuity Co Variable Account B",
-        "etf_name": "You should not compare the performance of a publicly traded mutual fund",
-        "strategy": "This is a variable annuity prospectus providing a menu of underlying investment portfolios spanning U.S. equity growth, small-cap growth, and multi-asset allocation strategies subadvised by firms such as Allspring Global Investments, Jennison Associates, and PGIM.",
         "is_alert_worthy": "LOW"
       }
     ],
