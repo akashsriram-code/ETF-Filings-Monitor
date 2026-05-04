@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-04T18:58:38.298027+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976517",
+    "company_name": "Roundhill ETF Trust",
+    "accession_number": "0001398344-26-008178",
+    "filed_date": "2026-05-04",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426008178/0001398344-26-008178-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976517/000139834426008178/fp0098817-1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426008178/fp0098817-1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Roundhill ETF Trust\nETF Name: Roundhill Magnificent Seven Plus ETF\nStrategy: The fund concentrates in Technology Industries and uses swap agreements and forward contracts to gain exposure, subject to VaR-based leverage constraints under the 1940 Act\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Roundhill ETF Trust",
+        "etf_name": "Roundhill Magnificent Seven Plus ETF",
+        "strategy": "The fund concentrates in Technology Industries and uses swap agreements and forward contracts to gain exposure, subject to VaR-based leverage constraints under the 1940 Act",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-04T18:59:33.099287+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001590402",
+    "company_name": "Cohen & Steers ETF Trust",
+    "accession_number": "0001193125-26-203476",
+    "filed_date": "2026-05-04",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1590402/000119312526203476/0001193125-26-203476-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1590402/000119312526203476/d121141d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1590402/000119312526203476/d121141d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Cohen & Steers ETF Trust\nETF Name: Cohen & Steers Future of Energy Active ETF\nStrategy: Actively managed equity ETF investing at least 80% of net assets in energy and energy-related companies spanning traditional, alternative, renewable, and clean energy, as well as natural resources and utilities. Targets companies the adviser believes are leading, enabling, or benefiting from structural shifts in the global energy sector, including evolving supply/demand dynamics, energy storage, supply security, and...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Cohen & Steers ETF Trust",
+        "etf_name": "Cohen & Steers Future of Energy Active ETF",
+        "strategy": "Actively managed equity ETF investing at least 80% of net assets in energy and energy-related companies spanning traditional, alternative, renewable, and clean energy, as well as natural resources and utilities. Targets companies the adviser believes are leading, enabling, or benefiting from structural shifts in the global energy sector, including evolving supply/demand dynamics, energy storage, supply security, and...",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-04T15:23:35.693057+00:00",
     "form_type": "486BPOS",
     "cik": "0001911066",
@@ -736,7 +794,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF but a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals The contract offers Indexed Crediting Rate Strategies linked to market index performance with upside caps and downside buffers or floors, alongside a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, not an ETF It offers Indexed Crediting Rate Strategies linked to market index performance with capped upside and buffered or floored downside protection, alongside a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -8769,7 +8827,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index, which measures the performance of U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative-sampling indexing approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14430,64 +14488,6 @@
         "filer": "Fortitude Life Insurance & Annuity Co Variable Account B",
         "etf_name": "Any underlying mutual fund",
         "strategy": "The insurer retains sole discretion to substitute portfolios and may receive substantial compensation from underlying portfolio advisers for marketing and administrative services",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T21:54:58.441629+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000826734",
-    "company_name": "FORTITUDE LIFE INSURANCE & ANNUITY Co VARIABLE ACCOUNT B",
-    "accession_number": "0001133228-26-006783",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/826734/000113322826006783/0001133228-26-006783-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/826734/000113322826006783/fg-efp23897_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/826734/000113322826006783/fg-efp23897_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fortitude Life Insurance & Annuity Co Variable Account B\nETF Name: Invesco QQQ ETF\nStrategy: This is a registered index-linked annuity (RILA) that ties crediting rates to ETF-based indices\u2014including the Invesco QQQ ETF, iShares Russell 2000 ETF, S&P 500, and MSCI EAFE\u2014using a 1-year point-to-point methodology with a 10% downside buffer and capped upside Investors allocate across these index strategies and underlying variable portfolios during defined saving and income stages, bearing losses only beyond the b...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fortitude Life Insurance & Annuity Co Variable Account B",
-        "etf_name": "Invesco QQQ ETF",
-        "strategy": "This is a registered index-linked annuity (RILA) that ties crediting rates to ETF-based indices\u2014including the Invesco QQQ ETF, iShares Russell 2000 ETF, S&P 500, and MSCI EAFE\u2014using a 1-year point-to-point methodology with a 10% downside buffer and capped upside Investors allocate across these index strategies and underlying variable portfolios during defined saving and income stages, bearing losses only beyond the b...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T21:55:48.856016+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000881453",
-    "company_name": "FORTITUDE LIFE INSURANCE & ANNUITY CO",
-    "accession_number": "0001133228-26-006782",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/881453/000113322826006782/0001133228-26-006782-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/881453/000113322826006782/acas-efp23896_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/881453/000113322826006782/acas-efp23896_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fortitude Life Insurance & Annuity Co\nETF Name: You should not compare the performance of a publicly traded mutual fund\nStrategy: The insurer retains discretion to substitute Portfolios without holder consent and receives revenue-sharing payments from Portfolio advisers and affiliates\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fortitude Life Insurance & Annuity Co",
-        "etf_name": "You should not compare the performance of a publicly traded mutual fund",
-        "strategy": "The insurer retains discretion to substitute Portfolios without holder consent and receives revenue-sharing payments from Portfolio advisers and affiliates",
         "is_alert_worthy": "LOW"
       }
     ],
