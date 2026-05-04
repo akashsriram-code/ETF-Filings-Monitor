@@ -1,5 +1,152 @@
 [
   {
+    "created_at": "2026-05-04T21:37:52.538477+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001782952",
+    "company_name": "Kurv ETF Trust",
+    "accession_number": "0001999371-26-009900",
+    "filed_date": "2026-05-04",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126009900/0001999371-26-009900-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1782952/000199937126009900/kurv-485bpos_050426.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126009900/kurv-485bpos_050426.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Kurv ETF Trust\nETF Name: Kurv Nuclear Infrastructure ETF\nStrategy: Actively managed fund that gains uranium exposure primarily through derivatives on uranium-related ETPs, options, and forwards, backed by a portfolio of fixed-income instruments and preferred securities The fund does not hold physical uranium directly, instead using a subsidiary structure for its synthetic exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Kurv ETF Trust",
+        "etf_name": "Kurv Nuclear Infrastructure ETF",
+        "strategy": "Actively managed fund that gains uranium exposure primarily through derivatives on uranium-related ETPs, options, and forwards, backed by a portfolio of fixed-income instruments and preferred securities The fund does not hold physical uranium directly, instead using a subsidiary structure for its synthetic exposure",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-04T21:38:45.872586+00:00",
+    "form_type": "S-1",
+    "cik": "0002102771",
+    "company_name": "1 - Keystone Acquisition Corp.",
+    "accession_number": "0001213900-26-051706",
+    "filed_date": "2026-05-04",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2102771/000121390026051706/0001213900-26-051706-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2102771/000121390026051706/ea0272937-04.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2102771/000121390026051706/ea0272937-04.htm",
+    "matched_keywords": [
+      "Digital Asset"
+    ],
+    "is_crypto": true,
+    "synopsis": "Synopsis 1\nFiler: Keystone Acquisition Corp\nETF Name: U.S. government treasury obligations or money market funds held in the trust\nStrategy: This is not an ETF; it is a SPAC (Special Purpose Acquisition Company) seeking to raise capital via IPO and hold proceeds in U.S. government treasury obligations or money market funds within a trust account.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Crypto-linked ETF disclosures can move market narrative and regulatory coverage.",
+    "synopsis_items": [
+      {
+        "filer": "Keystone Acquisition Corp",
+        "etf_name": "U.S. government treasury obligations or money market funds held in the trust",
+        "strategy": "This is not an ETF; it is a SPAC (Special Purpose Acquisition Company) seeking to raise capital via IPO and hold proceeds in U.S. government treasury obligations or money market funds within a trust account.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Crypto-linked ETF disclosures can move market narrative and regulatory coverage."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-04T21:40:35.984450+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-004484",
+    "filed_date": "2026-05-04",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004484/0001829126-26-004484-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626004484/themesetftrust_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004484/themesetftrust_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Unknown",
+        "strategy": "The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-04T21:41:21.394481+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-009889",
+    "filed_date": "2026-05-04",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126009889/0001999371-26-009889-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126009889/rsit-485bpos_050426.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126009889/rsit-485bpos_050426.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Return Stacked\u00ae International Stocks & Managed Futures ETF\nStrategy: The Fund is an actively managed ETF that \"stacks\" two strategies\u2014international equity exposure and managed futures across commodities, currencies, equities, and fixed income\u2014so each dollar invested provides nearly full exposure to both sleeves simultaneously via leverage\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Return Stacked\u00ae International Stocks & Managed Futures ETF",
+        "strategy": "The Fund is an actively managed ETF that \"stacks\" two strategies\u2014international equity exposure and managed futures across commodities, currencies, equities, and fixed income\u2014so each dollar invested provides nearly full exposure to both sleeves simultaneously via leverage",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-04T21:42:13.946124+00:00",
+    "form_type": "485APOS",
+    "cik": "0001633061",
+    "company_name": "Amplify ETF Trust",
+    "accession_number": "0001213900-26-051673",
+    "filed_date": "2026-05-04",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1633061/000121390026051673/0001213900-26-051673-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1633061/000121390026051673/ea0288755-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1633061/000121390026051673/ea0288755-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Amplify ETF Trust\nETF Name: Amplify Fairlead Tactical Bitcoin ETF\nStrategy: The fund is an actively managed ETF that seeks long-term capital appreciation by tactically adjusting bitcoin exposure\u2014targeting a baseline of roughly 70% of net assets\u2014using a systematic, technically driven model that scales down allocation when momentum weakens or risk rises It gains bitcoin exposure primarily through Bitcoin ETP options (calls and puts), Bitcoin ETPs, and bitcoin futures contracts held via a Cayma...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Amplify ETF Trust",
+        "etf_name": "Amplify Fairlead Tactical Bitcoin ETF",
+        "strategy": "The fund is an actively managed ETF that seeks long-term capital appreciation by tactically adjusting bitcoin exposure\u2014targeting a baseline of roughly 70% of net assets\u2014using a systematic, technically driven model that scales down allocation when momentum weakens or risk rises It gains bitcoin exposure primarily through Bitcoin ETP options (calls and puts), Bitcoin ETPs, and bitcoin futures contracts held via a Cayma...",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-04T20:21:27.929197+00:00",
     "form_type": "485APOS",
     "cik": "0001848758",
@@ -939,7 +1086,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies that link returns to market indices, subject to caps, participation rates, and downside buffers or floors, alongside a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, not an exchange-traded fund It offers Indexed Crediting Rate Strategies linked to market-index performance with buffers or floors limiting downside and caps or participation rates limiting upside, alongside a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -8972,7 +9119,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index via representative sampling, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14343,151 +14490,6 @@
         "filer": "Fortitude Life Insurance & Annuity Co",
         "etf_name": "You should not compare the performance of a publicly traded mutual fund",
         "strategy": "The filing describes a variable annuity offering contract holders a menu of underlying investment portfolios spanning U.S. equity growth, small-cap growth, and multi-asset allocation strategies managed by subadvisers including Allspring Global Investments, Jennison Associates, PGIM, Putnam, and J.P.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T21:46:36.880685+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000881453",
-    "company_name": "FORTITUDE LIFE INSURANCE & ANNUITY CO",
-    "accession_number": "0001133228-26-006792",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/881453/000113322826006792/0001133228-26-006792-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/881453/000113322826006792/gma-efp23908_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/881453/000113322826006792/gma-efp23908_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fortitude Life Insurance & Annuity Co\nETF Name: Contract is structured so that it is owned by a grantor trust\nStrategy: The Contract offers Fixed Allocations and Guarantee Periods backed by the issuing insurance company's general account, structured as a long-term annuity product. Where a Contract is owned by a grantor trust, it includes provisions requiring termination upon the grantor's death under Section 72(s) of the Internal Revenue Code.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fortitude Life Insurance & Annuity Co",
-        "etf_name": "Contract is structured so that it is owned by a grantor trust",
-        "strategy": "The Contract offers Fixed Allocations and Guarantee Periods backed by the issuing insurance company's general account, structured as a long-term annuity product. Where a Contract is owned by a grantor trust, it includes provisions requiring termination upon the grantor's death under Section 72(s) of the Internal Revenue Code.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T21:47:21.153059+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000881453",
-    "company_name": "FORTITUDE LIFE INSURANCE & ANNUITY CO",
-    "accession_number": "0001133228-26-006791",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/881453/000113322826006791/0001133228-26-006791-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/881453/000113322826006791/m1-efp23905_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/881453/000113322826006791/m1-efp23905_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FORTITUDE LIFE INSURANCE & ANNUITY CO\nETF Name: The Depository Trust\nStrategy: This filing describes a variable annuity contract offering MVA Fixed Allocations and Variable Options backed by the insurer's general account, not an exchange-traded fund. Early withdrawals may incur withdrawal charges and negative Market Value Adjustments, with clearing and settlement handled through The Depository Trust Clearinghouse Corporation.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FORTITUDE LIFE INSURANCE & ANNUITY CO",
-        "etf_name": "The Depository Trust",
-        "strategy": "This filing describes a variable annuity contract offering MVA Fixed Allocations and Variable Options backed by the insurer's general account, not an exchange-traded fund. Early withdrawals may incur withdrawal charges and negative Market Value Adjustments, with clearing and settlement handled through The Depository Trust Clearinghouse Corporation.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T21:48:05.352568+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000826734",
-    "company_name": "FORTITUDE LIFE INSURANCE & ANNUITY Co VARIABLE ACCOUNT B",
-    "accession_number": "0001133228-26-006790",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/826734/000113322826006790/0001133228-26-006790-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/826734/000113322826006790/c-efp23894_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/826734/000113322826006790/c-efp23894_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fortitude Life Insurance & Annuity Co Variable Account B\nETF Name: You should not compare the performance of a publicly traded mutual fund\nStrategy: Account value fluctuates with each selected portfolio's investment experience, and the insurer retains sole discretion to substitute underlying portfolios without owner consent\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fortitude Life Insurance & Annuity Co Variable Account B",
-        "etf_name": "You should not compare the performance of a publicly traded mutual fund",
-        "strategy": "Account value fluctuates with each selected portfolio's investment experience, and the insurer retains sole discretion to substitute underlying portfolios without owner consent",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T21:49:11.322631+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000892538",
-    "company_name": "SUNAMERICA SERIES TRUST",
-    "accession_number": "0001193125-26-182445",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/892538/000119312526182445/0001193125-26-182445-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/892538/000119312526182445/d67063d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/892538/000119312526182445/d67063d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SunAmerica Series Trust\nETF Name: SA VCP Dynamic Allocation Portfolio / SA VCP Dynamic Strategy Portfolio\nStrategy: These fund-of-funds portfolios allocate across equity and fixed-income underlying portfolios\u2014including high-yield (\"junk bond\") exposure capped at 5% of total assets\u2014seeking diversification across asset classes to manage risk during changing market conditions, including stock market declines\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "SunAmerica Series Trust",
-        "etf_name": "SA VCP Dynamic Allocation Portfolio / SA VCP Dynamic Strategy Portfolio",
-        "strategy": "These fund-of-funds portfolios allocate across equity and fixed-income underlying portfolios\u2014including high-yield (\"junk bond\") exposure capped at 5% of total assets\u2014seeking diversification across asset classes to manage risk during changing market conditions, including stock market declines",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T21:49:54.988522+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000881453",
-    "company_name": "FORTITUDE LIFE INSURANCE & ANNUITY CO",
-    "accession_number": "0001133228-26-006789",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/881453/000113322826006789/0001133228-26-006789-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/881453/000113322826006789/model-efp23907_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/881453/000113322826006789/model-efp23907_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FORTITUDE LIFE INSURANCE & ANNUITY CO\nETF Name: The Depository Trust\nStrategy: This filing covers a Market Value Adjustment Fixed Allocation within a variable annuity contract backed by the issuer's general account, not an ETF. Early withdrawals are subject to withdrawal charges and potential loss of principal due to negative market value adjustments.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FORTITUDE LIFE INSURANCE & ANNUITY CO",
-        "etf_name": "The Depository Trust",
-        "strategy": "This filing covers a Market Value Adjustment Fixed Allocation within a variable annuity contract backed by the issuer's general account, not an ETF. Early withdrawals are subject to withdrawal charges and potential loss of principal due to negative market value adjustments.",
         "is_alert_worthy": "LOW"
       }
     ],
