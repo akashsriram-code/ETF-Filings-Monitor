@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-05T14:23:06.767211+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-009928",
+    "filed_date": "2026-05-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126009928/0001999371-26-009928-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126009928/defiance_485apos-050526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126009928/defiance_485apos-050526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: LONG MRAM ETF\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "LONG MRAM ETF",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-05T14:23:10.323812+00:00",
+    "form_type": "485APOS",
+    "cik": "0001587982",
+    "company_name": "Investment Managers Series Trust II",
+    "accession_number": "0001213900-26-051926",
+    "filed_date": "2026-05-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026051926/0001213900-26-051926-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587982/000121390026051926/ea0287726-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026051926/ea0287726-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust II\nETF Name: Long Applied Intuition Daily ETF\nStrategy: The Tradr 2X Long Applied Intuition Daily ETF seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Investment Managers Series Trust II",
+        "etf_name": "Long Applied Intuition Daily ETF",
+        "strategy": "The Tradr 2X Long Applied Intuition Daily ETF seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-05T10:55:45.858793+00:00",
     "form_type": "485BPOS",
     "cik": "0001884021",
@@ -14432,64 +14490,6 @@
         "filer": "Schwab Capital Trust",
         "etf_name": "Schwab Monthly Income Fund \u2014 Flexible Payout",
         "strategy": "Primary objective is current income and secondary objective is capital appreciation, with distributions potentially exceeding income and gains in any period",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T10:01:38.923270+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001301708",
-    "company_name": "Allianz Variable Insurance Products Fund of Funds Trust",
-    "accession_number": "0001133228-26-006795",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1301708/000113322826006795/0001133228-26-006795-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1301708/000113322826006795/avfof-efp24217_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1301708/000113322826006795/avfof-efp24217_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Allianz Variable Insurance Products Fund of Funds Trust\nETF Name: AZL\u00ae Balanced Index Strategy Fund / AZL\u00ae MVP Balanced Index Strategy Fund\nStrategy: Fund-of-funds products that allocate across underlying equity index funds (S&P 500, S&P MidCap 400, S&P SmallCap 600, international) and a bond index fund (Bloomberg U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Allianz Variable Insurance Products Fund of Funds Trust",
-        "etf_name": "AZL\u00ae Balanced Index Strategy Fund / AZL\u00ae MVP Balanced Index Strategy Fund",
-        "strategy": "Fund-of-funds products that allocate across underlying equity index funds (S&P 500, S&P MidCap 400, S&P SmallCap 600, international) and a bond index fund (Bloomberg U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T21:44:39.825394+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001091439",
-    "company_name": "ALLIANZ VARIABLE INSURANCE PRODUCTS TRUST",
-    "accession_number": "0001133228-26-006794",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1091439/000113322826006794/0001133228-26-006794-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1091439/000113322826006794/avipt-efp24218_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1091439/000113322826006794/avipt-efp24218_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Allianz Variable Insurance Products Trust\nETF Name: AZL\u00ae T. Rowe Price Capital Appreciation Fund\nStrategy: The fund seeks long-term capital appreciation through a subadvised, actively managed integrated approach combining fundamental research, portfolio design, portfolio management, and trading It is offered within an insurance-linked variable annuity trust alongside a broader suite of passive index and active equity and bond funds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Allianz Variable Insurance Products Trust",
-        "etf_name": "AZL\u00ae T. Rowe Price Capital Appreciation Fund",
-        "strategy": "The fund seeks long-term capital appreciation through a subadvised, actively managed integrated approach combining fundamental research, portfolio design, portfolio management, and trading It is offered within an insurance-linked variable annuity trust alongside a broader suite of passive index and active equity and bond funds",
         "is_alert_worthy": "LOW"
       }
     ],
