@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-05T10:55:45.858793+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001884021",
+    "company_name": "Volatility Shares Trust",
+    "accession_number": "0001213900-26-051745",
+    "filed_date": "2026-05-04",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026051745/0001213900-26-051745-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1884021/000121390026051745/ea0288731-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026051745/ea0288731-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Volatility Shares Trust\nETF Name: Summary Information Investment Objective The Sui ETF\nStrategy: The Subsidiary and the Fund will have the same investment adviser and investment objective The Subsidiary and the Fund will have the same investment adviser and investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Volatility Shares Trust",
+        "etf_name": "Summary Information Investment Objective The Sui ETF",
+        "strategy": "The Subsidiary and the Fund will have the same investment adviser and investment objective The Subsidiary and the Fund will have the same investment adviser and investment objective",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-04T21:37:52.538477+00:00",
     "form_type": "485BPOS",
     "cik": "0001782952",
@@ -1086,7 +1115,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The contract is a single premium deferred index-linked annuity designed for tax-deferred investing, offering Indexed Crediting Rate Strategies tied to market index performance with defined buffers or floors and cap/participation/trigger rates A Fixed Crediting Rate Strategy is also available, with early withdrawals subject to a Strategy Interim Value Adjustment that may result in significant loss of principal\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, not an ETF It offers Indexed Crediting Rate Strategies tied to market indices with caps, participation rates, buffers, and floors, alongside a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -9119,7 +9148,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index using a representative sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Seeks to passively track the ICE U.S Treasury 1-10 Year Bond Index by investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14461,35 +14490,6 @@
         "filer": "Allianz Variable Insurance Products Trust",
         "etf_name": "AZL\u00ae T. Rowe Price Capital Appreciation Fund",
         "strategy": "The fund seeks long-term capital appreciation through a subadvised, actively managed integrated approach combining fundamental research, portfolio design, portfolio management, and trading It is offered within an insurance-linked variable annuity trust alongside a broader suite of passive index and active equity and bond funds",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-27T21:45:54.751760+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000881453",
-    "company_name": "FORTITUDE LIFE INSURANCE & ANNUITY CO",
-    "accession_number": "0001133228-26-006793",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/881453/000113322826006793/0001133228-26-006793-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/881453/000113322826006793/xt8-efp23893_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/881453/000113322826006793/xt8-efp23893_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fortitude Life Insurance & Annuity Co\nETF Name: You should not compare the performance of a publicly traded mutual fund\nStrategy: The filing describes a variable annuity offering contract holders a menu of underlying investment portfolios spanning U.S. equity growth, small-cap growth, and multi-asset allocation strategies managed by subadvisers including Allspring Global Investments, Jennison Associates, PGIM, Putnam, and J.P.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fortitude Life Insurance & Annuity Co",
-        "etf_name": "You should not compare the performance of a publicly traded mutual fund",
-        "strategy": "The filing describes a variable annuity offering contract holders a menu of underlying investment portfolios spanning U.S. equity growth, small-cap growth, and multi-asset allocation strategies managed by subadvisers including Allspring Global Investments, Jennison Associates, PGIM, Putnam, and J.P.",
         "is_alert_worthy": "LOW"
       }
     ],
