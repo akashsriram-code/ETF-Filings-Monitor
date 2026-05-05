@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-05T21:48:48.270020+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-010025",
+    "filed_date": "2026-05-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126010025/0001999371-26-010025-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126010025/ddt2xl_485bpos-050526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126010025/ddt2xl_485bpos-050526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Semi-Transparent ETF Trust Fund\nStrategy: Suite of single-stock and single-ETF 2\u00d7 daily leveraged funds, each targeting 200% of the daily price return of one underlying U.S. equity or ETF, resetting daily and designed for short-term sophisticated traders.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Semi-Transparent ETF Trust Fund",
+        "strategy": "Suite of single-stock and single-ETF 2\u00d7 daily leveraged funds, each targeting 200% of the daily price return of one underlying U.S. equity or ETF, resetting daily and designed for short-term sophisticated traders.",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-05T19:28:56.374947+00:00",
     "form_type": "485BPOS",
     "cik": "0000710124",
@@ -1289,7 +1318,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies that link returns to index performance with capped upside and downside protection via Buffer or Floor Percentages, plus a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This is a single premium deferred index-linked annuity contract (RILA), not an ETF, designed for tax-deferred investing via Indexed Crediting Rate Strategies tied to market index performance with caps, participation rates, and buffer/floor downside protection A Fixed Crediting Rate Strategy is also available alongside the indexed options\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -9322,7 +9351,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index using a representative-sampling approach, targeting U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1\u201310 Year Bond Index using a representative-sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14461,35 +14490,6 @@
         "filer": "Vanguard Tax-Managed Funds",
         "etf_name": "Vanguard Developed Markets Index Fund",
         "strategy": "Passively tracks the FTSE Developed All Cap ex US Index, a market-cap-weighted benchmark of large-, mid-, and small-cap equities in Canada, Europe, and the Pacific region The fund invests at least 80% of net assets in index constituents, seeking full replication by holding each stock in approximate proportion to its index weight",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T12:11:07.766540+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000862084",
-    "company_name": "VANGUARD INSTITUTIONAL INDEX FUNDS",
-    "accession_number": "0000862084-26-000057",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/862084/000086208426000057/0000862084-26-000057-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/862084/000086208426000057/f45033d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/862084/000086208426000057/f45033d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Vanguard Institutional Index Funds\nETF Name: Vanguard Ultra-Short Treasury ETF\nStrategy: Passively tracks the Bloomberg Short Treasury Index, which consists of short-duration U.S Invests at least 80% of assets in bonds composing the index with a total expense ratio of 0.07%\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Vanguard Institutional Index Funds",
-        "etf_name": "Vanguard Ultra-Short Treasury ETF",
-        "strategy": "Passively tracks the Bloomberg Short Treasury Index, which consists of short-duration U.S Invests at least 80% of assets in bonds composing the index with a total expense ratio of 0.07%",
         "is_alert_worthy": "LOW"
       }
     ],
