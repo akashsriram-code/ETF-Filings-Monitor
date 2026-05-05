@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-05T17:58:30.390370+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001742912",
+    "company_name": "Tidal Trust I",
+    "accession_number": "0001999371-26-009988",
+    "filed_date": "2026-05-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126009988/0001999371-26-009988-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1742912/000199937126009988/smart_485bpos-050526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126009988/smart_485bpos-050526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust I\nETF Name: SMART Mid Cap ETF\nStrategy: mid-cap equity ETF using the same momentum- and trend-driven quantitative selection process to seek long-term capital appreciation The sub-adviser builds a concentrated portfolio of 25\u201340 U.S.-listed domestic stocks weighted by proprietary metrics based on price retracements and current trend strength\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust I",
+        "etf_name": "SMART Mid Cap ETF",
+        "strategy": "mid-cap equity ETF using the same momentum- and trend-driven quantitative selection process to seek long-term capital appreciation The sub-adviser builds a concentrated portfolio of 25\u201340 U.S.-listed domestic stocks weighted by proprietary metrics based on price retracements and current trend strength",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-05T17:59:22.929711+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001667919",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+    "accession_number": "0001445546-26-003396",
+    "filed_date": "2026-05-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626003396/0001445546-26-003396-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1667919/000144554626003396/ft-20260505.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626003396/ft-20260505.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund VIII\nETF Name: FT Vest U.S. Equity Dual Directional Buffer ETF \u2013 May (DLMY)\nStrategy: The fund invests substantially all assets in FLEX Options referencing the SPDR S&P 500 ETF Trust (SPY) to pursue a dual directional target-outcome strategy that seeks positive returns whether SPY rises or falls over an approximate one-year period, with a predetermined upside Cap and an Inverse Performance Threshold on the downside It also seeks to provide a buffer against SPY losses exceeding a specified threshold, p...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "First Trust Exchange-Traded Fund VIII",
+        "etf_name": "FT Vest U.S. Equity Dual Directional Buffer ETF \u2013 May (DLMY)",
+        "strategy": "The fund invests substantially all assets in FLEX Options referencing the SPDR S&P 500 ETF Trust (SPY) to pursue a dual directional target-outcome strategy that seeks positive returns whether SPY rises or falls over an approximate one-year period, with a predetermined upside Cap and an Inverse Performance Threshold on the downside It also seeks to provide a buffer against SPY losses exceeding a specified threshold, p...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-05T16:25:31.992006+00:00",
     "form_type": "485BPOS",
     "cik": "0001506213",
@@ -1202,7 +1260,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract (RILA) offering Indexed Crediting Rate Strategies with buffer/floor downside protection and capped/participation-rate upside, plus a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The contract is a single premium deferred index-linked annuity offering indexed crediting rate strategies that link returns to market index performance, subject to caps, participation rates, buffers, and floors A fixed crediting rate strategy is also available, with allocations designed for tax-deferred long-term investing\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -9235,7 +9293,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index via a representative-sampling approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14432,64 +14490,6 @@
         "filer": "Vanguard Montgomery Funds",
         "etf_name": "Vanguard Market Neutral Fund",
         "strategy": "Actively managed long/short equity fund that buys stocks with strong growth prospects at reasonable valuations while shorting those deemed overvalued or exhibiting weak growth. Targets absolute returns exceeding 3-month U.S.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T12:12:32.717811+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000889519",
-    "company_name": "VANGUARD VALLEY FORGE FUNDS",
-    "accession_number": "0000889519-26-000039",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/889519/000088951926000039/0000889519-26-000039-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/889519/000088951926000039/f45034d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/889519/000088951926000039/f45034d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Vanguard Valley Forge Funds\nETF Name: Vanguard Balanced Index Fund (Investor Shares / Admiral Shares)\nStrategy: A passively managed balanced index fund allocating approximately 60% of assets to U.S equities via the CRSP US Total Market Index and approximately 40% to U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Vanguard Valley Forge Funds",
-        "etf_name": "Vanguard Balanced Index Fund (Investor Shares / Admiral Shares)",
-        "strategy": "A passively managed balanced index fund allocating approximately 60% of assets to U.S equities via the CRSP US Total Market Index and approximately 40% to U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T12:13:28.644763+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000918266",
-    "company_name": "SCHWAB ANNUITY PORTFOLIOS",
-    "accession_number": "0000884546-26-000150",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/918266/000088454626000150/0000884546-26-000150-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/918266/000088454626000150/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/918266/000088454626000150/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Schwab Annuity Portfolios\nETF Name: Schwab Government Money Market Portfolio\nStrategy: Seeks the highest current income consistent with stability of capital and liquidity by investing in government money market securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Schwab Annuity Portfolios",
-        "etf_name": "Schwab Government Money Market Portfolio",
-        "strategy": "Seeks the highest current income consistent with stability of capital and liquidity by investing in government money market securities",
         "is_alert_worthy": "LOW"
       }
     ],
