@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-06T19:53:49.984443+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-004634",
+    "filed_date": "2026-05-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004634/0001829126-26-004634-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626004634/themesetftrust_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004634/themesetftrust_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Leverage Shares 2X Long STX Daily ETF\nStrategy: It invests at least 80% of net assets in STX common stock and financial instruments \u2014 primarily swap agreements and options contracts \u2014 to achieve that daily 2\u00d7 exposure, with daily portfolio rebalancing\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Leverage Shares 2X Long STX Daily ETF",
+        "strategy": "It invests at least 80% of net assets in STX common stock and financial instruments \u2014 primarily swap agreements and options contracts \u2014 to achieve that daily 2\u00d7 exposure, with daily portfolio rebalancing",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-06T17:59:45.775000+00:00",
     "form_type": "485BPOS",
     "cik": "0001976322",
@@ -1376,7 +1405,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies that tie returns to market index performance, subject to caps, participation rates, trigger rates, and downside buffers or floors A Fixed Crediting Rate Strategy is also available, with early withdrawals subject to a Strategy Interim Value Adjustment that can reduce value by up to 100%\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity (RILA) designed for tax-deferred investing, offering Indexed Crediting Rate Strategies that link returns to an underlying index subject to caps, participation rates, buffers, and floors A Fixed Crediting Rate Strategy is also available, with investors locked into a chosen strategy until its Strategy Maturity Date\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -9409,7 +9438,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index by investing in U.S The fund is managed by BlackRock Fund Advisors with a management fee of 0.05%, and it may hold securities not included in the underlying index\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14461,35 +14490,6 @@
         "filer": "VANGUARD INDEX FUNDS",
         "etf_name": "Shares of one fund cannot be exchanged for ETF",
         "strategy": "The filing text provided contains only standard Vanguard operational disclosures\u2014transaction processing, recordkeeper language, and fair-value pricing procedures for foreign holdings\u2014with no investment objective or strategy section present The reference to fair-valuation of foreign portfolio holdings due to non-coinciding market hours is generic boilerplate common across multiple Vanguard index fund prospectuses",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T12:08:29.556810+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000857490",
-    "company_name": "VANGUARD VARIABLE INSURANCE FUNDS",
-    "accession_number": "0000857490-26-000222",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/857490/000085749026000222/0000857490-26-000222-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/857490/000085749026000222/f44794d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/857490/000085749026000222/f44794d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Vanguard Variable Insurance Funds\nETF Name: Vanguard Variable Insurance Funds \u2013 Diversified Value Portfolio\nStrategy: Applies credit analysis consistent with domestic-issuer standards to Eurodollar and Yankee obligations held in the portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Vanguard Variable Insurance Funds",
-        "etf_name": "Vanguard Variable Insurance Funds \u2013 Diversified Value Portfolio",
-        "strategy": "Applies credit analysis consistent with domestic-issuer standards to Eurodollar and Yankee obligations held in the portfolio",
         "is_alert_worthy": "LOW"
       }
     ],
