@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-05-06T21:04:28.963202+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-010107",
+    "filed_date": "2026-05-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126010107/0001999371-26-010107-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126010107/defiance_485apos-050626.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126010107/defiance_485apos-050626.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Defiance Daily Target 2X Long Quantinuum ETF\nStrategy: Single-stock leveraged ETF seeking daily investment results equal to 200% of the daily percentage change in Quantinuum shares, achieved through swap agreements and listed options contracts with residual cash held in Treasuries and money-market instruments. The fund resets daily and does not target any multi-day cumulative return; Quantinuum is not yet publicly traded, having confidentially filed an S-1 for a proposed...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Defiance Daily Target 2X Long Quantinuum ETF",
+        "strategy": "Single-stock leveraged ETF seeking daily investment results equal to 200% of the daily percentage change in Quantinuum shares, achieved through swap agreements and listed options contracts with residual cash held in Treasuries and money-market instruments. The fund resets daily and does not target any multi-day cumulative return; Quantinuum is not yet publicly traded, having confidentially filed an S-1 for a proposed...",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-06T21:05:24.565009+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000313212",
+    "company_name": "T. Rowe Price International Funds, Inc.",
+    "accession_number": "0001999371-26-010104",
+    "filed_date": "2026-05-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/313212/000199937126010104/0001999371-26-010104-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/313212/000199937126010104/icn-485bpos_050626.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/313212/000199937126010104/icn-485bpos_050626.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: T. Rowe Price International Funds, Inc\nETF Name: T. Rowe Price Overseas Stock Fund (absorbing T. Rowe Price Asia Opportunities Fund)\nStrategy: International equity fund investing in overseas stock markets, managed by Rowe Price-Fleming International, Inc. under a longstanding advisory relationship.\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "T. Rowe Price International Funds, Inc",
+        "etf_name": "T. Rowe Price Overseas Stock Fund (absorbing T. Rowe Price Asia Opportunities Fund)",
+        "strategy": "International equity fund investing in overseas stock markets, managed by Rowe Price-Fleming International, Inc. under a longstanding advisory relationship.",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-06T21:06:11.185376+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000313212",
+    "company_name": "T. Rowe Price International Funds, Inc.",
+    "accession_number": "0001999371-26-010103",
+    "filed_date": "2026-05-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/313212/000199937126010103/0001999371-26-010103-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/313212/000199937126010103/aof-485bpos_050626.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/313212/000199937126010103/aof-485bpos_050626.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: T. Rowe Price International Funds, Inc\nETF Name: T. Rowe Price Overseas Stock Fund\nStrategy: The filing references a December 2025 Agreement and Plan of Reorganization on behalf of the fund, though no change to the underlying investment objective is disclosed\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "T. Rowe Price International Funds, Inc",
+        "etf_name": "T. Rowe Price Overseas Stock Fund",
+        "strategy": "The filing references a December 2025 Agreement and Plan of Reorganization on behalf of the fund, though no change to the underlying investment objective is disclosed",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-06T19:53:49.984443+00:00",
     "form_type": "485BPOS",
     "cik": "0001976322",
@@ -1405,7 +1492,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity (RILA) designed for tax-deferred investing, offering Indexed Crediting Rate Strategies that link returns to an underlying index subject to caps, participation rates, buffers, and floors A Fixed Crediting Rate Strategy is also available, with investors locked into a chosen strategy until its Strategy Maturity Date\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing, not an exchange-traded fund It offers Indexed Crediting Rate Strategies linked to market indices with buffer or floor downside protection, alongside a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -9438,7 +9525,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index by investing in U.S The fund is managed by BlackRock Fund Advisors with a management fee of 0.05%, and it may hold securities not included in the underlying index\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index using a representative sampling approach, investing in a subset of U.S The fund is advised by BlackRock Fund Advisors and carries a management fee of 0.05%, positioning it as an ultra-low-cost vehicle for intermediate-maturity government bond exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14403,93 +14490,6 @@
         "filer": "Charles Schwab Family of Funds",
         "etf_name": "Schwab Government Money Fund \u2013 Sweep Shares (SWGXX), Schwab Prime Advantage Money Fund, Schwab Government Money Fund",
         "strategy": "These are actively managed money market funds seeking the highest current income consistent with stability of capital and liquidity, investing in government securities, U.S. dollar-denominated money market instruments, and repurchase agreements subject to daily/weekly liquid-asset minimums.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T12:05:05.673423+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000768836",
-    "company_name": "RIVERSOURCE VARIABLE LIFE SEPARATE ACCOUNT",
-    "accession_number": "0001193125-26-182486",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/768836/000119312526182486/0001193125-26-182486-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/768836/000119312526182486/d201720d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/768836/000119312526182486/d201720d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RiverSource Variable Life Separate Account (affiliate of Ameriprise Financial, Inc.)\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: The managed-volatility funds aim to reduce overall portfolio volatility and downside risk during declining equity markets, though they may also limit gains in rising markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RiverSource Variable Life Separate Account (affiliate of Ameriprise Financial, Inc.)",
-        "etf_name": "Columbia Funds Variable Insurance Trust",
-        "strategy": "The managed-volatility funds aim to reduce overall portfolio volatility and downside risk during declining equity markets, though they may also limit gains in rising markets",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T12:05:49.126391+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000768836",
-    "company_name": "RIVERSOURCE VARIABLE LIFE SEPARATE ACCOUNT",
-    "accession_number": "0001193125-26-182477",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/768836/000119312526182477/0001193125-26-182477-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/768836/000119312526182477/d131916d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/768836/000119312526182477/d131916d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RiverSource Variable Life Separate Account (affiliate of Ameriprise Financial, Inc.)\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: Managed volatility funds employ strategies to reduce overall portfolio volatility and downside risk during declining equity markets, with the trade-off of potentially capping upside during rising markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RiverSource Variable Life Separate Account (affiliate of Ameriprise Financial, Inc.)",
-        "etf_name": "Columbia Funds Variable Insurance Trust",
-        "strategy": "Managed volatility funds employ strategies to reduce overall portfolio volatility and downside risk during declining equity markets, with the trade-off of potentially capping upside during rising markets",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T12:07:24.325570+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000036405",
-    "company_name": "VANGUARD INDEX FUNDS",
-    "accession_number": "0000036405-26-000181",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/36405/000003640526000181/0000036405-26-000181-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/36405/000003640526000181/f45032d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/36405/000003640526000181/f45032d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: VANGUARD INDEX FUNDS\nETF Name: Shares of one fund cannot be exchanged for ETF\nStrategy: The filing text provided contains only standard Vanguard operational disclosures\u2014transaction processing, recordkeeper language, and fair-value pricing procedures for foreign holdings\u2014with no investment objective or strategy section present The reference to fair-valuation of foreign portfolio holdings due to non-coinciding market hours is generic boilerplate common across multiple Vanguard index fund prospectuses\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "VANGUARD INDEX FUNDS",
-        "etf_name": "Shares of one fund cannot be exchanged for ETF",
-        "strategy": "The filing text provided contains only standard Vanguard operational disclosures\u2014transaction processing, recordkeeper language, and fair-value pricing procedures for foreign holdings\u2014with no investment objective or strategy section present The reference to fair-valuation of foreign portfolio holdings due to non-coinciding market hours is generic boilerplate common across multiple Vanguard index fund prospectuses",
         "is_alert_worthy": "LOW"
       }
     ],
