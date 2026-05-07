@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-07T11:29:53.303067+00:00",
+    "form_type": "485APOS",
+    "cik": "0001388485",
+    "company_name": "FundVantage Trust",
+    "accession_number": "0001829126-26-004653",
+    "filed_date": "2026-05-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1388485/000182912626004653/0001829126-26-004653-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1388485/000182912626004653/fundvantage_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1388485/000182912626004653/fundvantage_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FundVantage Trust\nETF Name: Polen 5Perspectives Large Growth ETF\nStrategy: The fund seeks long-term capital appreciation by investing at least 80% of net assets in common stocks of U.S large-cap companies exhibiting growth characteristics, benchmarked to the Russell 1000\u00ae Growth Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FundVantage Trust",
+        "etf_name": "Polen 5Perspectives Large Growth ETF",
+        "strategy": "The fund seeks long-term capital appreciation by investing at least 80% of net assets in common stocks of U.S large-cap companies exhibiting growth characteristics, benchmarked to the Russell 1000\u00ae Growth Index",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-06T21:04:28.963202+00:00",
     "form_type": "485APOS",
     "cik": "0001924868",
@@ -1492,7 +1521,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity offering indexed crediting rate strategies tied to market index performance, subject to caps, participation rates, buffers, and floors, alongside a fixed crediting rate option It is designed for tax-deferred, long-term investing with defined Strategy Periods and limited early-withdrawal flexibility\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, not an ETF It offers Indexed Crediting Rate Strategies with buffer/floor downside protection and capped upside linked to market indices, alongside a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -9525,7 +9554,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index using a representative-sampling indexing approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Seeks to passively track the ICE U.S Treasury 1-10 Year Bond Index using a representative sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14461,35 +14490,6 @@
         "filer": "Schwab Strategic Trust",
         "etf_name": "Schwab 5-10 Year Corporate Bond ETF",
         "strategy": "Passively tracks the Bloomberg US 5-10 Year Corporate Bond Index, targeting intermediate-term U.S investment-grade corporate bonds with at least 90% of net assets in index constituents",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T12:04:11.195914+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000857156",
-    "company_name": "CHARLES SCHWAB FAMILY OF FUNDS",
-    "accession_number": "0000884546-26-000169",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/857156/000088454626000169/0000884546-26-000169-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/857156/000088454626000169/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/857156/000088454626000169/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Charles Schwab Family of Funds\nETF Name: Schwab Government Money Fund \u2013 Sweep Shares (SWGXX), Schwab Prime Advantage Money Fund, Schwab Government Money Fund\nStrategy: These are actively managed money market funds seeking the highest current income consistent with stability of capital and liquidity, investing in government securities, U.S. dollar-denominated money market instruments, and repurchase agreements subject to daily/weekly liquid-asset minimums.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Charles Schwab Family of Funds",
-        "etf_name": "Schwab Government Money Fund \u2013 Sweep Shares (SWGXX), Schwab Prime Advantage Money Fund, Schwab Government Money Fund",
-        "strategy": "These are actively managed money market funds seeking the highest current income consistent with stability of capital and liquidity, investing in government securities, U.S. dollar-denominated money market instruments, and repurchase agreements subject to daily/weekly liquid-asset minimums.",
         "is_alert_worthy": "LOW"
       }
     ],
