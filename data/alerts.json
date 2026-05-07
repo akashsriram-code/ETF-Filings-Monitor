@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-07T15:42:11.147666+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001444822",
+    "company_name": "AQR Funds",
+    "accession_number": "0001193125-26-210899",
+    "filed_date": "2026-05-07",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1444822/000119312526210899/0001193125-26-210899-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1444822/000119312526210899/d38130d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1444822/000119312526210899/d38130d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AQR Funds\nETF Name: Columbia ETF Trust\nStrategy: AQR offers six open-end mutual funds spanning U.S. large-cap, U.S.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AQR Funds",
+        "etf_name": "Columbia ETF Trust",
+        "strategy": "AQR offers six open-end mutual funds spanning U.S. large-cap, U.S.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-07T15:43:00.569906+00:00",
+    "form_type": "485APOS",
+    "cik": "0001616668",
+    "company_name": "Pacer Funds Trust",
+    "accession_number": "0000894189-26-014567",
+    "filed_date": "2026-05-07",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1616668/000089418926014567/0000894189-26-014567-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1616668/000089418926014567/pacermetaurusautocallable4.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1616668/000089418926014567/pacermetaurusautocallable4.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Pacer Funds Trust\nETF Name: Pacer Metaurus High Income Autocallable ETF\nStrategy: Actively managed ETF that uses swap agreements to gain exposure to the Metaurus US Large Cap Laddered Autocallable Index, seeking to generate high monthly income while reducing downside risk through a laddered autocallable structure that diversifies timing and maturity barrier risk\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Pacer Funds Trust",
+        "etf_name": "Pacer Metaurus High Income Autocallable ETF",
+        "strategy": "Actively managed ETF that uses swap agreements to gain exposure to the Metaurus US Large Cap Laddered Autocallable Index, seeking to generate high monthly income while reducing downside risk through a laddered autocallable structure that diversifies timing and maturity barrier risk",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-07T11:29:53.303067+00:00",
     "form_type": "485APOS",
     "cik": "0001388485",
@@ -1521,7 +1579,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract (not an ETF) designed for tax-deferred investing, offering Indexed Crediting Rate Strategies tied to market index performance with upside caps and downside buffers, plus a Fixed Crediting Rate Strategy Investors select multi-year Strategy Periods with returns subject to participation rates, trigger rates, or index cap rates, while downside exposur...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a single premium deferred index-linked annuity contract\u2014not an ETF\u2014offering Indexed Crediting Rate Strategies tied to market indices with upside caps and downside buffers or floors, alongside a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -9554,7 +9612,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative-sampling indexing approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14432,64 +14490,6 @@
         "filer": "Seasons Series Trust",
         "etf_name": "SA Multi-Managed Large Cap Value Portfolio",
         "strategy": "large-cap value equity portfolio investing at least 80% of net assets in large-company stocks, blending an actively sub-advised sleeve with a passively managed sleeve that replicates or optimizes around the S&P 500 Value Index The portfolio may use forward contracts and hold non-U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T12:02:18.163551+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000768836",
-    "company_name": "RIVERSOURCE VARIABLE LIFE SEPARATE ACCOUNT",
-    "accession_number": "0001193125-26-182520",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/768836/000119312526182520/0001193125-26-182520-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/768836/000119312526182520/d30675d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/768836/000119312526182520/d30675d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RiverSource Life Insurance Company\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: This is a variable universal life insurance prospectus offering multiple mutual fund subaccounts, including Columbia Management-advised managed-volatility strategies designed to reduce portfolio volatility and downside risk in declining equity markets Underlying fund selection spans various asset classes and styles, with both objective criteria (performance, expenses, size) and subjective factors (management skill, s...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RiverSource Life Insurance Company",
-        "etf_name": "Columbia Funds Variable Insurance Trust",
-        "strategy": "This is a variable universal life insurance prospectus offering multiple mutual fund subaccounts, including Columbia Management-advised managed-volatility strategies designed to reduce portfolio volatility and downside risk in declining equity markets Underlying fund selection spans various asset classes and styles, with both objective criteria (performance, expenses, size) and subjective factors (management skill, s...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T12:03:12.386229+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001454889",
-    "company_name": "SCHWAB STRATEGIC TRUST",
-    "accession_number": "0000884546-26-000170",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1454889/000088454626000170/0000884546-26-000170-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1454889/000088454626000170/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1454889/000088454626000170/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Schwab Strategic Trust\nETF Name: Schwab 5-10 Year Corporate Bond ETF\nStrategy: Passively tracks the Bloomberg US 5-10 Year Corporate Bond Index, targeting intermediate-term U.S investment-grade corporate bonds with at least 90% of net assets in index constituents\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Schwab Strategic Trust",
-        "etf_name": "Schwab 5-10 Year Corporate Bond ETF",
-        "strategy": "Passively tracks the Bloomberg US 5-10 Year Corporate Bond Index, targeting intermediate-term U.S investment-grade corporate bonds with at least 90% of net assets in index constituents",
         "is_alert_worthy": "LOW"
       }
     ],
