@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-07T17:29:39.114321+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-010177",
+    "filed_date": "2026-05-07",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126010177/0001999371-26-010177-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126010177/dt2x_485apos-050726.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126010177/dt2x_485apos-050726.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Defiance Daily Target 2X Long Kraken Robotics ETF\nStrategy: (TSX-V: PNG / OTCQB: KRKNF), a Canadian marine-technology and defense company, using swap agreements and options for exposure The fund resets its leverage daily and holds Treasuries, money market funds, and investment-grade debt as collateral, with high expected portfolio turnover\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Defiance Daily Target 2X Long Kraken Robotics ETF",
+        "strategy": "(TSX-V: PNG / OTCQB: KRKNF), a Canadian marine-technology and defense company, using swap agreements and options for exposure The fund resets its leverage daily and holds Treasuries, money market funds, and investment-grade debt as collateral, with high expected portfolio turnover",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-07T15:42:11.147666+00:00",
     "form_type": "485BPOS",
     "cik": "0001444822",
@@ -1579,7 +1608,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a single premium deferred index-linked annuity contract\u2014not an ETF\u2014offering Indexed Crediting Rate Strategies tied to market indices with upside caps and downside buffers or floors, alongside a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies that link returns to index performance with upside limited by caps, participation rates, or trigger rates and downside partially mitigated by buffers or floors A Fixed Crediting Rate Strategy is also available, with early withdrawals before the Strategy Maturity Date subject to interim value adjustments t...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -9612,7 +9641,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative sampling approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14461,35 +14490,6 @@
         "filer": "Fortune V Separate Account",
         "etf_name": "The total value of an underlying mutual fund",
         "strategy": "The Money Market Portfolio invests in Transamerica Government Money Market Fund I2, sub-advised by BlackRock Investment Management, LLC, targeting maximum current income consistent with liquidity and principal preservation",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T12:01:31.786041+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001003239",
-    "company_name": "SEASONS SERIES TRUST",
-    "accession_number": "0001193125-26-182617",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1003239/000119312526182617/0001193125-26-182617-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1003239/000119312526182617/d141971d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1003239/000119312526182617/d141971d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Seasons Series Trust\nETF Name: SA Multi-Managed Large Cap Value Portfolio\nStrategy: large-cap value equity portfolio investing at least 80% of net assets in large-company stocks, blending an actively sub-advised sleeve with a passively managed sleeve that replicates or optimizes around the S&P 500 Value Index The portfolio may use forward contracts and hold non-U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Seasons Series Trust",
-        "etf_name": "SA Multi-Managed Large Cap Value Portfolio",
-        "strategy": "large-cap value equity portfolio investing at least 80% of net assets in large-company stocks, blending an actively sub-advised sleeve with a passively managed sleeve that replicates or optimizes around the S&P 500 Value Index The portfolio may use forward contracts and hold non-U.S",
         "is_alert_worthy": "LOW"
       }
     ],
