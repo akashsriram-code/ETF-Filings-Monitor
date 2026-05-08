@@ -1,5 +1,266 @@
 [
   {
+    "created_at": "2026-05-08T21:33:05.071400+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-004873",
+    "filed_date": "2026-05-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004873/0001829126-26-004873-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626004873/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004873/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Leverage Shares 2X Long Memory Daily ETF\nStrategy: The Fund seeks daily leveraged investment results equal to 200% (2X) of the daily performance of the Roundhill Memory ETF (DRAM), a semiconductor and memory-sector fund, using swap agreements and other derivatives The adviser rebalances the portfolio daily to maintain the targeted 2X exposure and does not take defensive positions regardless of market direction\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Leverage Shares 2X Long Memory Daily ETF",
+        "strategy": "The Fund seeks daily leveraged investment results equal to 200% (2X) of the daily performance of the Roundhill Memory ETF (DRAM), a semiconductor and memory-sector fund, using swap agreements and other derivatives The adviser rebalances the portfolio daily to maintain the targeted 2X exposure and does not take defensive positions regardless of market direction",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-08T21:33:50.590359+00:00",
+    "form_type": "486BPOS",
+    "cik": "0002071525",
+    "company_name": "Pre-IPO & Growth Fund",
+    "accession_number": "0001398344-26-008822",
+    "filed_date": "2026-05-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2071525/000139834426008822/0001398344-26-008822-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2071525/000139834426008822/fp0098853-1_486bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2071525/000139834426008822/fp0098853-1_486bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: The Pre-IPO and Growth Fund\nETF Name: ABS Global Pre-IPO Fund\nStrategy: The Fund seeks long-term capital appreciation by investing at least 80% of its assets in pre-IPO and growth-stage equity securities, with supplemental fixed-income holdings when private equity access is limited It employs qualitative and quantitative evaluation of market trends and may include exposure to foreign and emerging markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "The Pre-IPO and Growth Fund",
+        "etf_name": "ABS Global Pre-IPO Fund",
+        "strategy": "The Fund seeks long-term capital appreciation by investing at least 80% of its assets in pre-IPO and growth-stage equity securities, with supplemental fixed-income holdings when private equity access is limited It employs qualitative and quantitative evaluation of market trends and may include exposure to foreign and emerging markets",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-08T21:35:28.872129+00:00",
+    "form_type": "485APOS",
+    "cik": "0000097098",
+    "company_name": "BLACKROCK LIQUIDITY FUNDS",
+    "accession_number": "0001193125-26-214958",
+    "filed_date": "2026-05-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/97098/000119312526214958/0001193125-26-214958-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/97098/000119312526214958/d45978d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/97098/000119312526214958/d45978d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BlackRock Liquidity Funds\nETF Name: BlackRock Select Treasury Based Liquidity Fund \u2014 OnChain Shares\nStrategy: A government money market fund investing 100% of total assets in cash, U.S. Treasury bills, notes, and other Treasury obligations with maturities of 93 days or less, plus overnight Treasury-collateralized repurchase agreements.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BlackRock Liquidity Funds",
+        "etf_name": "BlackRock Select Treasury Based Liquidity Fund \u2014 OnChain Shares",
+        "strategy": "A government money market fund investing 100% of total assets in cash, U.S. Treasury bills, notes, and other Treasury obligations with maturities of 93 days or less, plus overnight Treasury-collateralized repurchase agreements.",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-08T21:37:02.317668+00:00",
+    "form_type": "485APOS",
+    "cik": "0000844779",
+    "company_name": "BLACKROCK FUNDS",
+    "accession_number": "0001193125-26-214946",
+    "filed_date": "2026-05-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/844779/000119312526214946/0001193125-26-214946-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/844779/000119312526214946/d283147d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/844779/000119312526214946/d283147d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BlackRock Funds SM\nETF Name: BlackRock Daily Reinvestment Stablecoin Reserve Vehicle \u2014 OnChain Shares\nStrategy: A Rule 2a-7 money market fund that invests 100% of total assets in cash and U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BlackRock Funds SM",
+        "etf_name": "BlackRock Daily Reinvestment Stablecoin Reserve Vehicle \u2014 OnChain Shares",
+        "strategy": "A Rule 2a-7 money market fund that invests 100% of total assets in cash and U.S",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-08T21:37:52.316124+00:00",
+    "form_type": "485APOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-000938",
+    "filed_date": "2026-05-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000938/0001771146-26-000938-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000938/t-rex2xlong7newetfs485afil.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000938/t-rex2xlong7newetfs485afil.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: REX ETF Trust\nETF Name: T-REX 2X Long SIVE Daily Target ETF\nStrategy: Seeks daily investment results equal to 200% (2X) of the daily performance of its Reference Asset, rebalancing at market close each trading day to maintain consistent leveraged exposure\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "REX ETF Trust",
+        "etf_name": "T-REX 2X Long SIVE Daily Target ETF",
+        "strategy": "Seeks daily investment results equal to 200% (2X) of the daily performance of its Reference Asset, rebalancing at market close each trading day to maintain consistent leveraged exposure",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-08T21:38:47.795422+00:00",
+    "form_type": "485APOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-000937",
+    "filed_date": "2026-05-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000937/0001771146-26-000937-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000937/t-rex2xlong16newetfs485afi.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000937/t-rex2xlong16newetfs485afi.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: REX Shares (T-REX fund family)\nETF Name: T-REX 2X Long AEHR Daily Target ETF\nStrategy: Uses swap agreements, call options, and direct equity holdings to achieve 2\u00d7 daily leveraged exposure, with returns over periods longer than one day expected to deviate from 2\u00d7 the cumulative stock return due to daily compounding\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "REX Shares (T-REX fund family)",
+        "etf_name": "T-REX 2X Long AEHR Daily Target ETF",
+        "strategy": "Uses swap agreements, call options, and direct equity holdings to achieve 2\u00d7 daily leveraged exposure, with returns over periods longer than one day expected to deviate from 2\u00d7 the cumulative stock return due to daily compounding",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-08T21:39:57.730087+00:00",
+    "form_type": "485APOS",
+    "cik": "0001593547",
+    "company_name": "Advisors' Inner Circle Fund III",
+    "accession_number": "0001398344-26-008817",
+    "filed_date": "2026-05-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1593547/000139834426008817/0001398344-26-008817-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1593547/000139834426008817/fp0098852-1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1593547/000139834426008817/fp0098852-1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Advisors' Inner Circle Fund III\nETF Name: Schroders US Autocallable Ladder Income ETF\nStrategy: The Fund is an actively managed ETF that seeks to generate monthly income while providing reduced downside risk by investing primarily through total return swap agreements linked to the Schroders Bloomberg US Large Cap Autocallable Index Synthetic exposure to a diversified, laddered basket of autocallable structures\u2014obtained via swaps with one or more counterparties\u2014is designed to mitigate the timing risk inherent in...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Advisors' Inner Circle Fund III",
+        "etf_name": "Schroders US Autocallable Ladder Income ETF",
+        "strategy": "The Fund is an actively managed ETF that seeks to generate monthly income while providing reduced downside risk by investing primarily through total return swap agreements linked to the Schroders Bloomberg US Large Cap Autocallable Index Synthetic exposure to a diversified, laddered basket of autocallable structures\u2014obtained via swaps with one or more counterparties\u2014is designed to mitigate the timing risk inherent in...",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-08T21:40:47.378079+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001650149",
+    "company_name": "Series Portfolios Trust",
+    "accession_number": "0000894189-26-014631",
+    "filed_date": "2026-05-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926014631/0000894189-26-014631-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1650149/000089418926014631/ck0001650149-20260508.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926014631/ck0001650149-20260508.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Series Portfolios Trust\nETF Name: InfraCap Equity Income Fund ETF\nStrategy: equity ETF benchmarked to the Nasdaq Composite\u00ae Index that invests at least 80% of net assets in equities and options (puts and calls) on equity securities and indices, targeting high current monthly income with a secondary objective of capital appreciation The adviser, Infrastructure Capital Advisors LLC, employs an options overlay to reduce volatility and hedge portfolio risk, with wide discretion to invest outside...\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Series Portfolios Trust",
+        "etf_name": "InfraCap Equity Income Fund ETF",
+        "strategy": "equity ETF benchmarked to the Nasdaq Composite\u00ae Index that invests at least 80% of net assets in equities and options (puts and calls) on equity securities and indices, targeting high current monthly income with a secondary objective of capital appreciation The adviser, Infrastructure Capital Advisors LLC, employs an options overlay to reduce volatility and hedge portfolio risk, with wide discretion to invest outside...",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-08T21:41:36.128490+00:00",
+    "form_type": "485APOS",
+    "cik": "0001936157",
+    "company_name": "Elevation Series Trust",
+    "accession_number": "0001999371-26-010348",
+    "filed_date": "2026-05-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1936157/000199937126010348/0001999371-26-010348-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1936157/000199937126010348/trushares_485apos-050826.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1936157/000199937126010348/trushares_485apos-050826.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Elevation Series Trust\nETF Name: RiverNorth Market Neutral ETF\nStrategy: No principal investment strategy detail is provided in the available text beyond the fund name\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Elevation Series Trust",
+        "etf_name": "RiverNorth Market Neutral ETF",
+        "strategy": "No principal investment strategy detail is provided in the available text beyond the fund name",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-08T19:03:11.189090+00:00",
     "form_type": "485APOS",
     "cik": "0001782952",
@@ -1811,7 +2072,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF filing; it is a registered index-linked annuity (RILA) contract offering Indexed Crediting Rate Strategies that link returns to index performance with capped upside and buffered or floored downside over defined Strategy Periods A Fixed Crediting Rate Strategy is also available alongside the indexed options for tax-deferred, long-term investment goals\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This is a single premium deferred index-linked annuity contract\u2014not an ETF\u2014designed for tax-deferred investing, allowing allocation among Indexed Crediting Rate Strategies linked to market index performance and a Fixed Crediting Rate Strategy Upside is limited by caps, participation rates, or trigger rates, while downside is partially mitigated by buffers or floors, with early withdrawals subject to a Strategy Interi...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -9844,7 +10105,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative-sampling approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively seeks to track the ICE U.S Treasury 1-10 Year Bond Index, which measures the performance of U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14229,267 +14490,6 @@
         "filer": "BNY Mellon Strategic Funds, Inc",
         "etf_name": "BNY Mellon Mid Cap Stock Fund",
         "strategy": "Seeks to maximize capital appreciation by investing at least 80% of net assets in stocks of midsize U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T16:48:06.959406+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000881773",
-    "company_name": "BNY Mellon Investment Funds V, Inc.",
-    "accession_number": "0000030146-26-000185",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/881773/000003014626000185/0000030146-26-000185-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/881773/000003014626000185/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/881773/000003014626000185/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BNY Mellon Investment Funds V, Inc\nETF Name: BNY Mellon International Stock Index Fund\nStrategy: The fund seeks long-term capital appreciation by investing a large percentage of its net assets in equity securities that comprise its benchmark international stock index It uses cash flows from shareholder purchase and redemption activity to maintain, to the extent feasible, portfolio similarity to the securities comprising the index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BNY Mellon Investment Funds V, Inc",
-        "etf_name": "BNY Mellon International Stock Index Fund",
-        "strategy": "The fund seeks long-term capital appreciation by investing a large percentage of its net assets in equity securities that comprise its benchmark international stock index It uses cash flows from shareholder purchase and redemption activity to maintain, to the extent feasible, portfolio similarity to the securities comprising the index",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T16:49:12.832682+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000789535",
-    "company_name": "MINNESOTA LIFE VARIABLE LIFE ACCOUNT",
-    "accession_number": "0001193125-26-184524",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/789535/000119312526184524/0001193125-26-184524-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/789535/000119312526184524/d114757d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/789535/000119312526184524/d114757d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Minnesota Life Variable Life Account\nETF Name: Although the SFT Government Money Market Fund\nStrategy: This variable life insurance separate account prospectus offers sub-account options spanning a full risk spectrum, from capital preservation via the SFT Government Money Market Fund to aggressive long-term growth through Morningstar ETF Asset Allocation Portfolios advised by ALPS Advisors and actively managed funds from Capital Research and Management Company, Franklin Mutual Advisers, and Cohen & Steers. The Morning...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Minnesota Life Variable Life Account",
-        "etf_name": "Although the SFT Government Money Market Fund",
-        "strategy": "This variable life insurance separate account prospectus offers sub-account options spanning a full risk spectrum, from capital preservation via the SFT Government Money Market Fund to aggressive long-term growth through Morningstar ETF Asset Allocation Portfolios advised by ALPS Advisors and actively managed funds from Capital Research and Management Company, Franklin Mutual Advisers, and Cohen & Steers. The Morning...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T16:50:17.440412+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000931923",
-    "company_name": "MINNESOTA LIFE VARIABLE UNIVERSAL LIFE ACCOUNT",
-    "accession_number": "0001193125-26-184447",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/931923/000119312526184447/0001193125-26-184447-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/931923/000119312526184447/d92448d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/931923/000119312526184447/d92448d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: MINNESOTA LIFE VARIABLE UNIVERSAL LIFE ACCOUNT\nETF Name: Securian Funds Trust\nStrategy: large-cap index, international equity, SMID-cap core, and Morningstar-subadvised ETF asset allocation strategies across multiple risk profiles Each portfolio is managed to comply with Treasury Department diversification requirements under Regulations Section 1.817-5, governing how the separate account's assets may be invested\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "MINNESOTA LIFE VARIABLE UNIVERSAL LIFE ACCOUNT",
-        "etf_name": "Securian Funds Trust",
-        "strategy": "large-cap index, international equity, SMID-cap core, and Morningstar-subadvised ETF asset allocation strategies across multiple risk profiles Each portfolio is managed to comply with Treasury Department diversification requirements under Regulations Section 1.817-5, governing how the separate account's assets may be invested",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T16:51:17.618387+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001317680",
-    "company_name": "Securian Life Variable Universal Life Account",
-    "accession_number": "0001193125-26-184367",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1317680/000119312526184367/0001193125-26-184367-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1317680/000119312526184367/d69490d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1317680/000119312526184367/d69490d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Securian Life Variable Universal Life Account\nETF Name: Securian Funds Trust\nStrategy: The separate account, through those fund portfolios, intends to comply with the diversification requirements prescribed in Regulations Section 1.817-5, which govern how portfolio assets may be invested\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Securian Life Variable Universal Life Account",
-        "etf_name": "Securian Funds Trust",
-        "strategy": "The separate account, through those fund portfolios, intends to comply with the diversification requirements prescribed in Regulations Section 1.817-5, which govern how portfolio assets may be invested",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T16:52:11.351477+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000030146",
-    "company_name": "BNY Mellon Large Cap Securities Fund, Inc.",
-    "accession_number": "0000030146-26-000184",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/30146/000003014626000184/0000030146-26-000184-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/30146/000003014626000184/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/30146/000003014626000184/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BNY Mellon Large Cap Securities Fund, Inc\nETF Name: BNY Mellon Large Cap Securities Fund\nStrategy: Invests at least 80% of net assets in large-cap U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BNY Mellon Large Cap Securities Fund, Inc",
-        "etf_name": "BNY Mellon Large Cap Securities Fund",
-        "strategy": "Invests at least 80% of net assets in large-cap U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T16:53:18.512242+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001405415",
-    "company_name": "Minnesota Life Individual Variable Universal Life Account",
-    "accession_number": "0001193125-26-184081",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1405415/000119312526184081/0001193125-26-184081-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1405415/000119312526184081/d20830d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1405415/000119312526184081/d20830d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Minnesota Life Individual Variable Universal Life Account\nETF Name: Volatility Funds, or the Guaranteed Interest Account. Each of the Morningstar ETF\nStrategy: This variable universal life separate-account prospectus offers a menu of ETF-based asset-allocation portfolios ranging from aggressive growth to conservative income, managed by ALPS Advisors with Morningstar Investment Management as sub-adviser, alongside a BlackRock small-cap index fund, a Fidelity bond index portfolio, and managed-risk/volatility-stabilization sleeves\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Minnesota Life Individual Variable Universal Life Account",
-        "etf_name": "Volatility Funds, or the Guaranteed Interest Account. Each of the Morningstar ETF",
-        "strategy": "This variable universal life separate-account prospectus offers a menu of ETF-based asset-allocation portfolios ranging from aggressive growth to conservative income, managed by ALPS Advisors with Morningstar Investment Management as sub-adviser, alongside a BlackRock small-cap index fund, a Fidelity bond index portfolio, and managed-risk/volatility-stabilization sleeves",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T16:54:06.614076+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000768609",
-    "company_name": "VARIABLE ANNUITY ACCOUNT",
-    "accession_number": "0001193125-26-184075",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/768609/000119312526184075/0001193125-26-184075-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/768609/000119312526184075/d103482d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/768609/000119312526184075/d103482d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Annuity Account (Securian Funds Trust)\nETF Name: Securian Funds Trust\nStrategy: This variable annuity platform offers sub-account portfolios spanning U.S. and international equities, core bonds, and multi-asset strategies through sub-advisers including Fidelity, Nomura, Janus Henderson, and Metropolitan West.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Annuity Account (Securian Funds Trust)",
-        "etf_name": "Securian Funds Trust",
-        "strategy": "This variable annuity platform offers sub-account portfolios spanning U.S. and international equities, core bonds, and multi-asset strategies through sub-advisers including Fidelity, Nomura, Janus Henderson, and Metropolitan West.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T16:55:21.959444+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000318478",
-    "company_name": "BNY MELLON APPRECIATION FUND, INC.",
-    "accession_number": "0000030146-26-000183",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/318478/000003014626000183/0000030146-26-000183-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/318478/000003014626000183/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/318478/000003014626000183/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BNY Mellon Investment Adviser, Inc. (BNYIA)\nETF Name: BNY Mellon Large Cap Securities Fund\nStrategy: The fund seeks long-term capital growth with capital preservation by investing at least 80% of net assets in common stocks\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BNY Mellon Investment Adviser, Inc. (BNYIA)",
-        "etf_name": "BNY Mellon Large Cap Securities Fund",
-        "strategy": "The fund seeks long-term capital growth with capital preservation by investing at least 80% of net assets in common stocks",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T16:56:26.542433+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000766351",
-    "company_name": "Securian Funds Trust",
-    "accession_number": "0001193125-26-183880",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/766351/000119312526183880/0001193125-26-183880-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/766351/000119312526183880/d43272d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/766351/000119312526183880/d43272d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Securian Funds Trust\nETF Name: SFT Balanced Stabilization Fund\nStrategy: Aggregate Bond, investing partly through the SFT Index 500 Fund alongside direct fixed-income holdings It actively manages volatility using S&P 500 futures, equity-index options, ETF options, and VIX futures/options within an insurance-linked variable product structure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Securian Funds Trust",
-        "etf_name": "SFT Balanced Stabilization Fund",
-        "strategy": "Aggregate Bond, investing partly through the SFT Index 500 Fund alongside direct fixed-income holdings It actively manages volatility using S&P 500 futures, equity-index options, ETF options, and VIX futures/options within an insurance-linked variable product structure",
         "is_alert_worthy": "LOW"
       }
     ],
