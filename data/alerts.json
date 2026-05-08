@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-08T12:54:14.337351+00:00",
+    "form_type": "485APOS",
+    "cik": "0002025968",
+    "company_name": "BNY Mellon ETF Trust II",
+    "accession_number": "0000030146-26-000234",
+    "filed_date": "2026-05-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2025968/000003014626000234/0000030146-26-000234-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2025968/000003014626000234/lp1-etfii_bnymemdetf.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2025968/000003014626000234/lp1-etfii_bnymemdetf.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BNY Mellon ETF Trust II\nETF Name: BNY Mellon Emerging Markets Debt ETF\nStrategy: The fund may engage in short-term trading with portfolio turnover potentially exceeding 100%, and employs a manager-of-managers structure allowing sub-adviser changes without shareholder vote\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BNY Mellon ETF Trust II",
+        "etf_name": "BNY Mellon Emerging Markets Debt ETF",
+        "strategy": "The fund may engage in short-term trading with portfolio turnover potentially exceeding 100%, and employs a manager-of-managers structure allowing sub-adviser changes without shareholder vote",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-07T17:29:39.114321+00:00",
     "form_type": "485APOS",
     "cik": "0001924868",
@@ -1608,7 +1637,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF; it is a single premium deferred index-linked annuity contract (RILA) offering Indexed Crediting Rate Strategies tied to market indices with upside caps/participation rates and downside buffers or floors, plus a Fixed Crediting Rate Strategy The product is designed for tax-deferred, long-term investing with returns shaped by strategy-period mechanics rather than daily-traded fund shares\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The contract is a single premium deferred index-linked annuity designed for tax-deferred investing, offering Indexed Crediting Rate Strategies that link returns to an underlying index subject to caps, participation rates, or trigger rates, with downside mitigation via buffer or floor percentages A Fixed Crediting Rate Strategy is also available, and investors are locked into a chosen strategy until its Strategy Matur...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -9641,7 +9670,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The iShares 1-10 Year Treasury Bond ETF (the \u201c Fund \u201d ) seeks to track the investment results of an index composed of U.S Treasury bonds with remaining maturities between one and ten years The Fund seeks to track the investment results of the ICE \u00ae U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative-sampling indexing approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14461,35 +14490,6 @@
         "filer": "Flat Rock Opportunity Fund",
         "etf_name": "Flat Rock Opportunity Fund",
         "strategy": "The fund is a non-diversified, closed-end interval fund that opportunistically invests across BDC debt and equity, senior secured loans, CLO instruments, and collateralized fund obligations to generate current income and long-term capital appreciation Holdings may include below-investment-grade securities, with the portfolio targeting credit and industry diversification through concentration limits",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T12:00:39.321711+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001864054",
-    "company_name": "Fortune V Separate Account",
-    "accession_number": "0001829126-26-003992",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1864054/000182912626003992/0001829126-26-003992-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1864054/000182912626003992/fortunev_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1864054/000182912626003992/fortunev_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fortune V Separate Account\nETF Name: The total value of an underlying mutual fund\nStrategy: The Money Market Portfolio invests in Transamerica Government Money Market Fund I2, sub-advised by BlackRock Investment Management, LLC, targeting maximum current income consistent with liquidity and principal preservation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fortune V Separate Account",
-        "etf_name": "The total value of an underlying mutual fund",
-        "strategy": "The Money Market Portfolio invests in Transamerica Government Money Market Fund I2, sub-advised by BlackRock Investment Management, LLC, targeting maximum current income consistent with liquidity and principal preservation",
         "is_alert_worthy": "LOW"
       }
     ],
