@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-08T16:22:43.747646+00:00",
+    "form_type": "485APOS",
+    "cik": "0001587982",
+    "company_name": "Investment Managers Series Trust II",
+    "accession_number": "0001213900-26-053648",
+    "filed_date": "2026-05-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026053648/0001213900-26-053648-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587982/000121390026053648/ea0289488-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026053648/ea0289488-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust II\nETF Name: Tradr 2X Long Celonis Daily ETF\nStrategy: Single-stock leveraged ETF seeking daily investment results equal to 200% (2\u00d7) the daily performance of Celonis, Inc. common shares, primarily through swap agreements.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Investment Managers Series Trust II",
+        "etf_name": "Tradr 2X Long Celonis Daily ETF",
+        "strategy": "Single-stock leveraged ETF seeking daily investment results equal to 200% (2\u00d7) the daily performance of Celonis, Inc. common shares, primarily through swap agreements.",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-08T14:53:55.087284+00:00",
     "form_type": "485APOS",
     "cik": "0002038891",
@@ -11,7 +40,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2038891/000119312526213567/d121333d485apos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Co of America (RILA)\nETF Name: Unknown\nStrategy: Please note: \u2022 Because of the way the Segment Rate of Return is calculated for Dual Direction Downside Advantage Segments, when the Index Performance Rate is near the Segment Buffer, a very small difference in the Index Performance Rate on the Segment Maturity Date can result in a very different Segment Rate of Return For example, for a Dual Direction Downside Advantage Segment with a -15% Segment Buffer, if the Inde\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Co of America\nETF Name: NA iShares Bitcoin Trust ETF Exchange-Traded Fund\nStrategy: This structured annuity supplement offers index-linked segments tied to indices (S&P 500, Russell 2000, NASDAQ-100, MSCI EAFE) and ETFs\u2014including iShares Bitcoin Trust ETF\u2014with defined downside buffers (-5%, -10%, -15%, -100%) and capped upside performance rates\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Equitable Financial Life Insurance Co of America (RILA)",
@@ -1695,7 +1724,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The contract is a single premium deferred index-linked annuity designed for tax-deferred investing, offering Indexed Crediting Rate Strategies that link returns to an underlying index subject to caps, participation rates, or trigger rates, with downside mitigation via buffer or floor percentages A Fixed Crediting Rate Strategy is also available, and investors are locked into a chosen strategy until its Strategy Matur...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The contract is a single premium deferred index-linked annuity offering indexed crediting rate strategies tied to an underlying index, with upside subject to caps, participation rates, or trigger rates, and downside protection via buffer or floor percentages A fixed crediting rate strategy is also available, and withdrawals before a strategy maturity date are subject to an interim value adjustment that can reduce pri...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -9728,7 +9757,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative-sampling indexing approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14465,35 +14494,6 @@
       }
     ],
     "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T11:58:18.606006+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001814390",
-    "company_name": "Flat Rock Core Income Fund",
-    "accession_number": "0001213900-26-048175",
-    "filed_date": "2026-04-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1814390/000121390026048175/0001213900-26-048175-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1814390/000121390026048175/ea0287540-01_486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1814390/000121390026048175/ea0287540-01_486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Flat Rock Global, LLC\nETF Name: Flat Rock Core Income Fund\nStrategy: The fund is a closed-end interval fund that seeks capital preservation, current income, and total return by investing primarily in senior secured loans of U.S It may also invest in other registered investment companies, including ETFs, for targeted asset-class exposure or cash management\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Flat Rock Global, LLC",
-        "etf_name": "Flat Rock Core Income Fund",
-        "strategy": "The fund is a closed-end interval fund that seeks capital preservation, current income, and total return by investing primarily in senior secured loans of U.S It may also invest in other registered investment companies, including ETFs, for targeted asset-class exposure or cash management",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
