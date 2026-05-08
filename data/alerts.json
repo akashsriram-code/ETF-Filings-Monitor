@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-05-08T19:03:11.189090+00:00",
+    "form_type": "485APOS",
+    "cik": "0001782952",
+    "company_name": "Kurv ETF Trust",
+    "accession_number": "0001999371-26-010323",
+    "filed_date": "2026-05-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126010323/0001999371-26-010323-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1782952/000199937126010323/kurv-485apos_050826.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126010323/kurv-485apos_050826.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Kurv ETF Trust\nETF Name: Kurv High Income ETF\nStrategy: Actively managed fund-of-funds ETF that seeks current income by investing at least 80% of net assets in equity securities, equity derivatives, or other Kurv ETFs that pair FLEX Options and swaps on single-stock reference assets with Treasury-collateral portfolios\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Kurv ETF Trust",
+        "etf_name": "Kurv High Income ETF",
+        "strategy": "Actively managed fund-of-funds ETF that seeks current income by investing at least 80% of net assets in equity securities, equity derivatives, or other Kurv ETFs that pair FLEX Options and swaps on single-stock reference assets with Treasury-collateral portfolios",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-08T19:03:57.863060+00:00",
+    "form_type": "485APOS",
+    "cik": "0002043390",
+    "company_name": "Tidal Trust IV",
+    "accession_number": "0001999371-26-010316",
+    "filed_date": "2026-05-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126010316/0001999371-26-010316-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126010316/aihy_485apos-050826.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126010316/aihy_485apos-050826.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: Defiance AI Hyperscale Leaders ETF\nStrategy: Builds a concentrated, thematic portfolio using growth metrics, valuation discipline, and potential derivatives exposure to capture expansion in AI-driven markets\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust IV",
+        "etf_name": "Defiance AI Hyperscale Leaders ETF",
+        "strategy": "Builds a concentrated, thematic portfolio using growth metrics, valuation discipline, and potential derivatives exposure to capture expansion in AI-driven markets",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-08T19:05:24.973544+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-001997",
+    "filed_date": "2026-05-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001997/0001592900-26-001997-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026001997/ck0001592900-20260510.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001997/ck0001592900-20260510.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Goaltender ETF (GTND)\nStrategy: equity trend-following ETF, sub-advised by Ritholtz Wealth Management, that adjusts exposure to U.S equities based on 6\u201310 month price trends using monthly moving-average signals across four index-linked sleeves\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "Goaltender ETF (GTND)",
+        "strategy": "equity trend-following ETF, sub-advised by Ritholtz Wealth Management, that adjusts exposure to U.S equities based on 6\u201310 month price trends using monthly moving-average signals across four index-linked sleeves",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-08T16:22:43.747646+00:00",
     "form_type": "485APOS",
     "cik": "0001587982",
@@ -1724,7 +1811,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies with capped upside (via cap rates, participation rates, or trigger rates) and partial downside protection through buffer or floor percentages over multi-year strategy periods A Fixed Crediting Rate Strategy is also available, and early withdrawals before the Strategy Maturity Date may trigger interim-valu...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies that link returns to index performance with upside limited by cap, participation, or trigger rates, and downside partially mitigated by buffer or floor percentages A Fixed Crediting Rate Strategy is also available, and early withdrawals before Strategy Maturity Dates are subject to interim value adjustmen...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -9757,7 +9844,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index via representative sampling, targeting U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14407,93 +14494,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T16:57:20.985128+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000828475",
-    "company_name": "BNY MELLON NEW JERSEY MUNICIPAL BOND FUND, INC.",
-    "accession_number": "0000030146-26-000182",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/828475/000003014626000182/0000030146-26-000182-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/828475/000003014626000182/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/828475/000003014626000182/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BNY Mellon New Jersey Municipal Bond Fund, Inc\nETF Name: BNY Mellon New Jersey Municipal Bond Fund\nStrategy: The fund seeks high current income exempt from both federal and New Jersey state personal income taxes while preserving capital, investing at least 80% of net assets in New Jersey municipal bonds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BNY Mellon New Jersey Municipal Bond Fund, Inc",
-        "etf_name": "BNY Mellon New Jersey Municipal Bond Fund",
-        "strategy": "The fund seeks high current income exempt from both federal and New Jersey state personal income taxes while preserving capital, investing at least 80% of net assets in New Jersey municipal bonds",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T16:58:33.138647+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000795259",
-    "company_name": "MoA Funds Corp",
-    "accession_number": "0001193125-26-183870",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/795259/000119312526183870/0001193125-26-183870-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/795259/000119312526183870/d67228d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/795259/000119312526183870/d67228d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: MoA Funds Corp\nETF Name: MoA Equity Index Fund, Clear Passage Fund(s), CornerCap Small-Cap Value Fund\nStrategy: large-cap equity fund tracking the S&P 500 Index, target-date glide-path funds allocating across equities and fixed income, and actively managed small-cap value and growth equity funds benchmarked to Russell 2000 sub-indices\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "MoA Funds Corp",
-        "etf_name": "MoA Equity Index Fund, Clear Passage Fund(s), CornerCap Small-Cap Value Fund",
-        "strategy": "large-cap equity fund tracking the S&P 500 Index, target-date glide-path funds allocating across equities and fixed income, and actively managed small-cap value and growth equity funds benchmarked to Russell 2000 sub-indices",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T16:59:44.154817+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001924868",
-    "company_name": "Tidal Trust II",
-    "accession_number": "0001999371-26-009191",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126009191/0001999371-26-009191-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126009191/kfg-485bpos_042826.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126009191/kfg-485bpos_042826.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Fitz-Gerald Must Have Portfolio\u00ae and Options Overlay ETF\nStrategy: Actively managed equity ETF with a primary objective of current income via an options overlay strategy and a secondary objective of long-term capital appreciation The equity sleeve uses the same proprietary thematic framework as its sibling fund, layering options-based income generation on top of the structurally focused portfolio\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust II",
-        "etf_name": "Fitz-Gerald Must Have Portfolio\u00ae and Options Overlay ETF",
-        "strategy": "Actively managed equity ETF with a primary objective of current income via an options overlay strategy and a secondary objective of long-term capital appreciation The equity sleeve uses the same proprietary thematic framework as its sibling fund, layering options-based income generation on top of the structurally focused portfolio",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
