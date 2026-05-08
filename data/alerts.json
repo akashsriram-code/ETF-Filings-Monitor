@@ -69,7 +69,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2039145/000119312526213512/d139009d485apos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Co (RILA)\nETF Name: Unknown\nStrategy: Please note: \u2022 Because of the way the Segment Rate of Return is calculated for Dual Direction Downside Advantage Segments, when the Index Performance Rate is near the Segment Buffer, a very small difference in the Index Performance Rate on the Segment Maturity Date can result in a very different Segment Rate of Return For example, for a Dual Direction Downside Advantage Segment with a -15% Segment Buffer, if the Inde\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Equitable Financial Life Insurance Co\nETF Name: NA iShares Bitcoin Trust ETF Exchange-Traded Fund\nStrategy: The filing is not a traditional ETF registration but an insurance-product supplement that embeds Bitcoin ETF exposure and asymmetric payoff structures (including converting moderate index declines into positive returns) within Equitable's market-leading structured annuity platform\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Equitable Financial Life Insurance Co (RILA)",
@@ -1724,7 +1724,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The contract is a single premium deferred index-linked annuity offering indexed crediting rate strategies tied to an underlying index, with upside subject to caps, participation rates, or trigger rates, and downside protection via buffer or floor percentages A fixed crediting rate strategy is also available, and withdrawals before a strategy maturity date are subject to an interim value adjustment that can reduce pri...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies with capped upside (via cap rates, participation rates, or trigger rates) and partial downside protection through buffer or floor percentages over multi-year strategy periods A Fixed Crediting Rate Strategy is also available, and early withdrawals before the Strategy Maturity Date may trigger interim-valu...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
