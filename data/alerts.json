@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-11T14:07:05.295426+00:00",
+    "form_type": "485APOS",
+    "cik": "0000837276",
+    "company_name": "Voya INVESTORS TRUST",
+    "accession_number": "0000837276-26-000048",
+    "filed_date": "2026-05-11",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/837276/000083727626000048/0000837276-26-000048-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/837276/000083727626000048/f45204d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/837276/000083727626000048/f45204d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Voya INVESTORS TRUST\nETF Name: Investment Policy Voya Inflation Protected Bond Plus Fund\nStrategy: 11 MORE INFORMATION ABOUT THE FUND Additional Information About the Investment Objective The Fund's investment objective is non-fundamental and may be changed by a vote of the Board, without shareholder approval All share classes of the Fund have a common investment objective and investment portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Voya INVESTORS TRUST",
+        "etf_name": "Investment Policy Voya Inflation Protected Bond Plus Fund",
+        "strategy": "11 MORE INFORMATION ABOUT THE FUND Additional Information About the Investment Objective The Fund's investment objective is non-fundamental and may be changed by a vote of the Board, without shareholder approval All share classes of the Fund have a common investment objective and investment portfolio",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-11T14:07:08.024470+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-010393",
+    "filed_date": "2026-05-11",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126010393/0001999371-26-010393-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126010393/yieldmax_485apos-051126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126010393/yieldmax_485apos-051126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Option Income Strategy ETF\nStrategy: The Fund\u2019s primary investment objective is to seek current income The Fund\u2019s secondary investment objective is to seek exposure to the share price of [common stock] of OpenAI, Inc\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Option Income Strategy ETF",
+        "strategy": "The Fund\u2019s primary investment objective is to seek current income The Fund\u2019s secondary investment objective is to seek exposure to the share price of [common stock] of OpenAI, Inc",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-08T21:33:05.071400+00:00",
     "form_type": "485APOS",
     "cik": "0001976322",
@@ -14432,64 +14490,6 @@
         "filer": "Minnesota Life Variable Life Account",
         "etf_name": "Although the SFT Government Money Market Fund",
         "strategy": "small-cap value, government securities, and a government money market fund that seeks to preserve a $1.00 NAV",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T16:46:11.277349+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000768609",
-    "company_name": "VARIABLE ANNUITY ACCOUNT",
-    "accession_number": "0001193125-26-184582",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/768609/000119312526184582/0001193125-26-184582-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/768609/000119312526184582/d69389d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/768609/000119312526184582/d69389d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Annuity Account\nETF Name: Securian Funds Trust\nStrategy: This variable annuity prospectus offers policyholders sub-account access to a broad multi-manager lineup of underlying portfolios\u2014including Morningstar ETF asset allocation portfolios, BlackRock Russell 2000 Index Fund, Fidelity VIP Bond Index, Putnam international and large-cap growth funds, and Securian Funds Trust options such as SFT Index 400 Mid Cap Fund and SFT Nomura Small Cap Growth Fund equity and fixed-inco...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Annuity Account",
-        "etf_name": "Securian Funds Trust",
-        "strategy": "This variable annuity prospectus offers policyholders sub-account access to a broad multi-manager lineup of underlying portfolios\u2014including Morningstar ETF asset allocation portfolios, BlackRock Russell 2000 Index Fund, Fidelity VIP Bond Index, Putnam international and large-cap growth funds, and Securian Funds Trust options such as SFT Index 400 Mid Cap Fund and SFT Nomura Small Cap Growth Fund equity and fixed-inco...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T16:47:05.241127+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000737520",
-    "company_name": "BNY Mellon Strategic Funds, Inc.",
-    "accession_number": "0000030146-26-000186",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/737520/000003014626000186/0000030146-26-000186-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/737520/000003014626000186/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/737520/000003014626000186/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BNY Mellon Strategic Funds, Inc\nETF Name: BNY Mellon Mid Cap Stock Fund\nStrategy: Seeks to maximize capital appreciation by investing at least 80% of net assets in stocks of midsize U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BNY Mellon Strategic Funds, Inc",
-        "etf_name": "BNY Mellon Mid Cap Stock Fund",
-        "strategy": "Seeks to maximize capital appreciation by investing at least 80% of net assets in stocks of midsize U.S",
         "is_alert_worthy": "LOW"
       }
     ],
