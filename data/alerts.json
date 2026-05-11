@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-11T16:49:36.218374+00:00",
+    "form_type": "485APOS",
+    "cik": "0001364924",
+    "company_name": "Fidelity Rutland Square Trust II",
+    "accession_number": "0001364924-26-000117",
+    "filed_date": "2026-05-11",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1364924/000136492426000117/0001364924-26-000117-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1364924/000136492426000117/filing12056.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1364924/000136492426000117/filing12056.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Fidelity Rutland Square Trust II\nETF Name: Core Income Fund\nStrategy: Allocating assets among underlying funds and sub-advisers to attempt to diversify its portfolio in terms of market capitalization, investment style, and geographic regio 1991 Fidelity Distributors Company LLC (FDC) is a member of the Securities Investor Protection Corporation (SIPC) Total Stock Fund Investment Objective Strategic Advisers\u00ae Fidelity\u00ae U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Fidelity Rutland Square Trust II",
+        "etf_name": "Core Income Fund",
+        "strategy": "Allocating assets among underlying funds and sub-advisers to attempt to diversify its portfolio in terms of market capitalization, investment style, and geographic regio 1991 Fidelity Distributors Company LLC (FDC) is a member of the Securities Investor Protection Corporation (SIPC) Total Stock Fund Investment Objective Strategic Advisers\u00ae Fidelity\u00ae U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-11T16:49:38.404010+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001215880",
+    "company_name": "NEIMAN FUNDS",
+    "accession_number": "0001413042-26-000365",
+    "filed_date": "2026-05-11",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1215880/000141304226000365/0001413042-26-000365-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1215880/000141304226000365/fp0098470-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1215880/000141304226000365/fp0098470-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NEIMAN FUNDS\nETF Name: Disclosure of Portfolio Holdings Investment Objective The Advisors Capital International ETF Fund\nStrategy: Also, if the area of the market representing the underlying index or benchmark does not perform as expected for any reason, the value of the investment in the ETF may decline\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NEIMAN FUNDS",
+        "etf_name": "Disclosure of Portfolio Holdings Investment Objective The Advisors Capital International ETF Fund",
+        "strategy": "Also, if the area of the market representing the underlying index or benchmark does not perform as expected for any reason, the value of the investment in the ETF may decline",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-11T14:07:05.295426+00:00",
     "form_type": "485APOS",
     "cik": "0000837276",
@@ -14432,64 +14490,6 @@
         "filer": "Variable Annuity Account",
         "etf_name": "Goldman Sachs Variable Insurance Trust",
         "strategy": "This is a variable annuity prospectus offering underlying investment portfolios\u2014including global bonds, money markets, energy equity, value equity, and multi-asset allocation series\u2014managed by Capital Research, Goldman Sachs, and Nomura. Values may be transferred between the general account, guaranteed term account, and variable annuity account portfolios spanning a risk spectrum from conservative to aggressive.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T16:43:39.810099+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000768609",
-    "company_name": "VARIABLE ANNUITY ACCOUNT",
-    "accession_number": "0001193125-26-184603",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/768609/000119312526184603/0001193125-26-184603-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/768609/000119312526184603/d121891d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/768609/000119312526184603/d121891d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Annuity Account (Securian Financial Group)\nETF Name: Securian Funds Trust\nStrategy: The fund operates as a variable annuity wrapper offering a diversified menu of underlying portfolios\u2014including Morningstar ETF asset-allocation models (aggressive growth through conservative), equity growth, international income, small-cap index (Russell 2000), and bond index strategies managed by ALPS Advisors, Capital Research, BlackRock, and Fidelity All portfolio assets are managed to comply with IRS Section 1.81...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Annuity Account (Securian Financial Group)",
-        "etf_name": "Securian Funds Trust",
-        "strategy": "The fund operates as a variable annuity wrapper offering a diversified menu of underlying portfolios\u2014including Morningstar ETF asset-allocation models (aggressive growth through conservative), equity growth, international income, small-cap index (Russell 2000), and bond index strategies managed by ALPS Advisors, Capital Research, BlackRock, and Fidelity All portfolio assets are managed to comply with IRS Section 1.81...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T16:44:48.214794+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000789535",
-    "company_name": "MINNESOTA LIFE VARIABLE LIFE ACCOUNT",
-    "accession_number": "0001193125-26-184591",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/789535/000119312526184591/0001193125-26-184591-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/789535/000119312526184591/d115819d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/789535/000119312526184591/d115819d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Minnesota Life Variable Life Account\nETF Name: Although the SFT Government Money Market Fund\nStrategy: small-cap value, government securities, and a government money market fund that seeks to preserve a $1.00 NAV\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Minnesota Life Variable Life Account",
-        "etf_name": "Although the SFT Government Money Market Fund",
-        "strategy": "small-cap value, government securities, and a government money market fund that seeks to preserve a $1.00 NAV",
         "is_alert_worthy": "LOW"
       }
     ],
