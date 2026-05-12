@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-05-12T22:24:49.238260+00:00",
+    "form_type": "485APOS",
+    "cik": "0001496608",
+    "company_name": "AB Active ETFs, Inc.",
+    "accession_number": "0000919574-26-002893",
+    "filed_date": "2026-05-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1496608/000091957426002893/0000919574-26-002893-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1496608/000091957426002893/d12151751_485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1496608/000091957426002893/d12151751_485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AB Active ETFs, Inc\nETF Name: AB Equity Income ETF\nStrategy: companies, with integrated ESG considerations and benchmarked to the S&P 500 Index This filing represents a mutual fund-to-ETF conversion of a predecessor fund originally launched in 1993, with a newly appointed portfolio management team effective 2026\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AB Active ETFs, Inc",
+        "etf_name": "AB Equity Income ETF",
+        "strategy": "companies, with integrated ESG considerations and benchmarked to the S&P 500 Index This filing represents a mutual fund-to-ETF conversion of a predecessor fund originally launched in 1993, with a newly appointed portfolio management team effective 2026",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-12T22:26:29.358374+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-002035",
+    "filed_date": "2026-05-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002035/0001592900-26-002035-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026002035/ck0001592900-20260512.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002035/ck0001592900-20260512.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Humilis US Dividend Growth Opportunities ETF (HISD)\nStrategy: Actively managed U.S. equity ETF focused on dividend-growing companies, seeking long-term capital appreciation and income.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "Humilis US Dividend Growth Opportunities ETF (HISD)",
+        "strategy": "Actively managed U.S. equity ETF focused on dividend-growing companies, seeking long-term capital appreciation and income.",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-12T22:28:04.197840+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001782952",
+    "company_name": "Kurv ETF Trust",
+    "accession_number": "0001999371-26-010571",
+    "filed_date": "2026-05-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126010571/0001999371-26-010571-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1782952/000199937126010571/kurv-485bpos_051226.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126010571/kurv-485bpos_051226.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Kurv ETF Trust\nETF Name: Kurv AI Memory ETF\nStrategy: A non-diversified, actively managed ETF that invests at least 80% of net assets in securities, derivatives, and ETF shares tied to \"Memory Companies\" \u2014 firms engaged in memory chip\u2013related activities The fund may also gain exposure through equities, debt, derivatives, or other Memory Company ETFs and may take short positions to maximize total return\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Kurv ETF Trust",
+        "etf_name": "Kurv AI Memory ETF",
+        "strategy": "A non-diversified, actively managed ETF that invests at least 80% of net assets in securities, derivatives, and ETF shares tied to \"Memory Companies\" \u2014 firms engaged in memory chip\u2013related activities The fund may also gain exposure through equities, debt, derivatives, or other Memory Company ETFs and may take short positions to maximize total return",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-12T21:06:03.238263+00:00",
     "form_type": "485APOS",
     "cik": "0001859001",
@@ -2768,7 +2855,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, not an ETF It offers Indexed Crediting Rate Strategies linked to market indices with caps, participation rates, buffers, and floors, alongside a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract (RILA), not an ETF, designed for tax-deferred investing via Indexed Crediting Rate Strategies tied to market indices with downside buffers or floors, plus a Fixed Crediting Rate Strategy Upside participation is capped by an Index Cap Rate, Participation Rate, or Trigger Rate, and early withdrawals before a Strategy Maturity Date are subject to a S...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -10801,7 +10888,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index, which measures performance of U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14403,93 +14490,6 @@
         "filer": "RiverSource Life Insurance Company",
         "etf_name": "RiverSource RAVA 5 Choice Variable Annuity NY",
         "strategy": "The product also offers managed-volatility \"Portfolio Stabilizer\" funds and a Special Dollar Cost Averaging fixed account, with Columbia Management serving as investment adviser to several affiliated funds of funds",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T18:17:45.271665+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001141819",
-    "company_name": "TRUST FOR PROFESSIONAL MANAGERS",
-    "accession_number": "0000894189-26-013264",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1141819/000089418926013264/0000894189-26-013264-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1141819/000089418926013264/ck0001141819-20260428.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1141819/000089418926013264/ck0001141819-20260428.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Trust for Professional Managers\nETF Name: Mairs & Power Minnesota Municipal Bond ETF\nStrategy: Actively managed municipal bond ETF that invests at least 80% of net assets in Minnesota municipal debt securities exempt from federal and Minnesota state income tax, generally issued by or on behalf of the State of Minnesota and its political subdivisions The fund may allocate up to 20% to taxable debt including AMT-subject securities and seeks current income consistent with capital preservation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Trust for Professional Managers",
-        "etf_name": "Mairs & Power Minnesota Municipal Bond ETF",
-        "strategy": "Actively managed municipal bond ETF that invests at least 80% of net assets in Minnesota municipal debt securities exempt from federal and Minnesota state income tax, generally issued by or on behalf of the State of Minnesota and its political subdivisions The fund may allocate up to 20% to taxable debt including AMT-subject securities and seeks current income consistent with capital preservation",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T18:18:29.700817+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001007571",
-    "company_name": "RIVERSOURCE OF NEW YORK VARIABLE ANNUITY ACCOUNT",
-    "accession_number": "0001193125-26-185570",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1007571/000119312526185570/0001193125-26-185570-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1007571/000119312526185570/d123749d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1007571/000119312526185570/d123749d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RiverSource of New York Variable Annuity Account\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: This variable annuity contract offers subaccount investment options tied to underlying funds, including Portfolio Navigator and Portfolio Stabilizer fund-of-funds managed by Columbia Management Investment Advisers using objective and subjective fund-selection criteria The Portfolio Stabilizer funds employ a managed-volatility strategy aimed at reducing downside risk, which may also limit upside participation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RiverSource of New York Variable Annuity Account",
-        "etf_name": "Columbia Funds Variable Insurance Trust",
-        "strategy": "This variable annuity contract offers subaccount investment options tied to underlying funds, including Portfolio Navigator and Portfolio Stabilizer fund-of-funds managed by Columbia Management Investment Advisers using objective and subjective fund-selection criteria The Portfolio Stabilizer funds employ a managed-volatility strategy aimed at reducing downside risk, which may also limit upside participation",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T18:19:11.522277+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001039667",
-    "company_name": "SPIRIT OF AMERICA INVESTMENT FUND INC",
-    "accession_number": "0001580642-26-002689",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1039667/000158064226002689/0001580642-26-002689-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1039667/000158064226002689/spiritofamerica_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1039667/000158064226002689/spiritofamerica_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Spirit of America Investment Fund Inc\nETF Name: Spirit of America Real Estate Fund\nStrategy: Concentrates in real estate and real estate-related securities\u2014primarily REITs\u2014with additional exposure to MLPs and investment-grade taxable municipal obligations\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Spirit of America Investment Fund Inc",
-        "etf_name": "Spirit of America Real Estate Fund",
-        "strategy": "Concentrates in real estate and real estate-related securities\u2014primarily REITs\u2014with additional exposure to MLPs and investment-grade taxable municipal obligations",
         "is_alert_worthy": "LOW"
       }
     ],
