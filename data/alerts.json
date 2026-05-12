@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-12T21:06:03.238263+00:00",
+    "form_type": "485APOS",
+    "cik": "0001859001",
+    "company_name": "WisdomTree Digital Trust",
+    "accession_number": "0001214659-26-005986",
+    "filed_date": "2026-05-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1859001/000121465926005986/0001214659-26-005986-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1859001/000121465926005986/wtd51126485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1859001/000121465926005986/wtd51126485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: WisdomTree Digital Trust\nETF Name: WisdomTree 500 Digital Fund\nStrategy: Passively managed, blockchain-tokenized fund that tracks the WisdomTree 500 Index \u2014 composed of the 500 largest U.S.-domiciled, U.S.-listed companies weighted by modified market cap \u2014 using a representative sampling approach\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "WisdomTree Digital Trust",
+        "etf_name": "WisdomTree 500 Digital Fund",
+        "strategy": "Passively managed, blockchain-tokenized fund that tracks the WisdomTree 500 Index \u2014 composed of the 500 largest U.S.-domiciled, U.S.-listed companies weighted by modified market cap \u2014 using a representative sampling approach",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-12T21:06:59.364293+00:00",
+    "form_type": "485APOS",
+    "cik": "0000831114",
+    "company_name": "RBB FUND, INC.",
+    "accession_number": "0001398344-26-009011",
+    "filed_date": "2026-05-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/831114/000139834426009011/0001398344-26-009011-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/831114/000139834426009011/fp0098879-1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/831114/000139834426009011/fp0098879-1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: RBB FUND, INC\nETF Name: F/m Accumulator BDC Fund\nStrategy: Actively managed, non-diversified fund-of-funds that invests at least 80% of net assets in publicly traded business development companies, either directly or through affiliated and unaffiliated BDC-focused ETFs such as BIZD and PBDC The fund seeks to minimize dividend and distribution payments by actively selling holdings before their dividend record dates, and may shift entirely into cash and prime-quality money mar...\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "RBB FUND, INC",
+        "etf_name": "F/m Accumulator BDC Fund",
+        "strategy": "Actively managed, non-diversified fund-of-funds that invests at least 80% of net assets in publicly traded business development companies, either directly or through affiliated and unaffiliated BDC-focused ETFs such as BIZD and PBDC The fund seeks to minimize dividend and distribution payments by actively selling holdings before their dividend record dates, and may shift entirely into cash and prime-quality money mar...",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-12T17:38:51.258510+00:00",
     "form_type": "485BPOS",
     "cik": "0001976322",
@@ -2710,7 +2768,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract \u2014 not an ETF \u2014 that allows allocation among Indexed Crediting Rate Strategies tied to market index performance (with caps, participation rates, buffers, and floors) and a Fixed Crediting Rate Strategy It is designed for tax-deferred, long-term investing, with early withdrawals subject to a Strategy Interim Value Adjustment that can significantly r...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, not an ETF It offers Indexed Crediting Rate Strategies linked to market indices with caps, participation rates, buffers, and floors, alongside a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -10743,7 +10801,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Seeks to passively track the ICE U.S Treasury 1-10 Year Bond Index using a representative sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index, which measures performance of U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14432,64 +14490,6 @@
         "filer": "Spirit of America Investment Fund Inc",
         "etf_name": "Spirit of America Real Estate Fund",
         "strategy": "Concentrates in real estate and real estate-related securities\u2014primarily REITs\u2014with additional exposure to MLPs and investment-grade taxable municipal obligations",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T18:19:55.024893+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001559495",
-    "company_name": "Symetra Life Insurance Co",
-    "accession_number": "0001559495-26-000016",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1559495/000155949526000016/0001559495-26-000016-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1559495/000155949526000016/a2026trek485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1559495/000155949526000016/a2026trek485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Symetra Life Insurance Company\nETF Name: Account is not an investment in the Index or any Index fund\nStrategy: This is a registered index-linked annuity (RILA) offering indexed accounts tied to market index performance, with partial downside protection via floor and buffer crediting structures\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Symetra Life Insurance Company",
-        "etf_name": "Account is not an investment in the Index or any Index fund",
-        "strategy": "This is a registered index-linked annuity (RILA) offering indexed accounts tied to market index performance, with partial downside protection via floor and buffer crediting structures",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T18:20:36.864114+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000792394",
-    "company_name": "VOLUMETRIC FUND INC",
-    "accession_number": "0000792394-26-000025",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/792394/000079239426000025/0000792394-26-000025-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/792394/000079239426000025/n1a2026edgar_r1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/792394/000079239426000025/n1a2026edgar_r1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Volumetric Fund Inc\nETF Name: Volumetric Fund Inc\nStrategy: Seeks capital growth by investing primarily in a diversified portfolio of U.S May allocate up to 15% of net assets to ETFs tracking the S&P 500 Total Return Index as a secondary liquidity and beta sleeve\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Volumetric Fund Inc",
-        "etf_name": "Volumetric Fund Inc",
-        "strategy": "Seeks capital growth by investing primarily in a diversified portfolio of U.S May allocate up to 15% of net assets to ETFs tracking the S&P 500 Total Return Index as a secondary liquidity and beta sleeve",
         "is_alert_worthy": "LOW"
       }
     ],
