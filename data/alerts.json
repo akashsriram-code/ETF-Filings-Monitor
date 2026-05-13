@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-13T13:09:19.840572+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001795351",
+    "company_name": "T. Rowe Price Exchange-Traded Funds, Inc.",
+    "accession_number": "0001999371-26-010589",
+    "filed_date": "2026-05-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1795351/000199937126010589/0001999371-26-010589-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1795351/000199937126010589/cax-485bpos_051326.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1795351/000199937126010589/cax-485bpos_051326.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: T. Rowe Price Exchange-Traded Funds, Inc\nETF Name: T. Rowe Price Capital Appreciation Market Opportunities ETF\nStrategy: The fund seeks current income with capital appreciation potential by dynamically allocating between writing (selling) put options on large-cap U.S equity indices or ETFs (such as the S&P 500 or SPY) and direct equity exposure, guided by a proprietary statistical model\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "T. Rowe Price Exchange-Traded Funds, Inc",
+        "etf_name": "T. Rowe Price Capital Appreciation Market Opportunities ETF",
+        "strategy": "The fund seeks current income with capital appreciation potential by dynamically allocating between writing (selling) put options on large-cap U.S equity indices or ETFs (such as the S&P 500 or SPY) and direct equity exposure, guided by a proprietary statistical model",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-13T13:10:24.697276+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-010584",
+    "filed_date": "2026-05-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126010584/0001999371-26-010584-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126010584/defiance-485apos_051326.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126010584/defiance-485apos_051326.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Defiance AI Magnificent 10 ETF\nStrategy: Passively tracks the BITA AI Magnificent 10 Select Index by holding all or substantially all index components, with the ability to use options and total-return swaps for equivalent exposure\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Defiance AI Magnificent 10 ETF",
+        "strategy": "Passively tracks the BITA AI Magnificent 10 Select Index by holding all or substantially all index components, with the ability to use options and total-return swaps for equivalent exposure",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-13T10:50:25.429247+00:00",
     "form_type": "485BPOS",
     "cik": "0001976517",
@@ -2884,7 +2942,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, not an ETF It offers Indexed Crediting Rate Strategies linked to index performance with defined caps, buffers, and floors, alongside a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, not an ETF It offers Indexed Crediting Rate Strategies linked to market indices with upside limited by cap, participation, or trigger rates and downside partially mitigated by buffer or floor percentages, alongside a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -10917,7 +10975,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative sampling approach, seeking exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative-sampling approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14432,64 +14490,6 @@
         "filer": "Symetra Life Insurance Company",
         "etf_name": "Symetra Registered Index-Linked Annuity Contract",
         "strategy": "This is a registered index-linked annuity (RILA), not an ETF, offering indexed accounts whose returns are tied to market index performance with caps, buffers, and floors limiting downside exposure",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T18:14:57.160051+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001007571",
-    "company_name": "RIVERSOURCE OF NEW YORK VARIABLE ANNUITY ACCOUNT",
-    "accession_number": "0001193125-26-185667",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1007571/000119312526185667/0001193125-26-185667-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1007571/000119312526185667/d131544d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1007571/000119312526185667/d131544d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RiverSource of New York Variable Annuity Account\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: The product is a variable annuity contract (RAVA 5 / RAVA 5 Access) offering subaccounts tied to underlying mutual funds\u2014including Portfolio Navigator and Portfolio Stabilizer fund-of-funds managed by Columbia Management\u2014plus fixed-account and dollar-cost-averaging options Columbia Management selects underlying funds using objective criteria (performance, expenses, size, style) and subjective criteria (management ski...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RiverSource of New York Variable Annuity Account",
-        "etf_name": "Columbia Funds Variable Insurance Trust",
-        "strategy": "The product is a variable annuity contract (RAVA 5 / RAVA 5 Access) offering subaccounts tied to underlying mutual funds\u2014including Portfolio Navigator and Portfolio Stabilizer fund-of-funds managed by Columbia Management\u2014plus fixed-account and dollar-cost-averaging options Columbia Management selects underlying funds using objective criteria (performance, expenses, size, style) and subjective criteria (management ski...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T18:15:46.059890+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001007571",
-    "company_name": "RIVERSOURCE OF NEW YORK VARIABLE ANNUITY ACCOUNT",
-    "accession_number": "0001193125-26-185644",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1007571/000119312526185644/0001193125-26-185644-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1007571/000119312526185644/d131904d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1007571/000119312526185644/d131904d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RiverSource of New York Variable Annuity Account\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: This is a variable annuity structure offering subaccounts tied to underlying funds\u2014including Portfolio Navigator and Portfolio Stabilizer fund-of-funds managed by Columbia Management Investment Advisers\u2014that allocate across equity, fixed-income, and managed-volatility sleeves\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RiverSource of New York Variable Annuity Account",
-        "etf_name": "Columbia Funds Variable Insurance Trust",
-        "strategy": "This is a variable annuity structure offering subaccounts tied to underlying funds\u2014including Portfolio Navigator and Portfolio Stabilizer fund-of-funds managed by Columbia Management Investment Advisers\u2014that allocate across equity, fixed-income, and managed-volatility sleeves",
         "is_alert_worthy": "LOW"
       }
     ],
