@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-13T20:02:46.583627+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-000954",
+    "filed_date": "2026-05-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000954/0001771146-26-000954-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000954/ck0001771146-20260513.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000954/ck0001771146-20260513.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Tuttle Capital Heavy Assets Low Obsolescence ETF\nStrategy: The fund is a passively managed ETF that seeks investment results corresponding to the Tuttle Capital Heavy Asset Low Obsolescence Index, which uses a rules-based, multi-factor \"HALO Score\" methodology to select U.S.-listed companies with significant tangible asset intensity and durable, asset-backed cash flows The index favors companies with heavy physical assets and lower reliance on asset-light or digital business...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Opportunities Trust",
+        "etf_name": "Tuttle Capital Heavy Assets Low Obsolescence ETF",
+        "strategy": "The fund is a passively managed ETF that seeks investment results corresponding to the Tuttle Capital Heavy Asset Low Obsolescence Index, which uses a rules-based, multi-factor \"HALO Score\" methodology to select U.S.-listed companies with significant tangible asset intensity and durable, asset-backed cash flows The index favors companies with heavy physical assets and lower reliance on asset-light or digital business...",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-13T20:03:43.753844+00:00",
+    "form_type": "485APOS",
+    "cik": "0002043390",
+    "company_name": "Tidal Trust IV",
+    "accession_number": "0001999371-26-010633",
+    "filed_date": "2026-05-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126010633/0001999371-26-010633-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126010633/vegashares-485apos_051326.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126010633/vegashares-485apos_051326.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: VegaShares AI Metals, Miners & Materials ETF\nStrategy: Actively managed global equity ETF seeking capital appreciation by investing in AI-related metals, miners, and materials companies guided by the BITA AI Metals, Miners & Materials Global Index The sub-adviser actively manages the portfolio and may trade ahead of index reconstitution events\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust IV",
+        "etf_name": "VegaShares AI Metals, Miners & Materials ETF",
+        "strategy": "Actively managed global equity ETF seeking capital appreciation by investing in AI-related metals, miners, and materials companies guided by the BITA AI Metals, Miners & Materials Global Index The sub-adviser actively manages the portfolio and may trade ahead of index reconstitution events",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-13T13:09:19.840572+00:00",
     "form_type": "485BPOS",
     "cik": "0001795351",
@@ -2942,7 +3000,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract \u2014 not an ETF \u2014 that allows allocation among Indexed Crediting Rate Strategies (linking returns to market indices with caps, participation rates, buffers, or floors) and a Fixed Crediting Rate Strategy It is designed for tax-deferred, long-term investing with limited liquidity before each Strategy Maturity Date, and early withdrawals are subject to...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The filing describes a single premium deferred index-linked annuity contract, not an ETF, offering Indexed Crediting Rate Strategies tied to market indices with caps, participation rates, buffers, and floors, plus a Fixed Crediting Rate Strategy The contract is designed for tax-deferred investing toward long-term financial goals, with returns shaped by selected index-linked options over defined Strategy Periods\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -10975,7 +11033,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index, which measures U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative-sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14432,64 +14490,6 @@
         "filer": "AQR Funds",
         "etf_name": "AQR Alternative Risk Premia Fund",
         "strategy": "It invests across underlying money market mutual funds, ETFs, and other pooled investment vehicles",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T18:13:32.117148+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001007571",
-    "company_name": "RIVERSOURCE OF NEW YORK VARIABLE ANNUITY ACCOUNT",
-    "accession_number": "0001193125-26-185694",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1007571/000119312526185694/0001193125-26-185694-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1007571/000119312526185694/d116288d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1007571/000119312526185694/d116288d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RiverSource Life Insurance Company of New York\nETF Name: RiverSource Retirement Advisor Advantage Plus / Retirement Advisor Select Plus Variable Annuity \u2013 New York\nStrategy: The product features Portfolio Navigator asset-allocation rebalancing and Portfolio Stabilizer managed-volatility funds designed to reduce overall portfolio volatility and downside risk\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RiverSource Life Insurance Company of New York",
-        "etf_name": "RiverSource Retirement Advisor Advantage Plus / Retirement Advisor Select Plus Variable Annuity \u2013 New York",
-        "strategy": "The product features Portfolio Navigator asset-allocation rebalancing and Portfolio Stabilizer managed-volatility funds designed to reduce overall portfolio volatility and downside risk",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T18:14:10.431464+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001559495",
-    "company_name": "Symetra Life Insurance Co",
-    "accession_number": "0001559495-26-000021",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1559495/000155949526000021/0001559495-26-000021-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1559495/000155949526000021/syasl-20260428.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1559495/000155949526000021/syasl-20260428.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Symetra Life Insurance Company\nETF Name: Symetra Registered Index-Linked Annuity Contract\nStrategy: This is a registered index-linked annuity (RILA), not an ETF, offering indexed accounts whose returns are tied to market index performance with caps, buffers, and floors limiting downside exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Symetra Life Insurance Company",
-        "etf_name": "Symetra Registered Index-Linked Annuity Contract",
-        "strategy": "This is a registered index-linked annuity (RILA), not an ETF, offering indexed accounts whose returns are tied to market index performance with caps, buffers, and floors limiting downside exposure",
         "is_alert_worthy": "LOW"
       }
     ],
