@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-14T14:24:55.866789+00:00",
+    "form_type": "485APOS",
+    "cik": "0001587982",
+    "company_name": "Investment Managers Series Trust II",
+    "accession_number": "0001213900-26-056303",
+    "filed_date": "2026-05-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026056303/0001213900-26-056303-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587982/000121390026056303/ea0290413-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026056303/ea0290413-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust II\nETF Name: Tradr 2X Long Dataiku Daily ETF\nStrategy: Single-stock leveraged ETF that seeks daily investment results equal to two times (200%) the daily performance of Dataiku, Inc The fund is designed for short-term, actively monitored trading and does not seek to achieve its stated objective over periods longer than a single trading day\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Investment Managers Series Trust II",
+        "etf_name": "Tradr 2X Long Dataiku Daily ETF",
+        "strategy": "Single-stock leveraged ETF that seeks daily investment results equal to two times (200%) the daily performance of Dataiku, Inc The fund is designed for short-term, actively monitored trading and does not seek to achieve its stated objective over periods longer than a single trading day",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-14T14:25:54.234038+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001648403",
+    "company_name": "Virtus ETF Trust II",
+    "accession_number": "0001999371-26-010675",
+    "filed_date": "2026-05-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1648403/000199937126010675/0001999371-26-010675-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1648403/000199937126010675/virtus-485bpos_051426.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1648403/000199937126010675/virtus-485bpos_051426.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Virtus ETF Trust II\nETF Name: Virtus Zevenbergen Discovery Growth ETF (ZDIS)\nStrategy: growth equity ETF seeking long-term capital appreciation by investing at least 80% of net assets in a concentrated portfolio of U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Virtus ETF Trust II",
+        "etf_name": "Virtus Zevenbergen Discovery Growth ETF (ZDIS)",
+        "strategy": "growth equity ETF seeking long-term capital appreciation by investing at least 80% of net assets in a concentrated portfolio of U.S",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-14T11:57:24.281168+00:00",
     "form_type": "485APOS",
     "cik": "0001454889",
@@ -3232,7 +3290,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies that link returns to market indices, with upside limited by caps, participation rates, or trigger rates, and downside partially mitigated by buffer or floor percentages A Fixed Crediting Rate Strategy is also available for tax-deferred, long-term financial planning\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies tied to market index performance with downside buffers or floors, plus a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -11265,7 +11323,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index via representative sampling, holding U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index via a representative-sampling approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14432,64 +14490,6 @@
         "filer": "Symetra Life Insurance Company",
         "etf_name": "The Policy Value in the Fixed Account. Fund",
         "strategy": "This is a variable life insurance policy prospectus whose sub-accounts invest in underlying funds, including series of the Vanguard Variable Insurance Fund",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:27:42.019764+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000897111",
-    "company_name": "CARILLON SERIES TRUST",
-    "accession_number": "0001193125-26-186213",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/897111/000119312526186213/0001193125-26-186213-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/897111/000119312526186213/d52239d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/897111/000119312526186213/d52239d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Carillon Series Trust\nETF Name: Carillon Chartwell Mid Cap Value Fund\nStrategy: Seeks long-term capital appreciation through a mid-cap value equity strategy, converting from an existing mutual fund into an ETF shell while retaining the same portfolio managers and investment approach\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Carillon Series Trust",
-        "etf_name": "Carillon Chartwell Mid Cap Value Fund",
-        "strategy": "Seeks long-term capital appreciation through a mid-cap value equity strategy, converting from an existing mutual fund into an ETF shell while retaining the same portfolio managers and investment approach",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:28:23.626018+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000806180",
-    "company_name": "SYMETRA SEPARATE ACCOUNT SL",
-    "accession_number": "0000806180-26-000038",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/806180/000080618026000038/0000806180-26-000038-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/806180/000080618026000038/syasl-20260428.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/806180/000080618026000038/syasl-20260428.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Symetra Life Insurance Company\nETF Name: The Policy Value in the Fixed Account. Fund\nStrategy: No single ETF-level investment objective or benchmark is stated, as strategy depends entirely on the policyholder's fund allocation choices\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Symetra Life Insurance Company",
-        "etf_name": "The Policy Value in the Fixed Account. Fund",
-        "strategy": "No single ETF-level investment objective or benchmark is stated, as strategy depends entirely on the policyholder's fund allocation choices",
         "is_alert_worthy": "LOW"
       }
     ],
