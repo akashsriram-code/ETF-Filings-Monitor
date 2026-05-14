@@ -1,5 +1,266 @@
 [
   {
+    "created_at": "2026-05-14T21:39:06.849572+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001016274",
+    "company_name": "AMERITAS LIFE INSURANCE CORP SEPARATE ACCOUNT LLVA",
+    "accession_number": "0001016274-26-000025",
+    "filed_date": "2026-05-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1016274/000101627426000025/0001016274-26-000025-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1016274/000101627426000025/advnoloadva_485b-150.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1016274/000101627426000025/advnoloadva_485b-150.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Ameritas Life Insurance Corp Separate Account LLVA\nETF Name: Separate account assets represent NAVs as a practical expedient received from fund\nStrategy: The separate account assets reference underlying fund NAVs as a practical expedient, with index call options valued via broker quotes using S&P Dividend Yield and Implied Volatility inputs in the Black-Scholes Model\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Ameritas Life Insurance Corp Separate Account LLVA",
+        "etf_name": "Separate account assets represent NAVs as a practical expedient received from fund",
+        "strategy": "The separate account assets reference underlying fund NAVs as a practical expedient, with index call options valued via broker quotes using S&P Dividend Yield and Implied Volatility inputs in the Black-Scholes Model",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-14T21:39:53.198373+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000814848",
+    "company_name": "AMERITAS VARIABLE SEPARATE ACCOUNT VA-2",
+    "accession_number": "0000814848-26-000038",
+    "filed_date": "2026-05-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/814848/000081484826000038/0000814848-26-000038-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/814848/000081484826000038/medley_485b-149.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/814848/000081484826000038/medley_485b-149.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Ameritas Life Insurance Corp\nETF Name: Separate account assets represent NAVs as a practical expedient received from fund\nStrategy: No ETF investment objective or strategy is described; references to S&P index call options and Black-Scholes modeling pertain to separate account valuation methodology for variable annuity products\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Ameritas Life Insurance Corp",
+        "etf_name": "Separate account assets represent NAVs as a practical expedient received from fund",
+        "strategy": "No ETF investment objective or strategy is described; references to S&P index call options and Black-Scholes modeling pertain to separate account valuation methodology for variable annuity products",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-14T21:40:39.685916+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000814848",
+    "company_name": "AMERITAS VARIABLE SEPARATE ACCOUNT VA-2",
+    "accession_number": "0000814848-26-000037",
+    "filed_date": "2026-05-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/814848/000081484826000037/0000814848-26-000037-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/814848/000081484826000037/directionva_485b-148.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/814848/000081484826000037/directionva_485b-148.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AMERITAS VARIABLE SEPARATE ACCOUNT VA-2\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: No exchange-traded fund investment objective or strategy is described in the document\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AMERITAS VARIABLE SEPARATE ACCOUNT VA-2",
+        "etf_name": "Columbia Funds Variable Insurance Trust",
+        "strategy": "No exchange-traded fund investment objective or strategy is described in the document",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-14T21:41:25.190625+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000933094",
+    "company_name": "AMERITAS LIFE INSURANCE CORP SEPARATE ACCOUNT LLVL",
+    "accession_number": "0000933094-26-000024",
+    "filed_date": "2026-05-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/933094/000093309426000024/0000933094-26-000024-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/933094/000093309426000024/clearedge_485b-147.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/933094/000093309426000024/clearedge_485b-147.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Ameritas Life Insurance Corp Separate Account LLVL\nETF Name: Columbia Funds Variable Series Trust\nStrategy: No ETF investment strategy, benchmark, or objective is described in the filing text\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Ameritas Life Insurance Corp Separate Account LLVL",
+        "etf_name": "Columbia Funds Variable Series Trust",
+        "strategy": "No ETF investment strategy, benchmark, or objective is described in the filing text",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-14T21:42:06.552907+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000933094",
+    "company_name": "AMERITAS LIFE INSURANCE CORP SEPARATE ACCOUNT LLVL",
+    "accession_number": "0000933094-26-000023",
+    "filed_date": "2026-05-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/933094/000093309426000023/0000933094-26-000023-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/933094/000093309426000023/advisoriivul_485b-146.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/933094/000093309426000023/advisoriivul_485b-146.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Ameritas Life Insurance Corp Separate Account LLVL\nETF Name: Separate account assets represent NAVs as a practical expedient received from fund\nStrategy: The separate account assets are valued using fund NAVs as a practical expedient, with index call options priced via Black-Scholes models using S&P dividend yield and implied volatility inputs\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Ameritas Life Insurance Corp Separate Account LLVL",
+        "etf_name": "Separate account assets represent NAVs as a practical expedient received from fund",
+        "strategy": "The separate account assets are valued using fund NAVs as a practical expedient, with index call options priced via Black-Scholes models using S&P dividend yield and implied volatility inputs",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-14T21:43:46.337320+00:00",
+    "form_type": "485APOS",
+    "cik": "0001174610",
+    "company_name": "PROSHARES TRUST",
+    "accession_number": "0001174610-26-000178",
+    "filed_date": "2026-05-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000178/0001174610-26-000178-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000178/f45284d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000178/f45284d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PROSHARES TRUST\nETF Name: Money Market ETF\nStrategy: \u25cf Reverse Repurchase Agreements \u2013 The Fund seeks to engage in reverse repurchase agreements, a form of borrowing or leverage, and uses the proceeds to help achieve the Fund\u2019s investment objective The Fund seeks to remain fully invested at all times in financial instruments that, in combination, provide leveraged exposure consistent with the investment objective, without regard to market conditions, trends or directio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PROSHARES TRUST",
+        "etf_name": "Money Market ETF",
+        "strategy": "\u25cf Reverse Repurchase Agreements \u2013 The Fund seeks to engage in reverse repurchase agreements, a form of borrowing or leverage, and uses the proceeds to help achieve the Fund\u2019s investment objective The Fund seeks to remain fully invested at all times in financial instruments that, in combination, provide leveraged exposure consistent with the investment objective, without regard to market conditions, trends or directio",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-14T21:44:45.272304+00:00",
+    "form_type": "485APOS",
+    "cik": "0001174610",
+    "company_name": "PROSHARES TRUST",
+    "accession_number": "0001174610-26-000177",
+    "filed_date": "2026-05-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000177/0001174610-26-000177-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000177/f45283d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000177/f45283d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ProShares Trust\nETF Name: ProShares AI Computing Power ETF\nStrategy: Seeks investment results corresponding to the performance of the AI computing power market by primarily investing in GPU compute futures contracts\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ProShares Trust",
+        "etf_name": "ProShares AI Computing Power ETF",
+        "strategy": "Seeks investment results corresponding to the performance of the AI computing power market by primarily investing in GPU compute futures contracts",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-14T21:45:32.038483+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000783402",
+    "company_name": "AMERITAS VARIABLE SEPARATE ACCOUNT V",
+    "accession_number": "0000783402-26-000037",
+    "filed_date": "2026-05-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/783402/000078340226000037/0000783402-26-000037-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/783402/000078340226000037/ovation_485b-145.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/783402/000078340226000037/ovation_485b-145.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Ameritas Life Insurance Corp. (via Ameritas Variable Separate Account V)\nETF Name: Separate account assets represent NAVs as a practical expedient received from fund\nStrategy: The separate account holds assets valued at NAV as a practical expedient, with exposure to index call options and foreign currency swaps Index call options are valued using broker quotes based on S&P Dividend Yield and Implied Volatility inputs in the Black-Scholes Model tailored to each option's remaining term\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Ameritas Life Insurance Corp. (via Ameritas Variable Separate Account V)",
+        "etf_name": "Separate account assets represent NAVs as a practical expedient received from fund",
+        "strategy": "The separate account holds assets valued at NAV as a practical expedient, with exposure to index call options and foreign currency swaps Index call options are valued using broker quotes based on S&P Dividend Yield and Implied Volatility inputs in the Black-Scholes Model tailored to each option's remaining term",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-14T21:46:19.765147+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000783402",
+    "company_name": "AMERITAS VARIABLE SEPARATE ACCOUNT V",
+    "accession_number": "0000783402-26-000036",
+    "filed_date": "2026-05-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/783402/000078340226000036/0000783402-26-000036-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/783402/000078340226000036/perfiivul_485b-144.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/783402/000078340226000036/perfiivul_485b-144.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Ameritas Variable Separate Account V\nETF Name: Separate account assets represent NAVs as a practical expedient received from fund\nStrategy: The separate account holds index call options valued using the Black-Scholes model (with S&P Dividend Yield and Implied Volatility inputs) and foreign currency swaps corroborated to market via broker quotes\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Ameritas Variable Separate Account V",
+        "etf_name": "Separate account assets represent NAVs as a practical expedient received from fund",
+        "strategy": "The separate account holds index call options valued using the Black-Scholes model (with S&P Dividend Yield and Implied Volatility inputs) and foreign currency swaps corroborated to market via broker quotes",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-14T20:12:54.063411+00:00",
     "form_type": "486BPOS",
     "cik": "0001982701",
@@ -3377,7 +3638,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing, offering Indexed Crediting Rate Strategies tied to index performance with caps, buffers, and floors, as well as a Fixed Crediting Rate Strategy This is not an ETF; it is an insurance-registered annuity contract with surrender provisions and multi-year strategy lock-ups\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, not an ETF It offers Indexed Crediting Rate Strategies linked to index performance with capped upside and partial downside protection via Buffer or Floor Percentages, alongside a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -11410,7 +11671,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative-sampling approach, targeting U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index using a representative-sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14233,267 +14494,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:17:27.493385+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000729522",
-    "company_name": "VARIABLE SEPARATE ACCOUNT",
-    "accession_number": "0001193125-26-186424",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/729522/000119312526186424/0001193125-26-186424-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/729522/000119312526186424/d20928d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/729522/000119312526186424/d20928d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Separate Account (SunAmerica/Corebridge-affiliated)\nETF Name: SunAmerica Series Trust Fund\nStrategy: Certain underlying funds employ volatility-control strategies designed to limit downside exposure and manage the issuer's guarantee-related financial risk\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Separate Account (SunAmerica/Corebridge-affiliated)",
-        "etf_name": "SunAmerica Series Trust Fund",
-        "strategy": "Certain underlying funds employ volatility-control strategies designed to limit downside exposure and manage the issuer's guarantee-related financial risk",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:18:29.508426+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001034438",
-    "company_name": "Wilton Reassurance Life Co of New York Variable Life Separate Account A",
-    "accession_number": "0001193125-26-186417",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1034438/000119312526186417/0001193125-26-186417-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1034438/000119312526186417/d75976d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1034438/000119312526186417/d75976d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Wilton Reassurance Life Co of New York Variable Life Separate Account A\nETF Name: Capital appreciation Morningstar Growth ETF\nStrategy: Janus Henderson Global Research Portfolio \u2013 Service Shares Janus Henderson Investors US LLC 1.07 20.60 % 12.23 % 12.64 % Seeks capital appreciation Janus Henderson Overseas Portfolio - Service Shares Janus Henderson Investors US LLC 0.96 28.58 % 9.17 % 8.97 % Seeks long-term capital appreciation by investing primarily in growth-oriented equity securities of large capitalization companies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Wilton Reassurance Life Co of New York Variable Life Separate Account A",
-        "etf_name": "Capital appreciation Morningstar Growth ETF",
-        "strategy": "Janus Henderson Global Research Portfolio \u2013 Service Shares Janus Henderson Investors US LLC 1.07 20.60 % 12.23 % 12.64 % Seeks capital appreciation Janus Henderson Overseas Portfolio - Service Shares Janus Henderson Investors US LLC 0.96 28.58 % 9.17 % 8.97 % Seeks long-term capital appreciation by investing primarily in growth-oriented equity securities of large capitalization companies",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:19:20.650929+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000729522",
-    "company_name": "VARIABLE SEPARATE ACCOUNT",
-    "accession_number": "0001193125-26-186414",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/729522/000119312526186414/0001193125-26-186414-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/729522/000119312526186414/d79162d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/729522/000119312526186414/d79162d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Separate Account\nETF Name: SunAmerica Series Trust Fund\nStrategy: The contract offers Variable Portfolios that invest in a menu of Underlying Funds spanning multiple asset classes, selected based on factors such as adviser reputation and alignment with the issuer's hedging strategy Certain Underlying Funds employ volatility-control techniques designed to manage downside exposure and support the issuer's living and death benefit guarantee obligations\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Separate Account",
-        "etf_name": "SunAmerica Series Trust Fund",
-        "strategy": "The contract offers Variable Portfolios that invest in a menu of Underlying Funds spanning multiple asset classes, selected based on factors such as adviser reputation and alignment with the issuer's hedging strategy Certain Underlying Funds employ volatility-control techniques designed to manage downside exposure and support the issuer's living and death benefit guarantee obligations",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:20:18.128942+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001034438",
-    "company_name": "Wilton Reassurance Life Co of New York Variable Life Separate Account A",
-    "accession_number": "0001193125-26-186408",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1034438/000119312526186408/0001193125-26-186408-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1034438/000119312526186408/d70675d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1034438/000119312526186408/d70675d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Wilton Reassurance Life Co of New York Variable Life Separate Account A\nETF Name: Above-average income and long-term capital growth, consistent with reasonable investment risk. Fund\nStrategy: This is a variable life insurance separate account that allocates to underlying portfolio companies, including Fidelity VIP Mid Cap Portfolio, seeking above-average income and long-term capital growth consistent with reasonable investment risk No ETF is described; the product is an insurance wrapper offering sub-account exposure to various portfolio companies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Wilton Reassurance Life Co of New York Variable Life Separate Account A",
-        "etf_name": "Above-average income and long-term capital growth, consistent with reasonable investment risk. Fund",
-        "strategy": "This is a variable life insurance separate account that allocates to underlying portfolio companies, including Fidelity VIP Mid Cap Portfolio, seeking above-average income and long-term capital growth consistent with reasonable investment risk No ETF is described; the product is an insurance wrapper offering sub-account exposure to various portfolio companies",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:21:07.099569+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001310558",
-    "company_name": "United States Life Insurance Co in the City of New York",
-    "accession_number": "0001193125-26-186406",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1310558/000119312526186406/0001193125-26-186406-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1310558/000119312526186406/d41961d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1310558/000119312526186406/d41961d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: United States Life Insurance Co in the City of New York\nETF Name: USL Individual Registered Index-Linked Annuity\nStrategy: This is a registered index-linked annuity (RILA) offering Strategy Account Options that credit returns based on index performance over defined terms, with upside limited by Cap Rates, Participation Rates, or Trigger Rates and downside partially cushioned by 10% or 20% Buffer Rates A Fixed Account Option provides a fixed-interest allocation and serves as the default when a Strategy Account Option term expires without...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "United States Life Insurance Co in the City of New York",
-        "etf_name": "USL Individual Registered Index-Linked Annuity",
-        "strategy": "This is a registered index-linked annuity (RILA) offering Strategy Account Options that credit returns based on index performance over defined terms, with upside limited by Cap Rates, Participation Rates, or Trigger Rates and downside partially cushioned by 10% or 20% Buffer Rates A Fixed Account Option provides a fixed-interest allocation and serves as the default when a Strategy Account Option term expires without...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:21:54.736781+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000716788",
-    "company_name": "LORD ABBETT MID CAP STOCK FUND INC",
-    "accession_number": "0000930413-26-001328",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/716788/000093041326001328/0000930413-26-001328-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/716788/000093041326001328/c115750_485bpos-ixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/716788/000093041326001328/c115750_485bpos-ixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LORD ABBETT MID CAP STOCK FUND INC\nETF Name: Mid Cap Stock Fund\nStrategy: Invests at least 80% of net assets in U.S mid-cap equities aligned with the Russell Midcap\u00ae Index, using a value-oriented approach that combines quantitative screening with fundamental research to target stocks believed to be undervalued\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LORD ABBETT MID CAP STOCK FUND INC",
-        "etf_name": "Mid Cap Stock Fund",
-        "strategy": "Invests at least 80% of net assets in U.S mid-cap equities aligned with the Russell Midcap\u00ae Index, using a value-oriented approach that combines quantitative screening with fundamental research to target stocks believed to be undervalued",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:22:47.509825+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001034438",
-    "company_name": "Wilton Reassurance Life Co of New York Variable Life Separate Account A",
-    "accession_number": "0001193125-26-186397",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1034438/000119312526186397/0001193125-26-186397-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1034438/000119312526186397/d53881d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1034438/000119312526186397/d53881d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Wilton Reassurance Life Co of New York Variable Life Separate Account A\nETF Name: Morningstar ETF Asset Allocation Series Portfolios\nStrategy: The variable life insurance product allows policyholders to allocate Policy Value to Morningstar ETF Asset Allocation Series Portfolios, which are advised by ALPS Advisers, Inc. These portfolios serve as underlying investment options within the insurance separate account's sub-accounts.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Wilton Reassurance Life Co of New York Variable Life Separate Account A",
-        "etf_name": "Morningstar ETF Asset Allocation Series Portfolios",
-        "strategy": "The variable life insurance product allows policyholders to allocate Policy Value to Morningstar ETF Asset Allocation Series Portfolios, which are advised by ALPS Advisers, Inc. These portfolios serve as underlying investment options within the insurance separate account's sub-accounts.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:23:41.144724+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000005108",
-    "company_name": "AMERICAN GENERAL LIFE INSURANCE CO",
-    "accession_number": "0001193125-26-186396",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/5108/000119312526186396/0001193125-26-186396-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/5108/000119312526186396/d97165d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/5108/000119312526186396/d97165d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AMERICAN GENERAL LIFE INSURANCE CO\nETF Name: The Contract is an insurance contract and is not an index fund\nStrategy: This product is an insurance-based registered index-linked annuity (RILA) offering multiple Strategy Account Options that credit returns based on index performance during defined terms, subject to caps, buffers, triggers, and participation rates A Fixed Account Option is also available, and downside buffers of 10% or 20% limit\u2014but do not eliminate\u2014loss exposure beyond the buffer level\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AMERICAN GENERAL LIFE INSURANCE CO",
-        "etf_name": "The Contract is an insurance contract and is not an index fund",
-        "strategy": "This product is an insurance-based registered index-linked annuity (RILA) offering multiple Strategy Account Options that credit returns based on index performance during defined terms, subject to caps, buffers, triggers, and participation rates A Fixed Account Option is also available, and downside buffers of 10% or 20% limit\u2014but do not eliminate\u2014loss exposure beyond the buffer level",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:24:22.452178+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001988855",
-    "company_name": "Manulife Private Credit Plus Fund",
-    "accession_number": "0001193125-26-186393",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1988855/000119312526186393/0001193125-26-186393-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1988855/000119312526186393/d212123d486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1988855/000119312526186393/d212123d486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Manulife Private Credit Plus Fund\nETF Name: Manulife Private Credit Plus Fund (Classes I / S / D \u2014 MPIDX / MPSBX / MPDBX)\nStrategy: The fund is a non-diversified, continuously offered closed-end interval fund that seeks primarily income and secondarily capital appreciation through direct and indirect private credit exposure, including investments in closed-end funds, BDCs, private funds, and ETFs\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Manulife Private Credit Plus Fund",
-        "etf_name": "Manulife Private Credit Plus Fund (Classes I / S / D \u2014 MPIDX / MPSBX / MPDBX)",
-        "strategy": "The fund is a non-diversified, continuously offered closed-end interval fund that seeks primarily income and secondarily capital appreciation through direct and indirect private credit exposure, including investments in closed-end funds, BDCs, private funds, and ETFs",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
