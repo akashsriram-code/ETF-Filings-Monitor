@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-14T11:57:24.281168+00:00",
+    "form_type": "485APOS",
+    "cik": "0001454889",
+    "company_name": "SCHWAB STRATEGIC TRUST",
+    "accession_number": "0000884546-26-000212",
+    "filed_date": "2026-05-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1454889/000088454626000212/0000884546-26-000212-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1454889/000088454626000212/c485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1454889/000088454626000212/c485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Schwab Strategic Trust\nETF Name: Schwab Crypto Thematic Natural Language Processing ETF\nStrategy: Passively tracks the Schwab Crypto Thematic Index, which uses natural language processing to score and weight global equities based on their relevance to cryptocurrencies, digital assets, and blockchain technology The fund invests at least 80% of net assets in index constituents and does not hold cryptocurrencies directly, instead providing indirect exposure through equity positions in crypto-linked companies\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Schwab Strategic Trust",
+        "etf_name": "Schwab Crypto Thematic Natural Language Processing ETF",
+        "strategy": "Passively tracks the Schwab Crypto Thematic Index, which uses natural language processing to score and weight global equities based on their relevance to cryptocurrencies, digital assets, and blockchain technology The fund invests at least 80% of net assets in index constituents and does not hold cryptocurrencies directly, instead providing indirect exposure through equity positions in crypto-linked companies",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-13T21:45:04.570933+00:00",
     "form_type": "485APOS",
     "cik": "0001771146",
@@ -3203,7 +3232,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a single premium deferred index-linked annuity contract, not an ETF, designed for tax-deferred investing via indexed crediting rate strategies with buffers, floors, caps, and a fixed crediting rate option The product offers defined-outcome exposure to market indices through an insurance wrapper with significant early-withdrawal restrictions\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies that link returns to market indices, with upside limited by caps, participation rates, or trigger rates, and downside partially mitigated by buffer or floor percentages A Fixed Crediting Rate Strategy is also available for tax-deferred, long-term financial planning\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -11236,7 +11265,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative-sampling approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index via representative sampling, holding U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14461,35 +14490,6 @@
         "filer": "Symetra Life Insurance Company",
         "etf_name": "The Policy Value in the Fixed Account. Fund",
         "strategy": "No single ETF-level investment objective or benchmark is stated, as strategy depends entirely on the policyholder's fund allocation choices",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:29:12.023259+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000717819",
-    "company_name": "PRUDENTIAL INVESTMENT PORTFOLIOS, INC. 14",
-    "accession_number": "0000717819-26-000008",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/717819/000071781926000008/0000717819-26-000008-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/717819/000071781926000008/f44945d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/717819/000071781926000008/f44945d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Prudential Investment Portfolios, Inc. 14\nETF Name: PGIM Floating Rate Income Fund\nStrategy: The fund seeks to maximize current income as its primary objective, with capital appreciation pursued only when consistent with that income mandate It invests primarily in floating-rate instruments across multiple share classes with contractual expense caps maintained through June 2027\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Prudential Investment Portfolios, Inc. 14",
-        "etf_name": "PGIM Floating Rate Income Fund",
-        "strategy": "The fund seeks to maximize current income as its primary objective, with capital appreciation pursued only when consistent with that income mandate It invests primarily in floating-rate instruments across multiple share classes with contractual expense caps maintained through June 2027",
         "is_alert_worthy": "LOW"
       }
     ],
