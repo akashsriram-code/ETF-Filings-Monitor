@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-05-14T20:12:54.063411+00:00",
+    "form_type": "486BPOS",
+    "cik": "0001982701",
+    "company_name": "AB Private Lending Fund",
+    "accession_number": "0001193125-26-223931",
+    "filed_date": "2026-05-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1982701/000119312526223931/0001193125-26-223931-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1982701/000119312526223931/d319351d486bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1982701/000119312526223931/d319351d486bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AB Private Lending Fund\nETF Name: AB Private Lending Fund (Class S, Class D, Class I Shares)\nStrategy: The fund invests primarily in directly originated, privately negotiated corporate loans to U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AB Private Lending Fund",
+        "etf_name": "AB Private Lending Fund (Class S, Class D, Class I Shares)",
+        "strategy": "The fund invests primarily in directly originated, privately negotiated corporate loans to U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-14T20:14:15.157516+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000820892",
+    "company_name": "NUVEEN INVESTMENT FUNDS INC",
+    "accession_number": "0001193125-26-223801",
+    "filed_date": "2026-05-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/820892/000119312526223801/0001193125-26-223801-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/820892/000119312526223801/d903704d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/820892/000119312526223801/d903704d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NUVEEN INVESTMENT FUNDS INC\nETF Name: Nuveen Real Estate Securities Fund \u2013 ETF Class\nStrategy: real estate equity fund that invests at least 80% of net assets in income-producing common stocks of publicly traded real estate companies, emphasizing equity REITs\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NUVEEN INVESTMENT FUNDS INC",
+        "etf_name": "Nuveen Real Estate Securities Fund \u2013 ETF Class",
+        "strategy": "real estate equity fund that invests at least 80% of net assets in income-producing common stocks of publicly traded real estate companies, emphasizing equity REITs",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-14T20:15:09.580616+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001041673",
+    "company_name": "NUVEEN INVESTMENT TRUST II",
+    "accession_number": "0001193125-26-223786",
+    "filed_date": "2026-05-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1041673/000119312526223786/0001193125-26-223786-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1041673/000119312526223786/d123603d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1041673/000119312526223786/d123603d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Nuveen Investment Trust II\nETF Name: Nuveen Dividend Growth Fund \u2013 ETF Class\nStrategy: The fund seeks attractive total return through dividend income and long-term capital appreciation by investing at least 80% of net assets in dividend-paying common stocks and preferred securities Security selection is driven by the sub-adviser's proprietary models and third-party data, emphasizing companies with strong dividend track records\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Nuveen Investment Trust II",
+        "etf_name": "Nuveen Dividend Growth Fund \u2013 ETF Class",
+        "strategy": "The fund seeks attractive total return through dividend income and long-term capital appreciation by investing at least 80% of net assets in dividend-paying common stocks and preferred securities Security selection is driven by the sub-adviser's proprietary models and third-party data, emphasizing companies with strong dividend track records",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-14T14:24:55.866789+00:00",
     "form_type": "485APOS",
     "cik": "0001587982",
@@ -3290,7 +3377,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a single premium deferred index-linked annuity contract, not an ETF, offering Indexed Crediting Rate Strategies tied to market indices with capped upside and buffered/floored downside over defined strategy periods A Fixed Crediting Rate Strategy is also available, with early withdrawals subject to Strategy Interim Value Adjustments that may result in significant loss of principal\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing, offering Indexed Crediting Rate Strategies tied to index performance with caps, buffers, and floors, as well as a Fixed Crediting Rate Strategy This is not an ETF; it is an insurance-registered annuity contract with surrender provisions and multi-year strategy lock-ups\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -11323,7 +11410,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative-sampling approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative-sampling approach, targeting U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14407,93 +14494,6 @@
       }
     ],
     "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:25:09.280937+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000825063",
-    "company_name": "FRANKLIN MUTUAL SERIES FUNDS",
-    "accession_number": "0001655589-26-000598",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/825063/000165558926000598/0001655589-26-000598-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/825063/000165558926000598/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/825063/000165558926000598/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Franklin Mutual Series Funds\nETF Name: Franklin California Tax-Free Trust Franklin Custodian Funds Franklin ETF Trust\nStrategy: The fund may also hedge foreign-currency exposure using currency forwards and futures\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Franklin Mutual Series Funds",
-        "etf_name": "Franklin California Tax-Free Trust Franklin Custodian Funds Franklin ETF Trust",
-        "strategy": "The fund may also hedge foreign-currency exposure using currency forwards and futures",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:25:55.138645+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000060365",
-    "company_name": "LORD ABBETT BOND DEBENTURE FUND INC",
-    "accession_number": "0000930413-26-001326",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/60365/000093041326001326/0000930413-26-001326-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/60365/000093041326001326/c115748_485bpos-ixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/60365/000093041326001326/c115748_485bpos-ixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Lord Abbett Bond Debenture Fund Inc\nETF Name: Bond Debenture Fund\nStrategy: Actively managed fixed-income fund that invests across investment-grade and high-yield bonds using bottom-up credit analysis, with flexibility to employ derivatives such as Treasury futures, index futures, and currency forwards for duration management and hedging The team seeks to reduce risk through diversification, credit monitoring, and tactical sector allocation based on macroeconomic conditions\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Lord Abbett Bond Debenture Fund Inc",
-        "etf_name": "Bond Debenture Fund",
-        "strategy": "Actively managed fixed-income fund that invests across investment-grade and high-yield bonds using bottom-up credit analysis, with flexibility to employ derivatives such as Treasury futures, index futures, and currency forwards for duration management and hedging The team seeks to reduce risk through diversification, credit monitoring, and tactical sector allocation based on macroeconomic conditions",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:26:43.252165+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000806180",
-    "company_name": "SYMETRA SEPARATE ACCOUNT SL",
-    "accession_number": "0000806180-26-000039",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/806180/000080618026000039/0000806180-26-000039-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/806180/000080618026000039/milestone485b2026.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/806180/000080618026000039/milestone485b2026.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Symetra Life Insurance Company\nETF Name: The Policy Value in the Fixed Account. Fund\nStrategy: This is a variable life insurance policy prospectus whose sub-accounts invest in underlying funds, including series of the Vanguard Variable Insurance Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Symetra Life Insurance Company",
-        "etf_name": "The Policy Value in the Fixed Account. Fund",
-        "strategy": "This is a variable life insurance policy prospectus whose sub-accounts invest in underlying funds, including series of the Vanguard Variable Insurance Fund",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
