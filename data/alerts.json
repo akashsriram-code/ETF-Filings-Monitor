@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-05-15T15:30:38.808308+00:00",
+    "form_type": "485APOS",
+    "cik": "0001650149",
+    "company_name": "Series Portfolios Trust",
+    "accession_number": "0000894189-26-014955",
+    "filed_date": "2026-05-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926014955/0000894189-26-014955-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1650149/000089418926014955/tanageretf-485adocuments.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926014955/tanageretf-485adocuments.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Series Portfolios Trust\nETF Name: Abacus FCF ETF Trust\nStrategy: Up to 25% of the portfolio may be held in below-investment-grade debt, primarily in cases where existing holdings have been downgraded rather than through outright junk-bond purchases\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Series Portfolios Trust",
+        "etf_name": "Abacus FCF ETF Trust",
+        "strategy": "Up to 25% of the portfolio may be held in below-investment-grade debt, primarily in cases where existing holdings have been downgraded rather than through outright junk-bond purchases",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-15T15:31:54.478046+00:00",
+    "form_type": "485APOS",
+    "cik": "0001496608",
+    "company_name": "AB Active ETFs, Inc.",
+    "accession_number": "0000919574-26-003250",
+    "filed_date": "2026-05-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1496608/000091957426003250/0000919574-26-003250-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1496608/000091957426003250/d12151728_485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1496608/000091957426003250/d12151728_485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AB Active ETFs, Inc\nETF Name: AB S&P 500 Tax-Managed Covered Call ETF\nStrategy: The fund seeks to replicate the risk/return profile of the S&P 500 Index through a tax-managed equity portfolio with active tax loss harvesting, while generating income via an actively managed covered call writing overlay using FLEX Options and other listed options on ETFs and indexes\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AB Active ETFs, Inc",
+        "etf_name": "AB S&P 500 Tax-Managed Covered Call ETF",
+        "strategy": "The fund seeks to replicate the risk/return profile of the S&P 500 Index through a tax-managed equity portfolio with active tax loss harvesting, while generating income via an actively managed covered call writing overlay using FLEX Options and other listed options on ETFs and indexes",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-15T15:33:17.902730+00:00",
+    "form_type": "485APOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-010793",
+    "filed_date": "2026-05-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126010793/0001999371-26-010793-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126010793/defiance-485apos_051526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126010793/defiance-485apos_051526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Defiance Daily Target 2X Long JBL ETF\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "Defiance Daily Target 2X Long JBL ETF",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-15T13:03:37.897465+00:00",
     "form_type": "485APOS",
     "cik": "0002043390",
@@ -3696,7 +3783,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity (RILA) designed for tax-deferred investing, offering Indexed Crediting Rate Strategies tied to market indices with upside limited by cap, participation, or trigger rates and downside partially mitigated by buffer or floor percentages Investors allocate among these Indexed Crediting Rate Strategies and a Fixed Crediting Rate Strategy, with multi-year lock-...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies tied to market indices, with upside shaped by cap rates, participation rates, or trigger rates and downside limited by buffer or floor percentages A Fixed Crediting Rate Strategy is also available, and all strategy periods must be held to maturity or the investor faces a Strategy Interim Value Adjustment that can...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -11729,7 +11816,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index using a representative-sampling approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1\u201310 Year Bond Index using a representative-sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14403,93 +14490,6 @@
         "filer": "Variable Annuity Life Insurance Company Separate Account A",
         "etf_name": "The Portfolio Company with the lowest total annual fund",
         "strategy": "This variable annuity contract provides access to over 20 underlying Portfolio Companies spanning U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:12:57.333571+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000354912",
-    "company_name": "VARIABLE ANNUITY LIFE INSURANCE CO SEPARATE ACCOUNT A",
-    "accession_number": "0001193125-26-186452",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/354912/000119312526186452/0001193125-26-186452-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/354912/000119312526186452/d61359d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/354912/000119312526186452/d61359d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Annuity Life Insurance Company Separate Account A\nETF Name: SunAmerica Series Trust Fund (Variable Annuity Contract \u2014 not a standalone ETF)\nStrategy: The contract offers a menu of Variable Portfolios, each mapped to an Underlying Fund spanning multiple asset classes and advisors, with certain funds employing volatility-control strategies to limit extreme outcomes. A principal-guaranteed Fixed Account (Secure Value Account) is also available alongside the variable options.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Annuity Life Insurance Company Separate Account A",
-        "etf_name": "SunAmerica Series Trust Fund (Variable Annuity Contract \u2014 not a standalone ETF)",
-        "strategy": "The contract offers a menu of Variable Portfolios, each mapped to an Underlying Fund spanning multiple asset classes and advisors, with certain funds employing volatility-control strategies to limit extreme outcomes. A principal-guaranteed Fixed Account (Secure Value Account) is also available alongside the variable options.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:13:49.919380+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001070231",
-    "company_name": "VARIABLE ANNUITY ACCOUNT SEVEN",
-    "accession_number": "0001193125-26-186444",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1070231/000119312526186444/0001193125-26-186444-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1070231/000119312526186444/d97576d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1070231/000119312526186444/d97576d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Annuity Account Seven\nETF Name: Seasons Series Trust Fund\nStrategy: The contract offers Variable Portfolios that allocate to Underlying Funds spanning multiple asset classes and fund families, including Invesco, American Funds, Franklin Templeton, Goldman Sachs, MFS, PIMCO, and SunAmerica series trusts. Certain underlying funds employ volatility-control strategies designed to manage downside risk and support the annuity's living and death benefit guarantees.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Annuity Account Seven",
-        "etf_name": "Seasons Series Trust Fund",
-        "strategy": "The contract offers Variable Portfolios that allocate to Underlying Funds spanning multiple asset classes and fund families, including Invesco, American Funds, Franklin Templeton, Goldman Sachs, MFS, PIMCO, and SunAmerica series trusts. Certain underlying funds employ volatility-control strategies designed to manage downside risk and support the annuity's living and death benefit guarantees.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:14:46.538080+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000729522",
-    "company_name": "VARIABLE SEPARATE ACCOUNT",
-    "accession_number": "0001193125-26-186434",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/729522/000119312526186434/0001193125-26-186434-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/729522/000119312526186434/d66105d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/729522/000119312526186434/d66105d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Separate Account\nETF Name: SunAmerica Series Trust Fund\nStrategy: This is a variable annuity contract\u2014not an ETF\u2014that allocates purchase payments to Variable Portfolios investing across Underlying Funds in multiple trusts including SunAmerica Series Trust, Seasons Series Trust, and PIMCO Variable Insurance Trust. Select Underlying Funds employ volatility-control risk-management strategies to limit extreme outcomes and help the issuer hedge guarantees tied to living and death benefi...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Separate Account",
-        "etf_name": "SunAmerica Series Trust Fund",
-        "strategy": "This is a variable annuity contract\u2014not an ETF\u2014that allocates purchase payments to Variable Portfolios investing across Underlying Funds in multiple trusts including SunAmerica Series Trust, Seasons Series Trust, and PIMCO Variable Insurance Trust. Select Underlying Funds employ volatility-control risk-management strategies to limit extreme outcomes and help the issuer hedge guarantees tied to living and death benefi...",
         "is_alert_worthy": "LOW"
       }
     ],
