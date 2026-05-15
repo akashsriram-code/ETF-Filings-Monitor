@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-05-15T17:14:32.665117+00:00",
+    "form_type": "485APOS",
+    "cik": "0001066602",
+    "company_name": "Voya FUNDS TRUST",
+    "accession_number": "0001066602-26-000009",
+    "filed_date": "2026-05-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1066602/000106660226000009/0001066602-26-000009-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1066602/000106660226000009/f45257d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1066602/000106660226000009/f45257d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Voya Funds Trust\nETF Name: Voya Short Duration High Income Fund\nStrategy: Invests at least 80% of net assets in below-investment-grade debt, preferred stock, and related derivatives, targeting short-duration high-yield income The fund blends credit risk with limited duration to pursue elevated income while mitigating interest-rate exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Voya Funds Trust",
+        "etf_name": "Voya Short Duration High Income Fund",
+        "strategy": "Invests at least 80% of net assets in below-investment-grade debt, preferred stock, and related derivatives, targeting short-duration high-yield income The fund blends credit risk with limited duration to pursue elevated income while mitigating interest-rate exposure",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-15T17:15:18.506422+00:00",
+    "form_type": "485APOS",
+    "cik": "0001722388",
+    "company_name": "Tidal Trust III",
+    "accession_number": "0001999371-26-010829",
+    "filed_date": "2026-05-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126010829/0001999371-26-010829-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1722388/000199937126010829/aura-485apos_051526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126010829/aura-485apos_051526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust III\nETF Name: Aura AI Photonics ETF\nStrategy: Passively tracks the VettaFi AI Photonics Index, investing at least 80% of net assets in optical and photonic companies via full replication or representative sampling The index follows a rules-based methodology originally developed by sponsor Aura ETFs Inc\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust III",
+        "etf_name": "Aura AI Photonics ETF",
+        "strategy": "Passively tracks the VettaFi AI Photonics Index, investing at least 80% of net assets in optical and photonic companies via full replication or representative sampling The index follows a rules-based methodology originally developed by sponsor Aura ETFs Inc",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-15T17:16:54.777397+00:00",
+    "form_type": "485APOS",
+    "cik": "0001722388",
+    "company_name": "Tidal Trust III",
+    "accession_number": "0001999371-26-010824",
+    "filed_date": "2026-05-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126010824/0001999371-26-010824-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1722388/000199937126010824/vsshield-485apos_051526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126010824/vsshield-485apos_051526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust III\nETF Name: Unknown\nStrategy: The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective by delivering participation in the price return of a broad U.S market equity index, while seeking to provide a measure of downside protection through a flexible, options-based investment strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust III",
+        "etf_name": "Unknown",
+        "strategy": "The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective by delivering participation in the price return of a broad U.S market equity index, while seeking to provide a measure of downside protection through a flexible, options-based investment strategy",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-15T15:30:38.808308+00:00",
     "form_type": "485APOS",
     "cik": "0001650149",
@@ -3783,7 +3870,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies tied to market indices, with upside shaped by cap rates, participation rates, or trigger rates and downside limited by buffer or floor percentages A Fixed Crediting Rate Strategy is also available, and all strategy periods must be held to maturity or the investor faces a Strategy Interim Value Adjustment that can...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity designed for tax-deferred investing, offering Indexed Crediting Rate Strategies that link returns to index performance with downside protection via buffer or floor percentages A Fixed Crediting Rate Strategy is also available, with early withdrawals subject to a Strategy Interim Value Adjustment\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -11816,7 +11903,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1\u201310 Year Bond Index using a representative-sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index, which measures the performance of U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14403,93 +14490,6 @@
         "filer": "Variable Annuity Life Insurance Company (VALIC)",
         "etf_name": "The Portfolio Company with the lowest total annual fund",
         "strategy": "This variable annuity contract offers a menu of Variable Investment Options investing in underlying Portfolio Companies sub-advised by firms including BlackRock, JPMIM, T Portfolio Company total annual operating expenses range from a minimum of 0.23% to a maximum of 0.74%, with a base contract charge of 1.45%",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:10:15.210246+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000354912",
-    "company_name": "VARIABLE ANNUITY LIFE INSURANCE CO SEPARATE ACCOUNT A",
-    "accession_number": "0001193125-26-186638",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/354912/000119312526186638/0001193125-26-186638-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/354912/000119312526186638/d58612d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/354912/000119312526186638/d58612d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Annuity Life Insurance Company (VALIC) Separate Account A\nETF Name: The Portfolio Company with the lowest total annual fund\nStrategy: A proprietary risk-management Portfolio Company is also included, designed to reduce investment losses that could require the insurer to fund guarantee obligations such as death benefits\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Annuity Life Insurance Company (VALIC) Separate Account A",
-        "etf_name": "The Portfolio Company with the lowest total annual fund",
-        "strategy": "A proprietary risk-management Portfolio Company is also included, designed to reduce investment losses that could require the insurer to fund guarantee obligations such as death benefits",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:11:15.919933+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000354912",
-    "company_name": "VARIABLE ANNUITY LIFE INSURANCE CO SEPARATE ACCOUNT A",
-    "accession_number": "0001193125-26-186620",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/354912/000119312526186620/0001193125-26-186620-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/354912/000119312526186620/d39418d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/354912/000119312526186620/d39418d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Annuity Life Insurance Company (VALIC) Separate Account A\nETF Name: The Portfolio Company with the lowest total annual fund\nStrategy: and international equity (large-, mid-, small-cap), index-tracking, socially responsible, growth, value, commodity, and dynamic allocation strategies, sub-advised by firms including BlackRock, Goldman Sachs, JPMorgan, Columbia, Janus Henderson, and Invesco\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Annuity Life Insurance Company (VALIC) Separate Account A",
-        "etf_name": "The Portfolio Company with the lowest total annual fund",
-        "strategy": "and international equity (large-, mid-, small-cap), index-tracking, socially responsible, growth, value, commodity, and dynamic allocation strategies, sub-advised by firms including BlackRock, Goldman Sachs, JPMorgan, Columbia, Janus Henderson, and Invesco",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:12:04.373102+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000354912",
-    "company_name": "VARIABLE ANNUITY LIFE INSURANCE CO SEPARATE ACCOUNT A",
-    "accession_number": "0001193125-26-186566",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/354912/000119312526186566/0001193125-26-186566-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/354912/000119312526186566/d47720d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/354912/000119312526186566/d47720d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Annuity Life Insurance Company Separate Account A\nETF Name: The Portfolio Company with the lowest total annual fund\nStrategy: This variable annuity contract provides access to over 20 underlying Portfolio Companies spanning U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Annuity Life Insurance Company Separate Account A",
-        "etf_name": "The Portfolio Company with the lowest total annual fund",
-        "strategy": "This variable annuity contract provides access to over 20 underlying Portfolio Companies spanning U.S",
         "is_alert_worthy": "LOW"
       }
     ],
