@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-15T13:03:37.897465+00:00",
+    "form_type": "485APOS",
+    "cik": "0002043390",
+    "company_name": "Tidal Trust IV",
+    "accession_number": "0001999371-26-010774",
+    "filed_date": "2026-05-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126010774/0001999371-26-010774-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126010774/vsai-485apos_051526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126010774/vsai-485apos_051526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: SUMMARY INFORMATION VEGAshares Ai Networking ETF\nStrategy: The VegaShares AI Networking ETF (the \u201cFund\u201d) seeks capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust IV",
+        "etf_name": "SUMMARY INFORMATION VEGAshares Ai Networking ETF",
+        "strategy": "The VegaShares AI Networking ETF (the \u201cFund\u201d) seeks capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-15T11:02:17.205237+00:00",
     "form_type": "485BPOS",
     "cik": "0000778206",
@@ -14461,35 +14490,6 @@
         "filer": "Variable Separate Account",
         "etf_name": "SunAmerica Series Trust Fund",
         "strategy": "This is a variable annuity contract\u2014not an ETF\u2014that allocates purchase payments to Variable Portfolios investing across Underlying Funds in multiple trusts including SunAmerica Series Trust, Seasons Series Trust, and PIMCO Variable Insurance Trust. Select Underlying Funds employ volatility-control risk-management strategies to limit extreme outcomes and help the issuer hedge guarantees tied to living and death benefi...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:15:34.673034+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001807486",
-    "company_name": "Alger ETF Trust",
-    "accession_number": "0001193125-26-186428",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1807486/000119312526186428/0001193125-26-186428-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1807486/000119312526186428/d92868d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1807486/000119312526186428/d92868d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Alger ETF Trust (Fred Alger Management, LLC, as Manager)\nETF Name: Alger 35 ETF\nStrategy: equity ETF seeking long-term capital appreciation through a concentrated portfolio of approximately 35 stocks The fund does not track a specified index and relies on active management\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Alger ETF Trust (Fred Alger Management, LLC, as Manager)",
-        "etf_name": "Alger 35 ETF",
-        "strategy": "equity ETF seeking long-term capital appreciation through a concentrated portfolio of approximately 35 stocks The fund does not track a specified index and relies on active management",
         "is_alert_worthy": "LOW"
       }
     ],
