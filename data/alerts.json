@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-15T11:02:17.205237+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000778206",
+    "company_name": "SHELTON FUNDS",
+    "accession_number": "0001999371-26-010763",
+    "filed_date": "2026-05-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/778206/000199937126010763/0001999371-26-010763-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/778206/000199937126010763/shelton_485bpos-051426.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/778206/000199937126010763/shelton_485bpos-051426.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SHELTON FUNDS\nETF Name: Other Important Information About Fund\nStrategy: The Shelton Tactical Growth & Income ETF (the \u201cFund\u201d) seeks long-term growth of capital and current income\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SHELTON FUNDS",
+        "etf_name": "Other Important Information About Fund",
+        "strategy": "The Shelton Tactical Growth & Income ETF (the \u201cFund\u201d) seeks long-term growth of capital and current income",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-14T21:39:06.849572+00:00",
     "form_type": "485BPOS",
     "cik": "0001016274",
@@ -14461,35 +14490,6 @@
         "filer": "Alger ETF Trust (Fred Alger Management, LLC, as Manager)",
         "etf_name": "Alger 35 ETF",
         "strategy": "equity ETF seeking long-term capital appreciation through a concentrated portfolio of approximately 35 stocks The fund does not track a specified index and relies on active management",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:16:32.877986+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001034438",
-    "company_name": "Wilton Reassurance Life Co of New York Variable Life Separate Account A",
-    "accession_number": "0001193125-26-186425",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1034438/000119312526186425/0001193125-26-186425-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1034438/000119312526186425/d115519d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1034438/000119312526186425/d115519d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Wilton Reassurance Life Co of New York Variable Life Separate Account A\nETF Name: Morningstar Growth ETF\nStrategy: This variable life separate account invests in underlying portfolio companies, including sub-accounts seeking capital appreciation through growth-oriented equity securities of large-capitalization companies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Wilton Reassurance Life Co of New York Variable Life Separate Account A",
-        "etf_name": "Morningstar Growth ETF",
-        "strategy": "This variable life separate account invests in underlying portfolio companies, including sub-accounts seeking capital appreciation through growth-oriented equity securities of large-capitalization companies",
         "is_alert_worthy": "LOW"
       }
     ],
