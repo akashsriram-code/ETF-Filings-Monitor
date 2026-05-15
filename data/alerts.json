@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-05-15T21:36:42.871843+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000906352",
+    "company_name": "FIRST EAGLE FUNDS",
+    "accession_number": "0000930413-26-001644",
+    "filed_date": "2026-05-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/906352/000093041326001644/0000930413-26-001644-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/906352/000093041326001644/c115732_485bpos-ixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/906352/000093041326001644/c115732_485bpos-ixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: First Eagle Funds\nETF Name: First Eagle Overseas Fund\nStrategy: The Overseas Fund seeks long-term growth of capital by investing primarily in equities issued by non-U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "First Eagle Funds",
+        "etf_name": "First Eagle Overseas Fund",
+        "strategy": "The Overseas Fund seeks long-term growth of capital by investing primarily in equities issued by non-U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-15T21:37:47.738145+00:00",
+    "form_type": "485APOS",
+    "cik": "0002043954",
+    "company_name": "REX ETF Trust",
+    "accession_number": "0001999371-26-010914",
+    "filed_date": "2026-05-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043954/000199937126010914/0001999371-26-010914-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043954/000199937126010914/rex-485apos_051526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043954/000199937126010914/rex-485apos_051526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: REX ETF Trust\nETF Name: REX Autocallable Income ETF\nStrategy: Actively managed ETF that seeks to generate high monthly income while providing reduced downside risk through exposure to the Autocallable Index, which is designed to reflect the overall performance of a theoretical portfolio of synthetic autocallable yield notes The fund invests at least 80% of net assets in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "REX ETF Trust",
+        "etf_name": "REX Autocallable Income ETF",
+        "strategy": "Actively managed ETF that seeks to generate high monthly income while providing reduced downside risk through exposure to the Autocallable Index, which is designed to reflect the overall performance of a theoretical portfolio of synthetic autocallable yield notes The fund invests at least 80% of net assets in U.S",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-15T21:38:32.735234+00:00",
+    "form_type": "485APOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-010892",
+    "filed_date": "2026-05-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126010892/0001999371-26-010892-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126010892/defiance-485apos_051526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126010892/defiance-485apos_051526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Defiance Compute ETF\nStrategy: The fund is an actively managed ETF seeking long-term capital appreciation through exposure to computing resources powering AI and data-intensive processing infrastructure It employs a derivatives-based approach\u2014including swaps and futures held through a subsidiary\u2014backed by a cash and short-term instrument collateral portfolio\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "Defiance Compute ETF",
+        "strategy": "The fund is an actively managed ETF seeking long-term capital appreciation through exposure to computing resources powering AI and data-intensive processing infrastructure It employs a derivatives-based approach\u2014including swaps and futures held through a subsidiary\u2014backed by a cash and short-term instrument collateral portfolio",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-15T20:25:18.194235+00:00",
     "form_type": "485APOS",
     "cik": "0001689873",
@@ -3986,7 +4073,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies that link returns to market index performance, with upside limited by cap, participation, or trigger rates and downside partially mitigated by buffer or floor percentages A Fixed Crediting Rate Strategy is also available, and the contract is designed for tax-deferred, long-term investment goals rather tha...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity (RILA) that allows allocation among Indexed Crediting Rate Strategies tied to market indices and a Fixed Crediting Rate Strategy, with returns shaped by cap rates, participation rates, trigger rates, and downside buffers or floors It is designed for tax-deferred, long-term investing, with early withdrawals subject to a Strategy Interim Value Adjustment th...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -12019,7 +12106,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index using a representative-sampling indexing approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index using a representative sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14403,93 +14490,6 @@
         "filer": "Wall Street EWM Funds Trust",
         "etf_name": "Evercore Equity Fund",
         "strategy": "The Fund seeks to produce growth of capital by investing principally in a diversified portfolio of common stocks, selected on the basis of individual companies' fundamental operating performance spread across a broad range of U.S A prior secondary objective of realizing current income through dividend-paying securities was removed as of May 2021, leaving long-term capital appreciation as the sole stated objective",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:03:58.229762+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001162127",
-    "company_name": "BLUE CHIP INVESTOR FUNDS",
-    "accession_number": "0001413042-26-000332",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1162127/000141304226000332/0001413042-26-000332-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1162127/000141304226000332/fp0098528-1_485bposixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1162127/000141304226000332/fp0098528-1_485bposixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Blue Chip Investor Funds\nETF Name: The Blue Chip Investor Fund\nStrategy: The Blue Chip Investor Fund seeks long-term growth of capital by investing primarily in common stocks of industry-dominant, medium-to-large-capitalization companies whose earnings have demonstrated superior growth\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Blue Chip Investor Funds",
-        "etf_name": "The Blue Chip Investor Fund",
-        "strategy": "The Blue Chip Investor Fund seeks long-term growth of capital by investing primarily in common stocks of industry-dominant, medium-to-large-capitalization companies whose earnings have demonstrated superior growth",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:04:41.234298+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000354912",
-    "company_name": "VARIABLE ANNUITY LIFE INSURANCE CO SEPARATE ACCOUNT A",
-    "accession_number": "0001193125-26-186693",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/354912/000119312526186693/0001193125-26-186693-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/354912/000119312526186693/d75932d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/354912/000119312526186693/d75932d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Annuity Life Insurance Company (VALIC)\nETF Name: The Portfolio Company with the lowest total annual fund\nStrategy: This is a variable annuity contract offering multiple Variable Investment Options backed by underlying Portfolio Companies spanning fixed income, government money market, government securities, and international government bond strategies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Annuity Life Insurance Company (VALIC)",
-        "etf_name": "The Portfolio Company with the lowest total annual fund",
-        "strategy": "This is a variable annuity contract offering multiple Variable Investment Options backed by underlying Portfolio Companies spanning fixed income, government money market, government securities, and international government bond strategies",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:05:58.195481+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000702340",
-    "company_name": "PENN SERIES FUNDS INC",
-    "accession_number": "0001193125-26-186687",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/702340/000119312526186687/0001193125-26-186687-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/702340/000119312526186687/d47724d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/702340/000119312526186687/d47724d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Penn Series Funds Inc\nETF Name: Penn Series Quality Bond Fund\nStrategy: investment-grade bond portfolio (rated BBB-/Baa3 or higher) that seeks long-term total return with capital preservation, benchmarked to the Bloomberg U.S It is part of a broad Penn Series fund complex that also includes equity index, growth, high yield, international, and multi-asset allocation strategies managed by Penn Mutual Asset Management, LLC\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Penn Series Funds Inc",
-        "etf_name": "Penn Series Quality Bond Fund",
-        "strategy": "investment-grade bond portfolio (rated BBB-/Baa3 or higher) that seeks long-term total return with capital preservation, benchmarked to the Bloomberg U.S It is part of a broad Penn Series fund complex that also includes equity index, growth, high yield, international, and multi-asset allocation strategies managed by Penn Mutual Asset Management, LLC",
         "is_alert_worthy": "LOW"
       }
     ],
