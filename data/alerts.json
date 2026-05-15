@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-05-15T20:25:18.194235+00:00",
+    "form_type": "485APOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-023687",
+    "filed_date": "2026-05-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226023687/0001493152-26-023687-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226023687/form485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226023687/form485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: Real Estate Fund Bridge Builder Trust Cambria ETF Trust\nStrategy: Investment Managers Series Trust II (AXS-Advised Funds) Investment Managers Series Trust II (Alternative Access-Advised Fund) Janus Detroit Street Trust Lattice Strategies Trust Litman Gregory Funds Trust Longleaf Partners Funds Trust Manager Directed Portfolios (Spyglass Growth Fund) Meridian Fund, Inc.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "Real Estate Fund Bridge Builder Trust Cambria ETF Trust",
+        "strategy": "Investment Managers Series Trust II (AXS-Advised Funds) Investment Managers Series Trust II (Alternative Access-Advised Fund) Janus Detroit Street Trust Lattice Strategies Trust Litman Gregory Funds Trust Longleaf Partners Funds Trust Manager Directed Portfolios (Spyglass Growth Fund) Meridian Fund, Inc.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-15T20:26:07.999236+00:00",
+    "form_type": "485APOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-023680",
+    "filed_date": "2026-05-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226023680/0001493152-26-023680-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226023680/form485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226023680/form485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares 2x Long RVMD Daily ETF\nStrategy: Single-stock leveraged ETF seeking daily investment results equal to 200% of the daily percentage change of Revolution Medicines Inc. common stock.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "GraniteShares 2x Long RVMD Daily ETF",
+        "strategy": "Single-stock leveraged ETF seeking daily investment results equal to 200% of the daily percentage change of Revolution Medicines Inc. common stock.",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-15T20:26:59.069373+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001415726",
+    "company_name": "Innovator ETFs Trust",
+    "accession_number": "0001213900-26-057636",
+    "filed_date": "2026-05-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026057636/0001213900-26-057636-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1415726/000121390026057636/ea0290275-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026057636/ea0290275-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Innovator ETFs Trust\nETF Name: Innovator Dual Direction Fund (DDFZ)\nStrategy: Actively managed, FLEX Options-based ETF that seeks positive \"dual direction\" returns over a defined Outcome Period by participating in Underlying ETF gains up to an Upside Cap and seeking positive returns when the Underlying ETF declines, subject to an Inverse Performance Threshold and Buffer At least 80% of net assets are invested in instruments providing exposure to the Underlying ETF\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Innovator ETFs Trust",
+        "etf_name": "Innovator Dual Direction Fund (DDFZ)",
+        "strategy": "Actively managed, FLEX Options-based ETF that seeks positive \"dual direction\" returns over a defined Outcome Period by participating in Underlying ETF gains up to an Upside Cap and seeking positive returns when the Underlying ETF declines, subject to an Inverse Performance Threshold and Buffer At least 80% of net assets are invested in instruments providing exposure to the Underlying ETF",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-15T19:02:49.963911+00:00",
     "form_type": "485BPOS",
     "cik": "0001479026",
@@ -3899,7 +3986,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a single premium deferred index-linked annuity contract, not an ETF, offering Indexed Crediting Rate Strategies tied to market indices with caps, participation rates, buffers, and floors, plus a Fixed Crediting Rate Strategy The contract is designed for tax-deferred, long-term investing with structured upside limits and downside protection over defined strategy periods\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies that link returns to market index performance, with upside limited by cap, participation, or trigger rates and downside partially mitigated by buffer or floor percentages A Fixed Crediting Rate Strategy is also available, and the contract is designed for tax-deferred, long-term investment goals rather tha...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -11932,7 +12019,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative sampling approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index using a representative-sampling indexing approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14403,93 +14490,6 @@
         "filer": "Penn Series Funds Inc",
         "etf_name": "Penn Series Quality Bond Fund",
         "strategy": "investment-grade bond portfolio (rated BBB-/Baa3 or higher) that seeks long-term total return with capital preservation, benchmarked to the Bloomberg U.S It is part of a broad Penn Series fund complex that also includes equity index, growth, high yield, international, and multi-asset allocation strategies managed by Penn Mutual Asset Management, LLC",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:06:43.186543+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000354912",
-    "company_name": "VARIABLE ANNUITY LIFE INSURANCE CO SEPARATE ACCOUNT A",
-    "accession_number": "0001193125-26-186679",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/354912/000119312526186679/0001193125-26-186679-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/354912/000119312526186679/d71988d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/354912/000119312526186679/d71988d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Annuity Life Insurance Company (VALIC) Separate Account A\nETF Name: VALIC Variable Annuity Contract (GUP/GTS-VA) \u2014 Variable Investment Options including Stock Index Fund\nStrategy: VALIC Separate Account A is a variable annuity wrapper that invests indirectly in underlying Portfolio Companies, including a U.S large-cap equity index fund (Stock Index Fund) sub-advised by BlackRock, alongside a Fixed Account Option\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Annuity Life Insurance Company (VALIC) Separate Account A",
-        "etf_name": "VALIC Variable Annuity Contract (GUP/GTS-VA) \u2014 Variable Investment Options including Stock Index Fund",
-        "strategy": "VALIC Separate Account A is a variable annuity wrapper that invests indirectly in underlying Portfolio Companies, including a U.S large-cap equity index fund (Stock Index Fund) sub-advised by BlackRock, alongside a Fixed Account Option",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:07:49.780897+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000354912",
-    "company_name": "VARIABLE ANNUITY LIFE INSURANCE CO SEPARATE ACCOUNT A",
-    "accession_number": "0001193125-26-186669",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/354912/000119312526186669/0001193125-26-186669-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/354912/000119312526186669/d59696d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/354912/000119312526186669/d59696d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Variable Annuity Life Insurance Company (VALIC) Separate Account A\nETF Name: The Portfolio Company with the lowest total annual fund\nStrategy: VALIC offers a variable annuity investment menu of sub-advised portfolios spanning U.S. large-, mid-, and small-cap equity, international and emerging-market equity, socially responsible, and asset-allocation strategies, managed by sub-advisers including BlackRock, Goldman Sachs, JPMorgan, Columbia, Janus Henderson, Vanguard, and others.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Variable Annuity Life Insurance Company (VALIC) Separate Account A",
-        "etf_name": "The Portfolio Company with the lowest total annual fund",
-        "strategy": "VALIC offers a variable annuity investment menu of sub-advised portfolios spanning U.S. large-, mid-, and small-cap equity, international and emerging-market equity, socially responsible, and asset-allocation strategies, managed by sub-advisers including BlackRock, Goldman Sachs, JPMorgan, Columbia, Janus Henderson, Vanguard, and others.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:08:40.415986+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000912869",
-    "company_name": "Symetra SEPARATE ACCOUNT C",
-    "accession_number": "0000912869-26-000034",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/912869/000091286926000034/0000912869-26-000034-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/912869/000091286926000034/spinnaker485b2026.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/912869/000091286926000034/spinnaker485b2026.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Symetra Life Insurance Company (Symetra Separate Account C)\nETF Name: Asset Allocation Morningstar Aggressive Growth ETF / Asset Allocation Morningstar Balanced ETF\nStrategy: These are underlying portfolio options within a variable annuity separate account, sub-advised by Morningstar Investment Management LLC under ALPS Advisors, Inc., offering asset allocation strategies ranging from aggressive growth to balanced profiles\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Symetra Life Insurance Company (Symetra Separate Account C)",
-        "etf_name": "Asset Allocation Morningstar Aggressive Growth ETF / Asset Allocation Morningstar Balanced ETF",
-        "strategy": "These are underlying portfolio options within a variable annuity separate account, sub-advised by Morningstar Investment Management LLC under ALPS Advisors, Inc., offering asset allocation strategies ranging from aggressive growth to balanced profiles",
         "is_alert_worthy": "LOW"
       }
     ],
