@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-18T21:57:35.033911+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-011020",
+    "filed_date": "2026-05-18",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126011020/0001999371-26-011020-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126011020/defiance-485bpos_051826.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126011020/defiance-485bpos_051826.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Defiance Daily Target 2X Long SILJ ETF\nStrategy: Seeks daily leveraged investment results of two times (200%) the daily percentage change in the share price of the Amplify Junior Silver Miners ETF (SILJ) Provides 2\u00d7 daily exposure to junior silver-mining equities via derivatives, intended for short-term, actively monitored trading\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Defiance Daily Target 2X Long SILJ ETF",
+        "strategy": "Seeks daily leveraged investment results of two times (200%) the daily percentage change in the share price of the Amplify Junior Silver Miners ETF (SILJ) Provides 2\u00d7 daily exposure to junior silver-mining equities via derivatives, intended for short-term, actively monitored trading",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-18T21:58:31.668733+00:00",
+    "form_type": "485APOS",
+    "cik": "0001804196",
+    "company_name": "BlackRock ETF Trust II",
+    "accession_number": "0001193125-26-228968",
+    "filed_date": "2026-05-18",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1804196/000119312526228968/0001193125-26-228968-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1804196/000119312526228968/d118499d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1804196/000119312526228968/d118499d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BlackRock ETF Trust II\nETF Name: BlackRock Funds III BlackRock ETF Trust BlackRock Funds IV BlackRock ETF Trust\nStrategy: Actively managed U.S. municipal bond ETF targeting short-duration, federally tax-exempt income at the shorter end of the muni yield curve.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BlackRock ETF Trust II",
+        "etf_name": "BlackRock Funds III BlackRock ETF Trust BlackRock Funds IV BlackRock ETF Trust",
+        "strategy": "Actively managed U.S. municipal bond ETF targeting short-duration, federally tax-exempt income at the shorter end of the muni yield curve.",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-18T19:05:34.764103+00:00",
     "form_type": "485APOS",
     "cik": "0001689873",
@@ -4305,7 +4363,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing, offering Indexed Crediting Rate Strategies tied to market indices with upside caps and downside buffers, plus a Fixed Crediting Rate Strategy This is not an ETF; it is a registered index-linked annuity (RILA) insurance product with no exchange-traded fund structure, ticker, or NAV\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This filing describes a single premium deferred index-linked annuity contract, not an ETF, offering indexed crediting rate strategies with buffers, floors, caps, participation rates, and trigger rates over multi-year strategy periods A fixed crediting rate strategy is also available, with returns linked to index performance on a tax-deferred basis\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14432,64 +14490,6 @@
         "filer": "ETF Opportunities Trust",
         "etf_name": "SMI 3Fourteen REAL Asset Allocation ETF",
         "strategy": "The adviser uses a licensed model portfolio from 3Fourteen Research with discretion to deviate on holdings count, security types, and trade timing",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:42:31.569246+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001000191",
-    "company_name": "RIVERSOURCE VARIABLE ACCOUNT 10",
-    "accession_number": "0001193125-26-187146",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1000191/000119312526187146/0001193125-26-187146-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1000191/000119312526187146/d241584d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1000191/000119312526187146/d241584d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RiverSource Variable Account 10\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: This is a variable annuity platform offering subaccounts linked to underlying funds\u2014including Columbia Management's Portfolio Navigator and Portfolio Stabilizer managed-volatility strategies\u2014that allocate across affiliated and non-affiliated funds using objective and subjective criteria The Portfolio Stabilizer funds aim to reduce downside risk through volatility management, though the filing notes they may also cap...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RiverSource Variable Account 10",
-        "etf_name": "Columbia Funds Variable Insurance Trust",
-        "strategy": "This is a variable annuity platform offering subaccounts linked to underlying funds\u2014including Columbia Management's Portfolio Navigator and Portfolio Stabilizer managed-volatility strategies\u2014that allocate across affiliated and non-affiliated funds using objective and subjective criteria The Portfolio Stabilizer funds aim to reduce downside risk through volatility management, though the filing notes they may also cap...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:43:24.863333+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001723701",
-    "company_name": "PIMCO Flexible Municipal Income Fund",
-    "accession_number": "0001193125-26-187130",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1723701/000119312526187130/0001193125-26-187130-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1723701/000119312526187130/d124315d486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1723701/000119312526187130/d124315d486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PIMCO Investments LLC\nETF Name: PIMCO Flexible Municipal Income Fund\nStrategy: The fund is a diversified closed-end interval fund that actively invests across U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PIMCO Investments LLC",
-        "etf_name": "PIMCO Flexible Municipal Income Fund",
-        "strategy": "The fund is a diversified closed-end interval fund that actively invests across U.S",
         "is_alert_worthy": "LOW"
       }
     ],
