@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-18T14:04:51.466391+00:00",
+    "form_type": "485APOS",
+    "cik": "0001795351",
+    "company_name": "T. Rowe Price Exchange-Traded Funds, Inc.",
+    "accession_number": "0001999371-26-010952",
+    "filed_date": "2026-05-18",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1795351/000199937126010952/0001999371-26-010952-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1795351/000199937126010952/trowe-485apos_051826.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1795351/000199937126010952/trowe-485apos_051826.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: T. Rowe Price Exchange-Traded Funds, Inc\nETF Name: T. Rowe Price Biotech ETF\nStrategy: Seeks long-term capital appreciation by investing at least 80% of net assets in securities of biotechnology and pharmaceutical companies, with eligible derivatives counted toward that threshold The fund is actively managed by a portfolio manager working with an investment committee and is concentrated in a single industry group\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "T. Rowe Price Exchange-Traded Funds, Inc",
+        "etf_name": "T. Rowe Price Biotech ETF",
+        "strategy": "Seeks long-term capital appreciation by investing at least 80% of net assets in securities of biotechnology and pharmaceutical companies, with eligible derivatives counted toward that threshold The fund is actively managed by a portfolio manager working with an investment committee and is concentrated in a single industry group",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-18T10:13:39.753072+00:00",
     "form_type": "485BPOS",
     "cik": "0001452937",
@@ -4102,7 +4131,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies tied to market indices with caps, participation rates, buffers, and floors, plus a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies that link returns to market-index performance, subject to caps, participation rates, and buffer/floor percentages for downside protection A Fixed Crediting Rate Strategy is also available, with early withdrawals subject to a Strategy Interim Value Adjustment that can result in significant loss of principal\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -12135,7 +12164,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative-sampling approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative sampling approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14461,35 +14490,6 @@
         "filer": "Eaton Vance Special Investment Trust",
         "etf_name": "Eaton Vance Growth Fund",
         "strategy": "Uses quantitative portfolio optimization and risk management techniques alongside fundamental analytical skills",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T20:01:49.825367+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000053808",
-    "company_name": "BNY Mellon Investment Funds III",
-    "accession_number": "0000030146-26-000187",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/53808/000003014626000187/0000030146-26-000187-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/53808/000003014626000187/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/53808/000003014626000187/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BNY Mellon Investment Funds III\nETF Name: BNY Mellon High Yield Fund\nStrategy: The fund seeks to maximize total return through capital appreciation and current income by investing at least 80% of net assets in below-investment-grade fixed-income securities, with sub-adviser BSP NY LLC evaluating unrated bond equivalency The portfolio may include corporate bonds, mortgage-related and asset-backed securities, floating rate loans (capped at 20% of net assets), zero coupon securities, convertible s...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BNY Mellon Investment Funds III",
-        "etf_name": "BNY Mellon High Yield Fund",
-        "strategy": "The fund seeks to maximize total return through capital appreciation and current income by investing at least 80% of net assets in below-investment-grade fixed-income securities, with sub-adviser BSP NY LLC evaluating unrated bond equivalency The portfolio may include corporate bonds, mortgage-related and asset-backed securities, floating rate loans (capped at 20% of net assets), zero coupon securities, convertible s...",
         "is_alert_worthy": "LOW"
       }
     ],
