@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-05-19T17:21:00.214671+00:00",
+    "form_type": "485APOS",
+    "cik": "0001860434",
+    "company_name": "Harbor ETF Trust",
+    "accession_number": "0001193125-26-230158",
+    "filed_date": "2026-05-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1860434/000119312526230158/0001193125-26-230158-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1860434/000119312526230158/d26989d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1860434/000119312526230158/d26989d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Harbor ETF Trust\nETF Name: Inc. Harbor Short Term Treasury ETF Fund\nStrategy: 4 Principal Investment Strategies and Risks 4 Portfolio Holdings Disclosure Policy 6 The Advisor Harbor Capital Advisors, Inc Harbor Short Term Treasury ETF Investment Objective The Fund seeks to provide exposure, before and Risks 4 Portfolio Holdings Disclosure Policy 6 The Advisor Harbor Capital Advisors, Inc\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Harbor ETF Trust",
+        "etf_name": "Inc. Harbor Short Term Treasury ETF Fund",
+        "strategy": "4 Principal Investment Strategies and Risks 4 Portfolio Holdings Disclosure Policy 6 The Advisor Harbor Capital Advisors, Inc Harbor Short Term Treasury ETF Investment Objective The Fund seeks to provide exposure, before and Risks 4 Portfolio Holdings Disclosure Policy 6 The Advisor Harbor Capital Advisors, Inc",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-19T17:21:03.593231+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002043390",
+    "company_name": "Tidal Trust IV",
+    "accession_number": "0001999371-26-011051",
+    "filed_date": "2026-05-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126011051/0001999371-26-011051-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126011051/pbb-485bpos_051926.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126011051/pbb-485bpos_051926.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: Portfolio Building Block US Banks ETF\nStrategy: The Portfolio Building Block US Banks ETF (the \u201cFund\u201d) seeks to track the Overview The Fund uses a \u201cpassive\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust IV",
+        "etf_name": "Portfolio Building Block US Banks ETF",
+        "strategy": "The Portfolio Building Block US Banks ETF (the \u201cFund\u201d) seeks to track the Overview The Fund uses a \u201cpassive",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-19T17:21:07.780593+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-011048",
+    "filed_date": "2026-05-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126011048/0001999371-26-011048-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126011048/vavl-485bpos_051926.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126011048/vavl-485bpos_051926.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Unknown\nStrategy: The Fund seeks daily investment results, before and principal risk disclosures of the registration statement reflect the operations of the Fund and the Subsidiary on a consolidated basis\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Unknown",
+        "strategy": "The Fund seeks daily investment results, before and principal risk disclosures of the registration statement reflect the operations of the Fund and the Subsidiary on a consolidated basis",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-19T14:17:13.661536+00:00",
     "form_type": "485APOS",
     "cik": "0001562577",
@@ -14403,93 +14490,6 @@
         "filer": "RMB INVESTORS TRUST",
         "etf_name": "RMB Tax-Exempt Municipal Fund",
         "strategy": "Invests primarily in investment-grade municipal securities",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:38:10.864963+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001000191",
-    "company_name": "RIVERSOURCE VARIABLE ACCOUNT 10",
-    "accession_number": "0001193125-26-187200",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1000191/000119312526187200/0001193125-26-187200-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1000191/000119312526187200/d94709d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1000191/000119312526187200/d94709d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RiverSource Life Insurance Company (via RiverSource Variable Account 10)\nETF Name: RiverSource Flexible Portfolio Annuity (variable annuity \u2014 not an ETF)\nStrategy: Underlying funds are selected using both objective criteria (performance, expenses, fund size, investment style) and subjective criteria (management skill, portfolio concentration, sector weightings), with revenue-sharing arrangements disclosed as a factor in fund selection\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RiverSource Life Insurance Company (via RiverSource Variable Account 10)",
-        "etf_name": "RiverSource Flexible Portfolio Annuity (variable annuity \u2014 not an ETF)",
-        "strategy": "Underlying funds are selected using both objective criteria (performance, expenses, fund size, investment style) and subjective criteria (management skill, portfolio concentration, sector weightings), with revenue-sharing arrangements disclosed as a factor in fund selection",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:39:06.304932+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001098605",
-    "company_name": "PIMCO Managed Accounts Trust",
-    "accession_number": "0001193125-26-187188",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1098605/000119312526187188/0001193125-26-187188-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1098605/000119312526187188/d47148d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1098605/000119312526187188/d47148d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PIMCO Managed Accounts Trust\nETF Name: Fixed Income SHares: Series M\nStrategy: fixed-income portfolio targeting maximum total return with capital preservation, investing at least 80% of net assets in U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PIMCO Managed Accounts Trust",
-        "etf_name": "Fixed Income SHares: Series M",
-        "strategy": "fixed-income portfolio targeting maximum total return with capital preservation, investing at least 80% of net assets in U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:39:49.038050+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000727892",
-    "company_name": "RIVERSOURCE LIFE INSURANCE CO",
-    "accession_number": "0001193125-26-187176",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/727892/000119312526187176/0001193125-26-187176-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/727892/000119312526187176/d73332d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/727892/000119312526187176/d73332d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RiverSource Life Insurance Company\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: The trust offers a menu of subaccounts investing in underlying funds\u2014including Portfolio Navigator and Portfolio Stabilizer funds-of-funds\u2014selected by Columbia Management based on performance, expenses, size, and investment style criteria Portfolio Stabilizer funds employ managed-volatility strategies to reduce downside risk, while Portfolio Navigator funds allocate across underlying fund subaccounts using both quant...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RiverSource Life Insurance Company",
-        "etf_name": "Columbia Funds Variable Insurance Trust",
-        "strategy": "The trust offers a menu of subaccounts investing in underlying funds\u2014including Portfolio Navigator and Portfolio Stabilizer funds-of-funds\u2014selected by Columbia Management based on performance, expenses, size, and investment style criteria Portfolio Stabilizer funds employ managed-volatility strategies to reduce downside risk, while Portfolio Navigator funds allocate across underlying fund subaccounts using both quant...",
         "is_alert_worthy": "LOW"
       }
     ],
