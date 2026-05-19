@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-19T14:17:13.661536+00:00",
+    "form_type": "485APOS",
+    "cik": "0001562577",
+    "company_name": "MEMBERS Life Insurance Co",
+    "accession_number": "0001562577-26-000220",
+    "filed_date": "2026-05-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1562577/000156257726000220/0001562577-26-000220-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1562577/000156257726000220/trustagezcadvantage485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1562577/000156257726000220/trustagezcadvantage485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: MEMBERS Life Insurance Co\nETF Name: TruStage Ventures Discovery Fund\nStrategy: The contract offers index-linked interest crediting through Risk Control Accounts tied to the S&P 500 Index and Barclays Risk Balanced Index, with defined Interest Terms and downside protection via Floors, Buffers, and Boosts\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "MEMBERS Life Insurance Co",
+        "etf_name": "TruStage Ventures Discovery Fund",
+        "strategy": "The contract offers index-linked interest crediting through Risk Control Accounts tied to the S&P 500 Index and Barclays Risk Balanced Index, with defined Interest Terms and downside protection via Floors, Buffers, and Boosts",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-19T14:18:34.843197+00:00",
+    "form_type": "485APOS",
+    "cik": "0001562577",
+    "company_name": "MEMBERS Life Insurance Co",
+    "accession_number": "0001562577-26-000216",
+    "filed_date": "2026-05-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1562577/000156257726000216/0001562577-26-000216-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1562577/000156257726000216/trustagezonechoiceincome48.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1562577/000156257726000216/trustagezonechoiceincome48.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: MEMBERS Life Insurance Co\nETF Name: TruStage Ventures Discovery Fund\nStrategy: Information about Contracts with Index-Linked Options and Fixed Options Subject to a Contract Adjustment\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "MEMBERS Life Insurance Co",
+        "etf_name": "TruStage Ventures Discovery Fund",
+        "strategy": "Information about Contracts with Index-Linked Options and Fixed Options Subject to a Contract Adjustment",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-18T21:57:35.033911+00:00",
     "form_type": "485BPOS",
     "cik": "0001924868",
@@ -4363,7 +4421,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF; it is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies (with caps, participation rates, trigger rates, buffers, and floors tied to market indices) and a Fixed Crediting Rate Strategy for tax-deferred, long-term investing Downside parameters include Buffer Percentages and Floor Percentages over multi-year Strategy Periods, with early withdrawal subj...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The filing describes a single premium deferred index-linked annuity contract, not an ETF, offering indexed crediting rate strategies linked to market index performance with caps, participation rates, buffers, and floors, plus a fixed crediting rate option Investors allocate premiums among these investment options on a tax-deferred basis to meet long-term financial goals, with early withdrawals subject to a Strategy I...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -12396,7 +12454,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Seeks to passively track the ICE U.S Treasury 1-10 Year Bond Index, which measures U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Seeks to passively track the ICE U.S Treasury 1-10 Year Bond Index, which measures the performance of U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14432,64 +14490,6 @@
         "filer": "RiverSource Life Insurance Company",
         "etf_name": "Columbia Funds Variable Insurance Trust",
         "strategy": "The trust offers a menu of subaccounts investing in underlying funds\u2014including Portfolio Navigator and Portfolio Stabilizer funds-of-funds\u2014selected by Columbia Management based on performance, expenses, size, and investment style criteria Portfolio Stabilizer funds employ managed-volatility strategies to reduce downside risk, while Portfolio Navigator funds allocate across underlying fund subaccounts using both quant...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:40:45.321341+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001911795",
-    "company_name": "PIMCO California Flexible Municipal Income Fund",
-    "accession_number": "0001193125-26-187158",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1911795/000119312526187158/0001193125-26-187158-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1911795/000119312526187158/d121406d486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1911795/000119312526187158/d121406d486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PIMCO California Flexible Municipal Income Fund\nETF Name: PIMCO California Flexible Municipal Income Fund\nStrategy: Closed-end interval fund seeking high current income exempt from federal and California income tax by investing across the California municipal bond credit spectrum with no limits on junk-rated exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PIMCO California Flexible Municipal Income Fund",
-        "etf_name": "PIMCO California Flexible Municipal Income Fund",
-        "strategy": "Closed-end interval fund seeking high current income exempt from federal and California income tax by investing across the California municipal bond credit spectrum with no limits on junk-rated exposure",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:41:34.953044+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-000848",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000848/0001771146-26-000848-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000848/ck0001771146-20260428.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000848/ck0001771146-20260428.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: SMI 3Fourteen REAL Asset Allocation ETF\nStrategy: The adviser uses a licensed model portfolio from 3Fourteen Research with discretion to deviate on holdings count, security types, and trade timing\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Opportunities Trust",
-        "etf_name": "SMI 3Fourteen REAL Asset Allocation ETF",
-        "strategy": "The adviser uses a licensed model portfolio from 3Fourteen Research with discretion to deviate on holdings count, security types, and trade timing",
         "is_alert_worthy": "LOW"
       }
     ],
