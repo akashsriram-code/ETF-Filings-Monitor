@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-19T19:31:35.235677+00:00",
+    "form_type": "485APOS",
+    "cik": "0002081199",
+    "company_name": "Baron ETF Trust",
+    "accession_number": "0001193125-26-230341",
+    "filed_date": "2026-05-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081199/000119312526230341/0001193125-26-230341-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081199/000119312526230341/d268589d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081199/000119312526230341/d268589d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Baron ETF Trust\nETF Name: Baron Risk Optimized Large Cap ETF\nStrategy: large-cap equity fund that invests at least 80% of net assets in equity securities of U.S companies, combining fundamental bottom-up research with quantitative modeling to manage portfolio risk, diversification, and factor exposures\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Baron ETF Trust",
+        "etf_name": "Baron Risk Optimized Large Cap ETF",
+        "strategy": "large-cap equity fund that invests at least 80% of net assets in equity securities of U.S companies, combining fundamental bottom-up research with quantitative modeling to manage portfolio risk, diversification, and factor exposures",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-19T17:21:00.214671+00:00",
     "form_type": "485APOS",
     "cik": "0001860434",
@@ -4508,7 +4537,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The filing describes a single premium deferred index-linked annuity contract, not an ETF, offering indexed crediting rate strategies linked to market index performance with caps, participation rates, buffers, and floors, plus a fixed crediting rate option Investors allocate premiums among these investment options on a tax-deferred basis to meet long-term financial goals, with early withdrawals subject to a Strategy I...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, not an exchange-traded fund Premium may be allocated among Indexed Crediting Rate Strategies linked to market indices (subject to caps, participation rates, buffers, and floors) and a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -12541,7 +12570,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Seeks to passively track the ICE U.S Treasury 1-10 Year Bond Index, which measures the performance of U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index using a representative sampling approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14465,35 +14494,6 @@
       }
     ],
     "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:37:26.893521+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000030126",
-    "company_name": "RMB INVESTORS TRUST",
-    "accession_number": "0000894189-26-013360",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/30126/000089418926013360/0000894189-26-013360-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/30126/000089418926013360/ck0000030126-20260428.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/30126/000089418926013360/ck0000030126-20260428.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RMB INVESTORS TRUST\nETF Name: RMB Tax-Exempt Municipal Fund\nStrategy: Invests primarily in investment-grade municipal securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RMB INVESTORS TRUST",
-        "etf_name": "RMB Tax-Exempt Municipal Fund",
-        "strategy": "Invests primarily in investment-grade municipal securities",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
