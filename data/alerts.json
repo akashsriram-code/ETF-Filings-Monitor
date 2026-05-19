@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-19T22:39:36.237955+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976517",
+    "company_name": "Roundhill ETF Trust",
+    "accession_number": "0001398344-26-009428",
+    "filed_date": "2026-05-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426009428/0001398344-26-009428-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976517/000139834426009428/fp0099035-1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426009428/fp0099035-1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Roundhill ETF Trust\nETF Name: Roundhill Compute ETF\nStrategy: Actively managed ETF seeking capital appreciation by investing in Compute Futures, which are standardized financial contracts providing economic exposure to computing capacity resources\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Roundhill ETF Trust",
+        "etf_name": "Roundhill Compute ETF",
+        "strategy": "Actively managed ETF seeking capital appreciation by investing in Compute Futures, which are standardized financial contracts providing economic exposure to computing capacity resources",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-19T21:06:40.642144+00:00",
     "form_type": "485APOS",
     "cik": "0002081107",
@@ -4595,7 +4624,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF; it is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies tied to market indices with caps, buffers, and floors, plus a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity offering allocation among Indexed Crediting Rate Strategies (linked to market indices with caps, buffers, and floors) and a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -12628,7 +12657,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index, which measures the performance of U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative-sampling indexing approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14461,35 +14490,6 @@
         "filer": "RiverSource Life Insurance Co",
         "etf_name": "Columbia Funds Variable Insurance Trust",
         "strategy": "This is a variable annuity prospectus\u2014not an ETF filing\u2014offering fund-of-funds subaccounts (Portfolio Navigator Funds) that allocate across underlying funds in five risk-graded portfolios managed by Columbia Management The structure targets total return consistent with each portfolio's risk level, using both objective and subjective allocation factors",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:34:41.499371+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001556505",
-    "company_name": "Advisors Preferred Trust",
-    "accession_number": "0001580642-26-002702",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1556505/000158064226002702/0001580642-26-002702-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1556505/000158064226002702/quantified-gold_485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1556505/000158064226002702/quantified-gold_485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Advisors Preferred Trust\nETF Name: Quantified Gold Fund\nStrategy: The Fund pursues gold exposure by investing at least 80% of assets in gold bullion-related instruments\u2014including ETFs, ETNs, OTC forwards, fixed income, and pooled investment vehicles\u2014sub-advised by Flexible Plan Investments using proprietary software and active management\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Advisors Preferred Trust",
-        "etf_name": "Quantified Gold Fund",
-        "strategy": "The Fund pursues gold exposure by investing at least 80% of assets in gold bullion-related instruments\u2014including ETFs, ETNs, OTC forwards, fixed income, and pooled investment vehicles\u2014sub-advised by Flexible Plan Investments using proprietary software and active management",
         "is_alert_worthy": "LOW"
       }
     ],
