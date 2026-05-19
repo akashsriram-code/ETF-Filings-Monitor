@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-19T21:06:40.642144+00:00",
+    "form_type": "485APOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-011094",
+    "filed_date": "2026-05-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126011094/0001999371-26-011094-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126011094/defiance-485apos_051926.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126011094/defiance-485apos_051926.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Defiance Pure Memory Daily 2X Strategy ETF\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "Defiance Pure Memory Daily 2X Strategy ETF",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-19T21:07:32.106397+00:00",
+    "form_type": "485APOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-002081",
+    "filed_date": "2026-05-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002081/0001592900-26-002081-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026002081/md485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002081/md485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: MarketDesk International Momentum ETF\nStrategy: The Fund seeks long-term capital appreciation through an actively managed quantitative momentum strategy, sub-advised by MarketDesk Indices LLC, with monthly portfolio reconstitution across international and emerging-market equities\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "MarketDesk International Momentum ETF",
+        "strategy": "The Fund seeks long-term capital appreciation through an actively managed quantitative momentum strategy, sub-advised by MarketDesk Indices LLC, with monthly portfolio reconstitution across international and emerging-market equities",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-19T19:31:35.235677+00:00",
     "form_type": "485APOS",
     "cik": "0002081199",
@@ -98,7 +156,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126011048/vavl-485bpos_051926.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Unknown\nStrategy: The Fund seeks daily investment results, before and principal risk disclosures of the registration statement reflect the operations of the Fund and the Subsidiary on a consolidated basis\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Volatility Shares Trust\nETF Name: 2x Avalanche ETF\nStrategy: Seeks daily investment results equal to two times (200%) the daily percentage change in the share price of the VanEck Avalanche ETF (VAVX), gaining leveraged exposure to the Avalanche (AVAX) cryptocurrency through swap agreements, listed options, and a consolidated subsidiary structure Treasuries, money market funds, and investment-grade debt as collateral and may use reverse repurchase agreements to meet its daily 2...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Tidal Trust II",
@@ -4537,7 +4595,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, not an exchange-traded fund Premium may be allocated among Indexed Crediting Rate Strategies linked to market indices (subject to caps, participation rates, buffers, and floors) and a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF; it is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies tied to market indices with caps, buffers, and floors, plus a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -12570,7 +12628,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Treasury 1-10 Year Bond Index using a representative sampling approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index, which measures the performance of U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14436,64 +14494,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:35:29.242970+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001000191",
-    "company_name": "RIVERSOURCE VARIABLE ACCOUNT 10",
-    "accession_number": "0001193125-26-187254",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1000191/000119312526187254/0001193125-26-187254-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1000191/000119312526187254/d81883d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1000191/000119312526187254/d81883d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RiverSource Variable Account 10\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: It includes Portfolio Navigator and Portfolio Stabilizer managed-volatility fund-of-funds options alongside a Special Dollar Cost Averaging Fixed Account\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RiverSource Variable Account 10",
-        "etf_name": "Columbia Funds Variable Insurance Trust",
-        "strategy": "It includes Portfolio Navigator and Portfolio Stabilizer managed-volatility fund-of-funds options alongside a Special Dollar Cost Averaging Fixed Account",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:36:22.711918+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001725472",
-    "company_name": "Carlyle Tactical Private Credit Fund",
-    "accession_number": "0001193125-26-187221",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1725472/000119312526187221/0001193125-26-187221-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1725472/000119312526187221/d52285d486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1725472/000119312526187221/d52285d486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Carlyle Tactical Private Credit Fund\nETF Name: Carlyle Tactical Private Credit Fund\nStrategy: Portfolio Manager Brian Marcus leads tactical allocation across this broad mandate with no expected secondary trading market for shares\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Carlyle Tactical Private Credit Fund",
-        "etf_name": "Carlyle Tactical Private Credit Fund",
-        "strategy": "Portfolio Manager Brian Marcus leads tactical allocation across this broad mandate with no expected secondary trading market for shares",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
