@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-20T12:30:42.541841+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001727074",
+    "company_name": "PGIM ETF TRUST",
+    "accession_number": "0001727074-26-000046",
+    "filed_date": "2026-05-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1727074/000172707426000046/0001727074-26-000046-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1727074/000172707426000046/f45265d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1727074/000172707426000046/f45265d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PGIM ETF Trust\nETF Name: PGIM Core Equity ETF\nStrategy: Seeks long-term capital appreciation through an actively managed U.S large-cap equity portfolio combining proprietary fundamental research with quantitative portfolio construction\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PGIM ETF Trust",
+        "etf_name": "PGIM Core Equity ETF",
+        "strategy": "Seeks long-term capital appreciation through an actively managed U.S large-cap equity portfolio combining proprietary fundamental research with quantitative portfolio construction",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-19T22:39:36.237955+00:00",
     "form_type": "485APOS",
     "cik": "0001976517",
@@ -4624,7 +4653,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity (RILA) offering Indexed Crediting Rate Strategies tied to market index performance with defined upside limits (caps, participation rates, trigger rates) and partial downside protection via buffers or floors over multi-year periods A Fixed Crediting Rate Strategy is also available for conservative allocation alongside the indexed options\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies that link returns to index performance with upside limited by Cap, Participation, or Trigger Rates and downside partially cushioned by Buffer or Floor Percentages A Fixed Crediting Rate Strategy is also available, and a Performance Lock feature allows holders to lock in mid-period index results before the Strateg...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14461,35 +14490,6 @@
         "filer": "RiverSource Life Insurance Company (RiverSource Variable Account 10)",
         "etf_name": "Columbia Funds Variable Insurance Trust",
         "strategy": "This is not an ETF filing; it is a variable annuity prospectus (RiverSource RAVA Apex) offering subaccounts tied to underlying funds, including Portfolio Navigator and Portfolio Stabilizer managed-volatility fund-of-funds options managed by Columbia Management Investment Advisers Allocations are made across underlying funds using objective and subjective criteria, with disclosed conflicts of interest related to affil...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:33:22.827116+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000727892",
-    "company_name": "RIVERSOURCE LIFE INSURANCE CO",
-    "accession_number": "0001193125-26-187298",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/727892/000119312526187298/0001193125-26-187298-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/727892/000119312526187298/d113413d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/727892/000119312526187298/d113413d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RiverSource Life Insurance Co\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: This is a variable annuity prospectus\u2014not an ETF filing\u2014offering fund-of-funds subaccounts (Portfolio Navigator Funds) that allocate across underlying funds in five risk-graded portfolios managed by Columbia Management The structure targets total return consistent with each portfolio's risk level, using both objective and subjective allocation factors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RiverSource Life Insurance Co",
-        "etf_name": "Columbia Funds Variable Insurance Trust",
-        "strategy": "This is a variable annuity prospectus\u2014not an ETF filing\u2014offering fund-of-funds subaccounts (Portfolio Navigator Funds) that allocate across underlying funds in five risk-graded portfolios managed by Columbia Management The structure targets total return consistent with each portfolio's risk level, using both objective and subjective allocation factors",
         "is_alert_worthy": "LOW"
       }
     ],
