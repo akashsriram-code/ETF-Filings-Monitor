@@ -1,5 +1,121 @@
 [
   {
+    "created_at": "2026-05-20T20:41:42.761267+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001710607",
+    "company_name": "AMERICAN CENTURY ETF TRUST",
+    "accession_number": "0001710607-26-000092",
+    "filed_date": "2026-05-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1710607/000171060726000092/0001710607-26-000092-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1710607/000171060726000092/ck0001710607-20260520.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1710607/000171060726000092/ck0001710607-20260520.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AMERICAN CENTURY ETF TRUST\nETF Name: Avantis Credit ETF\nStrategy: Portfolio managers assign proprietary credit scores across the investment universe and may use derivatives consistent with fund objectives\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AMERICAN CENTURY ETF TRUST",
+        "etf_name": "Avantis Credit ETF",
+        "strategy": "Portfolio managers assign proprietary credit scores across the investment universe and may use derivatives consistent with fund objectives",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-20T20:42:35.146422+00:00",
+    "form_type": "485APOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-024618",
+    "filed_date": "2026-05-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226024618/0001493152-26-024618-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226024618/form485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226024618/form485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: Real Estate Fund Bridge Builder Trust Cambria ETF Trust\nStrategy: The Fund is an actively managed ETF that sells put options\u2014via either a put write or put spread strategy\u2014on an underlying leveraged ETF tracking 2\u00d7 the daily performance of a single stock, targeting weekly income distributions from collected premiums Upside is capped at the option premium received while the Fund bears full downside exposure to the leveraged ETF, with only partial protection available under the put sp...\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "Real Estate Fund Bridge Builder Trust Cambria ETF Trust",
+        "strategy": "The Fund is an actively managed ETF that sells put options\u2014via either a put write or put spread strategy\u2014on an underlying leveraged ETF tracking 2\u00d7 the daily performance of a single stock, targeting weekly income distributions from collected premiums Upside is capped at the option premium received while the Fund bears full downside exposure to the leveraged ETF, with only partial protection available under the put sp...",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-20T20:43:54.269590+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976517",
+    "company_name": "Roundhill ETF Trust",
+    "accession_number": "0001398344-26-009500",
+    "filed_date": "2026-05-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426009500/0001398344-26-009500-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976517/000139834426009500/fp0099058-1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426009500/fp0099058-1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Roundhill ETF Trust\nETF Name: Roundhill Photonics & Optics ETF\nStrategy: The portfolio may include ADRs, GDRs, China A-Shares, and VIE structures, with holdings selected via a proprietary methodology developed by adviser Roundhill Financial Inc\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Roundhill ETF Trust",
+        "etf_name": "Roundhill Photonics & Optics ETF",
+        "strategy": "The portfolio may include ADRs, GDRs, China A-Shares, and VIE structures, with holdings selected via a proprietary methodology developed by adviser Roundhill Financial Inc",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-20T20:45:10.461726+00:00",
+    "form_type": "485APOS",
+    "cik": "0001496608",
+    "company_name": "AB Active ETFs, Inc.",
+    "accession_number": "0000919574-26-003617",
+    "filed_date": "2026-05-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1496608/000091957426003617/0000919574-26-003617-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1496608/000091957426003617/d12147133_485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1496608/000091957426003617/d12147133_485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AB Active ETFs, Inc\nETF Name: Davis Fundamental ETF Trust\nStrategy: The portfolio construction balances return opportunities, diversification, and risk management, with discretion to use derivatives for hedging or return enhancement\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AB Active ETFs, Inc",
+        "etf_name": "Davis Fundamental ETF Trust",
+        "strategy": "The portfolio construction balances return opportunities, diversification, and risk management, with discretion to use derivatives for hedging or return enhancement",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-20T16:11:30.374942+00:00",
     "form_type": "485BPOS",
     "cik": "0000867297",
@@ -4682,7 +4798,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies tied to market indices with upside limited by cap, participation, or trigger rates and downside cushioned by buffer or floor percentages A Fixed Crediting Rate Strategy is also available for conservative allocation on a tax-deferred basis\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, not an ETF It offers allocation among investment options including Indexed Crediting Rate Strategies (with caps, buffers, floors, and participation rates tied to market indices) and a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -12715,7 +12831,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: Seeks to passively track the ICE U.S Treasury 1-10 Year Bond Index using a representative-sampling indexing approach, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative sampling approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14374,122 +14490,6 @@
         "filer": "PIMCO Variable Insurance Trust",
         "etf_name": "PIMCO ETF Trust",
         "strategy": "No investment objective, asset class, benchmark, or portfolio strategy is disclosed in the available text",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:28:27.630803+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000727892",
-    "company_name": "RIVERSOURCE LIFE INSURANCE CO",
-    "accession_number": "0001193125-26-187397",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/727892/000119312526187397/0001193125-26-187397-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/727892/000119312526187397/d117798d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/727892/000119312526187397/d117798d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RiverSource Life Insurance Company\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: This is a variable annuity separate account offering subaccounts that invest in underlying mutual funds managed by Columbia Management and third-party fund families, with allocations across equity, fixed-income, and balanced strategies Fund selection is based on objective criteria such as performance, expenses, and fund size, as well as subjective assessments of management skill and portfolio characteristics\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RiverSource Life Insurance Company",
-        "etf_name": "Columbia Funds Variable Insurance Trust",
-        "strategy": "This is a variable annuity separate account offering subaccounts that invest in underlying mutual funds managed by Columbia Management and third-party fund families, with allocations across equity, fixed-income, and balanced strategies Fund selection is based on objective criteria such as performance, expenses, and fund size, as well as subjective assessments of management skill and portfolio characteristics",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:29:10.713697+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-000850",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000850/0001771146-26-000850-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000850/ck0001771146-20260428.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000850/ck0001771146-20260428.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Brookmont Catastrophic Bond ETF\nStrategy: Actively managed fixed-income ETF seeking current income and capital preservation by investing in insurance-linked securities, including Quota Share Notes, Excess of Loss Notes, and Industry Loss Warranty Notes. Operates under a manager-of-managers structure allowing the adviser, Brookmont Capital Management, to appoint or replace sub-advisers without shareholder approval.\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Opportunities Trust",
-        "etf_name": "Brookmont Catastrophic Bond ETF",
-        "strategy": "Actively managed fixed-income ETF seeking current income and capital preservation by investing in insurance-linked securities, including Quota Share Notes, Excess of Loss Notes, and Industry Loss Warranty Notes. Operates under a manager-of-managers structure allowing the adviser, Brookmont Capital Management, to appoint or replace sub-advisers without shareholder approval.",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:30:46.890243+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000920547",
-    "company_name": "TOUCHSTONE VARIABLE SERIES TRUST",
-    "accession_number": "0001193125-26-187345",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/920547/000119312526187345/0001193125-26-187345-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/920547/000119312526187345/d139206d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/920547/000119312526187345/d139206d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: TOUCHSTONE VARIABLE SERIES TRUST\nETF Name: Page Touchstone Balanced Fund\nStrategy: The Fund seeks to achieve its investment goal by investing primarily in a diversified portfolio of fixed-income and equity securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "TOUCHSTONE VARIABLE SERIES TRUST",
-        "etf_name": "Page Touchstone Balanced Fund",
-        "strategy": "The Fund seeks to achieve its investment goal by investing primarily in a diversified portfolio of fixed-income and equity securities",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:31:48.744964+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001738074",
-    "company_name": "BlackRock Funds IV",
-    "accession_number": "0001193125-26-187329",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1738074/000119312526187329/0001193125-26-187329-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1738074/000119312526187329/d85332d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1738074/000119312526187329/d85332d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BlackRock Funds IV\nETF Name: BlackRock Systematic Multi-Strategy Fund\nStrategy: Multi-strategy fund pursuing total return across global equities, debt, and commodities through long/short positioning, derivatives, and proprietary quantitative models invested via BlackRock-affiliated mutual funds, ETFs, and money market funds The fund seeks lower correlation to broad equity and fixed-income markets while BlackRock has contractually agreed to waive management fees on affiliated fund-of-fund holding...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BlackRock Funds IV",
-        "etf_name": "BlackRock Systematic Multi-Strategy Fund",
-        "strategy": "Multi-strategy fund pursuing total return across global equities, debt, and commodities through long/short positioning, derivatives, and proprietary quantitative models invested via BlackRock-affiliated mutual funds, ETFs, and money market funds The fund seeks lower correlation to broad equity and fixed-income markets while BlackRock has contractually agreed to waive management fees on affiliated fund-of-fund holding...",
         "is_alert_worthy": "LOW"
       }
     ],
