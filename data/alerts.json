@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-20T16:11:30.374942+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000867297",
+    "company_name": "Virtus Investment Trust",
+    "accession_number": "0000930413-26-001676",
+    "filed_date": "2026-05-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/867297/000093041326001676/0000930413-26-001676-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/867297/000093041326001676/c116422_485bpos-ixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/867297/000093041326001676/c116422_485bpos-ixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Virtus Investment Trust\nETF Name: Virtus Zevenbergen Technology Fund\nStrategy: The fund seeks long-term capital appreciation by investing at least 80% of net assets in common stocks of U.S It employs a concentrated, actively managed approach with allowance for foreign securities exposure via depositary receipts\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Virtus Investment Trust",
+        "etf_name": "Virtus Zevenbergen Technology Fund",
+        "strategy": "The fund seeks long-term capital appreciation by investing at least 80% of net assets in common stocks of U.S It employs a concentrated, actively managed approach with allowance for foreign securities exposure via depositary receipts",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-20T12:30:42.541841+00:00",
     "form_type": "485BPOS",
     "cik": "0001727074",
@@ -4653,7 +4682,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies that link returns to index performance with upside limited by Cap, Participation, or Trigger Rates and downside partially cushioned by Buffer or Floor Percentages A Fixed Crediting Rate Strategy is also available, and a Performance Lock feature allows holders to lock in mid-period index results before the Strateg...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF but a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals The contract offers indexed crediting rate strategies linked to market index performance with cap, participation, and trigger rates, along with a fixed crediting rate strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -12686,7 +12715,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index, which measures the performance of U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund seeks to track the investment results of the ICE U.S Treasury 1-10 Year Bond Index, which measures the performance of public obligations of the U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14461,35 +14490,6 @@
         "filer": "BlackRock Funds IV",
         "etf_name": "BlackRock Systematic Multi-Strategy Fund",
         "strategy": "Multi-strategy fund pursuing total return across global equities, debt, and commodities through long/short positioning, derivatives, and proprietary quantitative models invested via BlackRock-affiliated mutual funds, ETFs, and money market funds The fund seeks lower correlation to broad equity and fixed-income markets while BlackRock has contractually agreed to waive management fees on affiliated fund-of-fund holding...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:32:31.944974+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001000191",
-    "company_name": "RIVERSOURCE VARIABLE ACCOUNT 10",
-    "accession_number": "0001193125-26-187317",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1000191/000119312526187317/0001193125-26-187317-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1000191/000119312526187317/d241996d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1000191/000119312526187317/d241996d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RiverSource Life Insurance Company (RiverSource Variable Account 10)\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: This is not an ETF filing; it is a variable annuity prospectus (RiverSource RAVA Apex) offering subaccounts tied to underlying funds, including Portfolio Navigator and Portfolio Stabilizer managed-volatility fund-of-funds options managed by Columbia Management Investment Advisers Allocations are made across underlying funds using objective and subjective criteria, with disclosed conflicts of interest related to affil...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RiverSource Life Insurance Company (RiverSource Variable Account 10)",
-        "etf_name": "Columbia Funds Variable Insurance Trust",
-        "strategy": "This is not an ETF filing; it is a variable annuity prospectus (RiverSource RAVA Apex) offering subaccounts tied to underlying funds, including Portfolio Navigator and Portfolio Stabilizer managed-volatility fund-of-funds options managed by Columbia Management Investment Advisers Allocations are made across underlying funds using objective and subjective criteria, with disclosed conflicts of interest related to affil...",
         "is_alert_worthy": "LOW"
       }
     ],
