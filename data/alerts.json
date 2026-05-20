@@ -1,5 +1,179 @@
 [
   {
+    "created_at": "2026-05-20T22:18:26.104933+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-002100",
+    "filed_date": "2026-05-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002100/0001592900-26-002100-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026002100/ck0001592900-20260520.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002100/ck0001592900-20260520.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: RockCreek Global Equality ETF\nStrategy: Actively managed global equity fund investing in 150\u2013250 developed- and emerging-market stocks selected for the highest gender-equality scores using Equileap's proprietary Gender Equality Scorecard, which evaluates factors such as gender balance in leadership, pay equity, and related workplace policies. The fund applies conduct-based ethical exclusions to screen out companies with serious human-rights violations, sev...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "RockCreek Global Equality ETF",
+        "strategy": "Actively managed global equity fund investing in 150\u2013250 developed- and emerging-market stocks selected for the highest gender-equality scores using Equileap's proprietary Gender Equality Scorecard, which evaluates factors such as gender balance in leadership, pay equity, and related workplace policies. The fund applies conduct-based ethical exclusions to screen out companies with serious human-rights violations, sev...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-20T22:19:58.876186+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-011210",
+    "filed_date": "2026-05-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126011210/0001999371-26-011210-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126011210/defiance-485apos_052026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126011210/defiance-485apos_052026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Defiance GENIUS Money Market ETF\nStrategy: A Rule 2a-7 money market ETF investing in short-duration securities with a dollar-weighted average maturity of 60 days or less, designed to comply with the GENIUS Act's eligible reserve requirements for payment stablecoin issuers. Security selection follows a disciplined process screening for guideline-compliant instruments, with maturity decisions driven by cash flows, market income opportunities, and interest-rate...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Defiance GENIUS Money Market ETF",
+        "strategy": "A Rule 2a-7 money market ETF investing in short-duration securities with a dollar-weighted average maturity of 60 days or less, designed to comply with the GENIUS Act's eligible reserve requirements for payment stablecoin issuers. Security selection follows a disciplined process screening for guideline-compliant instruments, with maturity decisions driven by cash flows, market income opportunities, and interest-rate...",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-20T22:20:55.042090+00:00",
+    "form_type": "485APOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-024637",
+    "filed_date": "2026-05-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226024637/0001493152-26-024637-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226024637/form485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226024637/form485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares Autocallable SPCX ETF\nStrategy: Actively managed ETF seeking current income with limited downside protection through a laddered portfolio of autocallable structured products referencing common stock of Space Exploration Technologies Corp\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "GraniteShares Autocallable SPCX ETF",
+        "strategy": "Actively managed ETF seeking current income with limited downside protection through a laddered portfolio of autocallable structured products referencing common stock of Space Exploration Technologies Corp",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-20T22:21:47.170084+00:00",
+    "form_type": "485APOS",
+    "cik": "0001540305",
+    "company_name": "ETF Series Solutions",
+    "accession_number": "0000894189-26-015075",
+    "filed_date": "2026-05-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926015075/0000894189-26-015075-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1540305/000089418926015075/defiancepureplaymemory485aa.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926015075/defiancepureplaymemory485aa.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Defiance ETFs, LLC\nETF Name: Defiance Pure Play Memory ETF\nStrategy: Actively managed ETF seeking total return by investing in equities and ADRs of pure play memory semiconductor companies, with industry concentration aligned to its reference index The fund implements its strategy primarily through swap agreements and other derivatives, with the adviser responsible for structuring swaps and identifying counterparties\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Defiance ETFs, LLC",
+        "etf_name": "Defiance Pure Play Memory ETF",
+        "strategy": "Actively managed ETF seeking total return by investing in equities and ADRs of pure play memory semiconductor companies, with industry concentration aligned to its reference index The fund implements its strategy primarily through swap agreements and other derivatives, with the adviser responsible for structuring swaps and identifying counterparties",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-20T22:22:59.291011+00:00",
+    "form_type": "485APOS",
+    "cik": "0001540305",
+    "company_name": "ETF Series Solutions",
+    "accession_number": "0000894189-26-015074",
+    "filed_date": "2026-05-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926015074/0000894189-26-015074-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1540305/000089418926015074/defianceplumbingaiindexetfb.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926015074/defianceplumbingaiindexetfb.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Series Solutions\nETF Name: Defiance Memory & Photonics ETF\nStrategy: Passively tracks the Solactive Memory and Photonics Index, investing at least 80% of net assets in Memory & Photonics companies Uses a replication approach or representative sampling and may concentrate in the same industries as the index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Series Solutions",
+        "etf_name": "Defiance Memory & Photonics ETF",
+        "strategy": "Passively tracks the Solactive Memory and Photonics Index, investing at least 80% of net assets in Memory & Photonics companies Uses a replication approach or representative sampling and may concentrate in the same industries as the index",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-20T22:23:53.135140+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-002097",
+    "filed_date": "2026-05-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002097/0001592900-26-002097-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026002097/ck0001592900-20260520.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002097/ck0001592900-20260520.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: StockSnips AI-Powered Sentiment US All Cap ETF\nStrategy: At least 80% of net assets are invested in U.S.-listed stocks, with the objective of long-term capital appreciation\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "StockSnips AI-Powered Sentiment US All Cap ETF",
+        "strategy": "At least 80% of net assets are invested in U.S.-listed stocks, with the objective of long-term capital appreciation",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-20T20:41:42.761267+00:00",
     "form_type": "485BPOS",
     "cik": "0001710607",
@@ -4798,7 +4972,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, not an ETF It offers allocation among investment options including Indexed Crediting Rate Strategies (with caps, buffers, floors, and participation rates tied to market indices) and a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The contract is a single premium deferred index-linked annuity offering indexed crediting rate strategies tied to market indices, with upside shaped by caps, participation rates, or trigger rates and downside partially mitigated through buffer or floor percentages A fixed crediting rate strategy is also available, and investors are locked into a chosen indexed strategy until the strategy maturity date with limited ex...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -12831,7 +13005,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526187840/d128315d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index using a representative sampling approach, investing in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Treasury Bond ETF\nStrategy: The fund passively tracks the ICE U.S Treasury 1-10 Year Bond Index, providing exposure to U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14316,180 +14490,6 @@
         "filer": "RiverSource Life Insurance Co",
         "etf_name": "RiverSource Signature One Variable Annuity",
         "strategy": "This is a variable annuity contract offering subaccounts that invest in underlying funds spanning multiple asset classes, styles, and managers, alongside fixed-interest options with periodically reset rates The issuer selects underlying funds based on objective criteria (performance, expenses, size, style) and subjective factors (management skill, portfolio concentration), while also considering revenue-sharing arran...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:22:52.005876+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001000191",
-    "company_name": "RIVERSOURCE VARIABLE ACCOUNT 10",
-    "accession_number": "0001193125-26-187599",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1000191/000119312526187599/0001193125-26-187599-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1000191/000119312526187599/d21889d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1000191/000119312526187599/d21889d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RiverSource Variable Account 10\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: This is a variable annuity product offering subaccounts invested in fund-of-funds (Portfolio Navigator and Portfolio Stabilizer funds) selected by Columbia Management Investment Advisers using performance, expense, and style criteria Portfolio Stabilizer funds employ managed-volatility strategies to reduce downside risk, while underlying fund selection may be influenced by revenue-sharing arrangements with fund affil...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RiverSource Variable Account 10",
-        "etf_name": "Columbia Funds Variable Insurance Trust",
-        "strategy": "This is a variable annuity product offering subaccounts invested in fund-of-funds (Portfolio Navigator and Portfolio Stabilizer funds) selected by Columbia Management Investment Advisers using performance, expense, and style criteria Portfolio Stabilizer funds employ managed-volatility strategies to reduce downside risk, while underlying fund selection may be influenced by revenue-sharing arrangements with fund affil...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:23:40.902639+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001205700",
-    "company_name": "WoodmenLife Variable Annuity Account",
-    "accession_number": "0001193125-26-187598",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1205700/000119312526187598/0001193125-26-187598-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1205700/000119312526187598/d66690d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1205700/000119312526187598/d66690d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: WoodmenLife Variable Annuity Account (Woodmen of the World Life Insurance Society)\nETF Name: SELECTION OF FUND\nStrategy: Each subaccount invests exclusively in shares of a single underlying mutual fund, with fund selection based on asset-class coverage, adviser reputation, alignment with WoodmenLife's hedging strategy, and revenue-sharing arrangements\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "WoodmenLife Variable Annuity Account (Woodmen of the World Life Insurance Society)",
-        "etf_name": "SELECTION OF FUND",
-        "strategy": "Each subaccount invests exclusively in shares of a single underlying mutual fund, with fund selection based on asset-class coverage, adviser reputation, alignment with WoodmenLife's hedging strategy, and revenue-sharing arrangements",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:24:28.186383+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000727892",
-    "company_name": "RIVERSOURCE LIFE INSURANCE CO",
-    "accession_number": "0001193125-26-187457",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/727892/000119312526187457/0001193125-26-187457-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/727892/000119312526187457/d114050d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/727892/000119312526187457/d114050d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RiverSource Life Insurance Co\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: This is a variable annuity separate account offering subaccounts that each invest in an underlying fund selected via objective criteria (performance, expenses, size, style) and subjective criteria (management skill, portfolio concentration, sector weightings)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RiverSource Life Insurance Co",
-        "etf_name": "Columbia Funds Variable Insurance Trust",
-        "strategy": "This is a variable annuity separate account offering subaccounts that each invest in an underlying fund selected via objective criteria (performance, expenses, size, style) and subjective criteria (management skill, portfolio concentration, sector weightings)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:25:33.132254+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001047304",
-    "company_name": "PIMCO VARIABLE INSURANCE TRUST",
-    "accession_number": "0001193125-26-187433",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1047304/000119312526187433/0001193125-26-187433-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1047304/000119312526187433/d22674d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1047304/000119312526187433/d22674d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PIMCO Variable Insurance Trust\nETF Name: PIMCO ETF Trust\nStrategy: The trust offers portfolios available through variable insurance contracts that invest in underlying PIMCO funds, with performance dependent upon those underlying funds achieving their respective investment objectives\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PIMCO Variable Insurance Trust",
-        "etf_name": "PIMCO ETF Trust",
-        "strategy": "The trust offers portfolios available through variable insurance contracts that invest in underlying PIMCO funds, with performance dependent upon those underlying funds achieving their respective investment objectives",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:26:24.725295+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001559992",
-    "company_name": "STONE RIDGE TRUST",
-    "accession_number": "0001193125-26-187420",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1559992/000119312526187420/0001193125-26-187420-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1559992/000119312526187420/d98459d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1559992/000119312526187420/d98459d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Stone Ridge Trust\nETF Name: LifeX 2050 Longevity Income ETF\nStrategy: The fund invests primarily in U.S. Treasury securities to deliver predictable, annuity-style monthly distributions of income and principal through a target liquidation year of 2050.\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Stone Ridge Trust",
-        "etf_name": "LifeX 2050 Longevity Income ETF",
-        "strategy": "The fund invests primarily in U.S. Treasury securities to deliver predictable, annuity-style monthly distributions of income and principal through a target liquidation year of 2050.",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T21:27:22.806988+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001479359",
-    "company_name": "PIMCO Equity Series VIT",
-    "accession_number": "0001193125-26-187411",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1479359/000119312526187411/0001193125-26-187411-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1479359/000119312526187411/d42656d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1479359/000119312526187411/d42656d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PIMCO Variable Insurance Trust\nETF Name: PIMCO ETF Trust\nStrategy: No investment objective, asset class, benchmark, or portfolio strategy is disclosed in the available text\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PIMCO Variable Insurance Trust",
-        "etf_name": "PIMCO ETF Trust",
-        "strategy": "No investment objective, asset class, benchmark, or portfolio strategy is disclosed in the available text",
         "is_alert_worthy": "LOW"
       }
     ],
