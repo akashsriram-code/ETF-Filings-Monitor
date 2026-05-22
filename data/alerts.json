@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-22T13:39:23.185430+00:00",
+    "form_type": "485APOS",
+    "cik": "0001860434",
+    "company_name": "Harbor ETF Trust",
+    "accession_number": "0001193125-26-235617",
+    "filed_date": "2026-05-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1860434/000119312526235617/0001193125-26-235617-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1860434/000119312526235617/d12224d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1860434/000119312526235617/d12224d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Harbor ETF Trust\nETF Name: Inc. Anthropic AI Lab ETF Fund\nStrategy: The Fund seeks to provide exposure to the portfolio-eligible companies most directly linked to the Anthropic artificial intelligence ecosystem The Fund is an actively managed exchange-traded fund that seeks to invest in a focused portfolio of companies that Harbor Capital Advisors, Inc The Fund is designed to maintain focused exposure to the Anthropic ecosystem across market cycles and does not employ a defensive inv\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Harbor ETF Trust",
+        "etf_name": "Inc. Anthropic AI Lab ETF Fund",
+        "strategy": "The Fund seeks to provide exposure to the portfolio-eligible companies most directly linked to the Anthropic artificial intelligence ecosystem The Fund is an actively managed exchange-traded fund that seeks to invest in a focused portfolio of companies that Harbor Capital Advisors, Inc The Fund is designed to maintain focused exposure to the Anthropic ecosystem across market cycles and does not employ a defensive inv",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-22T13:39:29.395520+00:00",
+    "form_type": "485APOS",
+    "cik": "0001501825",
+    "company_name": "Hartford Funds Exchange-Traded Trust",
+    "accession_number": "0001193125-26-235563",
+    "filed_date": "2026-05-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1501825/000119312526235563/0001193125-26-235563-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1501825/000119312526235563/d21194d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1501825/000119312526235563/d21194d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Hartford Funds Exchange-Traded Trust\nETF Name: Unknown\nStrategy: and a similar principal investment strategy as the Predecessor Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Hartford Funds Exchange-Traded Trust",
+        "etf_name": "Unknown",
+        "strategy": "and a similar principal investment strategy as the Predecessor Fund",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-21T21:52:15.730681+00:00",
     "form_type": "485APOS",
     "cik": "0001633061",
@@ -14432,64 +14490,6 @@
         "filer": "Private Shares Fund",
         "etf_name": "Private Shares Fund",
         "strategy": "Invests at least 80% of net assets in equity securities of late-stage, pre-IPO private technology companies, holding positions until a liquidity event such as an IPO or acquisition Uninvested cash may be allocated to technology-focused ETFs to maintain sector exposure",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T22:42:03.723185+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001844255",
-    "company_name": "Milliman Variable Insurance Trust",
-    "accession_number": "0001999371-26-009261",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1844255/000199937126009261/0001999371-26-009261-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1844255/000199937126009261/mvit-485bpos_043026.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1844255/000199937126009261/mvit-485bpos_043026.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Milliman Variable Insurance Trust\nETF Name: Milliman Hedged U.S. Growth Fund\nStrategy: common-stock portfolio with a proprietary options-based \"Buffer Hedging Strategy\" designed to limit downside equity risk The fund has ceased investment operations and reported no portfolio turnover for its most recent fiscal year\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Milliman Variable Insurance Trust",
-        "etf_name": "Milliman Hedged U.S. Growth Fund",
-        "strategy": "common-stock portfolio with a proprietary options-based \"Buffer Hedging Strategy\" designed to limit downside equity risk The fund has ceased investment operations and reported no portfolio turnover for its most recent fiscal year",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T22:42:56.779070+00:00",
-    "form_type": "485APOS",
-    "cik": "0001027596",
-    "company_name": "ADVISORS SERIES TRUST",
-    "accession_number": "0000894189-26-013387",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1027596/000089418926013387/0000894189-26-013387-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1027596/000089418926013387/pzenafunds485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1027596/000089418926013387/pzenafunds485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Advisors Series Trust (Pzena Investment Management, LLC, Adviser)\nETF Name: Abacus FCF ETF Trust\nStrategy: Five actively managed value-equity funds spanning U.S. mid-cap, U.S.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Advisors Series Trust (Pzena Investment Management, LLC, Adviser)",
-        "etf_name": "Abacus FCF ETF Trust",
-        "strategy": "Five actively managed value-equity funds spanning U.S. mid-cap, U.S.",
         "is_alert_worthy": "LOW"
       }
     ],
