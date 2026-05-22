@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-05-22T18:03:28.165851+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001039001",
+    "company_name": "Voya PARTNERS INC",
+    "accession_number": "0001039001-26-000016",
+    "filed_date": "2026-05-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1039001/000103900126000016/0001039001-26-000016-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1039001/000103900126000016/f45271d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1039001/000103900126000016/f45271d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Voya PARTNERS INC\nETF Name: Unknown\nStrategy: Please read the attached Information Statement/Prospectus for a complete description of SA Portfolio\u2019s investment objectives, principal investment strategies, and policies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Voya PARTNERS INC",
+        "etf_name": "Unknown",
+        "strategy": "Please read the attached Information Statement/Prospectus for a complete description of SA Portfolio\u2019s investment objectives, principal investment strategies, and policies",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-22T18:03:30.033109+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001015965",
+    "company_name": "Voya VARIABLE PORTFOLIOS INC",
+    "accession_number": "0001193125-26-236187",
+    "filed_date": "2026-05-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1015965/000119312526236187/0001193125-26-236187-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1015965/000119312526236187/f45312d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1015965/000119312526236187/f45312d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Voya VARIABLE PORTFOLIOS INC\nETF Name: Unknown\nStrategy: for MCI Portfolio is to seek investment results (before of the Portfolios Please read the attached Information Statement/Prospectus for a complete description of MCI Portfolio\u2019s investment objectives, principal investment strategies, and policies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Voya VARIABLE PORTFOLIOS INC",
+        "etf_name": "Unknown",
+        "strategy": "for MCI Portfolio is to seek investment results (before of the Portfolios Please read the attached Information Statement/Prospectus for a complete description of MCI Portfolio\u2019s investment objectives, principal investment strategies, and policies",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-22T18:03:36.170335+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001551950",
+    "company_name": "Columbia ETF Trust I",
+    "accession_number": "0001193125-26-236078",
+    "filed_date": "2026-05-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1551950/000119312526236078/0001193125-26-236078-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1551950/000119312526236078/d854682d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1551950/000119312526236078/d854682d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Columbia ETF Trust I\nETF Name: Premium Income ETF Investment Objective Columbia Research Enhanced Core Premium Income ETF\nStrategy: by investing in a portfolio of stocks of U.S equity market indexes or on other ETFs that passively track (or seek the investment\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Columbia ETF Trust I",
+        "etf_name": "Premium Income ETF Investment Objective Columbia Research Enhanced Core Premium Income ETF",
+        "strategy": "by investing in a portfolio of stocks of U.S equity market indexes or on other ETFs that passively track (or seek the investment",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-22T16:07:10.639559+00:00",
     "form_type": "485BPOS",
     "cik": "0001352280",
@@ -14403,93 +14490,6 @@
         "filer": "SEPARATE ACCOUNT VA B (Transamerica)",
         "etf_name": "TA PineBridge Inflation Opportunities Fixed Account GPOs or DCA Accounts Conservative ETF",
         "strategy": "This filing describes a Transamerica variable annuity product offering policyholders access to multiple underlying fund portfolios across various asset classes. Transamerica selects the available subaccount options based on factors including asset class coverage, adviser reputation, volatility, hedgeability, and performance.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T22:33:30.573879+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000859607",
-    "company_name": "SEPARATE ACCOUNT VA B",
-    "accession_number": "0001164098-26-001003",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/859607/000116409826001003/0001164098-26-001003-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/859607/000116409826001003/landmark.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/859607/000116409826001003/landmark.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Transamerica (Separate Account VA B)\nETF Name: Transamerica Series Trust \u2014 underlying fund portfolios (variable annuity subaccounts, not ETFs)\nStrategy: Policyholders self-direct allocations across subaccounts, some of which seek to provide investment results corresponding generally to the price and yield of specified benchmarks before expenses\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Transamerica (Separate Account VA B)",
-        "etf_name": "Transamerica Series Trust \u2014 underlying fund portfolios (variable annuity subaccounts, not ETFs)",
-        "strategy": "Policyholders self-direct allocations across subaccounts, some of which seek to provide investment results corresponding generally to the price and yield of specified benchmarks before expenses",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T22:34:15.510324+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001257295",
-    "company_name": "SEPARATE ACCOUNT VA U",
-    "accession_number": "0001164098-26-001010",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1257295/000116409826001010/0001164098-26-001010-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1257295/000116409826001010/d911187d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1257295/000116409826001010/d911187d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Separate Account VA U (Transamerica)\nETF Name: All underlying fund portfolios in the Transamerica Series Trust\nStrategy: This is a variable annuity prospectus offering policyholders a menu of underlying fund portfolio subaccounts within the Transamerica Series Trust\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Separate Account VA U (Transamerica)",
-        "etf_name": "All underlying fund portfolios in the Transamerica Series Trust",
-        "strategy": "This is a variable annuity prospectus offering policyholders a menu of underlying fund portfolio subaccounts within the Transamerica Series Trust",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T22:35:17.704232+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000929519",
-    "company_name": "SEPARATE ACCOUNT VA BNY",
-    "accession_number": "0001164098-26-001009",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/929519/000116409826001009/0001164098-26-001009-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/929519/000116409826001009/d174247d485bposaxiomny.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/929519/000116409826001009/d174247d485bposaxiomny.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Transamerica (via Separate Account VA BNY)\nETF Name: Growth Fixed Account GPOs or DCA Accounts Conservative ETF\nStrategy: No discrete ETF strategy, objective, or benchmark is disclosed in the available text\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Transamerica (via Separate Account VA BNY)",
-        "etf_name": "Growth Fixed Account GPOs or DCA Accounts Conservative ETF",
-        "strategy": "No discrete ETF strategy, objective, or benchmark is disclosed in the available text",
         "is_alert_worthy": "LOW"
       }
     ],
