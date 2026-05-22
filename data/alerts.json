@@ -1,5 +1,121 @@
 [
   {
+    "created_at": "2026-05-22T16:07:10.639559+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001352280",
+    "company_name": "Columbia Funds Series Trust II",
+    "accession_number": "0001193125-26-235822",
+    "filed_date": "2026-05-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1352280/000119312526235822/0001193125-26-235822-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1352280/000119312526235822/d105054d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1352280/000119312526235822/d105054d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Columbia Funds Series Trust II\nETF Name: Total annual Fund\nStrategy: Principal Investment Strategies The Fund is a \u201cfund-of-funds\u201d and seeks to achieve its objective by investing in a combination of underlying funds, including mutual funds and exchange-traded funds (ETFs) (collectively, Underlying Funds), representing different asset classes, potentially including an allocation to alternative investment strategies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Columbia Funds Series Trust II",
+        "etf_name": "Total annual Fund",
+        "strategy": "Principal Investment Strategies The Fund is a \u201cfund-of-funds\u201d and seeks to achieve its objective by investing in a combination of underlying funds, including mutual funds and exchange-traded funds (ETFs) (collectively, Underlying Funds), representing different asset classes, potentially including an allocation to alternative investment strategies",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-22T16:07:13.119089+00:00",
+    "form_type": "485APOS",
+    "cik": "0001890141",
+    "company_name": "First American Funds Trust",
+    "accession_number": "0000897101-26-000182",
+    "filed_date": "2026-05-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1890141/000089710126000182/0000897101-26-000182-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1890141/000089710126000182/faf01260435_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1890141/000089710126000182/faf01260435_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: First American Funds Trust\nETF Name: Treasury Reserve Fund\nStrategy: The investment objective of the fund is to seek maximum current income to the extent consistent with the preservation of capital and maintenance of liquidity The fund\u2019s investment objective may be changed without shareholder approval\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "First American Funds Trust",
+        "etf_name": "Treasury Reserve Fund",
+        "strategy": "The investment objective of the fund is to seek maximum current income to the extent consistent with the preservation of capital and maintenance of liquidity The fund\u2019s investment objective may be changed without shareholder approval",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-22T16:07:26.377898+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001097519",
+    "company_name": "COLUMBIA FUNDS SERIES TRUST",
+    "accession_number": "0001193125-26-235780",
+    "filed_date": "2026-05-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1097519/000119312526235780/0001193125-26-235780-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1097519/000119312526235780/d120388d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1097519/000119312526235780/d120388d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: COLUMBIA FUNDS SERIES TRUST\nETF Name: Total annual Fund\nStrategy: The Fund is primarily managed as a fund that invests in other funds (i.e., a \u201cfund-of-funds\u201d) that seeks to achieve its investment objective by investing under normal circumstances in a combination of underlying funds, including exchange-traded funds (ETFs), for which Columbia\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "COLUMBIA FUNDS SERIES TRUST",
+        "etf_name": "Total annual Fund",
+        "strategy": "The Fund is primarily managed as a fund that invests in other funds (i.e., a \u201cfund-of-funds\u201d) that seeks to achieve its investment objective by investing under normal circumstances in a combination of underlying funds, including exchange-traded funds (ETFs), for which Columbia",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-22T16:07:29.045574+00:00",
+    "form_type": "485APOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-011331",
+    "filed_date": "2026-05-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126011331/0001999371-26-011331-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126011331/defiance-485apos_052226.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126011331/defiance-485apos_052226.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Unknown\nStrategy: Holding a relatively focused portfolio may increase the risk that the value of the Fund could go down because of the poor\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "Unknown",
+        "strategy": "Holding a relatively focused portfolio may increase the risk that the value of the Fund could go down because of the poor",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-22T13:39:23.185430+00:00",
     "form_type": "485APOS",
     "cik": "0001860434",
@@ -14374,122 +14490,6 @@
         "filer": "Transamerica (via Separate Account VA BNY)",
         "etf_name": "Growth Fixed Account GPOs or DCA Accounts Conservative ETF",
         "strategy": "No discrete ETF strategy, objective, or benchmark is disclosed in the available text",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T22:36:33.574677+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000929519",
-    "company_name": "SEPARATE ACCOUNT VA BNY",
-    "accession_number": "0001164098-26-001008",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/929519/000116409826001008/0001164098-26-001008-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/929519/000116409826001008/d_d898002d485bposlandmarkny.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/929519/000116409826001008/d_d898002d485bposlandmarkny.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SEPARATE ACCOUNT VA BNY (Transamerica)\nETF Name: All underlying fund portfolios in the Transamerica Series Trust\nStrategy: This variable annuity prospectus offers policyholders a menu of underlying fund portfolios within the Transamerica Series Trust, spanning multiple asset classes and sub-advisers such as Thompson, Siegel & Walmsley LLC. Portfolios are selected by the issuer based on factors including asset class coverage, adviser reputation, volatility, hedgeability, and performance, with policyholders responsible for their own subacc...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "SEPARATE ACCOUNT VA BNY (Transamerica)",
-        "etf_name": "All underlying fund portfolios in the Transamerica Series Trust",
-        "strategy": "This variable annuity prospectus offers policyholders a menu of underlying fund portfolios within the Transamerica Series Trust, spanning multiple asset classes and sub-advisers such as Thompson, Siegel & Walmsley LLC. Portfolios are selected by the issuer based on factors including asset class coverage, adviser reputation, volatility, hedgeability, and performance, with policyholders responsible for their own subacc...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T22:38:08.599415+00:00",
-    "form_type": "486BPOS",
-    "cik": "0002032432",
-    "company_name": "Blackstone Private Multi-Asset Credit & Income Fund",
-    "accession_number": "0001140361-26-017513",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2032432/000114036126017513/0001140361-26-017513-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2032432/000114036126017513/ef20071264_486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2032432/000114036126017513/ef20071264_486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Blackstone Private Credit Strategies LLC\nETF Name: Blackstone Private Multi-Asset Credit and Income Fund (BMACX)\nStrategy: Non-diversified closed-end interval fund that dynamically allocates across private corporate credit, asset-based and real estate credit, and structured credit products in North America and Europe, seeking current income and secondarily long-term capital appreciation. The fund uses Blackstone's Strategic Asset Allocation approach to rotate across the capital structure, investing primarily in below-investment-grade sec...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Blackstone Private Credit Strategies LLC",
-        "etf_name": "Blackstone Private Multi-Asset Credit and Income Fund (BMACX)",
-        "strategy": "Non-diversified closed-end interval fund that dynamically allocates across private corporate credit, asset-based and real estate credit, and structured credit products in North America and Europe, seeking current income and secondarily long-term capital appreciation. The fund uses Blackstone's Strategic Asset Allocation approach to rotate across the capital structure, investing primarily in below-investment-grade sec...",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T22:39:25.772391+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001000191",
-    "company_name": "RIVERSOURCE VARIABLE ACCOUNT 10",
-    "accession_number": "0001193125-26-187779",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1000191/000119312526187779/0001193125-26-187779-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1000191/000119312526187779/d93320d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1000191/000119312526187779/d93320d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RIVERSOURCE VARIABLE ACCOUNT 10\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: This is not an ETF filing; it is a variable annuity prospectus for the RiverSource Retirement Advisor Variable Annuity, which invests through subaccounts linked to underlying funds (including Columbia Funds Variable Insurance Trust and Portfolio Navigator fund-of-funds options) Each Portfolio Navigator fund is a fund of funds seeking total return consistent with a specified risk level by allocating across underlying...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RIVERSOURCE VARIABLE ACCOUNT 10",
-        "etf_name": "Columbia Funds Variable Insurance Trust",
-        "strategy": "This is not an ETF filing; it is a variable annuity prospectus for the RiverSource Retirement Advisor Variable Annuity, which invests through subaccounts linked to underlying funds (including Columbia Funds Variable Insurance Trust and Portfolio Navigator fund-of-funds options) Each Portfolio Navigator fund is a fund of funds seeking total return consistent with a specified risk level by allocating across underlying...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T22:40:59.980658+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001557265",
-    "company_name": "Private Shares Fund",
-    "accession_number": "0001104659-26-050493",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1557265/000110465926050493/0001104659-26-050493-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1557265/000110465926050493/tm2612369d1_486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1557265/000110465926050493/tm2612369d1_486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Private Shares Fund\nETF Name: Private Shares Fund\nStrategy: Invests at least 80% of net assets in equity securities of late-stage, pre-IPO private technology companies, holding positions until a liquidity event such as an IPO or acquisition Uninvested cash may be allocated to technology-focused ETFs to maintain sector exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Private Shares Fund",
-        "etf_name": "Private Shares Fund",
-        "strategy": "Invests at least 80% of net assets in equity securities of late-stage, pre-IPO private technology companies, holding positions until a liquidity event such as an IPO or acquisition Uninvested cash may be allocated to technology-focused ETFs to maintain sector exposure",
         "is_alert_worthy": "LOW"
       }
     ],
