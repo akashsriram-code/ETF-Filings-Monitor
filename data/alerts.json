@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-26T12:49:02.646096+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-002144",
+    "filed_date": "2026-05-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002144/0001592900-26-002144-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026002144/ck0001592900-20260526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002144/ck0001592900-20260526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: For example, if a particular investment with respect to an underlying ETF\nStrategy: While the Fund seeks to mitigate downside risk with respect to its exposure to underlying ETFs, the Fund\u2019s strategy may not be successful in protecting the Fund against losses from an underlying ETF or the Fund\u2019s overall portfolio for any particular period of time There is no assurance that the Fund will achieve its investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "For example, if a particular investment with respect to an underlying ETF",
+        "strategy": "While the Fund seeks to mitigate downside risk with respect to its exposure to underlying ETFs, the Fund\u2019s strategy may not be successful in protecting the Fund against losses from an underlying ETF or the Fund\u2019s overall portfolio for any particular period of time There is no assurance that the Fund will achieve its investment objective",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-26T12:49:06.661945+00:00",
+    "form_type": "485APOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-011400",
+    "filed_date": "2026-05-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126011400/0001999371-26-011400-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126011400/defiance-485apos_052626.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126011400/defiance-485apos_052626.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Unknown\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "Unknown",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-26T10:02:11.666330+00:00",
     "form_type": "485APOS",
     "cik": "0001860434",
@@ -14432,64 +14490,6 @@
         "filer": "Teachers Insurance & Annuity Association of America (MVA)",
         "etf_name": "To hold investments in connection with a fund",
         "strategy": "Churchill DLC Advisor LLC DE Operating Subsidiary NCBDC Holdings LLC Member 100 To hold investments in connection with a fund.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T22:14:21.469648+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001067490",
-    "company_name": "TIAA Separate Account VA-5",
-    "accession_number": "0001193125-26-187815",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1067490/000119312526187815/0001193125-26-187815-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1067490/000119312526187815/d96604d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1067490/000119312526187815/d96604d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: TIAA Separate Account VA-5\nETF Name: Nuveen Life Growth Equity Fund\nStrategy: The fund is an underlying investment option within a TIAA variable annuity contract, offering exposure to growth-oriented equity securities managed by Teachers Advisors, LLC\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "TIAA Separate Account VA-5",
-        "etf_name": "Nuveen Life Growth Equity Fund",
-        "strategy": "The fund is an underlying investment option within a TIAA variable annuity contract, offering exposure to growth-oriented equity securities managed by Teachers Advisors, LLC",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T22:15:10.397041+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001067490",
-    "company_name": "TIAA Separate Account VA-5",
-    "accession_number": "0001193125-26-187811",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1067490/000119312526187811/0001193125-26-187811-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1067490/000119312526187811/d92900d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1067490/000119312526187811/d92900d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: TIAA Separate Account VA-5\nETF Name: However, if the ETF\nStrategy: Portfolios are selected based on asset-class coverage, manager track record, performance, and the ability of TIAA/Nuveen affiliates to receive advisory and service payments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "TIAA Separate Account VA-5",
-        "etf_name": "However, if the ETF",
-        "strategy": "Portfolios are selected based on asset-class coverage, manager track record, performance, and the ability of TIAA/Nuveen affiliates to receive advisory and service payments",
         "is_alert_worthy": "LOW"
       }
     ],
