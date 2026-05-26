@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-26T22:39:44.907858+00:00",
+    "form_type": "485APOS",
+    "cik": "0002043954",
+    "company_name": "REX ETF Trust",
+    "accession_number": "0001999371-26-011467",
+    "filed_date": "2026-05-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043954/000199937126011467/0001999371-26-011467-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043954/000199937126011467/rex-485apos_052626.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043954/000199937126011467/rex-485apos_052626.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: REX ETF Trust\nETF Name: Unknown\nStrategy: In seeking to achieve its investment objective, under normal market conditions, the Fund will invest at least 80% of its net assets (plus any borrowings for investment purposes) in the securities that comprise the Index and in financial instruments that provide exposure to securities that comprise the Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "REX ETF Trust",
+        "etf_name": "Unknown",
+        "strategy": "In seeking to achieve its investment objective, under normal market conditions, the Fund will invest at least 80% of its net assets (plus any borrowings for investment purposes) in the securities that comprise the Index and in financial instruments that provide exposure to securities that comprise the Index",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-26T22:40:33.800900+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001742912",
+    "company_name": "Tidal Trust I",
+    "accession_number": "0001999371-26-011465",
+    "filed_date": "2026-05-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126011465/0001999371-26-011465-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1742912/000199937126011465/armada-485bpos_052626.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126011465/armada-485bpos_052626.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust I\nETF Name: Residential REIT ETF\nStrategy: Actively managed ETF seeking total return by investing in publicly traded REITs that derive revenue from ownership and/or management of residential properties. Sub-advised by Armada ETF Advisors LLC, which applies proprietary selection criteria to filter eligible holdings.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust I",
+        "etf_name": "Residential REIT ETF",
+        "strategy": "Actively managed ETF seeking total return by investing in publicly traded REITs that derive revenue from ownership and/or management of residential properties. Sub-advised by Armada ETF Advisors LLC, which applies proprietary selection criteria to filter eligible holdings.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-26T21:03:09.465055+00:00",
     "form_type": "485APOS",
     "cik": "0001976322",
@@ -7147,7 +7205,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies tied to market indices with capped upside (via Cap, Participation, or Trigger Rates) and partial downside protection (via Buffer or Floor Percentages) A Fixed Crediting Rate Strategy is also available for tax-deferred, long-term investment goals\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies tied to market indices, with upside shaped by Cap Rates, Participation Rates, or Trigger Rates and downside limited by Buffer Percentages or Floor Percentages A Fixed Crediting Rate Strategy is also available, with capital locked into chosen strategies for multi-year periods and early withdrawals subject...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14432,64 +14490,6 @@
         "filer": "Thrivent Variable Annuity Account I",
         "etf_name": "Facilitation Fee We may charge a Fund",
         "strategy": "The variable annuity contract offers investors access to diversified Subaccounts spanning equities and fixed income, with optional death benefit riders and a Fixed Account. Thrivent reserves the right to substitute Subaccount shares based on market conditions and investment objectives, with premiums at or above $1 million requiring prior approval.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T18:39:42.238176+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001293530",
-    "company_name": "MUNDOVAL FUNDS",
-    "accession_number": "0001413042-26-000340",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1293530/000141304226000340/0001413042-26-000340-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1293530/000141304226000340/fp0098572-1_485bposixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1293530/000141304226000340/fp0098572-1_485bposixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Mundoval Capital Management, Inc\nETF Name: The Mundoval Fund\nStrategy: The Mundoval Fund seeks long-term capital appreciation by investing primarily in common stocks and ADRs of domestic and foreign large-capitalization companies using a value-style approach targeting companies trading at a discount to intrinsic value\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Mundoval Capital Management, Inc",
-        "etf_name": "The Mundoval Fund",
-        "strategy": "The Mundoval Fund seeks long-term capital appreciation by investing primarily in common stocks and ADRs of domestic and foreign large-capitalization companies using a value-style approach targeting companies trading at a discount to intrinsic value",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T18:40:50.355372+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000918942",
-    "company_name": "LKCM Funds",
-    "accession_number": "0000894189-26-013571",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/918942/000089418926013571/0000894189-26-013571-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/918942/000089418926013571/ck0000918942-20260429.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/918942/000089418926013571/ck0000918942-20260429.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LKCM Funds\nETF Name: LKCM Small Cap Equity Fund \u00b7 LKCM Small-Mid Cap Equity Fund \u00b7 LKCM Equity Fund \u00b7 LKCM Fixed Income Fund \u00b7 LKCM International Equity Fund\nStrategy: A family of actively managed funds each required to hold at least 80% of net assets in the asset class or market-cap segment indicated by its name, spanning small-cap, small/mid-cap, broad U.S. equity, fixed income, and international equity sleeves.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LKCM Funds",
-        "etf_name": "LKCM Small Cap Equity Fund \u00b7 LKCM Small-Mid Cap Equity Fund \u00b7 LKCM Equity Fund \u00b7 LKCM Fixed Income Fund \u00b7 LKCM International Equity Fund",
-        "strategy": "A family of actively managed funds each required to hold at least 80% of net assets in the asset class or market-cap segment indicated by its name, spanning small-cap, small/mid-cap, broad U.S. equity, fixed income, and international equity sleeves.",
         "is_alert_worthy": "LOW"
       }
     ],
