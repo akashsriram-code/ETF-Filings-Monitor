@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-26T10:02:11.666330+00:00",
+    "form_type": "485APOS",
+    "cik": "0001860434",
+    "company_name": "Harbor ETF Trust",
+    "accession_number": "0001193125-26-237367",
+    "filed_date": "2026-05-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1860434/000119312526237367/0001193125-26-237367-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1860434/000119312526237367/d25819d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1860434/000119312526237367/d25819d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Harbor ETF Trust\nETF Name: Inc. Munificent Seven ETF Fund\nStrategy: 5 Principal Investment Strategies and Risks 5 Portfolio Holdings Disclosure Policy 10 The Advisor Harbor Capital Advisors, Inc Munificent Seven ETF Investment Objective The Fund seeks long-term growth of capital The Fund provides focused exposure to a concentrated group of large-capitalization energy companies that the Advisor (as defined below) refers to as the \u201cMunificent Seven\u201d\u2014ExxonMobil, Chevron, ConocoPhillips,\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Harbor ETF Trust",
+        "etf_name": "Inc. Munificent Seven ETF Fund",
+        "strategy": "5 Principal Investment Strategies and Risks 5 Portfolio Holdings Disclosure Policy 10 The Advisor Harbor Capital Advisors, Inc Munificent Seven ETF Investment Objective The Fund seeks long-term growth of capital The Fund provides focused exposure to a concentrated group of large-capitalization energy companies that the Advisor (as defined below) refers to as the \u201cMunificent Seven\u201d\u2014ExxonMobil, Chevron, ConocoPhillips,",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-22T21:22:41.081724+00:00",
     "form_type": "485BPOS",
     "cik": "0002038383",
@@ -14461,35 +14490,6 @@
         "filer": "TIAA Separate Account VA-5",
         "etf_name": "However, if the ETF",
         "strategy": "Portfolios are selected based on asset-class coverage, manager track record, performance, and the ability of TIAA/Nuveen affiliates to receive advisory and service payments",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-28T22:15:56.478392+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001364783",
-    "company_name": "TIAA SEPARATE ACCOUNT VA-3",
-    "accession_number": "0001193125-26-187802",
-    "filed_date": "2026-04-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1364783/000119312526187802/0001193125-26-187802-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1364783/000119312526187802/d140798d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1364783/000119312526187802/d140798d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: TIAA (Teachers Insurance and Annuity Association)\nETF Name: TIAA Access Variable Annuity Contract (Separate Account VA-3)\nStrategy: This is a variable annuity separate account \u2014 not an ETF \u2014 offering employer-plan participants access to a menu of underlying funds including CREF Accounts, the TIAA Real Estate Account, and various third-party funds across multiple asset classes. TIAA selects underlying investment options based on criteria such as asset class coverage, adviser reputation, performance, and brand recognition, with affiliates receiving...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "TIAA (Teachers Insurance and Annuity Association)",
-        "etf_name": "TIAA Access Variable Annuity Contract (Separate Account VA-3)",
-        "strategy": "This is a variable annuity separate account \u2014 not an ETF \u2014 offering employer-plan participants access to a menu of underlying funds including CREF Accounts, the TIAA Real Estate Account, and various third-party funds across multiple asset classes. TIAA selects underlying investment options based on criteria such as asset class coverage, adviser reputation, performance, and brand recognition, with affiliates receiving...",
         "is_alert_worthy": "LOW"
       }
     ],
