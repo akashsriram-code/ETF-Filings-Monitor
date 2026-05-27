@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-27T10:40:56.530898+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000009712",
+    "company_name": "PRINCIPAL LIFE INSURANCE CO",
+    "accession_number": "0000009712-26-000082",
+    "filed_date": "2026-05-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/9712/000000971226000082/0000009712-26-000082-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/9712/000000971226000082/pso485bpartc-draftfor050126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/9712/000000971226000082/pso485bpartc-draftfor050126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Principal Life Insurance Company\nETF Name: Principal Real Asset Investments Private Fund\nStrategy: This is a private fund entity disclosed within a Principal Life Insurance Company registration statement covering index-linked annuity contracts (Principal Strategic Outcomes and Principal Strategic Income), not an ETF The filing contains only corporate governance disclosures and subsidiary organizational charts with no investment strategy or objective described\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Principal Life Insurance Company",
+        "etf_name": "Principal Real Asset Investments Private Fund",
+        "strategy": "This is a private fund entity disclosed within a Principal Life Insurance Company registration statement covering index-linked annuity contracts (Principal Strategic Outcomes and Principal Strategic Income), not an ETF The filing contains only corporate governance disclosures and subsidiary organizational charts with no investment strategy or objective described",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-27T10:41:58.653719+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000009712",
+    "company_name": "PRINCIPAL LIFE INSURANCE CO",
+    "accession_number": "0000009712-26-000080",
+    "filed_date": "2026-05-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/9712/000000971226000080/0000009712-26-000080-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/9712/000000971226000080/psi485bpartc-draftfor050126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/9712/000000971226000080/psi485bpartc-draftfor050126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Principal Life Insurance Company (subsidiary of Principal Financial Group, Inc.)\nETF Name: Principal Real Asset Investments Private Fund\nStrategy: The fund is a private investment vehicle within the Principal Life Insurance Company complex; the filing text is limited to corporate governance disclosures, subsidiary ownership charts, and organizational structure as of December 31, 2025, with no investment objective or strategy language present Principal Life Insurance Company also acts as principal underwriter for index-linked annuity contracts (Principal Strateg...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Principal Life Insurance Company (subsidiary of Principal Financial Group, Inc.)",
+        "etf_name": "Principal Real Asset Investments Private Fund",
+        "strategy": "The fund is a private investment vehicle within the Principal Life Insurance Company complex; the filing text is limited to corporate governance disclosures, subsidiary ownership charts, and organizational structure as of December 31, 2025, with no investment objective or strategy language present Principal Life Insurance Company also acts as principal underwriter for index-linked annuity contracts (Principal Strateg...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-26T22:39:44.907858+00:00",
     "form_type": "485APOS",
     "cik": "0002043954",
@@ -7205,7 +7263,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies tied to market index performance, with downside mitigation via buffer or floor percentages and upside limited by cap, participation, or trigger rates A Fixed Crediting Rate Strategy is also available alongside tax-deferred accumulation features\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, not an ETF It offers Indexed Crediting Rate Strategies linked to index performance with upside caps and downside buffers or floors, along with a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14432,64 +14490,6 @@
         "filer": "GMO Trust",
         "etf_name": "Multiple series including GMO Equity Fund, GMO High Yield Fund, and various GMO Bond Funds",
         "strategy": "Select funds integrate ESG criteria as a risk-management tool and may gain exposure through subsidiaries, other GMO funds, or commodities-related ETFs qualifying as publicly traded partnerships",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T18:38:14.349139+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000019034",
-    "company_name": "AIM FUNDS GROUP (INVESCO FUNDS GROUP)",
-    "accession_number": "0001104659-26-051284",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/19034/000110465926051284/0001104659-26-051284-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/19034/000110465926051284/tm2611223d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/19034/000110465926051284/tm2611223d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AIM Funds Group (Invesco Funds Group)\nETF Name: Invesco Small Cap Fund\nStrategy: small-cap equity fund investing at least 80% of net assets in securities of small-capitalization issuers as defined by the Russell 2000\u00ae Index market-cap ceiling Portfolio managers employ a disciplined, sector-aware construction process benchmarked to the Russell 2000\u00ae Index without index replication\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AIM FUNDS GROUP (INVESCO FUNDS GROUP)",
-        "etf_name": "Unknown",
-        "strategy": "of the Fund The Fund invests, under normal circumstances, at least 80% of its net assets (plus any borrowings for investment purposes) in equity securities of small-capitalization issuers The Fund considers a small-capitalization issuer to be one that has a market capitalization no larger than the market capitalization of the largest capitalized issuer included in the Russell 2000 \u00ae Index during the most recent 11-mo",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T18:39:04.360652+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001173488",
-    "company_name": "THRIVENT VARIABLE ANNUITY ACCOUNT I",
-    "accession_number": "0001193125-26-190530",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1173488/000119312526190530/0001193125-26-190530-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1173488/000119312526190530/d60959d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1173488/000119312526190530/d60959d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Thrivent Variable Annuity Account I\nETF Name: Facilitation Fee We may charge a Fund\nStrategy: The variable annuity contract offers investors access to diversified Subaccounts spanning equities and fixed income, with optional death benefit riders and a Fixed Account. Thrivent reserves the right to substitute Subaccount shares based on market conditions and investment objectives, with premiums at or above $1 million requiring prior approval.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Thrivent Variable Annuity Account I",
-        "etf_name": "Facilitation Fee We may charge a Fund",
-        "strategy": "The variable annuity contract offers investors access to diversified Subaccounts spanning equities and fixed income, with optional death benefit riders and a Fixed Account. Thrivent reserves the right to substitute Subaccount shares based on market conditions and investment objectives, with premiums at or above $1 million requiring prior approval.",
         "is_alert_worthy": "LOW"
       }
     ],
