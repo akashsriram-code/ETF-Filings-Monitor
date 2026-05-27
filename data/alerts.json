@@ -1,5 +1,324 @@
 [
   {
+    "created_at": "2026-05-27T21:32:54.092997+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-002155",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002155/0001592900-26-002155-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026002155/ck0001592900-20260527.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002155/ck0001592900-20260527.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Total Annual Fund\nStrategy: by investing in a dynamic, tactical asset allocation portfolio across domestic and international equity markets The Fund invests in domestic and international equity securities (including common stock, other ETFs, real estate investment trusts (\u201cREITs\u201d), American Depositary Receipts (\u201cADRs\u201d), and Global Depositary Receipts (\u201cGDRs\u201d))\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "by investing in a dynamic, tactical asset allocation portfolio across domestic and international equity markets The Fund invests in domestic and international equity securities (including common stock, other ETFs, real estate investment trusts (\u201cREITs\u201d), American Depositary Receipts (\u201cADRs\u201d), and Global Depositary Receipts (\u201cGDRs\u201d))",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-27T21:33:50.837340+00:00",
+    "form_type": "485APOS",
+    "cik": "0001540305",
+    "company_name": "ETF Series Solutions",
+    "accession_number": "0000894189-26-016076",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926016076/0000894189-26-016076-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1540305/000089418926016076/defiancedailytrgtspcx3xetfa.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926016076/defiancedailytrgtspcx3xetfa.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Series Solutions\nETF Name: Defiance Daily Target 3X Long SpaceX ETF\nStrategy: The fund seeks daily investment results targeting three times the daily price performance of Space Exploration Technologies Corp\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Series Solutions",
+        "etf_name": "Defiance Daily Target 3X Long SpaceX ETF",
+        "strategy": "The fund seeks daily investment results targeting three times the daily price performance of Space Exploration Technologies Corp",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-27T21:34:41.062252+00:00",
+    "form_type": "485APOS",
+    "cik": "0001174610",
+    "company_name": "PROSHARES TRUST",
+    "accession_number": "0001174610-26-000213",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000213/0001174610-26-000213-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000213/f45363d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000213/f45363d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ProShares Trust\nETF Name: ProShares Ultra VAST Data (2x Daily)\nStrategy: The fund rebalances daily and does not aim to track cumulative returns over periods longer than one day\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ProShares Trust",
+        "etf_name": "ProShares Ultra VAST Data (2x Daily)",
+        "strategy": "The fund rebalances daily and does not aim to track cumulative returns over periods longer than one day",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-27T21:35:46.390040+00:00",
+    "form_type": "485APOS",
+    "cik": "0001174610",
+    "company_name": "PROSHARES TRUST",
+    "accession_number": "0001174610-26-000212",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000212/0001174610-26-000212-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000212/f45362d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000212/f45362d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ProShares Trust\nETF Name: ProShares Ultra Nscale\nStrategy: It gains leveraged exposure primarily through derivatives including swaps, futures, options, and forward contracts, making it a single-stock leveraged ETF\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ProShares Trust",
+        "etf_name": "ProShares Ultra Nscale",
+        "strategy": "It gains leveraged exposure primarily through derivatives including swaps, futures, options, and forward contracts, making it a single-stock leveraged ETF",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-27T21:36:51.895026+00:00",
+    "form_type": "485APOS",
+    "cik": "0001174610",
+    "company_name": "PROSHARES TRUST",
+    "accession_number": "0001174610-26-000211",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000211/0001174610-26-000211-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000211/f45361d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000211/f45361d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ProShares Trust\nETF Name: ProShares Ultra Crusoe\nStrategy: It gains leveraged exposure through derivatives\u2014swaps, futures, options, and forwards\u2014alongside money-market instruments, rebalancing daily to maintain target exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ProShares Trust",
+        "etf_name": "ProShares Ultra Crusoe",
+        "strategy": "It gains leveraged exposure through derivatives\u2014swaps, futures, options, and forwards\u2014alongside money-market instruments, rebalancing daily to maintain target exposure",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-27T21:37:53.003244+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-002153",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002153/0001592900-26-002153-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026002153/ck0001592900-20260527.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002153/ck0001592900-20260527.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: WHITEWOLF Commercial Real Estate Finance Income ETF (CREF)\nStrategy: Actively managed ETF seeking total return through dividends and capital appreciation by investing at least 80% of net assets in U.S.-listed commercial real estate finance companies, including commercial mortgage REITs, commercial equity REITs, and CRE-focused asset managers/sponsors. The sub-adviser dynamically allocates across these sub-sectors using valuation metrics such as price/earnings ratios to identify upside...\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "WHITEWOLF Commercial Real Estate Finance Income ETF (CREF)",
+        "strategy": "Actively managed ETF seeking total return through dividends and capital appreciation by investing at least 80% of net assets in U.S.-listed commercial real estate finance companies, including commercial mortgage REITs, commercial equity REITs, and CRE-focused asset managers/sponsors. The sub-adviser dynamically allocates across these sub-sectors using valuation metrics such as price/earnings ratios to identify upside...",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-27T21:38:38.430459+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001760588",
+    "company_name": "Zacks Trust",
+    "accession_number": "0001580642-26-003319",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1760588/000158064226003319/0001580642-26-003319-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1760588/000158064226003319/zacks-trust_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1760588/000158064226003319/zacks-trust_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Zacks Trust\nETF Name: Zacks Preferred Income ETF\nStrategy: Actively managed ETF investing primarily in preferred securities with the objective of generating current income Holdings are selected based on a securities-rating-average quality screen rather than tracking a published index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Zacks Trust",
+        "etf_name": "Zacks Preferred Income ETF",
+        "strategy": "Actively managed ETF investing primarily in preferred securities with the objective of generating current income Holdings are selected based on a securities-rating-average quality screen rather than tracking a published index",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-27T21:39:40.426888+00:00",
+    "form_type": "486BPOS",
+    "cik": "0002090145",
+    "company_name": "CAIS Sports, Media & Entertainment Fund",
+    "accession_number": "0001580642-26-003318",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2090145/000158064226003318/0001580642-26-003318-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2090145/000158064226003318/cais_486b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2090145/000158064226003318/cais_486b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: CAIS Sports, Media & Entertainment Fund\nETF Name: CAIS Sports, Media and Entertainment Fund\nStrategy: Non-diversified, closed-end interval fund seeking long-term capital appreciation by allocating to underlying Portfolio Funds focused on the sports, media, and entertainment sectors The fund may hold significant cash to support unfunded commitments and may temporarily invest proceeds in instruments such as the iShares Ultra Short Duration Bond ETF pending deployment into its target strategy\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "CAIS Sports, Media & Entertainment Fund",
+        "etf_name": "CAIS Sports, Media and Entertainment Fund",
+        "strategy": "Non-diversified, closed-end interval fund seeking long-term capital appreciation by allocating to underlying Portfolio Funds focused on the sports, media, and entertainment sectors The fund may hold significant cash to support unfunded commitments and may temporarily invest proceeds in instruments such as the iShares Ultra Short Duration Bond ETF pending deployment into its target strategy",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-27T21:40:26.262066+00:00",
+    "form_type": "485APOS",
+    "cik": "0000914243",
+    "company_name": "TOUCHSTONE FUNDS GROUP TRUST",
+    "accession_number": "0001193125-26-241939",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/914243/000119312526241939/0001193125-26-241939-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/914243/000119312526241939/d48913d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/914243/000119312526241939/d48913d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Touchstone Funds Group Trust\nETF Name: Touchstone Small Cap Value Fund\nStrategy: small-cap value equity fund seeking long-term capital growth, benchmarked to the Bloomberg US 2000 Value Index and Russell 2000 Value Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Touchstone Funds Group Trust",
+        "etf_name": "Touchstone Small Cap Value Fund",
+        "strategy": "small-cap value equity fund seeking long-term capital growth, benchmarked to the Bloomberg US 2000 Value Index and Russell 2000 Value Index",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-27T21:41:19.176991+00:00",
+    "form_type": "485APOS",
+    "cik": "0000711080",
+    "company_name": "TOUCHSTONE STRATEGIC TRUST",
+    "accession_number": "0001193125-26-241925",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/711080/000119312526241925/0001193125-26-241925-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/711080/000119312526241925/d145595d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/711080/000119312526241925/d145595d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Touchstone Strategic Trust\nETF Name: Touchstone Non-US Equity Fund\nStrategy: The fund seeks long-term capital growth by investing in non-U.S Selection criteria emphasize competitive advantages, end-market growth, management quality, valuation, and balance-sheet strength, with additional exposure to Indian securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Touchstone Strategic Trust",
+        "etf_name": "Touchstone Non-US Equity Fund",
+        "strategy": "The fund seeks long-term capital growth by investing in non-U.S Selection criteria emphasize competitive advantages, end-market growth, management quality, valuation, and balance-sheet strength, with additional exposure to Indian securities",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-27T21:42:01.188658+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001816125",
+    "company_name": "Dimensional ETF Trust",
+    "accession_number": "0001816125-26-000095",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1816125/000181612526000095/0001816125-26-000095-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1816125/000181612526000095/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1816125/000181612526000095/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Dimensional ETF Trust\nETF Name: Dimensional US Large Cap Core Equity ETF\nStrategy: large-cap equity ETF that combines research-driven portfolio design, management, and flexible trading to target long-term return drivers such as profitability factors, with broad diversification across companies and sectors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Dimensional ETF Trust",
+        "etf_name": "Dimensional US Large Cap Core Equity ETF",
+        "strategy": "large-cap equity ETF that combines research-driven portfolio design, management, and flexible trading to target long-term return drivers such as profitability factors, with broad diversification across companies and sectors",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-27T19:49:14.709072+00:00",
     "form_type": "485APOS",
     "cik": "0001683471",
@@ -7698,7 +8017,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract (not an ETF) offering Indexed Crediting Rate Strategies linked to market indices with capped upside and partial downside protection via buffers or floors A Fixed Crediting Rate Strategy is also available, and early withdrawals are subject to a Strategy Interim Value Adjustment that can reduce or eliminate invested principal\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies that link returns to market indices with capped upside and partial downside protection via Buffer or Floor Percentages, plus a Fixed Crediting Rate Strategy This is not an ETF but a registered index-linked annuity (RILA) designed for tax-deferred, long-term investing with multi-year strategy periods and i...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14171,325 +14490,6 @@
         "filer": "GOLDMAN SACHS TRUST",
         "etf_name": "Goldman Sachs Managed Futures Strategy Fund",
         "strategy": "Seeks long-term absolute return through a diversified portfolio of equities, equity index futures, bonds, bond futures, equity swaps, and interest rate derivatives in a managed-futures/macro approach Invests across multiple asset classes with a derivatives-intensive structure",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T21:54:20.072501+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001046292",
-    "company_name": "GOLDMAN SACHS VARIABLE INSURANCE TRUST",
-    "accession_number": "0001193125-26-191731",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1046292/000119312526191731/0001193125-26-191731-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1046292/000119312526191731/d109991d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1046292/000119312526191731/d109991d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Goldman Sachs Variable Insurance Trust\nETF Name: Goldman Sachs Buffered S&P 500 Fund \u2013 Jan/Jul; Goldman Sachs Buffered S&P 500 Fund \u2013 Mar/Sep\nStrategy: Both funds employ a defined-outcome (buffered) strategy using FLEX Options on the S&P 500 Price Return Index over rolling six-month Outcome Periods, capping upside while providing a downside buffer against index losses At least 80% of net assets are invested in S&P 500 constituent securities and index-referencing instruments, supplemented by options overlays\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Goldman Sachs Variable Insurance Trust",
-        "etf_name": "Goldman Sachs Buffered S&P 500 Fund \u2013 Jan/Jul; Goldman Sachs Buffered S&P 500 Fund \u2013 Mar/Sep",
-        "strategy": "Both funds employ a defined-outcome (buffered) strategy using FLEX Options on the S&P 500 Price Return Index over rolling six-month Outcome Periods, capping upside while providing a downside buffer against index losses At least 80% of net assets are invested in S&P 500 constituent securities and index-referencing instruments, supplemented by options overlays",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T21:55:38.027695+00:00",
-    "form_type": "486BPOS",
-    "cik": "0002015849",
-    "company_name": "MA Specialty Credit Income Fund",
-    "accession_number": "0001104659-26-051548",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2015849/000110465926051548/0001104659-26-051548-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2015849/000110465926051548/tm2612619d1_486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2015849/000110465926051548/tm2612619d1_486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: MA Asset Management, LLC\nETF Name: MA Specialty Credit Income Fund\nStrategy: The fund seeks to generate current income and capital stability by investing at least 80% of assets in proprietary private loans characterized as specialty credit, asset-based finance, or diversified private credit The portfolio targets low-to-moderate duration, high-yielding, well-collateralized exposures with low correlation to traditional fixed income markets, supplemented by a liquidity sleeve of structured produ...\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "MA Asset Management, LLC",
-        "etf_name": "MA Specialty Credit Income Fund",
-        "strategy": "The fund seeks to generate current income and capital stability by investing at least 80% of assets in proprietary private loans characterized as specialty credit, asset-based finance, or diversified private credit The portfolio targets low-to-moderate duration, high-yielding, well-collateralized exposures with low correlation to traditional fixed income markets, supplemented by a liquidity sleeve of structured produ...",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T21:56:39.066543+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001046292",
-    "company_name": "GOLDMAN SACHS VARIABLE INSURANCE TRUST",
-    "accession_number": "0001193125-26-191709",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1046292/000119312526191709/0001193125-26-191709-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1046292/000119312526191709/d68315d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1046292/000119312526191709/d68315d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Goldman Sachs Variable Insurance Trust\nETF Name: Goldman Sachs Core Fixed Income Fund\nStrategy: Seeks total return through capital appreciation and income by investing at least 80% of net assets in core fixed income securities, using derivatives such as interest rate futures, swaps, and credit default swaps to hedge risk and manage duration\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Goldman Sachs Variable Insurance Trust",
-        "etf_name": "Goldman Sachs Core Fixed Income Fund",
-        "strategy": "Seeks total return through capital appreciation and income by investing at least 80% of net assets in core fixed income securities, using derivatives such as interest rate futures, swaps, and credit default swaps to hedge risk and manage duration",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T21:57:42.049913+00:00",
-    "form_type": "485BPOS",
-    "cik": "0002042316",
-    "company_name": "Victory Portfolios IV",
-    "accession_number": "0001193125-26-191703",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2042316/000119312526191703/0001193125-26-191703-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2042316/000119312526191703/f45197d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2042316/000119312526191703/f45197d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Victory Portfolios IV\nETF Name: Victory Pioneer Core Equity Fund\nStrategy: U.S. core equity fund investing at least 80% of net assets in equities using a value-oriented approach, seeking securities the adviser believes are undervalued.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Victory Portfolios IV",
-        "etf_name": "Victory Pioneer Core Equity Fund",
-        "strategy": "U.S. core equity fund investing at least 80% of net assets in equities using a value-oriented approach, seeking securities the adviser believes are undervalued.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T18:18:48.258200+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001867714",
-    "company_name": "Monachil Credit Income Fund",
-    "accession_number": "0001104659-26-051356",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1867714/000110465926051356/0001104659-26-051356-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1867714/000110465926051356/tm2611839d1_486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1867714/000110465926051356/tm2611839d1_486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Monachil Credit Income Fund\nETF Name: Monachil Credit Income Fund\nStrategy: Targets current income and risk-adjusted returns with low correlation to public equity and fixed income markets by investing primarily in credit instruments outside major high yield and investment grade indexes. May employ leverage and is structured as a successor to the Wolf River INV LLC predecessor fund, which reorganized into the Fund at commencement of operations.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Monachil Credit Income Fund",
-        "etf_name": "Monachil Credit Income Fund",
-        "strategy": "Targets current income and risk-adjusted returns with low correlation to public equity and fixed income markets by investing primarily in credit instruments outside major high yield and investment grade indexes. May employ leverage and is structured as a successor to the Wolf River INV LLC predecessor fund, which reorganized into the Fund at commencement of operations.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T18:19:47.449889+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000796154",
-    "company_name": "Nassau Life Variable Universal Life Account",
-    "accession_number": "0001104659-26-051351",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/796154/000110465926051351/0001104659-26-051351-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/796154/000110465926051351/tm261977d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/796154/000110465926051351/tm261977d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nassau Life Variable Universal Life Account\nETF Name: Morningstar Growth ETF Asset Allocation Portfolio\nStrategy: The portfolio is an ETF-based asset allocation strategy continuously managed to a target allocation policy, seeking long-term capital appreciation through a diversified mix of underlying ETFs\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nassau Life Variable Universal Life Account",
-        "etf_name": "Morningstar Growth ETF Asset Allocation Portfolio",
-        "strategy": "The portfolio is an ETF-based asset allocation strategy continuously managed to a target allocation policy, seeking long-term capital appreciation through a diversified mix of underlying ETFs",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T18:20:48.379657+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000703321",
-    "company_name": "Nassau Life Variable Accumulation Account",
-    "accession_number": "0001104659-26-051343",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/703321/000110465926051343/0001104659-26-051343-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/703321/000110465926051343/tm261975d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/703321/000110465926051343/tm261975d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nassau Life Variable Accumulation Account\nETF Name: Morningstar Growth ETF Asset Allocation Portfolio\nStrategy: The Morningstar Asset Allocation Series constructs risk-based portfolios that invest in ETFs, typically structured as open-end investment companies or unit investment trusts This growth-oriented portfolio is part of a variable annuity sub-account menu spanning ETF-based asset allocation, active equity, sustainable equity, and real-return fixed-income strategies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nassau Life Variable Accumulation Account",
-        "etf_name": "Morningstar Growth ETF Asset Allocation Portfolio",
-        "strategy": "The Morningstar Asset Allocation Series constructs risk-based portfolios that invest in ETFs, typically structured as open-end investment companies or unit investment trusts This growth-oriented portfolio is part of a variable annuity sub-account menu spanning ETF-based asset allocation, active equity, sustainable equity, and real-return fixed-income strategies",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T18:21:31.276502+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001970751",
-    "company_name": "Advisor Managed Portfolios",
-    "accession_number": "0000894189-26-013719",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1970751/000089418926013719/0000894189-26-013719-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1970751/000089418926013719/ck0001970751-20260429.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1970751/000089418926013719/ck0001970751-20260429.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Advisor Managed Portfolios\nETF Name: 1919 Socially Responsive Balanced Fund\nStrategy: Balanced fund seeking high total return through a mix of equity and fixed income securities screened against socially responsive criteria. Securities that no longer meet the fund's social screens are sold, guided by fundamental equity and fixed-income research.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Advisor Managed Portfolios",
-        "etf_name": "1919 Socially Responsive Balanced Fund",
-        "strategy": "Balanced fund seeking high total return through a mix of equity and fixed income securities screened against socially responsive criteria. Securities that no longer meet the fund's social screens are sold, guided by fundamental equity and fixed-income research.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T18:22:32.743908+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001540305",
-    "company_name": "ETF Series Solutions",
-    "accession_number": "0000894189-26-013705",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926013705/0000894189-26-013705-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1540305/000089418926013705/ck0001540305-20260429.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926013705/ck0001540305-20260429.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Series Solutions\nETF Name: Davis Fundamental ETF Trust\nStrategy: Filali pursuant to Powers of Attorney C-8 INDEX TO EXHIBITS Exhibit Number Description (j) Consent of Independent Registered Public Accounting Firm C-9\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Series Solutions",
-        "etf_name": "Davis Fundamental ETF Trust",
-        "strategy": "Filali pursuant to Powers of Attorney C-8 INDEX TO EXHIBITS Exhibit Number Description (j) Consent of Independent Registered Public Accounting Firm C-9",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T18:23:32.254519+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000897111",
-    "company_name": "CARILLON SERIES TRUST",
-    "accession_number": "0001193125-26-190705",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/897111/000119312526190705/0001193125-26-190705-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/897111/000119312526190705/d120942d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/897111/000119312526190705/d120942d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Carillon Series Trust\nETF Name: RJ Chartwell Premium Income ETF (RJPI)\nStrategy: Subadvised by Chartwell Investment Partners, the fund targets a portfolio yield at or above the S&P 500 Index while holding 30\u201340 stocks with options expiries up to 12 months\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Carillon Series Trust",
-        "etf_name": "RJ Chartwell Premium Income ETF (RJPI)",
-        "strategy": "Subadvised by Chartwell Investment Partners, the fund targets a portfolio yield at or above the S&P 500 Index while holding 30\u201340 stocks with options expiries up to 12 months",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T18:24:13.338711+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001039305",
-    "company_name": "THRIVENT VARIABLE LIFE ACCOUNT I",
-    "accession_number": "0001193125-26-190627",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1039305/000119312526190627/0001193125-26-190627-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1039305/000119312526190627/d95392d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1039305/000119312526190627/d95392d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: THRIVENT VARIABLE LIFE ACCOUNT I\nETF Name: DCA Fixed Account accumulated value reflects the Net Premium directed to fund\nStrategy: This is a variable life insurance contract offering subaccounts invested in underlying portfolios of Thrivent Series Fund, Inc., with fixed account and dollar cost averaging options. The contract is designed for long-term investing and includes loan provisions, a no-lapse guarantee feature, and is subject to Thrivent's claims-paying ability.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "THRIVENT VARIABLE LIFE ACCOUNT I",
-        "etf_name": "DCA Fixed Account accumulated value reflects the Net Premium directed to fund",
-        "strategy": "This is a variable life insurance contract offering subaccounts invested in underlying portfolios of Thrivent Series Fund, Inc., with fixed account and dollar cost averaging options. The contract is designed for long-term investing and includes loan provisions, a no-lapse guarantee feature, and is subject to Thrivent's claims-paying ability.",
         "is_alert_worthy": "LOW"
       }
     ],
