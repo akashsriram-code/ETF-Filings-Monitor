@@ -1,5 +1,179 @@
 [
   {
+    "created_at": "2026-05-27T19:49:14.709072+00:00",
+    "form_type": "485APOS",
+    "cik": "0001683471",
+    "company_name": "Listed Funds Trust",
+    "accession_number": "0000894189-26-016053",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926016053/0000894189-26-016053-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1683471/000089418926016053/xetfskorea485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926016053/xetfskorea485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Listed Funds Trust\nETF Name: Certificate of Trust of Active Weighting Funds ETF Trust\nStrategy: The fund resets daily and employs derivatives and leverage, with no multi-day return objective\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Listed Funds Trust",
+        "etf_name": "Certificate of Trust of Active Weighting Funds ETF Trust",
+        "strategy": "The fund resets daily and employs derivatives and leverage, with no multi-day return objective",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-27T19:50:04.674989+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000789281",
+    "company_name": "Federated Hermes Income Securities Trust",
+    "accession_number": "0001623632-26-000760",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/789281/000162363226000760/0001623632-26-000760-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/789281/000162363226000760/fist2487-form.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/789281/000162363226000760/fist2487-form.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Federated Hermes Income Securities Trust\nETF Name: Federated Hermes Floating Rate Strategic Income Fund\nStrategy: Seeks total return with current income and low interest-rate volatility by investing across domestic investment-grade, domestic noninvestment-grade, and foreign floating-rate fixed-income securities, with no single category exceeding 75% of assets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Federated Hermes Income Securities Trust",
+        "etf_name": "Federated Hermes Floating Rate Strategic Income Fund",
+        "strategy": "Seeks total return with current income and low interest-rate volatility by investing across domestic investment-grade, domestic noninvestment-grade, and foreign floating-rate fixed-income securities, with no single category exceeding 75% of assets",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-27T19:51:04.473732+00:00",
+    "form_type": "485APOS",
+    "cik": "0001003239",
+    "company_name": "SEASONS SERIES TRUST",
+    "accession_number": "0001193125-26-241583",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1003239/000119312526241583/0001193125-26-241583-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1003239/000119312526241583/d129051d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1003239/000119312526241583/d129051d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SunAmerica Series Trust\nETF Name: SA Multi-Managed International Equity Portfolio\nStrategy: The portfolio targets international equity exposure using index-replication and optimization strategies, with the ability to invest in ETFs, other investment companies, and foreign securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SunAmerica Series Trust",
+        "etf_name": "SA Multi-Managed International Equity Portfolio",
+        "strategy": "The portfolio targets international equity exposure using index-replication and optimization strategies, with the ability to invest in ETFs, other investment companies, and foreign securities",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-27T19:52:16.381499+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-001065",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001065/0001771146-26-001065-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626001065/ck0001771146-20260527.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001065/ck0001771146-20260527.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Tuttle Capital Photonics Income Blast ETF\nStrategy: Actively managed thematic ETF that seeks current income as a primary objective and long-term capital appreciation as a secondary objective, focused on the photonics sector Employs swap agreements and other derivatives rather than direct securities holdings to generate income atop photonics equity exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Opportunities Trust",
+        "etf_name": "Tuttle Capital Photonics Income Blast ETF",
+        "strategy": "Actively managed thematic ETF that seeks current income as a primary objective and long-term capital appreciation as a secondary objective, focused on the photonics sector Employs swap agreements and other derivatives rather than direct securities holdings to generate income atop photonics equity exposure",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-27T19:53:04.404721+00:00",
+    "form_type": "486BPOS",
+    "cik": "0001677615",
+    "company_name": "Federated Hermes Project & Trade Finance Tender Fund",
+    "accession_number": "0001623632-26-000758",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1677615/000162363226000758/0001623632-26-000758-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1677615/000162363226000758/fptft2512-form.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1677615/000162363226000758/fptft2512-form.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Federated Hermes\nETF Name: Federated Hermes Project and Trade Finance Tender Fund\nStrategy: The fund benchmarks against the ICE BofA US Dollar 1-Month Deposit Offered Rate Constant Maturity Index, targeting low volatility and low correlation to equities, fixed income, and commodities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Federated Hermes",
+        "etf_name": "Federated Hermes Project and Trade Finance Tender Fund",
+        "strategy": "The fund benchmarks against the ICE BofA US Dollar 1-Month Deposit Offered Rate Constant Maturity Index, targeting low volatility and low correlation to equities, fixed income, and commodities",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-27T19:53:50.813768+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-001061",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001061/0001771146-26-001061-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626001061/ck0001771146-20260527.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001061/ck0001771146-20260527.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Hedgeye Index Adds ETF\nStrategy: equity ETF employing an \"Index Rebalance Strategy\" that buys stocks expected to be added to major U.S Invests across large-, mid-, and small-cap companies meeting or approaching index-inclusion criteria, with a 20% single-issuer position cap and potential use of derivatives and leverage\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Opportunities Trust",
+        "etf_name": "Hedgeye Index Adds ETF",
+        "strategy": "equity ETF employing an \"Index Rebalance Strategy\" that buys stocks expected to be added to major U.S Invests across large-, mid-, and small-cap companies meeting or approaching index-inclusion criteria, with a 20% single-issuer position cap and potential use of derivatives and leverage",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-27T17:36:43.288635+00:00",
     "form_type": "485BPOS",
     "cik": "0001587982",
@@ -7524,7 +7698,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, not an ETF It offers Indexed Crediting Rate Strategies linked to market index performance with upside limited by cap, participation, or trigger rates and downside partially mitigated by buffer or floor percentages, alongside a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract (not an ETF) offering Indexed Crediting Rate Strategies linked to market indices with capped upside and partial downside protection via buffers or floors A Fixed Crediting Rate Strategy is also available, and early withdrawals are subject to a Strategy Interim Value Adjustment that can reduce or eliminate invested principal\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14316,180 +14490,6 @@
         "filer": "THRIVENT VARIABLE LIFE ACCOUNT I",
         "etf_name": "DCA Fixed Account accumulated value reflects the Net Premium directed to fund",
         "strategy": "This is a variable life insurance contract offering subaccounts invested in underlying portfolios of Thrivent Series Fund, Inc., with fixed account and dollar cost averaging options. The contract is designed for long-term investing and includes loan provisions, a no-lapse guarantee feature, and is subject to Thrivent's claims-paying ability.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T18:24:57.305524+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001096012",
-    "company_name": "AMERICAN BEACON SELECT FUNDS",
-    "accession_number": "0001133228-26-007191",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1096012/000113322826007191/0001133228-26-007191-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1096012/000113322826007191/absf-efp24112_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1096012/000113322826007191/absf-efp24112_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: American Beacon Select Funds\nETF Name: American Beacon U.S. Government Money Market Select Fund\nStrategy: Government money market fund seeking current income, liquidity, and maintenance of a stable $1.00 per share NAV by investing in U.S. government securities consistent with Rule 2a-7 quality, maturity, liquidity, and diversification requirements.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "American Beacon Select Funds",
-        "etf_name": "American Beacon U.S. Government Money Market Select Fund",
-        "strategy": "Government money market fund seeking current income, liquidity, and maintenance of a stable $1.00 per share NAV by investing in U.S. government securities consistent with Rule 2a-7 quality, maturity, liquidity, and diversification requirements.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T18:25:40.795694+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001039305",
-    "company_name": "THRIVENT VARIABLE LIFE ACCOUNT I",
-    "accession_number": "0001193125-26-190613",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1039305/000119312526190613/0001193125-26-190613-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1039305/000119312526190613/d39306d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1039305/000119312526190613/d39306d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Thrivent Variable Life Account I\nETF Name: Periodic Charges Other Than Fund\nStrategy: This is not an ETF filing; it is a variable life insurance separate account prospectus offering subaccounts that invest in underlying portfolios across equities and fixed income\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Thrivent Variable Life Account I",
-        "etf_name": "Periodic Charges Other Than Fund",
-        "strategy": "This is not an ETF filing; it is a variable life insurance separate account prospectus offering subaccounts that invest in underlying portfolios across equities and fixed income",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T18:26:20.774295+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000915756",
-    "company_name": "THRIVENT VARIABLE INSURANCE ACCOUNT A",
-    "accession_number": "0001193125-26-190608",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/915756/000119312526190608/0001193125-26-190608-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/915756/000119312526190608/d22819d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/915756/000119312526190608/d22819d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Thrivent Financial for Lutherans (via Thrivent Variable Insurance Account A)\nETF Name: Subaccount transfers made in a Contract Year. Periodic Charges Other Than Fund\nStrategy: Annual portfolio operating expenses range from 0.22% to 1.52%, and no new contracts are being issued under this registration\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Thrivent Financial for Lutherans (via Thrivent Variable Insurance Account A)",
-        "etf_name": "Subaccount transfers made in a Contract Year. Periodic Charges Other Than Fund",
-        "strategy": "Annual portfolio operating expenses range from 0.22% to 1.52%, and no new contracts are being issued under this registration",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T18:27:02.075512+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001039305",
-    "company_name": "THRIVENT VARIABLE LIFE ACCOUNT I",
-    "accession_number": "0001193125-26-190601",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1039305/000119312526190601/0001193125-26-190601-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1039305/000119312526190601/d278986d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1039305/000119312526190601/d278986d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Thrivent Financial for Lutherans\nETF Name: Periodic Charges Other Than Fund\nStrategy: The product is closed to new policyholders and includes standard loan, death benefit, and reinsurance provisions with no material strategy changes\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Thrivent Financial for Lutherans",
-        "etf_name": "Periodic Charges Other Than Fund",
-        "strategy": "The product is closed to new policyholders and includes standard loan, death benefit, and reinsurance provisions with no material strategy changes",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T18:27:58.684634+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000809593",
-    "company_name": "AMERICAN BEACON FUNDS",
-    "accession_number": "0001133228-26-007184",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/809593/000113322826007184/0001133228-26-007184-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/809593/000113322826007184/abf-efp24111_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/809593/000113322826007184/abf-efp24111_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: American Beacon Funds\nETF Name: Fund might be unable or unwilling to deliver them when a Fund\nStrategy: The Man-sub-advised funds target U.S. large-cap equities split across growth and value styles, while the Stephens-sub-advised funds pursue growth-oriented strategies in the U.S.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "American Beacon Funds",
-        "etf_name": "Fund might be unable or unwilling to deliver them when a Fund",
-        "strategy": "The Man-sub-advised funds target U.S. large-cap equities split across growth and value styles, while the Stephens-sub-advised funds pursue growth-oriented strategies in the U.S.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T18:28:41.708883+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001039305",
-    "company_name": "THRIVENT VARIABLE LIFE ACCOUNT I",
-    "accession_number": "0001193125-26-190592",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1039305/000119312526190592/0001193125-26-190592-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1039305/000119312526190592/d279036d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1039305/000119312526190592/d279036d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Thrivent Financial\nETF Name: Periodic Charges Other Than Fund\nStrategy: This is a closed variable life insurance contract prospectus, not an ETF, allowing existing policyholders to allocate cash value among multiple subaccounts investing in underlying Thrivent portfolios. No new contracts are being issued, and the filing is a routine maintenance update for current contract holders.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Thrivent Financial",
-        "etf_name": "Periodic Charges Other Than Fund",
-        "strategy": "This is a closed variable life insurance contract prospectus, not an ETF, allowing existing policyholders to allocate cash value among multiple subaccounts investing in underlying Thrivent portfolios. No new contracts are being issued, and the filing is a routine maintenance update for current contract holders.",
         "is_alert_worthy": "LOW"
       }
     ],
