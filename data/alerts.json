@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-05-28T12:06:37.445443+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000734383",
+    "company_name": "VANGUARD SPECIALIZED FUNDS",
+    "accession_number": "0000734383-26-000129",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/734383/000073438326000129/0000734383-26-000129-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/734383/000073438326000129/f45325d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/734383/000073438326000129/f45325d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VANGUARD SPECIALIZED FUNDS\nETF Name: Unknown\nStrategy: If you have any questions about the Vanguard funds or Vanguard, including those about a fund\u2019s investment objective, strategies, or risks, contact Vanguard Participant Services toll-free at 800-523-1188 or visit our website at vanguard.com If you have any questions about the Vanguard funds or Vanguard, including those about a fund\u2019s investment objective, strategies, or risks, contact Vanguard Participant Services tol\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VANGUARD SPECIALIZED FUNDS",
+        "etf_name": "Unknown",
+        "strategy": "If you have any questions about the Vanguard funds or Vanguard, including those about a fund\u2019s investment objective, strategies, or risks, contact Vanguard Participant Services toll-free at 800-523-1188 or visit our website at vanguard.com If you have any questions about the Vanguard funds or Vanguard, including those about a fund\u2019s investment objective, strategies, or risks, contact Vanguard Participant Services tol",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-28T12:08:00.032528+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000106444",
+    "company_name": "VANGUARD FIXED INCOME SECURITIES FUNDS",
+    "accession_number": "0000106444-26-000213",
+    "filed_date": "2026-05-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/106444/000010644426000213/0000106444-26-000213-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/106444/000010644426000213/f45326d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/106444/000010644426000213/f45326d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Vanguard Fixed Income Securities Funds\nETF Name: Vanguard High-Yield Active ETF (VGHY)\nStrategy: high-yield corporate bond ETF that invests at least 80% of net assets in corporate bonds rated below Baa (below investment grade), primarily in a diversified group of high-yielding, higher-risk corporate bonds with flexibility to opportunistically invest in adjacent sectors like bank loans and U.S The fund seeks to provide a high level of current income with an alpha target of 40 basis points over its benchmark, the...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Vanguard Fixed Income Securities Funds",
+        "etf_name": "Vanguard High-Yield Active ETF (VGHY)",
+        "strategy": "high-yield corporate bond ETF that invests at least 80% of net assets in corporate bonds rated below Baa (below investment grade), primarily in a diversified group of high-yielding, higher-risk corporate bonds with flexibility to opportunistically invest in adjacent sectors like bank loans and U.S The fund seeks to provide a high level of current income with an alpha target of 40 basis points over its benchmark, the...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-27T21:32:54.092997+00:00",
     "form_type": "485BPOS",
     "cik": "0001592900",
@@ -8017,7 +8075,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering indexed crediting rate strategies with capped upside (via cap rates, participation rates, or trigger rates) and partial downside protection through buffer or floor percentages, alongside a fixed crediting rate strategy This is not an ETF; it is a registered indexed-linked annuity (RILA) designed for tax-deferred, long-term investing with...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies that link returns to underlying indices, subject to caps, participation rates, buffers, or floors, alongside a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14432,64 +14490,6 @@
         "filer": "Victory Variable Insurance Funds II",
         "etf_name": "MasterShares ETF",
         "strategy": "value equity, and mid-cap value/growth equity, each required to invest at least 80% of assets in line with its stated mandate",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T21:52:07.378029+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000822977",
-    "company_name": "GOLDMAN SACHS TRUST",
-    "accession_number": "0001193125-26-191870",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/822977/000119312526191870/0001193125-26-191870-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/822977/000119312526191870/d16960d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/822977/000119312526191870/d16960d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Goldman Sachs Trust\nETF Name: Goldman Sachs Conservative Allocation Fund\nStrategy: Multi-asset fund-of-funds that invests in affiliated and unaffiliated underlying funds and ETFs across specified equity, fixed income, and alternative allocation ranges, benchmarked to the Conservative Allocation Composite Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Goldman Sachs Trust",
-        "etf_name": "Goldman Sachs Conservative Allocation Fund",
-        "strategy": "Multi-asset fund-of-funds that invests in affiliated and unaffiliated underlying funds and ETFs across specified equity, fixed income, and alternative allocation ranges, benchmarked to the Conservative Allocation Composite Index",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T21:53:19.673501+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000822977",
-    "company_name": "GOLDMAN SACHS TRUST",
-    "accession_number": "0001193125-26-191803",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/822977/000119312526191803/0001193125-26-191803-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/822977/000119312526191803/d75024d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/822977/000119312526191803/d75024d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GOLDMAN SACHS TRUST\nETF Name: Goldman Sachs Managed Futures Strategy Fund\nStrategy: Seeks long-term absolute return through a diversified portfolio of equities, equity index futures, bonds, bond futures, equity swaps, and interest rate derivatives in a managed-futures/macro approach Invests across multiple asset classes with a derivatives-intensive structure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GOLDMAN SACHS TRUST",
-        "etf_name": "Goldman Sachs Managed Futures Strategy Fund",
-        "strategy": "Seeks long-term absolute return through a diversified portfolio of equities, equity index futures, bonds, bond futures, equity swaps, and interest rate derivatives in a managed-futures/macro approach Invests across multiple asset classes with a derivatives-intensive structure",
         "is_alert_worthy": "LOW"
       }
     ],
