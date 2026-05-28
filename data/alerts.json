@@ -1,5 +1,208 @@
 [
   {
+    "created_at": "2026-05-28T19:22:10.291467+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002078265",
+    "company_name": "Corgi ETF Trust I",
+    "accession_number": "0002078265-26-000182",
+    "filed_date": "2026-05-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000182/0002078265-26-000182-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2078265/000207826526000182/cik0002078265-20260528.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000182/cik0002078265-20260528.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Corgi ETF Trust I\nETF Name: Inside Ownership 100 ETF\nStrategy: equity ETF that seeks to track the Inside Ownership 100 Index, which selects and reweights S&P 500 constituents based on the market value of shares held by corporate insiders rather than free-float-adjusted market capitalization The fund invests at least 80% of net assets in index equities and may use derivatives such as total return swaps for additional exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Corgi ETF Trust I",
+        "etf_name": "Inside Ownership 100 ETF",
+        "strategy": "equity ETF that seeks to track the Inside Ownership 100 Index, which selects and reweights S&P 500 constituents based on the market value of shares held by corporate insiders rather than free-float-adjusted market capitalization The fund invests at least 80% of net assets in index equities and may use derivatives such as total return swaps for additional exposure",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-28T19:23:00.548736+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-002332",
+    "filed_date": "2026-05-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002332/0001592900-26-002332-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026002332/ck0001592900-20260528.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002332/ck0001592900-20260528.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: JLens 500 Jewish Advocacy U.S. ETF\nStrategy: Passively tracks the JLens 500 Jewish Advocacy U.S Index, a responsible-investing equity benchmark applying Jewish-values-based advocacy screens, investing at least 80% of net assets in U.S.-traded securities\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "JLens 500 Jewish Advocacy U.S. ETF",
+        "strategy": "Passively tracks the JLens 500 Jewish Advocacy U.S Index, a responsible-investing equity benchmark applying Jewish-values-based advocacy screens, investing at least 80% of net assets in U.S.-traded securities",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-28T19:23:46.278217+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000225604",
+    "company_name": "MFS SERIES TRUST III",
+    "accession_number": "0000912938-26-000658",
+    "filed_date": "2026-05-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/225604/000091293826000658/0000912938-26-000658-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/225604/000091293826000658/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/225604/000091293826000658/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: MFS SERIES TRUST III\nETF Name: MFS Global High Yield Fund\nStrategy: The fund invests in global high-yield fixed-income securities, including foreign-currency-denominated bonds and derivatives, seeking income and total return across international credit markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "MFS SERIES TRUST III",
+        "etf_name": "MFS Global High Yield Fund",
+        "strategy": "The fund invests in global high-yield fixed-income securities, including foreign-currency-denominated bonds and derivatives, seeking income and total return across international credit markets",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-28T19:24:42.162131+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000745463",
+    "company_name": "Eaton Vance Mutual Funds Trust",
+    "accession_number": "0001133228-26-008463",
+    "filed_date": "2026-05-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/745463/000113322826008463/0001133228-26-008463-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/745463/000113322826008463/pvrpevmft-efp24766_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/745463/000113322826008463/pvrpevmft-efp24766_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Eaton Vance Mutual Funds Trust\nETF Name: Parametric International Equity Fund\nStrategy: Seeks long-term capital appreciation through a diversified portfolio of international equities across multiple share classes Managed by Parametric's investment strategy team with expense reimbursement arrangements capping net expenses\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Eaton Vance Mutual Funds Trust",
+        "etf_name": "Parametric International Equity Fund",
+        "strategy": "Seeks long-term capital appreciation through a diversified portfolio of international equities across multiple share classes Managed by Parametric's investment strategy team with expense reimbursement arrangements capping net expenses",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-28T19:25:40.334025+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000809593",
+    "company_name": "AMERICAN BEACON FUNDS",
+    "accession_number": "0001133228-26-008457",
+    "filed_date": "2026-05-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/809593/000113322826008457/0001133228-26-008457-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/809593/000113322826008457/abf-efp24889_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/809593/000113322826008457/abf-efp24889_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: American Beacon Funds\nETF Name: American Beacon NIS Core Plus Bond Fund\nStrategy: The Fund invests at least 80% of net assets in fixed income securities using a combined top-down/bottom-up relative value process, managed to maintain similar overall interest rate risk to the Bloomberg US Aggregate Bond Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "American Beacon Funds",
+        "etf_name": "American Beacon NIS Core Plus Bond Fund",
+        "strategy": "The Fund invests at least 80% of net assets in fixed income securities using a combined top-down/bottom-up relative value process, managed to maintain similar overall interest rate risk to the Bloomberg US Aggregate Bond Index",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-28T19:26:43.215671+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001096012",
+    "company_name": "AMERICAN BEACON SELECT FUNDS",
+    "accession_number": "0001133228-26-008454",
+    "filed_date": "2026-05-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1096012/000113322826008454/0001133228-26-008454-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1096012/000113322826008454/absf-efp24888_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1096012/000113322826008454/absf-efp24888_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: American Beacon Select Funds\nETF Name: American Beacon AHL Trend ETF\nStrategy: The fund seeks capital growth by implementing a quantitative, systematic investment process designed to capitalize on price trends across more than 20 global markets\u2014including stock indices, bonds, and currencies\u2014using derivative instruments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "American Beacon Select Funds",
+        "etf_name": "American Beacon AHL Trend ETF",
+        "strategy": "The fund seeks capital growth by implementing a quantitative, systematic investment process designed to capitalize on price trends across more than 20 global markets\u2014including stock indices, bonds, and currencies\u2014using derivative instruments",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-28T19:28:29.860266+00:00",
+    "form_type": "485APOS",
+    "cik": "0001742912",
+    "company_name": "Tidal Trust I",
+    "accession_number": "0001999371-26-011597",
+    "filed_date": "2026-05-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126011597/0001999371-26-011597-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1742912/000199937126011597/sofi-485apos_052826.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126011597/sofi-485apos_052826.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust I\nETF Name: SoFi Robotaxi and Autonomous Vehicles ETF\nStrategy: Passively managed ETF tracking the BITA Robotaxi Select Index, identifying companies materially involved in the robotaxi and autonomous vehicle ecosystem Uses a rules-based methodology evaluating revenue exposure, R&D activity, strategic partnerships, government contracts, and patent filings\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust I",
+        "etf_name": "SoFi Robotaxi and Autonomous Vehicles ETF",
+        "strategy": "Passively managed ETF tracking the BITA Robotaxi Select Index, identifying companies materially involved in the robotaxi and autonomous vehicle ecosystem Uses a rules-based methodology evaluating revenue exposure, R&D activity, strategic partnerships, government contracts, and patent filings",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-28T16:35:01.473913+00:00",
     "form_type": "485BPOS",
     "cik": "0000914529",
@@ -8655,7 +8858,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies tied to market index performance, with downside protection via buffer or floor percentages and upside limited by cap, participation, or trigger rates A Fixed Crediting Rate Strategy is also available, and the product is designed for tax-deferred, long-term financial goals\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies tied to market indices with upside limited by cap, participation, or trigger rates and downside limited by buffer or floor percentages A Fixed Crediting Rate Strategy is also available, and the product is designed for tax-deferred, long-term financial goals\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14287,209 +14490,6 @@
         "filer": "Unified Series Trust",
         "etf_name": "Q India Equity Fund",
         "strategy": "The fund seeks long-term capital appreciation by investing at least 80% of net assets in equity securities of Indian issuers, using a bottom-up, value-oriented portfolio construction process with intensive qualitative and quantitative fundamental analysis The portfolio generally holds listed Indian equities with average daily trading volume of at least USD 1 million, with flexibility to hold cash and government secur...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T21:24:24.476461+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001526787",
-    "company_name": "Natixis ETF Trust",
-    "accession_number": "0001133228-26-007263",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1526787/000113322826007263/0001133228-26-007263-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1526787/000113322826007263/neftt-efp24066_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1526787/000113322826007263/neftt-efp24066_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Natixis ETF Trust\nETF Name: Natixis Vaughan Nelson Select ETF (VNSE)\nStrategy: equity ETF subadvised by Vaughan Nelson that seeks long-term capital appreciation by investing in stocks with undervalued assets, earnings growth, or dividend yield The fund does not track an index and was originally structured as a non-transparent (semi-transparent) ETF using a proxy portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Natixis ETF Trust",
-        "etf_name": "Natixis Vaughan Nelson Select ETF (VNSE)",
-        "strategy": "equity ETF subadvised by Vaughan Nelson that seeks long-term capital appreciation by investing in stocks with undervalued assets, earnings growth, or dividend yield The fund does not track an index and was originally structured as a non-transparent (semi-transparent) ETF using a proxy portfolio",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T21:25:34.181213+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000052136",
-    "company_name": "Natixis Funds Trust II",
-    "accession_number": "0001133228-26-007261",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/52136/000113322826007261/0001133228-26-007261-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/52136/000113322826007261/nftii-efp24062_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/52136/000113322826007261/nftii-efp24062_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Natixis Funds Trust II\nETF Name: Natixis ETF Trust\nStrategy: This is a standard annual prospectus for eight Natixis/Loomis Sayles actively managed mutual funds spanning U.S. and international equities, high-yield bonds, investment-grade fixed income, and multi-sector income strategies offered in traditional share classes (A, C, N, Y, Admin).\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Natixis Funds Trust II",
-        "etf_name": "Natixis ETF Trust",
-        "strategy": "This is a standard annual prospectus for eight Natixis/Loomis Sayles actively managed mutual funds spanning U.S. and international equities, high-yield bonds, investment-grade fixed income, and multi-sector income strategies offered in traditional share classes (A, C, N, Y, Admin).",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T21:26:40.387010+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000872649",
-    "company_name": "LOOMIS SAYLES FUNDS II",
-    "accession_number": "0001133228-26-007258",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/872649/000113322826007258/0001133228-26-007258-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/872649/000113322826007258/lsii-efp24065_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/872649/000113322826007258/lsii-efp24065_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LOOMIS SAYLES FUNDS II\nETF Name: Natixis ETF Trust\nStrategy: The fund family spans high-yield fixed income (80%+ in below-investment-grade bonds with CLO, private credit, and derivative flexibility), investment-grade bonds, multi-sector strategic income/alpha, international growth equities, and U.S. equity value/opportunistic strategies sub-advised by Loomis Sayles and Oakmark.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LOOMIS SAYLES FUNDS II",
-        "etf_name": "Natixis ETF Trust",
-        "strategy": "The fund family spans high-yield fixed income (80%+ in below-investment-grade bonds with CLO, private credit, and derivative flexibility), investment-grade bonds, multi-sector strategic income/alpha, international growth equities, and U.S. equity value/opportunistic strategies sub-advised by Loomis Sayles and Oakmark.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T21:28:08.771976+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000811161",
-    "company_name": "CLEARWATER INVESTMENT TRUST",
-    "accession_number": "0001193125-26-192120",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/811161/000119312526192120/0001193125-26-192120-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/811161/000119312526192120/d274160d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/811161/000119312526192120/d274160d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: CLEARWATER INVESTMENT TRUST\nETF Name: Clearwater Tax-Exempt Bond Fund\nStrategy: The Fund seeks high current income exempt from U.S The Fund may invest up to 20% of its assets in bonds that generate interest income subject to federal alternative minimum tax for individuals\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "CLEARWATER INVESTMENT TRUST",
-        "etf_name": "Clearwater Tax-Exempt Bond Fund",
-        "strategy": "The Fund seeks high current income exempt from U.S The Fund may invest up to 20% of its assets in bonds that generate interest income subject to federal alternative minimum tax for individuals",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T21:29:11.583992+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001484750",
-    "company_name": "COHEN & STEERS PREFERRED SECURITIES & INCOME FUND, INC.",
-    "accession_number": "0001193125-26-192104",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1484750/000119312526192104/0001193125-26-192104-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1484750/000119312526192104/d864613d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1484750/000119312526192104/d864613d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Cohen & Steers Preferred Securities and Income Fund, Inc\nETF Name: Cohen & Steers Real Assets Fund\nStrategy: The fund invests in real assets and may allocate up to 25% of its total assets to Cohen & Steers Real Assets Fund, Ltd., a wholly-owned Cayman Islands subsidiary\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Cohen & Steers Preferred Securities and Income Fund, Inc",
-        "etf_name": "Cohen & Steers Real Assets Fund",
-        "strategy": "The fund invests in real assets and may allocate up to 25% of its total assets to Cohen & Steers Real Assets Fund, Ltd., a wholly-owned Cayman Islands subsidiary",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T21:30:08.308167+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000917469",
-    "company_name": "LOOMIS SAYLES FUNDS I",
-    "accession_number": "0001133228-26-007255",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/917469/000113322826007255/0001133228-26-007255-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/917469/000113322826007255/sft-efp24064_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/917469/000113322826007255/sft-efp24064_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Loomis Sayles Funds I\nETF Name: Loomis Sayles Investment Grade Fixed Income Fund\nStrategy: Invests primarily in investment-grade fixed-income securities within the Natixis fund complex Limited additional strategy detail is available in the filing excerpt beyond its investment-grade mandate\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Loomis Sayles Funds I",
-        "etf_name": "Loomis Sayles Investment Grade Fixed Income Fund",
-        "strategy": "Invests primarily in investment-grade fixed-income securities within the Natixis fund complex Limited additional strategy detail is available in the filing excerpt beyond its investment-grade mandate",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T21:31:08.600466+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000770540",
-    "company_name": "Natixis Funds Trust I",
-    "accession_number": "0001133228-26-007254",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/770540/000113322826007254/0001133228-26-007254-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/770540/000113322826007254/nfti-efp24061_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/770540/000113322826007254/nfti-efp24061_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Natixis Funds Trust I\nETF Name: Gateway Fund\nStrategy: equity buy-write fund that holds approximately 200\u2013400 stocks (including ADRs and REITs) while continuously selling broad-based index call options with notional value roughly equal to the portfolio's market value, mirroring the Cboe S&P 500 BuyWrite Index (BXM)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Natixis Funds Trust I",
-        "etf_name": "Gateway Fund",
-        "strategy": "equity buy-write fund that holds approximately 200\u2013400 stocks (including ADRs and REITs) while continuously selling broad-based index call options with notional value roughly equal to the portfolio's market value, mirroring the Cboe S&P 500 BuyWrite Index (BXM)",
         "is_alert_worthy": "LOW"
       }
     ],
