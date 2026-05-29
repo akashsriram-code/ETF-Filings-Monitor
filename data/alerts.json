@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-05-29T15:43:38.795283+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000719603",
+    "company_name": "EUPAC FUND",
+    "accession_number": "0000051931-26-000586",
+    "filed_date": "2026-05-29",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/719603/000005193126000586/0000051931-26-000586-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/719603/000005193126000586/ck0000719603-20260529.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/719603/000005193126000586/ck0000719603-20260529.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EUPAC FUND\nETF Name: Unknown\nStrategy: The fund\u2019s financial statements, including the investment portfolio and the report of the fund\u2019s independent registered public accounting firm contained in the fund\u2019s Form N-CSR, are included in this statement of additional information The fund\u2019s financial statements, including the investment portfolio and the report of the fund\u2019s independent registered public accounting firm contained in the fund\u2019s Form N-CSR, are i\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EUPAC FUND",
+        "etf_name": "Unknown",
+        "strategy": "The fund\u2019s financial statements, including the investment portfolio and the report of the fund\u2019s independent registered public accounting firm contained in the fund\u2019s Form N-CSR, are included in this statement of additional information The fund\u2019s financial statements, including the investment portfolio and the report of the fund\u2019s independent registered public accounting firm contained in the fund\u2019s Form N-CSR, are i",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-29T15:43:40.778653+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-005786",
+    "filed_date": "2026-05-29",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626005786/0001829126-26-005786-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626005786/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626005786/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Long VAST Data Daily ETF\nStrategy: The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily leveraged investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Long VAST Data Daily ETF",
+        "strategy": "The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily leveraged investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-05-29T15:43:42.875257+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-005783",
+    "filed_date": "2026-05-29",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626005783/0001829126-26-005783-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626005783/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626005783/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Long Crusoe Daily ETF\nStrategy: The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily leveraged investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Long Crusoe Daily ETF",
+        "strategy": "The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily leveraged investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-29T11:56:31.013656+00:00",
     "form_type": "486BPOS",
     "cik": "0001869040",
@@ -14407,93 +14494,6 @@
       }
     ],
     "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T22:20:20.623793+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001343668",
-    "company_name": "Alternative Investment Partners Absolute Return Fund STS",
-    "accession_number": "0001133228-26-007281",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1343668/000113322826007281/0001133228-26-007281-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1343668/000113322826007281/aarfs-efp24449_486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1343668/000113322826007281/aarfs-efp24449_486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Morgan Stanley Alternative Investment Partners\nETF Name: Alternative Investment Partners Absolute Return Fund STS\nStrategy: The Fund seeks capital appreciation through a master-feeder structure, allocating substantially all assets to third-party-managed investment funds employing a variety of absolute-return strategies aimed at attractive risk-adjusted returns and capital preservation The Master Fund selects and monitors underlying hedge fund managers to achieve returns with moderate correlation to global equity indices, using derivatives...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Morgan Stanley Alternative Investment Partners",
-        "etf_name": "Alternative Investment Partners Absolute Return Fund STS",
-        "strategy": "The Fund seeks capital appreciation through a master-feeder structure, allocating substantially all assets to third-party-managed investment funds employing a variety of absolute-return strategies aimed at attractive risk-adjusted returns and capital preservation The Master Fund selects and monitors underlying hedge fund managers to achieve returns with moderate correlation to global equity indices, using derivatives...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T22:21:10.199146+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001043250",
-    "company_name": "AUL AMERICAN INDIVIDUAL VARIABLE LIFE UNIT TRUST",
-    "accession_number": "0001104659-26-051763",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1043250/000110465926051763/0001104659-26-051763-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1043250/000110465926051763/tm263010d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1043250/000110465926051763/tm263010d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AUL American Individual Variable Life Unit Trust\nETF Name: TOPS Managed Risk Balanced ETF Portfolio (underlying portfolio option, not a standalone ETF)\nStrategy: This is a variable life insurance separate account that allocates among a menu of underlying portfolios\u2014including TOPS Managed Risk Balanced ETF, TOPS Managed Risk Growth ETF, and Vanguard VIF High Yield Bond\u2014each with its own sub-adviser and investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AUL American Individual Variable Life Unit Trust",
-        "etf_name": "TOPS Managed Risk Balanced ETF Portfolio (underlying portfolio option, not a standalone ETF)",
-        "strategy": "This is a variable life insurance separate account that allocates among a menu of underlying portfolios\u2014including TOPS Managed Risk Balanced ETF, TOPS Managed Risk Growth ETF, and Vanguard VIF High Yield Bond\u2014each with its own sub-adviser and investment objective",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T22:21:57.131806+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000719423",
-    "company_name": "VALIC Co I",
-    "accession_number": "0001193125-26-192301",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/719423/000119312526192301/0001193125-26-192301-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/719423/000119312526192301/d114233d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/719423/000119312526192301/d114233d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: VALIC Company I\nETF Name: Small Cap Core Fund\nStrategy: Seeks capital appreciation by investing at least 80% of net assets in small-cap equities and economically similar instruments using a bottom-up approach Actively limits exposure to macro risks such as broad market movements, economic cycles, and interest-rate or currency fluctuations\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "VALIC Company I",
-        "etf_name": "Small Cap Core Fund",
-        "strategy": "Seeks capital appreciation by investing at least 80% of net assets in small-cap equities and economically similar instruments using a bottom-up approach Actively limits exposure to macro risks such as broad market movements, economic cycles, and interest-rate or currency fluctuations",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
