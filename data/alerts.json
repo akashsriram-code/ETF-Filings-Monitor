@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-05-29T11:56:31.013656+00:00",
+    "form_type": "486BPOS",
+    "cik": "0001869040",
+    "company_name": "Lind Capital Partners Municipal Credit Income Fund",
+    "accession_number": "0001580642-26-003348",
+    "filed_date": "2026-05-29",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1869040/000158064226003348/0001580642-26-003348-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1869040/000158064226003348/lindcapital_486bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1869040/000158064226003348/lindcapital_486bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Lind Capital Partners Municipal Credit Income Fund\nETF Name: Lind Capital Partners Municipal Credit Income Fund\nStrategy: The fund seeks high current income and capital preservation by investing at least 80% of assets in federal-tax-exempt municipal debt securities, with capital appreciation as a secondary objective It is structured as a non-diversified fund with no specific duration target or index benchmark, allowing concentrated positions and wide manager discretion on credit quality and maturity\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Lind Capital Partners Municipal Credit Income Fund",
+        "etf_name": "Lind Capital Partners Municipal Credit Income Fund",
+        "strategy": "The fund seeks high current income and capital preservation by investing at least 80% of assets in federal-tax-exempt municipal debt securities, with capital appreciation as a secondary objective It is structured as a non-diversified fund with no specific duration target or index benchmark, allowing concentrated positions and wide manager discretion on credit quality and maturity",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-28T22:55:24.656116+00:00",
     "form_type": "485APOS",
     "cik": "0002043390",
@@ -9322,7 +9351,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies tied to market index performance, subject to caps, participation rates, buffers, and floors, alongside a Fixed Crediting Rate option\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This is a single premium deferred index-linked annuity contract \u2014 not an ETF \u2014 that allows allocation among Indexed Crediting Rate Strategies (with caps, participation rates, buffers, and floors tied to market indices) and a Fixed Crediting Rate Strategy Returns are linked to index performance over defined Strategy Periods, with partial downside protection via Buffer Percentages or Floor Percentages and limited liqui...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14465,35 +14494,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-29T22:22:52.618778+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001676197",
-    "company_name": "Apollo Diversified Credit Fund",
-    "accession_number": "0001193125-26-192295",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1676197/000119312526192295/0001193125-26-192295-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1676197/000119312526192295/d335502d486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1676197/000119312526192295/d335502d486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Apollo Diversified Credit Fund\nETF Name: Apollo Diversified Credit Fund\nStrategy: Continuously offered, diversified closed-end fund pursuing a multi-asset credit strategy across high-yield bonds, senior loans, structured credit, and convertibles in public and private companies, leveraging Apollo's approximately $749 billion credit platform The objective is to generate current income and capital appreciation with low volatility and low correlation to broader markets through bottom-up proprietary re...\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Apollo Diversified Credit Fund",
-        "etf_name": "Apollo Diversified Credit Fund",
-        "strategy": "Continuously offered, diversified closed-end fund pursuing a multi-asset credit strategy across high-yield bonds, senior loans, structured credit, and convertibles in public and private companies, leveraging Apollo's approximately $749 billion credit platform The objective is to generate current income and capital appreciation with low volatility and low correlation to broader markets through bottom-up proprietary re...",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
