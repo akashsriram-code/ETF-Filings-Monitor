@@ -1,5 +1,237 @@
 [
   {
+    "created_at": "2026-06-01T21:58:13.581041+00:00",
+    "form_type": "485APOS",
+    "cik": "0001944285",
+    "company_name": "Tema ETF Trust",
+    "accession_number": "0001999371-26-011826",
+    "filed_date": "2026-06-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1944285/000199937126011826/0001999371-26-011826-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1944285/000199937126011826/tema-485apos_060126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1944285/000199937126011826/tema-485apos_060126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tema ETF Trust\nETF Name: Tema Neocloud ETF\nStrategy: Seeks long-term growth by targeting the rapidly expanding AI-infrastructure and cloud GPU rental niche\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tema ETF Trust",
+        "etf_name": "Tema Neocloud ETF",
+        "strategy": "Seeks long-term growth by targeting the rapidly expanding AI-infrastructure and cloud GPU rental niche",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-01T21:59:03.458328+00:00",
+    "form_type": "485APOS",
+    "cik": "0001131013",
+    "company_name": "GuideStone Funds",
+    "accession_number": "0001193125-26-251792",
+    "filed_date": "2026-06-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1131013/000119312526251792/0001193125-26-251792-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1131013/000119312526251792/d132287d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1131013/000119312526251792/d132287d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GuideStone Funds\nETF Name: Exchange-Traded Funds. An ETF is a fund\nStrategy: GuideStone operates a fund-of-funds lineup in which Target Date and Target Risk Funds allocate across proprietary Select Funds that passively track benchmarks such as the S&P 500, Russell 1000 Value, Russell 1000 Growth, and MSCI EAFE\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GuideStone Funds",
+        "etf_name": "Exchange-Traded Funds. An ETF is a fund",
+        "strategy": "GuideStone operates a fund-of-funds lineup in which Target Date and Target Risk Funds allocate across proprietary Select Funds that passively track benchmarks such as the S&P 500, Russell 1000 Value, Russell 1000 Growth, and MSCI EAFE",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-01T21:59:48.657731+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002069687",
+    "company_name": "FIS Trust",
+    "accession_number": "0001999371-26-011825",
+    "filed_date": "2026-06-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2069687/000199937126011825/0001999371-26-011825-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2069687/000199937126011825/arimathea-485bpos_060126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2069687/000199937126011825/arimathea-485bpos_060126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIS Trust\nETF Name: Arimathea Catholic Core Bond ETF\nStrategy: Actively managed core bond ETF seeking income and capital preservation by selecting fixed-income securities from a broad bond benchmark universe filtered through Catholic Faith-Based Guidelines aligned with U.S. Conference of Catholic Bishops standards.\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIS Trust",
+        "etf_name": "Arimathea Catholic Core Bond ETF",
+        "strategy": "Actively managed core bond ETF seeking income and capital preservation by selecting fixed-income securities from a broad bond benchmark universe filtered through Catholic Faith-Based Guidelines aligned with U.S. Conference of Catholic Bishops standards.",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-01T22:00:38.343714+00:00",
+    "form_type": "486BPOS",
+    "cik": "0001597634",
+    "company_name": "Apollo Diversified Real Estate Fund",
+    "accession_number": "0001193125-26-251731",
+    "filed_date": "2026-06-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1597634/000119312526251731/0001193125-26-251731-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1597634/000119312526251731/d147232d486bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1597634/000119312526251731/d147232d486bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Apollo Diversified Real Estate Fund\nETF Name: Apollo Diversified Real Estate Fund\nStrategy: The fund is a diversified, closed-end management investment company pursuing total return through income and capital appreciation via a multi-strategy allocation across private and public real estate debt and equity, including Apollo-originated hybrid credit, equity investments, secondaries, and public securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Apollo Diversified Real Estate Fund",
+        "etf_name": "Apollo Diversified Real Estate Fund",
+        "strategy": "The fund is a diversified, closed-end management investment company pursuing total return through income and capital appreciation via a multi-strategy allocation across private and public real estate debt and equity, including Apollo-originated hybrid credit, equity investments, secondaries, and public securities",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-01T22:01:26.661972+00:00",
+    "form_type": "485APOS",
+    "cik": "0001518042",
+    "company_name": "NORTHERN LIGHTS FUND TRUST II",
+    "accession_number": "0001580642-26-003406",
+    "filed_date": "2026-06-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1518042/000158064226003406/0001580642-26-003406-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1518042/000158064226003406/beacontactical_485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1518042/000158064226003406/beacontactical_485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust II\nETF Name: Beacon Tactical Alternatives Risk ETF\nStrategy: The fund seeks long-term capital appreciation through a tactically managed fund-of-funds structure that allocates across underlying ETFs spanning non-traditional asset classes such as currencies, commodities, gold, managed futures, digital currency, and carbon credits\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Northern Lights Fund Trust II",
+        "etf_name": "Beacon Tactical Alternatives Risk ETF",
+        "strategy": "The fund seeks long-term capital appreciation through a tactically managed fund-of-funds structure that allocates across underlying ETFs spanning non-traditional asset classes such as currencies, commodities, gold, managed futures, digital currency, and carbon credits",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-01T22:02:39.522865+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002078265",
+    "company_name": "Corgi ETF Trust I",
+    "accession_number": "0002078265-26-000201",
+    "filed_date": "2026-06-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000201/0002078265-26-000201-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2078265/000207826526000201/cik0002078265-20260601.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000201/cik0002078265-20260601.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Corgi ETF Trust I\nETF Name: Corgi SK hynix 2x Daily ETF\nStrategy: The Corgi SK hynix 2x Daily ETF (the \"Fund\") seeks daily investment results, before\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Corgi ETF Trust I",
+        "etf_name": "Corgi SK hynix 2x Daily ETF",
+        "strategy": "The Corgi SK hynix 2x Daily ETF (the \"Fund\") seeks daily investment results, before",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-01T22:03:18.205419+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976517",
+    "company_name": "Roundhill ETF Trust",
+    "accession_number": "0001398344-26-010113",
+    "filed_date": "2026-06-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426010113/0001398344-26-010113-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976517/000139834426010113/fp0099232-1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426010113/fp0099232-1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Roundhill ETF Trust\nETF Name: Roundhill Power Semiconductor ETF\nStrategy: Portfolio is constructed using Roundhill's proprietary security selection methodology with potential global exposure including China A-Shares and VIE structures\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Roundhill ETF Trust",
+        "etf_name": "Roundhill Power Semiconductor ETF",
+        "strategy": "Portfolio is constructed using Roundhill's proprietary security selection methodology with potential global exposure including China A-Shares and VIE structures",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-01T22:04:09.098908+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001030213",
+    "company_name": "ANNUITY INVESTORS VARIABLE ACCOUNT B",
+    "accession_number": "0001193125-26-251510",
+    "filed_date": "2026-06-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1030213/000119312526251510/0001193125-26-251510-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1030213/000119312526251510/d44313d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1030213/000119312526251510/d44313d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Annuity Investors Life Insurance Company\nETF Name: Restated Fund Participation Agreement among Wilshire Variable Insurance Trust\nStrategy: No ETF investment strategy is described; the documents govern the inclusion of underlying fund options within a variable annuity product\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Annuity Investors Life Insurance Company",
+        "etf_name": "Restated Fund Participation Agreement among Wilshire Variable Insurance Trust",
+        "strategy": "No ETF investment strategy is described; the documents govern the inclusion of underlying fund options within a variable annuity product",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-01T18:55:17.799664+00:00",
     "form_type": "485BPOS",
     "cik": "0000357298",
@@ -10192,7 +10424,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, offering indexed crediting rate strategies with defined upside caps and downside buffers or floors A fixed crediting rate strategy is also available, with investors locked into indexed strategies until maturity with limited early-exit options\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF but a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies tied to market indices with buffer or floor downside protection, plus a Fixed Crediting Rate Strategy The contract is designed for tax-deferred, long-term investing with returns shaped by index caps, participation rates, or trigger rates on the upside and defined loss-absorption mechanisms on the...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14258,238 +14490,6 @@
         "filer": "Voya Retirement Insurance and Annuity Company (VRIAC)",
         "etf_name": "N/A \u2014 Guaranteed Term Investment Contract (not an ETF)",
         "strategy": "This is an insurance-company-issued guaranteed investment contract offering fixed-duration Guaranteed Terms, where proceeds at maturity roll into a new term of the same or nearest available duration, with early withdrawals subject to a Market Value Adjustment. All obligations and guarantees are backed solely by VRIAC's financial strength and claims-paying ability, with risk-return characteristics similar to a zero-co...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:18:49.447728+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000812797",
-    "company_name": "PRINCIPAL LIFE INSURANCE CO VARIABLE LIFE SEPARATE ACCOUNT",
-    "accession_number": "0000812797-26-000198",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000198/0000812797-26-000198-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/812797/000081279726000198/vuliii2026485pos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000198/vuliii2026485pos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Principal Life Insurance Company Variable Life Separate Account\nETF Name: TOPS\u2122 Managed Risk Balanced ETF Portfolio (Northern Lights Variable Trust) \u2014 underlying fund within variable life separate account\nStrategy: This variable life insurance separate account invests policyholder assets across divisions tied to registered open-end funds\u2014including equity, fixed-income, and asset-allocation portfolios from sub-advisers such as MFS and Northern Lights Variable Trust\u2014with optional fixed-account guarantees\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Principal Life Insurance Company Variable Life Separate Account",
-        "etf_name": "TOPS\u2122 Managed Risk Balanced ETF Portfolio (Northern Lights Variable Trust) \u2014 underlying fund within variable life separate account",
-        "strategy": "This variable life insurance separate account invests policyholder assets across divisions tied to registered open-end funds\u2014including equity, fixed-income, and asset-allocation portfolios from sub-advisers such as MFS and Northern Lights Variable Trust\u2014with optional fixed-account guarantees",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:19:35.891435+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000812797",
-    "company_name": "PRINCIPAL LIFE INSURANCE CO VARIABLE LIFE SEPARATE ACCOUNT",
-    "accession_number": "0000812797-26-000195",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000195/0000812797-26-000195-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/812797/000081279726000195/vuli2026485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000195/vuli2026485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Principal Life Insurance Company Variable Life Separate Account\nETF Name: Asset Allocation Northern Lights Variable Trust TOPS TM Managed Risk Balanced ETF\nStrategy: The separate account offers variable life insurance policyholders exposure to multiple underlying mutual fund divisions spanning asset classes such as U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Principal Life Insurance Company Variable Life Separate Account",
-        "etf_name": "Asset Allocation Northern Lights Variable Trust TOPS TM Managed Risk Balanced ETF",
-        "strategy": "The separate account offers variable life insurance policyholders exposure to multiple underlying mutual fund divisions spanning asset classes such as U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:20:21.287006+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000812797",
-    "company_name": "PRINCIPAL LIFE INSURANCE CO VARIABLE LIFE SEPARATE ACCOUNT",
-    "accession_number": "0000812797-26-000191",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000191/0000812797-26-000191-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/812797/000081279726000191/accumulatorii2026485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000191/accumulatorii2026485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Principal Life Insurance Company Variable Life Separate Account\nETF Name: Asset Allocation Northern Lights Variable Trust TOPS\u2122 Managed Risk Balanced ETF\nStrategy: This variable life insurance separate account allocates policyholder assets across multiple underlying mutual fund divisions spanning equities, fixed income, and blended strategies, including small/mid-cap U.S. equity portfolios such as MFS Blended Research Small Cap Equity and MFS Mid Cap Value.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Principal Life Insurance Company Variable Life Separate Account",
-        "etf_name": "Asset Allocation Northern Lights Variable Trust TOPS\u2122 Managed Risk Balanced ETF",
-        "strategy": "This variable life insurance separate account allocates policyholder assets across multiple underlying mutual fund divisions spanning equities, fixed income, and blended strategies, including small/mid-cap U.S. equity portfolios such as MFS Blended Research Small Cap Equity and MFS Mid Cap Value.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:21:11.173016+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000812797",
-    "company_name": "PRINCIPAL LIFE INSURANCE CO VARIABLE LIFE SEPARATE ACCOUNT",
-    "accession_number": "0000812797-26-000188",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000188/0000812797-26-000188-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/812797/000081279726000188/accumulator2026485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000188/accumulator2026485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Principal Life Insurance Company Variable Life Separate Account\nETF Name: TOPS\u2122 Managed Risk Balanced ETF (underlying fund option within Northern Lights Variable Trust)\nStrategy: This is a variable life insurance separate account that allocates policyholder assets across multiple divisions investing in shares of underlying open-end mutual funds and ETFs, including equity, fixed-income, and asset-allocation strategies such as blended research small-cap and mid-cap value portfolios. A fixed-rate account and dollar-cost-averaging account are also available alongside fund divisions with annual ex...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Principal Life Insurance Company Variable Life Separate Account",
-        "etf_name": "TOPS\u2122 Managed Risk Balanced ETF (underlying fund option within Northern Lights Variable Trust)",
-        "strategy": "This is a variable life insurance separate account that allocates policyholder assets across multiple divisions investing in shares of underlying open-end mutual funds and ETFs, including equity, fixed-income, and asset-allocation strategies such as blended research small-cap and mid-cap value portfolios. A fixed-rate account and dollar-cost-averaging account are also available alongside fund divisions with annual ex...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:22:00.436168+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000812797",
-    "company_name": "PRINCIPAL LIFE INSURANCE CO VARIABLE LIFE SEPARATE ACCOUNT",
-    "accession_number": "0000812797-26-000185",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000185/0000812797-26-000185-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/812797/000081279726000185/svul2026485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000185/svul2026485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Principal Life Insurance Company Variable Life Separate Account\nETF Name: Asset Allocation Northern Lights Variable Trust TOPS TM Managed Risk Balanced ETF\nStrategy: This variable life insurance separate account allocates policyholder assets across multiple Underlying Fund divisions and a guaranteed Fixed Account, spanning a broad range of asset classes and strategies. Underlying Funds \u2014 accessible only through variable insurance products \u2014 include equity, balanced, and managed-risk portfolios from sub-advisers such as Massachusetts Financial Services Company and Northern Lights...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Principal Life Insurance Company Variable Life Separate Account",
-        "etf_name": "Asset Allocation Northern Lights Variable Trust TOPS TM Managed Risk Balanced ETF",
-        "strategy": "This variable life insurance separate account allocates policyholder assets across multiple Underlying Fund divisions and a guaranteed Fixed Account, spanning a broad range of asset classes and strategies. Underlying Funds \u2014 accessible only through variable insurance products \u2014 include equity, balanced, and managed-risk portfolios from sub-advisers such as Massachusetts Financial Services Company and Northern Lights...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:22:41.895098+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000812797",
-    "company_name": "PRINCIPAL LIFE INSURANCE CO VARIABLE LIFE SEPARATE ACCOUNT",
-    "accession_number": "0000812797-26-000182",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000182/0000812797-26-000182-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/812797/000081279726000182/fvli2026485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000182/fvli2026485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Principal Life Insurance Company Variable Life Separate Account\nETF Name: Asset Allocation Northern Lights Variable Trust TOPS Managed Risk Balanced ETF\nStrategy: Underlying fund selection is based on investment strategy, asset class, manager reputation, and performance, with funds available only through variable life or variable annuity contracts\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Principal Life Insurance Company Variable Life Separate Account",
-        "etf_name": "Asset Allocation Northern Lights Variable Trust TOPS Managed Risk Balanced ETF",
-        "strategy": "Underlying fund selection is based on investment strategy, asset class, manager reputation, and performance, with funds available only through variable life or variable annuity contracts",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:23:25.227114+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000837010",
-    "company_name": "VOYA RETIREMENT INSURANCE & ANNUITY Co",
-    "accession_number": "0000917677-26-000169",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/837010/000091767726000169/0000917677-26-000169-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/837010/000091767726000169/485bvmr278457.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/837010/000091767726000169/485bvmr278457.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Voya Retirement Insurance and Annuity Company (VRIAC)\nETF Name: However, if your beneficiary is a trust\nStrategy: This insurance-company-issued fixed annuity offers multiple Guaranteed Terms with fixed interest rates, where early withdrawals may trigger a Market Value Adjustment. All obligations are backed solely by VRIAC's financial strength and claims-paying ability, making it comparable to a zero-coupon bond or certificate of deposit rather than a pooled investment fund.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Voya Retirement Insurance and Annuity Company (VRIAC)",
-        "etf_name": "However, if your beneficiary is a trust",
-        "strategy": "This insurance-company-issued fixed annuity offers multiple Guaranteed Terms with fixed interest rates, where early withdrawals may trigger a Market Value Adjustment. All obligations are backed solely by VRIAC's financial strength and claims-paying ability, making it comparable to a zero-coupon bond or certificate of deposit rather than a pooled investment fund.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:24:11.630341+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000812797",
-    "company_name": "PRINCIPAL LIFE INSURANCE CO VARIABLE LIFE SEPARATE ACCOUNT",
-    "accession_number": "0000812797-26-000178",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000178/0000812797-26-000178-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/812797/000081279726000178/ck0000812797-20260429.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000178/ck0000812797-20260429.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Principal Life Insurance Company Variable Life Separate Account\nETF Name: TOPS\u2122 Managed Risk Balanced ETF Portfolio (Northern Lights Variable Trust) \u2014 underlying fund option within the separate account\nStrategy: This variable life insurance separate account allocates policyholder premiums across multiple sub-account divisions, each investing in underlying mutual funds and select ETF portfolios spanning equity, fixed income, and asset allocation strategies from managers including MFS, Neuberger Berman, and others. The underlying funds cover U.S.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Principal Life Insurance Company Variable Life Separate Account",
-        "etf_name": "TOPS\u2122 Managed Risk Balanced ETF Portfolio (Northern Lights Variable Trust) \u2014 underlying fund option within the separate account",
-        "strategy": "This variable life insurance separate account allocates policyholder premiums across multiple sub-account divisions, each investing in underlying mutual funds and select ETF portfolios spanning equity, fixed income, and asset allocation strategies from managers including MFS, Neuberger Berman, and others. The underlying funds cover U.S.",
         "is_alert_worthy": "LOW"
       }
     ],
