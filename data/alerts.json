@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-06-01T18:55:17.799664+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000357298",
+    "company_name": "PERMANENT PORTFOLIO FAMILY OF FUNDS",
+    "accession_number": "0001193125-26-250592",
+    "filed_date": "2026-06-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/357298/000119312526250592/0001193125-26-250592-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/357298/000119312526250592/d147810d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/357298/000119312526250592/d147810d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Permanent Portfolio Family of Funds, Inc\nETF Name: Short-Term Treasury Portfolio\nStrategy: Invests at least 80% of assets in direct U.S The fund seeks high current income consistent with safety and liquidity of principal, with a distinctive policy of distributing income and capital gains only once per year\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Permanent Portfolio Family of Funds, Inc",
+        "etf_name": "Short-Term Treasury Portfolio",
+        "strategy": "Invests at least 80% of assets in direct U.S The fund seeks high current income consistent with safety and liquidity of principal, with a distinctive policy of distributing income and capital gains only once per year",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-05-29T22:21:54.635339+00:00",
     "form_type": "485APOS",
     "cik": "0001976322",
@@ -156,7 +185,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926016769/defiancespcx485a.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Series Solutions\nETF Name: Unknown\nStrategy: The Fund\u2019s investment adviser, Defiance ETFs, LLC, and sub-adviser, Milliman Financial Risk Management, LLC, will not attempt to position the Fund\u2019s portfolio to ensure that the Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day Investment Objective The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: ETF Series Solutions\nETF Name: Defiance Daily Target 3X Long SPCX ETF\nStrategy: The fund seeks daily investment results targeting three times (3x) the daily price performance of Space Exploration Technologies Corp\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "ETF Series Solutions",
@@ -388,7 +417,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587551/000158064226003372/capitolseriestrust_485b.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Capitol Series Trust\nETF Name: Unknown\nStrategy: The Adviser\u2019s primary focus in attempting to achieve its investment objective is on identifying innovative, forward-looking businesse CAPITAL, LLC 2536 Countryside Boulevard, Suite 400 Clearwater, FL 33763 Telephone: (866) 666-7156 The Securities and Exchange Commission (\u201cSEC\u201d) has not approved or disapproved these securities or passed upon the adequacy or accuracy of this Prospectus Additionally, during the Fund\u2019s l\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Capitol Series Trust\nETF Name: Nightview Fund (NITE)\nStrategy: The non-diversified fund benchmarks against the S&P 500 Total Return Index over rolling five-year periods and seeks identifiable catalysts expected to close the valuation gap\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Capitol Series Trust",
@@ -533,7 +562,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1414040/000139834426010019/fp0099128-1_485bposixbrl.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ALPS ETF Trust\nETF Name: Unknown\nStrategy: The Fund seeks investment results that correspond (before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: ALPS ETF Trust\nETF Name: ALPS Equal Sector Weight ETF\nStrategy: Passively tracks the VettaFi Modelist Equal Weight Sector 500 Index, which equally weights U.S The fund seeks broad market representation within each sector using a replication or sampling approach without taking temporary defensive positions\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "ALPS ETF Trust",
@@ -736,7 +765,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/719603/000005193126000586/ck0000719603-20260529.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: EUPAC FUND\nETF Name: Unknown\nStrategy: The fund\u2019s financial statements, including the investment portfolio and the report of the fund\u2019s independent registered public accounting firm contained in the fund\u2019s Form N-CSR, are included in this statement of additional information The fund\u2019s financial statements, including the investment portfolio and the report of the fund\u2019s independent registered public accounting firm contained in the fund\u2019s Form N-CSR, are i\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Capital Research and Management Company\nETF Name: EUPAC Fund (EuroPacific Growth Fund)\nStrategy: International equity fund that normally invests at least 80% of net assets in securities of issuers domiciled in Europe and the Pacific Basin, with issuer domicile generally determined by MSCI Inc\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "EUPAC FUND",
@@ -10163,7 +10192,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This is a single premium deferred index-linked annuity contract \u2014 not an ETF \u2014 that allows allocation among Indexed Crediting Rate Strategies (with caps, participation rates, buffers, and floors tied to market indices) and a Fixed Crediting Rate Strategy Returns are linked to index performance over defined Strategy Periods, with partial downside protection via Buffer Percentages or Floor Percentages and limited liqui...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, offering indexed crediting rate strategies with defined upside caps and downside buffers or floors A fixed crediting rate strategy is also available, with investors locked into indexed strategies until maturity with limited early-exit options\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14461,35 +14490,6 @@
         "filer": "Principal Life Insurance Company Variable Life Separate Account",
         "etf_name": "TOPS\u2122 Managed Risk Balanced ETF Portfolio (Northern Lights Variable Trust) \u2014 underlying fund option within the separate account",
         "strategy": "This variable life insurance separate account allocates policyholder premiums across multiple sub-account divisions, each investing in underlying mutual funds and select ETF portfolios spanning equity, fixed income, and asset allocation strategies from managers including MFS, Neuberger Berman, and others. The underlying funds cover U.S.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:24:58.294263+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000812797",
-    "company_name": "PRINCIPAL LIFE INSURANCE CO VARIABLE LIFE SEPARATE ACCOUNT",
-    "accession_number": "0000812797-26-000175",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000175/0000812797-26-000175-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/812797/000081279726000175/plicevulii2026485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000175/plicevulii2026485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Principal Life Insurance Co Variable Life Separate Account\nETF Name: TOPS\u2122 Managed Risk Balanced ETF (Northern Lights Variable Trust)\nStrategy: The separate account allocates variable life insurance policy assets across divisions investing in underlying registered funds, including the TOPS\u2122 Managed Risk Balanced ETF, which pursues a managed-risk balanced asset allocation strategy across equity and fixed-income ETFs\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Principal Life Insurance Co Variable Life Separate Account",
-        "etf_name": "TOPS\u2122 Managed Risk Balanced ETF (Northern Lights Variable Trust)",
-        "strategy": "The separate account allocates variable life insurance policy assets across divisions investing in underlying registered funds, including the TOPS\u2122 Managed Risk Balanced ETF, which pursues a managed-risk balanced asset allocation strategy across equity and fixed-income ETFs",
         "is_alert_worthy": "LOW"
       }
     ],
