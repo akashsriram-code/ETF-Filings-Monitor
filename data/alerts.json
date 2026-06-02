@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-06-02T11:22:36.405311+00:00",
+    "form_type": "485APOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-011834",
+    "filed_date": "2026-06-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126011834/0001999371-26-011834-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126011834/defiance_485apos-052826.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126011834/defiance_485apos-052826.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Defiance 2X Daily Long Photonics ETF\nStrategy: The fund seeks daily investment results equal to two times (2x) the performance of an actively managed basket of photonics-related equities, using swap agreements and listed options contracts rebalanced daily\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "Defiance 2X Daily Long Photonics ETF",
+        "strategy": "The fund seeks daily investment results equal to two times (2x) the performance of an actively managed basket of photonics-related equities, using swap agreements and listed options contracts rebalanced daily",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-01T21:58:13.581041+00:00",
     "form_type": "485APOS",
     "cik": "0001944285",
@@ -10424,7 +10453,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing, not an ETF; it offers Indexed Crediting Rate Strategies linking returns to market indices with buffer/floor downside protection, plus a Fixed Crediting Rate Strategy Upside is limited by cap rates, participation rates, or trigger rates, while early withdrawals are subject to Strategy Interim Value Adjustments t...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies that link returns to underlying indices with upside caps, participation rates, or trigger rates and downside protection via buffer or floor percentages, alongside a Fixed Crediting Rate Strategy It is designed for tax-deferred, long-term investing, with early withdrawals before a Strategy Maturity Date subject to...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14461,35 +14490,6 @@
         "filer": "Principal Life Insurance Co Variable Life Separate Account",
         "etf_name": "Asset Allocation Northern Lights Variable Trust TOPS Managed Risk Balanced ETF Portfolio",
         "strategy": "The separate account allocates policyholder assets across multiple investment divisions, each corresponding to an underlying open-end mutual fund spanning equity, fixed-income, and asset-allocation strategies from managers including MFS, Massachusetts Financial Services Company, and others. Underlying fund options cover large, mid-cap, and small/mid U.S.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:17:49.924258+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000837010",
-    "company_name": "VOYA RETIREMENT INSURANCE & ANNUITY Co",
-    "accession_number": "0000917677-26-000171",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/837010/000091767726000171/0000917677-26-000171-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/837010/000091767726000171/485bvmr278458.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/837010/000091767726000171/485bvmr278458.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Voya Retirement Insurance and Annuity Company (VRIAC)\nETF Name: N/A \u2014 Guaranteed Term Investment Contract (not an ETF)\nStrategy: This is an insurance-company-issued guaranteed investment contract offering fixed-duration Guaranteed Terms, where proceeds at maturity roll into a new term of the same or nearest available duration, with early withdrawals subject to a Market Value Adjustment. All obligations and guarantees are backed solely by VRIAC's financial strength and claims-paying ability, with risk-return characteristics similar to a zero-co...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Voya Retirement Insurance and Annuity Company (VRIAC)",
-        "etf_name": "N/A \u2014 Guaranteed Term Investment Contract (not an ETF)",
-        "strategy": "This is an insurance-company-issued guaranteed investment contract offering fixed-duration Guaranteed Terms, where proceeds at maturity roll into a new term of the same or nearest available duration, with early withdrawals subject to a Market Value Adjustment. All obligations and guarantees are backed solely by VRIAC's financial strength and claims-paying ability, with risk-return characteristics similar to a zero-co...",
         "is_alert_worthy": "LOW"
       }
     ],
