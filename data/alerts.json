@@ -1,5 +1,179 @@
 [
   {
+    "created_at": "2026-06-02T21:55:27.693823+00:00",
+    "form_type": "485APOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-002835",
+    "filed_date": "2026-06-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002835/0001592900-26-002835-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026002835/captrust485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002835/captrust485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: BRICKWORKS EXTENDED MARKET ETF Fund\nStrategy: 6 The Fund\u2019s portfolio is constructed with consideration for the weight of particular companies or groups of companies, sector and industry exposures, liquidity, and overall risk characteristics Each Fund\u2019s investment objective is a non-fundamental investment policy and may be changed without a vote of shareholders upon prior written notice to shareholders\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "BRICKWORKS EXTENDED MARKET ETF Fund",
+        "strategy": "6 The Fund\u2019s portfolio is constructed with consideration for the weight of particular companies or groups of companies, sector and industry exposures, liquidity, and overall risk characteristics Each Fund\u2019s investment objective is a non-fundamental investment policy and may be changed without a vote of shareholders upon prior written notice to shareholders",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-02T21:55:30.576310+00:00",
+    "form_type": "485APOS",
+    "cik": "0001432353",
+    "company_name": "Global X Funds",
+    "accession_number": "0001432353-26-000562",
+    "filed_date": "2026-06-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000562/0001432353-26-000562-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1432353/000143235326000562/a485a-globalxtaxsmartincom.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000562/a485a-globalxtaxsmartincom.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Global X Funds\nETF Name: Unknown\nStrategy: The Fund is an actively managed exchange traded fund (\u201cETF\u201d) that seeks to generate cash for the purpose of paying weekly distributions to shareholders by selling (writing) call options and to provide exposure to the Akros U.S High Dividend Index (the \u201cReference Index\u201d) by investing in the equity securities that comprise the Reference Index and/or ETFs that share economic characteristics with the component securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Global X Funds",
+        "etf_name": "Unknown",
+        "strategy": "The Fund is an actively managed exchange traded fund (\u201cETF\u201d) that seeks to generate cash for the purpose of paying weekly distributions to shareholders by selling (writing) call options and to provide exposure to the Akros U.S High Dividend Index (the \u201cReference Index\u201d) by investing in the equity securities that comprise the Reference Index and/or ETFs that share economic characteristics with the component securities",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-02T21:55:33.058910+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001860434",
+    "company_name": "Harbor ETF Trust",
+    "accession_number": "0001193125-26-253882",
+    "filed_date": "2026-06-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1860434/000119312526253882/0001193125-26-253882-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1860434/000119312526253882/d115994d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1860434/000119312526253882/d115994d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Harbor ETF Trust\nETF Name: Inc. Harbor Active Commodity ETF Fund\nStrategy: 6 Principal Investment Strategies and Risks 6 Portfolio Holdings Disclosure Policy 10 The Advisor Harbor Capital Advisors, Inc The Subadviser takes various factors into account in its investment process, such as (without limitation) proprietary model outputs, market conditions, and the relative cost of holding a \u201crolling\u201d futures position (as described below), as well as the diversification and overall risk propertie\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Harbor ETF Trust",
+        "etf_name": "Inc. Harbor Active Commodity ETF Fund",
+        "strategy": "6 Principal Investment Strategies and Risks 6 Portfolio Holdings Disclosure Policy 10 The Advisor Harbor Capital Advisors, Inc The Subadviser takes various factors into account in its investment process, such as (without limitation) proprietary model outputs, market conditions, and the relative cost of holding a \u201crolling\u201d futures position (as described below), as well as the diversification and overall risk propertie",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-02T21:55:34.733541+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976517",
+    "company_name": "Roundhill ETF Trust",
+    "accession_number": "0001398344-26-010204",
+    "filed_date": "2026-06-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426010204/0001398344-26-010204-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976517/000139834426010204/fp0099269-1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426010204/fp0099269-1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Roundhill ETF Trust\nETF Name: Total Annual Fund\nStrategy: Under normal circumstances, the Fund invests at least 80% of its net assets (plus borrowings for investment purposes) in equity securities (which may include depositary receipts) or financial instruments (i.e., swap agreements or forward contracts) that provide exposure to LLM Companies In seeking to achieve the Fund\u2019s investment objective, the Adviser constructs the portfolio using its proprietary security selection\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Roundhill ETF Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "Under normal circumstances, the Fund invests at least 80% of its net assets (plus borrowings for investment purposes) in equity securities (which may include depositary receipts) or financial instruments (i.e., swap agreements or forward contracts) that provide exposure to LLM Companies In seeking to achieve the Fund\u2019s investment objective, the Adviser constructs the portfolio using its proprietary security selection",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-02T21:55:39.100727+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001657201",
+    "company_name": "Invesco Exchange-Traded Self-Indexed Fund Trust",
+    "accession_number": "0001104659-26-069535",
+    "filed_date": "2026-06-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1657201/000110465926069535/0001104659-26-069535-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1657201/000110465926069535/tm2615545d2_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1657201/000110465926069535/tm2615545d2_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Exchange-Traded Self-Indexed Fund Trust\nETF Name: Treasury Bond ETF\nStrategy: is to seek to track the investment results (before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Exchange-Traded Self-Indexed Fund Trust",
+        "etf_name": "Treasury Bond ETF",
+        "strategy": "is to seek to track the investment results (before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-02T21:55:42.073594+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001657201",
+    "company_name": "Invesco Exchange-Traded Self-Indexed Fund Trust",
+    "accession_number": "0001104659-26-069534",
+    "filed_date": "2026-06-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1657201/000110465926069534/0001104659-26-069534-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1657201/000110465926069534/tm2615545d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1657201/000110465926069534/tm2615545d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Exchange-Traded Self-Indexed Fund Trust\nETF Name: Corporate Bond ETF\nStrategy: is to seek to track the investment results (before The Fund generally will invest at least 80% of its total assets in the securities that comprise the Underlying Index The Index Provider is affiliated with Invesco Capital\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Exchange-Traded Self-Indexed Fund Trust",
+        "etf_name": "Corporate Bond ETF",
+        "strategy": "is to seek to track the investment results (before The Fund generally will invest at least 80% of its total assets in the securities that comprise the Underlying Index The Index Provider is affiliated with Invesco Capital",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-02T11:22:36.405311+00:00",
     "form_type": "485APOS",
     "cik": "0002081107",
@@ -14316,180 +14490,6 @@
         "filer": "Principal Life Insurance Co",
         "etf_name": "The Contract may be used to fund",
         "strategy": "This is an index-linked variable annuity offering structured Segment Options tied to equity indices (including the S&P 500\u00ae Price Return Index), with downside mitigation via Buffer Rates, Floor Rates, and capped upside through Cap and Participation Rates over defined Segment Terms",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:13:14.412531+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001777677",
-    "company_name": "Fundrise Real Estate Interval Fund, LLC",
-    "accession_number": "0001213900-26-049518",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1777677/000121390026049518/0001213900-26-049518-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1777677/000121390026049518/ea0286563-01_486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1777677/000121390026049518/ea0286563-01_486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fundrise Real Estate Interval Fund, LLC\nETF Name: Fundrise Real Estate Interval Fund\nStrategy: Non-diversified, closed-end interval fund structured as a REIT that invests at least 80% of net assets in a mix of private commercial real estate (60\u201390% target) and publicly traded real estate securities, seeking current income as a primary objective and long-term capital appreciation as a secondary goal\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fundrise Real Estate Interval Fund, LLC",
-        "etf_name": "Fundrise Real Estate Interval Fund",
-        "strategy": "Non-diversified, closed-end interval fund structured as a REIT that invests at least 80% of net assets in a mix of private commercial real estate (60\u201390% target) and publicly traded real estate securities, seeking current income as a primary objective and long-term capital appreciation as a secondary goal",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:13:56.000701+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000837010",
-    "company_name": "VOYA RETIREMENT INSURANCE & ANNUITY Co",
-    "accession_number": "0000917677-26-000173",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/837010/000091767726000173/0000917677-26-000173-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/837010/000091767726000173/485bvsr278858.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/837010/000091767726000173/485bvsr278858.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Voya Retirement Insurance and Annuity Company (VRIAC)\nETF Name: Guaranteed Interest Rate Contract (Fixed Annuity \u2014 not an ETF)\nStrategy: This is a single-premium, fixed-annuity contract offering Guaranteed Interest Rates over defined Guaranteed Periods, with risk/return characteristics similar to a zero-coupon bond or certificate of deposit. A Market Value Adjustment applies to early withdrawals before a Guaranteed Period matures, protecting the issuer from liquidation losses on supporting investments.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Voya Retirement Insurance and Annuity Company (VRIAC)",
-        "etf_name": "Guaranteed Interest Rate Contract (Fixed Annuity \u2014 not an ETF)",
-        "strategy": "This is a single-premium, fixed-annuity contract offering Guaranteed Interest Rates over defined Guaranteed Periods, with risk/return characteristics similar to a zero-coupon bond or certificate of deposit. A Market Value Adjustment applies to early withdrawals before a Guaranteed Period matures, protecting the issuer from liquidation losses on supporting investments.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:14:40.736273+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001885551",
-    "company_name": "Fundrise Income Real Estate Fund, LLC",
-    "accession_number": "0001213900-26-049514",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1885551/000121390026049514/0001213900-26-049514-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1885551/000121390026049514/ea0286557-01_486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1885551/000121390026049514/ea0286557-01_486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fundrise Income Real Estate Fund, LLC\nETF Name: Fundrise Income Real Estate Fund\nStrategy: The Fund seeks current income by opportunistically originating and investing across commercial and residential real property, real estate loans, and real estate debt and equity securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fundrise Income Real Estate Fund, LLC",
-        "etf_name": "Fundrise Income Real Estate Fund",
-        "strategy": "The Fund seeks current income by opportunistically originating and investing across commercial and residential real property, real estate loans, and real estate debt and equity securities",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:15:35.616590+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001526622",
-    "company_name": "Principal National Life Insurance Co Variable Life Separate Account",
-    "accession_number": "0001526622-26-000058",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1526622/000152662226000058/0001526622-26-000058-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1526622/000152662226000058/ck0001526622-20260429.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1526622/000152662226000058/ck0001526622-20260429.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Principal National Life Insurance Co Variable Life Separate Account\nETF Name: Asset Allocation Northern Lights Variable Trust TOPS TM Managed Risk Balanced ETF\nStrategy: This variable life insurance separate account allocates policyholder assets across multiple underlying registered mutual funds spanning equity, fixed income, and asset allocation strategies\u2014including sub-accounts mapped to funds from managers such as MFS, Neuberger Berman, and Northern Lights Variable Trust. The underlying funds cover U.S.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Principal National Life Insurance Co Variable Life Separate Account",
-        "etf_name": "Asset Allocation Northern Lights Variable Trust TOPS TM Managed Risk Balanced ETF",
-        "strategy": "This variable life insurance separate account allocates policyholder assets across multiple underlying registered mutual funds spanning equity, fixed income, and asset allocation strategies\u2014including sub-accounts mapped to funds from managers such as MFS, Neuberger Berman, and Northern Lights Variable Trust. The underlying funds cover U.S.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:16:22.330904+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000812797",
-    "company_name": "PRINCIPAL LIFE INSURANCE CO VARIABLE LIFE SEPARATE ACCOUNT",
-    "accession_number": "0000812797-26-000205",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000205/0000812797-26-000205-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/812797/000081279726000205/prinflexlife2026485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000205/prinflexlife2026485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Principal Life Insurance Company Variable Life Separate Account\nETF Name: TOPS\u2122 Managed Risk Balanced ETF (Northern Lights Variable Trust)\nStrategy: This variable life insurance separate account allocates policyholder assets across divisions investing in underlying mutual funds and ETFs\u2014including the TOPS\u2122 Managed Risk Balanced ETF\u2014spanning equity, fixed income, and asset allocation strategies from providers such as MFS and Massachusetts Financial Services Company. The product also offers a Fixed Account option guaranteeing principal at a fixed interest rate, wit...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Principal Life Insurance Company Variable Life Separate Account",
-        "etf_name": "TOPS\u2122 Managed Risk Balanced ETF (Northern Lights Variable Trust)",
-        "strategy": "This variable life insurance separate account allocates policyholder assets across divisions investing in underlying mutual funds and ETFs\u2014including the TOPS\u2122 Managed Risk Balanced ETF\u2014spanning equity, fixed income, and asset allocation strategies from providers such as MFS and Massachusetts Financial Services Company. The product also offers a Fixed Account option guaranteeing principal at a fixed interest rate, wit...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:17:10.226252+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000812797",
-    "company_name": "PRINCIPAL LIFE INSURANCE CO VARIABLE LIFE SEPARATE ACCOUNT",
-    "accession_number": "0000812797-26-000201",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000201/0000812797-26-000201-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/812797/000081279726000201/ck0000812797-20260429.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/812797/000081279726000201/ck0000812797-20260429.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Principal Life Insurance Co Variable Life Separate Account\nETF Name: Asset Allocation Northern Lights Variable Trust TOPS Managed Risk Balanced ETF Portfolio\nStrategy: The separate account allocates policyholder assets across multiple investment divisions, each corresponding to an underlying open-end mutual fund spanning equity, fixed-income, and asset-allocation strategies from managers including MFS, Massachusetts Financial Services Company, and others. Underlying fund options cover large, mid-cap, and small/mid U.S.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Principal Life Insurance Co Variable Life Separate Account",
-        "etf_name": "Asset Allocation Northern Lights Variable Trust TOPS Managed Risk Balanced ETF Portfolio",
-        "strategy": "The separate account allocates policyholder assets across multiple investment divisions, each corresponding to an underlying open-end mutual fund spanning equity, fixed-income, and asset-allocation strategies from managers including MFS, Massachusetts Financial Services Company, and others. Underlying fund options cover large, mid-cap, and small/mid U.S.",
         "is_alert_worthy": "LOW"
       }
     ],
