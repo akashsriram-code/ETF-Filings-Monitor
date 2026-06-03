@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-06-03T17:25:26.685940+00:00",
+    "form_type": "485APOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-011961",
+    "filed_date": "2026-06-03",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126011961/0001999371-26-011961-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126011961/dgfe-485apos_060326.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126011961/dgfe-485apos_060326.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Defiance ETFs (filed under Tidal Trust V)\nETF Name: Defiance Global Foundries ETF\nStrategy: Passively tracks the MarketVector\u2122 Global Foundries Index, providing concentrated global equity exposure to the semiconductor foundry industry May also employ swap agreements, options, and other derivatives for index-tracking and risk-management purposes\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Defiance ETFs (filed under Tidal Trust V)",
+        "etf_name": "Defiance Global Foundries ETF",
+        "strategy": "Passively tracks the MarketVector\u2122 Global Foundries Index, providing concentrated global equity exposure to the semiconductor foundry industry May also employ swap agreements, options, and other derivatives for index-tracking and risk-management purposes",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-03T17:26:20.059393+00:00",
+    "form_type": "485APOS",
+    "cik": "0001618627",
+    "company_name": "RBB Fund Trust",
+    "accession_number": "0001999371-26-011954",
+    "filed_date": "2026-06-03",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126011954/0001999371-26-011954-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1618627/000199937126011954/opal-485apos_060326.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126011954/opal-485apos_060326.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: RBB Fund Trust\nETF Name: Pathfinder Disciplined Midcap Equity ETF\nStrategy: Stock selection is driven by quantitative models under portfolio managers Austin Graff and Yang Liu\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "RBB Fund Trust",
+        "etf_name": "Pathfinder Disciplined Midcap Equity ETF",
+        "strategy": "Stock selection is driven by quantitative models under portfolio managers Austin Graff and Yang Liu",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-02T21:55:27.693823+00:00",
     "form_type": "485APOS",
     "cik": "0001592900",
@@ -40,7 +98,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000562/a485a-globalxtaxsmartincom.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Global X Funds\nETF Name: Unknown\nStrategy: The Fund is an actively managed exchange traded fund (\u201cETF\u201d) that seeks to generate cash for the purpose of paying weekly distributions to shareholders by selling (writing) call options and to provide exposure to the Akros U.S High Dividend Index (the \u201cReference Index\u201d) by investing in the equity securities that comprise the Reference Index and/or ETFs that share economic characteristics with the component securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Global X Funds\nETF Name: Global X U.S. TaxSmart\u2120 Income Edge\u2120 ETF\nStrategy: equity ETFs to generate weekly shareholder distributions while holding a portfolio of U.S The fund also actively harvests tax losses by disposing of equity and options positions to offset realized capital gains from its options overlay, maintaining below 70% overlap between index holdings and options exposures to avoid IRS straddle rules\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Global X Funds",
@@ -10627,7 +10685,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies that link returns to underlying indices with upside caps, participation rates, or trigger rates and downside protection via buffer or floor percentages, alongside a Fixed Crediting Rate Strategy It is designed for tax-deferred, long-term investing, with early withdrawals before a Strategy Maturity Date subject to...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies tied to market-index performance (with upside limited by Cap, Participation, or Trigger Rates and downside partially mitigated by Buffer or Floor Percentages) alongside a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14436,64 +14494,6 @@
       }
     ],
     "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:11:39.578305+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000009712",
-    "company_name": "PRINCIPAL LIFE INSURANCE CO",
-    "accession_number": "0000009712-26-000044",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/9712/000000971226000044/0000009712-26-000044-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/9712/000000971226000044/pso-20260429.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/9712/000000971226000044/pso-20260429.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Principal Life Insurance Co\nETF Name: IRA, SEP, and SIMPLE-IRA The Contract may be used to fund\nStrategy: The contract offers index-linked segment options tied to the S&P 500 Price Return Index with point-to-point crediting, participation rates, cap rates, and downside buffers (e.g., 10% buffer absorbing the first 10% of index loss over 1-year or 6-year terms), plus a Fixed Segment Option\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Principal Life Insurance Co",
-        "etf_name": "IRA, SEP, and SIMPLE-IRA The Contract may be used to fund",
-        "strategy": "The contract offers index-linked segment options tied to the S&P 500 Price Return Index with point-to-point crediting, participation rates, cap rates, and downside buffers (e.g., 10% buffer absorbing the first 10% of index loss over 1-year or 6-year terms), plus a Fixed Segment Option",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:12:32.502959+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000009712",
-    "company_name": "PRINCIPAL LIFE INSURANCE CO",
-    "accession_number": "0000009712-26-000040",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/9712/000000971226000040/0000009712-26-000040-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/9712/000000971226000040/psi-20260429.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/9712/000000971226000040/psi-20260429.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Principal Life Insurance Co\nETF Name: The Contract may be used to fund\nStrategy: This is an index-linked variable annuity offering structured Segment Options tied to equity indices (including the S&P 500\u00ae Price Return Index), with downside mitigation via Buffer Rates, Floor Rates, and capped upside through Cap and Participation Rates over defined Segment Terms\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Principal Life Insurance Co",
-        "etf_name": "The Contract may be used to fund",
-        "strategy": "This is an index-linked variable annuity offering structured Segment Options tied to equity indices (including the S&P 500\u00ae Price Return Index), with downside mitigation via Buffer Rates, Floor Rates, and capped upside through Cap and Participation Rates over defined Segment Terms",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
