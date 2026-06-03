@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-06-03T20:38:02.804441+00:00",
+    "form_type": "485APOS",
+    "cik": "0001810747",
+    "company_name": "Simplify Exchange Traded Funds",
+    "accession_number": "0001829126-26-006000",
+    "filed_date": "2026-06-03",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626006000/0001829126-26-006000-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1810747/000182912626006000/simplifyetf_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626006000/simplifyetf_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Simplify Exchange Traded Funds\nETF Name: Infrastructure Equity ETF\nStrategy: (the \u201cSub-Adviser\u201d), to seek to achieve the Fund\u2019s investment objective (the \u201cSub-Adviser\u201d), to seek to achieve the Fund\u2019s investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Simplify Exchange Traded Funds",
+        "etf_name": "Infrastructure Equity ETF",
+        "strategy": "(the \u201cSub-Adviser\u201d), to seek to achieve the Fund\u2019s investment objective (the \u201cSub-Adviser\u201d), to seek to achieve the Fund\u2019s investment objective",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-03T17:25:26.685940+00:00",
     "form_type": "485APOS",
     "cik": "0002081107",
@@ -14461,35 +14490,6 @@
         "filer": "James Alpha Funds Trust d/b/a Easterly Funds Trust",
         "etf_name": "Easterly Snow All Cap Value Fund (reorganized from Olstein All Cap Value Fund)",
         "strategy": "equity value fund seeking long-term capital appreciation by investing in a diversified portfolio of stocks the adviser believes are undervalued The reorganization from Managed Portfolio Series into Easterly Funds Trust drops the predecessor fund's secondary income objective and removes the anticipated industrials-sector concentration risk",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T11:10:48.259720+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001829774",
-    "company_name": "James Alpha Funds Trust",
-    "accession_number": "0001580642-26-002764",
-    "filed_date": "2026-04-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1829774/000158064226002764/0001580642-26-002764-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1829774/000158064226002764/smallcap_485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1829774/000158064226002764/smallcap_485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: James Alpha Funds Trust (d/b/a Easterly Funds Trust)\nETF Name: Easterly Snow Small Cap Value Fund (reorganization target for Olstein Strategic Opportunities Fund)\nStrategy: The fund seeks long-term capital appreciation by investing in undervalued small-cap U.S The reorganization from the Olstein Strategic Opportunities Fund drops the predecessor's secondary income objective while retaining substantially similar principal investment strategies with lower net operating expenses\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "James Alpha Funds Trust (d/b/a Easterly Funds Trust)",
-        "etf_name": "Easterly Snow Small Cap Value Fund (reorganization target for Olstein Strategic Opportunities Fund)",
-        "strategy": "The fund seeks long-term capital appreciation by investing in undervalued small-cap U.S The reorganization from the Olstein Strategic Opportunities Fund drops the predecessor's secondary income objective while retaining substantially similar principal investment strategies with lower net operating expenses",
         "is_alert_worthy": "MEDIUM"
       }
     ],
