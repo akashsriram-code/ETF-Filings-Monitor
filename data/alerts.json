@@ -1,5 +1,65 @@
 [
   {
+    "created_at": "2026-06-05T14:09:40.065139+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-012121",
+    "filed_date": "2026-06-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012121/0001999371-26-012121-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126012121/spacex-485bpos_060526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012121/spacex-485bpos_060526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Unknown\nStrategy: The Fund seeks daily inverse investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Unknown",
+        "strategy": "The Fund seeks daily inverse investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-05T14:09:42.787358+00:00",
+    "form_type": "S-1",
+    "cik": "0002138284",
+    "company_name": "1 - Grayscale Canton ETF",
+    "accession_number": "0002138284-26-000003",
+    "filed_date": "2026-06-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2138284/000213828426000003/0002138284-26-000003-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2138284/000213828426000003/ck0002138284-20260605.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2138284/000213828426000003/ck0002138284-20260605.htm",
+    "matched_keywords": [
+      "Digital Asset"
+    ],
+    "is_crypto": true,
+    "synopsis": "Synopsis 1\nFiler: 1 - Grayscale Canton ETF\nETF Name: Grayscale Canton ETF Trust Overview Grayscale Canton ETF\nStrategy: As a passive investment vehicle, the Trust\u2019s investment objective is for the value of the Shares (based on CC per Share) to reflect the value of CC held by the Trust, determined by reference to the Index Price, less the Trust\u2019s expenses and other liabilities As a passive investment vehicle, the Trust\u2019s investment objective is for the value of the Shares (based on CC per Share) to reflect the value of CC held by the T\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Crypto-linked ETF disclosures can move market narrative and regulatory coverage.",
+    "synopsis_items": [
+      {
+        "filer": "1 - Grayscale Canton ETF",
+        "etf_name": "Grayscale Canton ETF Trust Overview Grayscale Canton ETF",
+        "strategy": "As a passive investment vehicle, the Trust\u2019s investment objective is for the value of the Shares (based on CC per Share) to reflect the value of CC held by the Trust, determined by reference to the Index Price, less the Trust\u2019s expenses and other liabilities As a passive investment vehicle, the Trust\u2019s investment objective is for the value of the Shares (based on CC per Share) to reflect the value of CC held by the T",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Crypto-linked ETF disclosures can move market narrative and regulatory coverage."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-04T22:43:10.285757+00:00",
     "form_type": "485BPOS",
     "cik": "0001771146",
@@ -14432,64 +14492,6 @@
         "filer": "Empower Funds, Inc",
         "etf_name": "Balanced ETF Fund",
         "strategy": "The Fund seeks long-term capital appreciation and income by operating as a fund-of-funds that invests primarily in a professionally selected mix of exchange-traded funds (\"Underlying ETFs\") It allocates across asset classes via these Underlying ETFs to maintain a balanced equity-and-fixed-income portfolio",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T16:53:44.366202+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000073981",
-    "company_name": "AuguStar Variable Account A",
-    "accession_number": "0001398344-26-007789",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/73981/000139834426007789/0001398344-26-007789-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/73981/000139834426007789/fp0098633-1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/73981/000139834426007789/fp0098633-1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AuguStar Life (formerly Ohio National Life Insurance Company)\nETF Name: N/A \u2014 Variable Annuity Separate Account (AuguStar Variable Account A)\nStrategy: Contract holders electing guaranteed lifetime withdrawal benefit or guaranteed protection portfolio riders must follow category-based allocation restrictions across predefined fund categories\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AuguStar Life (formerly Ohio National Life Insurance Company)",
-        "etf_name": "N/A \u2014 Variable Annuity Separate Account (AuguStar Variable Account A)",
-        "strategy": "Contract holders electing guaranteed lifetime withdrawal benefit or guaranteed protection portfolio riders must follow category-based allocation restrictions across predefined fund categories",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T16:55:39.043726+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001329377",
-    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND",
-    "accession_number": "0001445546-26-003178",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1329377/000144554626003178/0001445546-26-003178-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1329377/000144554626003178/ftetf-20251231.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1329377/000144554626003178/ftetf-20251231.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund\nETF Name: First Trust Bloomberg Inflation Sensitive Equity ETF\nStrategy: The fund tracks an equal-weighted index of U.S It generally employs a full replication strategy, investing in all securities comprising the index in proportion to their weightings\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "First Trust Exchange-Traded Fund",
-        "etf_name": "First Trust Bloomberg Inflation Sensitive Equity ETF",
-        "strategy": "The fund tracks an equal-weighted index of U.S It generally employs a full replication strategy, investing in all securities comprising the index in proportion to their weightings",
         "is_alert_worthy": "LOW"
       }
     ],
