@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-06-05T18:32:28.571233+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000914036",
+    "company_name": "LINCOLN VARIABLE INSURANCE PRODUCTS TRUST",
+    "accession_number": "0001193125-26-258960",
+    "filed_date": "2026-06-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/914036/000119312526258960/0001193125-26-258960-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/914036/000119312526258960/d14196d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/914036/000119312526258960/d14196d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: LINCOLN VARIABLE INSURANCE PRODUCTS TRUST\nETF Name: LFI and BAMCO, Inc., pertaining to the LVIP Baron Growth Opportunities Fund\nStrategy: (3) Sub-Advisory Agreement dated June 5, 2007, between LFI and BAMCO, Inc., pertaining to the LVIP Baron Growth Opportunities Fund, previously filed with PEA 132 on April 30, 2012. (3) Sub-Advisory Agreement dated June 5, 2007, between LFI and BAMCO, Inc., pertaining to the LVIP Baron Growth Opportunities Fund, previously filed with PEA 132 on April 30, 2012.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "LINCOLN VARIABLE INSURANCE PRODUCTS TRUST",
+        "etf_name": "LFI and BAMCO, Inc., pertaining to the LVIP Baron Growth Opportunities Fund",
+        "strategy": "(3) Sub-Advisory Agreement dated June 5, 2007, between LFI and BAMCO, Inc., pertaining to the LVIP Baron Growth Opportunities Fund, previously filed with PEA 132 on April 30, 2012. (3) Sub-Advisory Agreement dated June 5, 2007, between LFI and BAMCO, Inc., pertaining to the LVIP Baron Growth Opportunities Fund, previously filed with PEA 132 on April 30, 2012.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-05T14:09:40.065139+00:00",
     "form_type": "485BPOS",
     "cik": "0001924868",
@@ -14463,35 +14492,6 @@
         "filer": "AuguStar Life Insurance Company",
         "etf_name": "Substitution for Fund",
         "strategy": "An Enhanced DCA Account is available for purchase payments at a fixed interest rate higher than the rate credited to the Fidelity\u00ae VIP Government Money Market Portfolio",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:44:58.721673+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000356476",
-    "company_name": "EMPOWER FUNDS, INC.",
-    "accession_number": "0001193125-26-196063",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/356476/000119312526196063/0001193125-26-196063-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/356476/000119312526196063/d914488d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/356476/000119312526196063/d914488d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Empower Funds, Inc\nETF Name: Balanced ETF Fund\nStrategy: The Fund seeks long-term capital appreciation and income by operating as a fund-of-funds that invests primarily in a professionally selected mix of exchange-traded funds (\"Underlying ETFs\") It allocates across asset classes via these Underlying ETFs to maintain a balanced equity-and-fixed-income portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Empower Funds, Inc",
-        "etf_name": "Balanced ETF Fund",
-        "strategy": "The Fund seeks long-term capital appreciation and income by operating as a fund-of-funds that invests primarily in a professionally selected mix of exchange-traded funds (\"Underlying ETFs\") It allocates across asset classes via these Underlying ETFs to maintain a balanced equity-and-fixed-income portfolio",
         "is_alert_worthy": "LOW"
       }
     ],
