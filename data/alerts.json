@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-06-05T20:31:40.770216+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-012192",
+    "filed_date": "2026-06-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012192/0001999371-26-012192-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126012192/defiance-485apos_060526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012192/defiance-485apos_060526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: DEFIANCE AI CAPACITORS LEADERS ETF\nStrategy: The Defiance AI Capacitors Leaders ETF (the \u201cFund\u201d) seeks to track the The Fund is an exchange-traded fund (\u201cETF\u201d) that uses a \u201cpassive\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "DEFIANCE AI CAPACITORS LEADERS ETF",
+        "strategy": "The Defiance AI Capacitors Leaders ETF (the \u201cFund\u201d) seeks to track the The Fund is an exchange-traded fund (\u201cETF\u201d) that uses a \u201cpassive",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-05T18:32:28.571233+00:00",
     "form_type": "485BPOS",
     "cik": "0000914036",
@@ -14463,35 +14492,6 @@
         "filer": "Baron ETF Trust (Adviser: Baron Capital Group)",
         "etf_name": "BaronCapitalGroup.com Information about your Investment Baron ETF Trust Distribution of Fund",
         "strategy": "The Financials ETF recently shifted its primary benchmark from the FactSet Global FinTech Index to the MSCI USA Financials Index, while the Global Durable Advantage ETF pursues a non-diversified strategy across developed, emerging, and frontier markets within the MSCI ACWI capitalization range",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:43:48.967152+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000073981",
-    "company_name": "AuguStar Variable Account A",
-    "accession_number": "0001398344-26-007822",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/73981/000139834426007822/0001398344-26-007822-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/73981/000139834426007822/fp0098630-1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/73981/000139834426007822/fp0098630-1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AuguStar Life Insurance Company\nETF Name: Substitution for Fund\nStrategy: An Enhanced DCA Account is available for purchase payments at a fixed interest rate higher than the rate credited to the Fidelity\u00ae VIP Government Money Market Portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AuguStar Life Insurance Company",
-        "etf_name": "Substitution for Fund",
-        "strategy": "An Enhanced DCA Account is available for purchase payments at a fixed interest rate higher than the rate credited to the Fidelity\u00ae VIP Government Money Market Portfolio",
         "is_alert_worthy": "LOW"
       }
     ],
