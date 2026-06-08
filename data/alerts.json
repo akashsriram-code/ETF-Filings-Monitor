@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-06-08T22:14:28.527415+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-001212",
+    "filed_date": "2026-06-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001212/0001771146-26-001212-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626001212/ck0001771146-20260608.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001212/ck0001771146-20260608.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Long SK Hynix Daily Target ETF\nStrategy: At the close of the markets each trading day, the Adviser rebalances the Fund\u2019s portfolio so that its exposure to the Reference Asset is consistent with the Fund\u2019s investment objective At the close of the markets each trading day, the Adviser rebalances the Fund\u2019s portfolio so that its exposure to the Reference Asset is consistent with the Fund\u2019s investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Opportunities Trust",
+        "etf_name": "Long SK Hynix Daily Target ETF",
+        "strategy": "At the close of the markets each trading day, the Adviser rebalances the Fund\u2019s portfolio so that its exposure to the Reference Asset is consistent with the Fund\u2019s investment objective At the close of the markets each trading day, the Adviser rebalances the Fund\u2019s portfolio so that its exposure to the Reference Asset is consistent with the Fund\u2019s investment objective",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-08T22:14:32.641135+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001424958",
+    "company_name": "Direxion Shares ETF Trust",
+    "accession_number": "0001193125-26-262012",
+    "filed_date": "2026-06-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526262012/0001193125-26-262012-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1424958/000119312526262012/d882039d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526262012/d882039d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Direxion Shares ETF Trust\nETF Name: The Bear Fund\nStrategy: Further, the return for investors that invest for periods less than a full trading day will not be the product of the return of a Fund\u2019s stated daily leveraged investment objective and the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Direxion Shares ETF Trust",
+        "etf_name": "The Bear Fund",
+        "strategy": "Further, the return for investors that invest for periods less than a full trading day will not be the product of the return of a Fund\u2019s stated daily leveraged investment objective and the",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-08T20:34:39.962178+00:00",
     "form_type": "485BPOS",
     "cik": "0001771146",
@@ -14438,64 +14496,6 @@
       }
     ],
     "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:29:12.554457+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001003839",
-    "company_name": "MATTHEW 25 FUND",
-    "accession_number": "0001162044-26-000405",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1003839/000116204426000405/0001162044-26-000405-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1003839/000116204426000405/matthew25fund485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1003839/000116204426000405/matthew25fund485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Matthew 25 Management Corp\nETF Name: Matthew 25 Fund\nStrategy: The fund invests across the market-cap spectrum, including small- and mid-cap names, with flexibility to hold defensive positions or invest in ETFs\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Matthew 25 Management Corp",
-        "etf_name": "Matthew 25 Fund",
-        "strategy": "The fund invests across the market-cap spectrum, including small- and mid-cap names, with flexibility to hold defensive positions or invest in ETFs",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:30:02.909014+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001872253",
-    "company_name": "Total Fund Solution",
-    "accession_number": "0001133228-26-007449",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1872253/000113322826007449/0001133228-26-007449-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1872253/000113322826007449/cf-efp24200_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1872253/000113322826007449/cf-efp24200_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Cromwell Funds\nETF Name: Cromwell Long Short Fund\nStrategy: Seeks capital appreciation via a long/short U.S large- and mid-cap equity strategy sub-advised by Mutual of America Capital Management, with long exposure typically 80\u2013100% of net assets and short exposure around 10\u201330%\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Cromwell Funds",
-        "etf_name": "Cromwell Long Short Fund",
-        "strategy": "Seeks capital appreciation via a long/short U.S large- and mid-cap equity strategy sub-advised by Mutual of America Capital Management, with long exposure typically 80\u2013100% of net assets and short exposure around 10\u201330%",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
