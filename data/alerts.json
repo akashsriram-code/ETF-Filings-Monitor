@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-06-08T15:05:39.750409+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-012314",
+    "filed_date": "2026-06-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012314/0001999371-26-012314-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126012314/yieldmax-485apos_060826.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012314/yieldmax-485apos_060826.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: YieldMax\u00ae Memory and Storage ETF\nStrategy: Actively managed ETF that invests in U.S.-listed and international equities in the memory and storage device sector, layered with an options overlay on underlying holdings and/or sector ETFs to generate current income The fund seeks both current income and capital appreciation through discretionary stock selection combined with selling options contracts on its portfolio positions\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "YieldMax\u00ae Memory and Storage ETF",
+        "strategy": "Actively managed ETF that invests in U.S.-listed and international equities in the memory and storage device sector, layered with an options overlay on underlying holdings and/or sector ETFs to generate current income The fund seeks both current income and capital appreciation through discretionary stock selection combined with selling options contracts on its portfolio positions",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-08T15:06:35.435699+00:00",
+    "form_type": "485APOS",
+    "cik": "0000934298",
+    "company_name": "NYLIAC VARIABLE ANNUITY SEPARATE ACCOUNT III",
+    "accession_number": "0001193125-26-260923",
+    "filed_date": "2026-06-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/934298/000119312526260923/0001193125-26-260923-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/934298/000119312526260923/d103980d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/934298/000119312526260923/d103980d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: New York Life Insurance and Annuity Corporation (NYLIAC) via NYLIAC Variable Annuity Separate Account III\nETF Name: New York Life Investments Active ETF Trust\nStrategy: This filing is a post-effective amendment to a variable annuity separate account registration, consisting entirely of participation-agreement exhibit references with underlying fund families; it contains no ETF investment strategy, objective, or benchmark information\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "New York Life Insurance and Annuity Corporation (NYLIAC) via NYLIAC Variable Annuity Separate Account III",
+        "etf_name": "New York Life Investments Active ETF Trust",
+        "strategy": "This filing is a post-effective amendment to a variable annuity separate account registration, consisting entirely of participation-agreement exhibit references with underlying fund families; it contains no ETF investment strategy, objective, or benchmark information",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-08T11:26:39.457981+00:00",
     "form_type": "485BPOS",
     "cik": "0001877493",
@@ -214,7 +272,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012121/spacex-485bpos_060526.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Unknown\nStrategy: The Fund seeks daily inverse investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Defiance Daily Target 2X Short SpaceX ETF\nStrategy: It seeks daily leveraged inverse investment results for a single day and is intended as a short-term trading vehicle\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Tidal Trust II",
@@ -564,7 +622,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006067/themesetftrust_485apos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: T-Rex 2X Long DELL Daily Target ETF\nStrategy: The ETF seeks daily leveraged investment results equal to 200% of the daily percentage change in Dell Technologies (DELL) common stock, using swap agreements and options contracts At least 80% of net assets are invested in DELL-linked financial instruments, with daily portfolio rebalancing to maintain the 2X target exposure\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Themes ETF Trust",
@@ -11702,7 +11760,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies tied to market indices with capped upside and buffered or floored downside, plus a Fixed Crediting Rate Strategy It is designed for tax-deferred investing toward long-term financial goals, with early withdrawals subject to Strategy Interim Value Adjustments that can significantly reduce principal\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing and long-term financial goals, not an ETF\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14438,64 +14496,6 @@
       }
     ],
     "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:37:01.638003+00:00",
-    "form_type": "485APOS",
-    "cik": "0001810747",
-    "company_name": "Simplify Exchange Traded Funds",
-    "accession_number": "0001829126-26-004216",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626004216/0001829126-26-004216-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1810747/000182912626004216/simplifyetf_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626004216/simplifyetf_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Simplify Exchange Traded Funds\nETF Name: Simplify Tax Aware Diversified Income Strategy ETF\nStrategy: The fund invests at least 80% of net assets in U.S equity securities\u2014including common stock, preferred stock, and equity ETFs\u2014while layering on an options overlay that buys and sells exchange-traded and OTC call and put options on equity indices or equity-index ETFs to generate tax-efficient monthly income\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Simplify Exchange Traded Funds",
-        "etf_name": "Unknown",
-        "strategy": "The Fund\u2019s investment objective may be changed by the Board of Trustees (the \u201cBoard\u201d) without shareholder approval upon written notice to shareholders",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:37:54.716906+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000073981",
-    "company_name": "AuguStar Variable Account A",
-    "accession_number": "0001398344-26-007830",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/73981/000139834426007830/0001398344-26-007830-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/73981/000139834426007830/fp0098647-1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/73981/000139834426007830/fp0098647-1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AuguStar Life Insurance Company\nETF Name: Substitution for Fund\nStrategy: This Form N-4 filing covers a variable annuity contract offering multiple subaccounts, each investing in shares of underlying investment portfolios\u2014including equity, fixed income, and money market options\u2014subadvised by firms such as BlackRock, Fidelity (FIAM), Geode Capital Management, and Federated Hermes. The product also features optional guaranteed living benefit riders and a fixed-rate Enhanced Dollar Cost Avera...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AuguStar Life Insurance Company",
-        "etf_name": "Substitution for Fund",
-        "strategy": "This Form N-4 filing covers a variable annuity contract offering multiple subaccounts, each investing in shares of underlying investment portfolios\u2014including equity, fixed income, and money market options\u2014subadvised by firms such as BlackRock, Fidelity (FIAM), Geode Capital Management, and Federated Hermes. The product also features optional guaranteed living benefit riders and a fixed-rate Enhanced Dollar Cost Avera...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
