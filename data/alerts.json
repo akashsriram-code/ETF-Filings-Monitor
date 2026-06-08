@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-06-08T11:26:39.457981+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001877493",
+    "company_name": "CoinShares ETF Trust",
+    "accession_number": "0001999371-26-012283",
+    "filed_date": "2026-06-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1877493/000199937126012283/0001999371-26-012283-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1877493/000199937126012283/valkyrie_485bpos-060526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1877493/000199937126012283/valkyrie_485bpos-060526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: CoinShares ETF Trust\nETF Name: Total Annual Fund\nStrategy: During these periods, the Fund may not achieve its investment objective, and may return substantially less than the performance of the Bitcoin Volatility Index Because the Fund seeks to track the performance of the Bitcoin Volatility Index through a rules-based investment strategy, neither CoinShares nor Vident conducts conventional investment research or analysis or forecasts market movement or trends\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "CoinShares ETF Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "During these periods, the Fund may not achieve its investment objective, and may return substantially less than the performance of the Bitcoin Volatility Index Because the Fund seeks to track the performance of the Bitcoin Volatility Index through a rules-based investment strategy, neither CoinShares nor Vident conducts conventional investment research or analysis or forecasts market movement or trends",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-05T22:05:08.084523+00:00",
     "form_type": "485APOS",
     "cik": "0001040674",
@@ -14467,35 +14496,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:38:51.576913+00:00",
-    "form_type": "485APOS",
-    "cik": "0001592900",
-    "company_name": "EA Series Trust",
-    "accession_number": "0001592900-26-001945",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001945/0001592900-26-001945-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026001945/cgflagshipequity485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026001945/cgflagshipequity485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: CG Flagship Equity ETF\nStrategy: The Fund seeks long-term capital appreciation through an actively managed, conviction-weighted approach, investing at least 80% of net assets in equity securities\u2014including common stocks, ADRs, and other ETFs\u2014selected and weighted by the Investment Committee's assessment of conviction, risk, and thematic correlation It is non-diversified and may use underlying ETFs for efficient exposure to hard-to-replicate market s...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "EA Series Trust",
-        "etf_name": "CG Flagship Equity ETF",
-        "strategy": "The Fund seeks long-term capital appreciation through an actively managed, conviction-weighted approach, investing at least 80% of net assets in equity securities\u2014including common stocks, ADRs, and other ETFs\u2014selected and weighted by the Investment Committee's assessment of conviction, risk, and thematic correlation It is non-diversified and may use underlying ETFs for efficient exposure to hard-to-replicate market s...",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
