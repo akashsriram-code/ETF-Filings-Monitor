@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-06-09T12:43:09.958287+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-006219",
+    "filed_date": "2026-06-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006219/0001829126-26-006219-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626006219/themesetftrust_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006219/themesetftrust_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Leverage Shares 2X Long SpaceX Daily ETF / Leverage Shares 2X Short SpaceX Daily ETF\nStrategy: The 2X Long fund seeks daily leveraged investment results of 200% of the daily percentage change in the common stock of SpaceX, while the 2X Short fund seeks daily inverse leveraged investment results of minus two times (-200%) of the daily percentage change in the price of SpaceX common stock Each fund invests at least 80% of net assets in the underlying security and financial instruments\u2014including swap agreements a...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Leverage Shares 2X Long SpaceX Daily ETF / Leverage Shares 2X Short SpaceX Daily ETF",
+        "strategy": "The 2X Long fund seeks daily leveraged investment results of 200% of the daily percentage change in the common stock of SpaceX, while the 2X Short fund seeks daily inverse leveraged investment results of minus two times (-200%) of the daily percentage change in the price of SpaceX common stock Each fund invests at least 80% of net assets in the underlying security and financial instruments\u2014including swap agreements a...",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-09T12:44:58.132014+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-006217",
+    "filed_date": "2026-06-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006217/0001829126-26-006217-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626006217/themesetftrust_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006217/themesetftrust_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily leveraged investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Unknown",
+        "strategy": "The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily leveraged investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-08T22:14:28.527415+00:00",
     "form_type": "485BPOS",
     "cik": "0001771146",
@@ -11992,7 +12050,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The filing describes a single premium deferred index-linked annuity contract (RILA) offering Indexed Crediting Rate Strategies that link returns to index performance over defined Strategy Periods, with upside limited by Cap Rates, Participation Rates, or Trigger Rates and downside partially mitigated by Buffer or Floor Percentages A Fixed Crediting Rate Strategy is also available, and a Performance Lock feature allow...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies that link returns to market index performance with downside protection via buffer or floor percentages and upside limited by cap, participation, or trigger rates A Fixed Crediting Rate Strategy is also available for conservative allocation alongside the indexed options\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14438,64 +14496,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:27:33.156561+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001318342",
-    "company_name": "Investment Managers Series Trust",
-    "accession_number": "0001398344-26-007851",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1318342/000139834426007851/0001398344-26-007851-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1318342/000139834426007851/fp0098569-12_485bposixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1318342/000139834426007851/fp0098569-12_485bposixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust\nETF Name: WCM China Quality Growth Fund\nStrategy: The investment objective of the WCM China Quality Growth Fund is long-term capital appreciation The fund invests in equity securities of companies organized in, principally traded in, or deriving at least 50% of revenues from China, including its special administrative regions such as Hong Kong and Taiwan\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Investment Managers Series Trust",
-        "etf_name": "WCM China Quality Growth Fund",
-        "strategy": "The investment objective of the WCM China Quality Growth Fund is long-term capital appreciation The fund invests in equity securities of companies organized in, principally traded in, or deriving at least 50% of revenues from China, including its special administrative regions such as Hong Kong and Taiwan",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:28:28.962193+00:00",
-    "form_type": "486BPOS",
-    "cik": "0002006189",
-    "company_name": "First Eagle Real Estate Debt Fund",
-    "accession_number": "0000930413-26-001400",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2006189/000093041326001400/0000930413-26-001400-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2006189/000093041326001400/c115343_486bpos-ixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2006189/000093041326001400/c115343_486bpos-ixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: First Eagle ETF Trust\nETF Name: First Eagle Real Estate Debt Fund\nStrategy: May employ leverage up to 33\u2153% of total assets and invest in below-investment-grade or unrated securities to seek risk-adjusted returns and current income\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "First Eagle ETF Trust",
-        "etf_name": "First Eagle Real Estate Debt Fund",
-        "strategy": "May employ leverage up to 33\u2153% of total assets and invest in below-investment-grade or unrated securities to seek risk-adjusted returns and current income",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
