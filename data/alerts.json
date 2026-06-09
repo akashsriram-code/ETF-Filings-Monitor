@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-06-09T17:50:11.898476+00:00",
+    "form_type": "485APOS",
+    "cik": "0002043390",
+    "company_name": "Tidal Trust IV",
+    "accession_number": "0001999371-26-012462",
+    "filed_date": "2026-06-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126012462/0001999371-26-012462-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126012462/emag-485apos_060926.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126012462/emag-485apos_060926.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: The Emerging Markets AI MAG 3 ETF\nStrategy: Actively managed, concentrated equity ETF targeting the three largest emerging-market companies by market capitalization with significant artificial-intelligence business exposure in the semiconductor and computing segment The fund may gain exposure through direct equity holdings or indirectly via derivatives such as swaps and forward contracts\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust IV",
+        "etf_name": "The Emerging Markets AI MAG 3 ETF",
+        "strategy": "Actively managed, concentrated equity ETF targeting the three largest emerging-market companies by market capitalization with significant artificial-intelligence business exposure in the semiconductor and computing segment The fund may gain exposure through direct equity holdings or indirectly via derivatives such as swaps and forward contracts",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-09T17:51:09.797286+00:00",
+    "form_type": "485APOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-012457",
+    "filed_date": "2026-06-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126012457/0001999371-26-012457-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126012457/photonics-485apos_060926.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126012457/photonics-485apos_060926.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Defiance Photonics ETF\nStrategy: Passively tracks the BITA CPO & Photonics Select Index, investing at least 80% of net assets in companies within the photonics and coherent/classical photon-optics sector\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "Defiance Photonics ETF",
+        "strategy": "Passively tracks the BITA CPO & Photonics Select Index, investing at least 80% of net assets in companies within the photonics and coherent/classical photon-optics sector",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-09T17:52:24.537181+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-012451",
+    "filed_date": "2026-06-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012451/0001999371-26-012451-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126012451/xfunds-485apos_060926.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012451/xfunds-485apos_060926.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Semi-Transparent ETF Trust Fund\nStrategy: (30) Thirtieth Amendment to Amended and Restated Fund Accounting Servicing Agreement (to reflect material amendments to an existing series, including name change from YieldMax \u00ae WarTech & Cyber Defense Portfolio Option Income ETF to YieldMax \u00ae Memory and Storage ETF) \u2013 to be filed by amendment\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Semi-Transparent ETF Trust Fund",
+        "strategy": "(30) Thirtieth Amendment to Amended and Restated Fund Accounting Servicing Agreement (to reflect material amendments to an existing series, including name change from YieldMax \u00ae WarTech & Cyber Defense Portfolio Option Income ETF to YieldMax \u00ae Memory and Storage ETF) \u2013 to be filed by amendment",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-09T12:43:09.958287+00:00",
     "form_type": "485BPOS",
     "cik": "0001976322",
@@ -12050,7 +12137,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract designed for tax-deferred investing, offering indexed crediting rate strategies with capped upside exposure and downside buffers/floors tied to market indices A fixed crediting rate strategy is also available alongside the index-linked options\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract (RILA), not an ETF, designed for tax-deferred investing via Indexed Crediting Rate Strategies and a Fixed Crediting Rate Strategy Returns are linked to market index performance with upside caps (Index Cap Rate, Participation Rate, or Trigger Rate) and downside mitigation through Buffer Percentages or Floor Percentages over multi-year Strategy Peri...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14405,93 +14492,6 @@
         "filer": "GAMCO Global Series Funds, Inc",
         "etf_name": "The Gabelli Global Rising Income and Dividend Fund (GRID Fund)",
         "strategy": "The GRID Fund seeks high total return through income and capital appreciation by investing primarily in dividend-paying and income-producing securities of foreign and domestic issuers, with a focus on companies likely to increase dividends over time The fund may invest at least 80% of net assets in common stocks, preferred stocks, convertibles, and fixed-income securities, including below-investment-grade convertible...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:24:24.740459+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000878719",
-    "company_name": "ADVISORS' INNER CIRCLE FUND",
-    "accession_number": "0001398344-26-007859",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/878719/000139834426007859/0001398344-26-007859-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/878719/000139834426007859/fp0098575-1_485bposixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/878719/000139834426007859/fp0098575-1_485bposixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Advisors' Inner Circle Fund\nETF Name: Hamlin High Dividend Equity Fund\nStrategy: Seeks high current income and long-term capital appreciation by investing in dividend-paying equity securities \u2014 primarily common stocks, REITs, and MLPs \u2014 of companies the adviser considers undervalued May carry concentrated sector exposure to higher-dividend-yield areas such as energy, using a value-oriented selection approach\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Advisors' Inner Circle Fund",
-        "etf_name": "Hamlin High Dividend Equity Fund",
-        "strategy": "Seeks high current income and long-term capital appreciation by investing in dividend-paying equity securities \u2014 primarily common stocks, REITs, and MLPs \u2014 of companies the adviser considers undervalued May carry concentrated sector exposure to higher-dividend-yield areas such as energy, using a value-oriented selection approach",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:25:13.334692+00:00",
-    "form_type": "486BPOS",
-    "cik": "0002050541",
-    "company_name": "First Eagle Tactical Municipal Opportunities Fund",
-    "accession_number": "0000930413-26-001402",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2050541/000093041326001402/0000930413-26-001402-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2050541/000093041326001402/c115345_486bpos-ixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2050541/000093041326001402/c115345_486bpos-ixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: First Eagle ETF Trust\nETF Name: First Eagle Tactical Municipal Opportunities Fund\nStrategy: Non-diversified, closed-end interval fund seeking high current income exempt from regular federal income taxes by investing at least 80% of net assets in municipal bonds, with a majority allocated to below-investment-grade high-yield munis. Up to 25% may be directed to special-situations municipal securities and up to 10% in other investment companies, including ETFs.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "First Eagle ETF Trust",
-        "etf_name": "First Eagle Tactical Municipal Opportunities Fund",
-        "strategy": "Non-diversified, closed-end interval fund seeking high current income exempt from regular federal income taxes by investing at least 80% of net assets in municipal bonds, with a majority allocated to below-investment-grade high-yield munis. Up to 25% may be directed to special-situations municipal securities and up to 10% in other investment companies, including ETFs.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:26:08.756913+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000824036",
-    "company_name": "RUSSELL INVESTMENT FUNDS",
-    "accession_number": "0001193125-26-196319",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/824036/000119312526196319/0001193125-26-196319-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/824036/000119312526196319/d869554d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/824036/000119312526196319/d869554d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Russell Investment Funds (managed by Russell Investment Management, LLC)\nETF Name: Each Fund is deemed to be a separate trust\nStrategy: Russell Investment Management operates a multi-manager platform that allocates assets across sub-advisers under discretionary, non-discretionary (model-portfolio), or hybrid mandates spanning U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Russell Investment Funds (managed by Russell Investment Management, LLC)",
-        "etf_name": "Each Fund is deemed to be a separate trust",
-        "strategy": "Russell Investment Management operates a multi-manager platform that allocates assets across sub-advisers under discretionary, non-discretionary (model-portfolio), or hybrid mandates spanning U.S",
         "is_alert_worthy": "LOW"
       }
     ],
