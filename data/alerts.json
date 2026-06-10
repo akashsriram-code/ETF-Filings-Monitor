@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-06-10T13:57:43.432366+00:00",
+    "form_type": "485APOS",
+    "cik": "0002025968",
+    "company_name": "BNY Mellon ETF Trust II",
+    "accession_number": "0000030146-26-000265",
+    "filed_date": "2026-06-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2025968/000003014626000265/0000030146-26-000265-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2025968/000003014626000265/lp1-bnymetftii.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2025968/000003014626000265/lp1-bnymetftii.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BNY Mellon ETF Trust II\nETF Name: Depositary Receipts ETFs Exchange-traded funds and similar exchange-traded products Exchange A fund\nStrategy: A-1 Newton seeks to make proxy voting decisions that are in the best long-term financial interests of its clients and which seek to support investor value creation by supporting proposals that are consistent with our corporate governance views and investment case Any such contentious issues identified may be referred to the appropriate global fundamental equity analyst or portfolio manager for comment\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BNY Mellon ETF Trust II",
+        "etf_name": "Depositary Receipts ETFs Exchange-traded funds and similar exchange-traded products Exchange A fund",
+        "strategy": "A-1 Newton seeks to make proxy voting decisions that are in the best long-term financial interests of its clients and which seek to support investor value creation by supporting proposals that are consistent with our corporate governance views and investment case Any such contentious issues identified may be referred to the appropriate global fundamental equity analyst or portfolio manager for comment",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-10T13:59:08.506888+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-012526",
+    "filed_date": "2026-06-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012526/0001999371-26-012526-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126012526/spcl-485bpos_061026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012526/spcl-485bpos_061026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Defiance Daily 2X Space ETF\nStrategy: The fund seeks daily investment results equal to two times (200%) the performance of an actively managed portfolio of one to five equity securities in space-related companies It uses swap agreements and listed options to achieve leveraged exposure to companies deriving at least 50% of revenue from space technologies and services\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Defiance Daily 2X Space ETF",
+        "strategy": "The fund seeks daily investment results equal to two times (200%) the performance of an actively managed portfolio of one to five equity securities in space-related companies It uses swap agreements and listed options to achieve leveraged exposure to companies deriving at least 50% of revenue from space technologies and services",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-10T14:00:02.741037+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000754510",
+    "company_name": "FIDELITY SECURITIES FUND",
+    "accession_number": "0000754510-26-000095",
+    "filed_date": "2026-06-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/754510/000075451026000095/0000754510-26-000095-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/754510/000075451026000095/filing12346.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/754510/000075451026000095/filing12346.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Fidelity Securities Fund\nETF Name: Fidelity Real Estate Income Fund \u2013 ETF Class\nStrategy: Seeks higher-than-average income by investing primarily in real-estate-related securities, offered as an exchange-traded share class within a multi-class fund structure where mutual fund and ETF shares share the same underlying portfolio The fund may temporarily adopt a different investment strategy for defensive purposes in response to adverse market, economic, or political conditions\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Fidelity Securities Fund",
+        "etf_name": "Fidelity Real Estate Income Fund \u2013 ETF Class",
+        "strategy": "Seeks higher-than-average income by investing primarily in real-estate-related securities, offered as an exchange-traded share class within a multi-class fund structure where mutual fund and ETF shares share the same underlying portfolio The fund may temporarily adopt a different investment strategy for defensive purposes in response to adverse market, economic, or political conditions",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-10T10:23:18.825632+00:00",
     "form_type": "S-1",
     "cik": "0002036307",
@@ -12429,7 +12516,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies that link returns to market-index performance with upside caps and downside buffers or floors, plus a Fixed Crediting Rate Strategy Investors allocate among these investment options on a tax-deferred basis, with early exits subject to Strategy Interim Value Adjustments that can reduce principal\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This is a single premium deferred index-linked annuity contract (RILA) offering Indexed Crediting Rate Strategies that link returns to index performance with capped upside and buffered or floored downside protection, plus a Fixed Crediting Rate Strategy Early withdrawals before Strategy Maturity are subject to a Strategy Interim Value Adjustment that can reduce principal by up to 100%\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14407,93 +14494,6 @@
         "filer": "Gabelli Funds, LLC",
         "etf_name": "The Gabelli Asset Fund",
         "strategy": "The Fund pursues capital growth by primarily investing in common stocks and preferred stocks selected on the adviser's perception of capital-appreciation potential, spanning U.S. and international markets including emerging markets.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:14:30.726446+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001391839",
-    "company_name": "Gabelli SRI Fund, Inc.",
-    "accession_number": "0001829126-26-004253",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1391839/000182912626004253/0001829126-26-004253-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1391839/000182912626004253/gabelli_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1391839/000182912626004253/gabelli_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Gabelli SRI Fund, Inc\nETF Name: Gabelli SRI Fund\nStrategy: Seeks capital appreciation by investing at least 80% of assets in common and preferred stocks of companies meeting the fund's social responsibility guidelines May allocate up to 25% of assets to speculative convertible debt securities, and to the extent it invests in commodity ETFs, shareholders may bear duplicative advisory and administrative fees\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Gabelli SRI Fund, Inc",
-        "etf_name": "Gabelli SRI Fund",
-        "strategy": "Seeks capital appreciation by investing at least 80% of assets in common and preferred stocks of companies meeting the fund's social responsibility guidelines May allocate up to 25% of assets to speculative convertible debt securities, and to the extent it invests in commodity ETFs, shareholders may bear duplicative advisory and administrative fees",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:15:14.845705+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000925463",
-    "company_name": "GABELLI INTERNATIONAL GROWTH FUND, INC",
-    "accession_number": "0001829126-26-004252",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/925463/000182912626004252/0001829126-26-004252-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/925463/000182912626004252/gigfi_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/925463/000182912626004252/gigfi_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Gabelli International Growth Fund, Inc\nETF Name: Gabelli International Growth Fund\nStrategy: The Fund seeks long-term capital appreciation by investing primarily in equity securities of foreign issuers, selecting companies based on growth potential, valuation levels, and political/economic stability with a pronounced European tilt It may also invest in convertible debt securities without ratings restrictions and uses regional diversification to reduce portfolio volatility\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Gabelli International Growth Fund, Inc",
-        "etf_name": "Gabelli International Growth Fund",
-        "strategy": "The Fund seeks long-term capital appreciation by investing primarily in equity securities of foreign issuers, selecting companies based on growth potential, valuation levels, and political/economic stability with a pronounced European tilt It may also invest in convertible debt securities without ratings restrictions and uses regional diversification to reduce portfolio volatility",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:15:56.293370+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000893783",
-    "company_name": "GABELLI INVESTOR FUNDS INC",
-    "accession_number": "0001829126-26-004251",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/893783/000182912626004251/0001829126-26-004251-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/893783/000182912626004251/gifi_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/893783/000182912626004251/gifi_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Gabelli Investor Funds, Inc\nETF Name: The Gabelli ABC Fund\nStrategy: The fund seeks attractive total returns across varying market conditions without excessive capital-loss risk, primarily through merger-arbitrage opportunities in securities of companies believed likely to be acquired It invests more conservatively than a typical small-cap growth fund, emphasizing stability of principal over capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Gabelli Investor Funds, Inc",
-        "etf_name": "The Gabelli ABC Fund",
-        "strategy": "The fund seeks attractive total returns across varying market conditions without excessive capital-loss risk, primarily through merger-arbitrage opportunities in securities of companies believed likely to be acquired It invests more conservatively than a typical small-cap growth fund, emphasizing stability of principal over capital appreciation",
         "is_alert_worthy": "LOW"
       }
     ],
