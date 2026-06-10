@@ -1,5 +1,94 @@
 [
   {
+    "created_at": "2026-06-10T10:23:18.825632+00:00",
+    "form_type": "S-1",
+    "cik": "0002036307",
+    "company_name": "1 - OFA Group",
+    "accession_number": "0001493152-26-028000",
+    "filed_date": "2026-06-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2036307/000149315226028000/0001493152-26-028000-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2036307/000149315226028000/forms-1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2036307/000149315226028000/forms-1.htm",
+    "matched_keywords": [
+      "Spot"
+    ],
+    "is_crypto": true,
+    "synopsis": "Synopsis 1\nFiler: OFA Group (Nasdaq: OFAL)\nETF Name: N/A \u2014 No ETF identified (Atsion Opportunity Fund LLC \u2013 Series 1 is a private LLC and selling shareholder, not an ETF)\nStrategy: This equity line of credit will fund OFA Group's cryptocurrency strategy, with 80% of proceeds allocated to cryptocurrency purchases and 20% for general corporate purposes, initially evaluating strategic accumulation of Bitcoin (BTC), Solana (SOL), or Sui (SUI), as well as exploring yield and income-generating strategies under Bitwise Asset Management, appointed as the digital asset treasury's manager\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Crypto-linked ETF disclosures can move market narrative and regulatory coverage.",
+    "synopsis_items": [
+      {
+        "filer": "OFA Group (Nasdaq: OFAL)",
+        "etf_name": "N/A \u2014 No ETF identified (Atsion Opportunity Fund LLC \u2013 Series 1 is a private LLC and selling shareholder, not an ETF)",
+        "strategy": "This equity line of credit will fund OFA Group's cryptocurrency strategy, with 80% of proceeds allocated to cryptocurrency purchases and 20% for general corporate purposes, initially evaluating strategic accumulation of Bitcoin (BTC), Solana (SOL), or Sui (SUI), as well as exploring yield and income-generating strategies under Bitwise Asset Management, appointed as the digital asset treasury's manager",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Crypto-linked ETF disclosures can move market narrative and regulatory coverage."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-10T10:24:37.677941+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001329377",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND",
+    "accession_number": "0001445546-26-004316",
+    "filed_date": "2026-06-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1329377/000144554626004316/0001445546-26-004316-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1329377/000144554626004316/ftetf-20260409.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1329377/000144554626004316/ftetf-20260409.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund\nETF Name: FT Vest Autocallable Barrier & High Income ETF\nStrategy: It targets high income through coupon payments tied to observation-date performance of underlying assets relative to coupon-barrier levels, with active and frequent portfolio trading expected\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "First Trust Exchange-Traded Fund",
+        "etf_name": "FT Vest Autocallable Barrier & High Income ETF",
+        "strategy": "It targets high income through coupon payments tied to observation-date performance of underlying assets relative to coupon-barrier levels, with active and frequent portfolio trading expected",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-10T10:25:36.219815+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001667919",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+    "accession_number": "0001445546-26-004314",
+    "filed_date": "2026-06-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626004314/0001445546-26-004314-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1667919/000144554626004314/ft-20260609.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626004314/ft-20260609.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund VIII\nETF Name: FT Vest Nasdaq-100 Dual Directional Buffer ETF (quarterly series: DQMR, DQJN, DQSE, DQDE)\nStrategy: Each quarterly fund uses FLEX Options on the Invesco QQQ Trust to seek positive returns in both up and down markets by matching QQQ's positive price return up to a Cap or converting its negative price return into a positive return up to an Inverse Performance Threshold\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "First Trust Exchange-Traded Fund VIII",
+        "etf_name": "FT Vest Nasdaq-100 Dual Directional Buffer ETF (quarterly series: DQMR, DQJN, DQSE, DQDE)",
+        "strategy": "Each quarterly fund uses FLEX Options on the Invesco QQQ Trust to seek positive returns in both up and down markets by matching QQQ's positive price return up to a Cap or converting its negative price return into a positive return up to an Inverse Performance Threshold",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-09T21:28:38.554490+00:00",
     "form_type": "485BPOS",
     "cik": "0000878719",
@@ -12340,7 +12429,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The Contract is a single premium deferred index-linked annuity offering multiple Indexed Crediting Rate Strategies that link returns to market index performance with defined downside parameters (Buffer Percentages of \u221210% or \u221220%, or a \u221210% Floor) and capped upside limits (Cap Rates, Participation Rates, Trigger Rates), plus a Fixed Crediting Rate Strategy Early withdrawals before Strategy Maturity are subject to a S...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The contract is a single premium deferred index-linked annuity offering Indexed Crediting Rate Strategies that link returns to market-index performance with upside caps and downside buffers or floors, plus a Fixed Crediting Rate Strategy Investors allocate among these investment options on a tax-deferred basis, with early exits subject to Strategy Interim Value Adjustments that can reduce principal\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14405,93 +14494,6 @@
         "filer": "Gabelli Investor Funds, Inc",
         "etf_name": "The Gabelli ABC Fund",
         "strategy": "The fund seeks attractive total returns across varying market conditions without excessive capital-loss risk, primarily through merger-arbitrage opportunities in securities of companies believed likely to be acquired It invests more conservatively than a typical small-cap growth fund, emphasizing stability of principal over capital appreciation",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:16:38.937204+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001087966",
-    "company_name": "GABELLI UTILITIES FUND",
-    "accession_number": "0001829126-26-004250",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1087966/000182912626004250/0001829126-26-004250-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1087966/000182912626004250/guf_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1087966/000182912626004250/guf_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Gabelli Utilities Fund\nETF Name: The Gabelli Utilities Fund\nStrategy: The Fund seeks to provide a high level of total return through a combination of capital appreciation and current income by investing at least 80% of net assets in securities of Utility Companies selected by a value-oriented management approach\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Gabelli Utilities Fund",
-        "etf_name": "The Gabelli Utilities Fund",
-        "strategy": "The Fund seeks to provide a high level of total return through a combination of capital appreciation and current income by investing at least 80% of net assets in securities of Utility Companies selected by a value-oriented management approach",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:17:25.817437+00:00",
-    "form_type": "485APOS",
-    "cik": "0001761055",
-    "company_name": "BlackRock ETF Trust",
-    "accession_number": "0001193125-26-196568",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526196568/0001193125-26-196568-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1761055/000119312526196568/d143216d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526196568/d143216d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BlackRock ETF Trust\nETF Name: Inc. BlackRock ETF Trust BlackRock Series Fund II\nStrategy: large-cap value equity fund that employs proprietary quantitative models to seek long-term capital growth while targeting low tracking error to the Russell 1000 Value Index\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BlackRock ETF Trust",
-        "etf_name": "Inc. BlackRock ETF Trust BlackRock Series Fund II",
-        "strategy": "large-cap value equity fund that employs proprietary quantitative models to seek long-term capital growth while targeting low tracking error to the Russell 1000 Value Index",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:18:10.883341+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000806857",
-    "company_name": "GABELLI GROWTH FUND",
-    "accession_number": "0001829126-26-004249",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/806857/000182912626004249/0001829126-26-004249-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/806857/000182912626004249/ggf_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/806857/000182912626004249/ggf_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Gabelli Funds, LLC\nETF Name: The Gabelli Growth Fund\nStrategy: U.S. equity fund seeking capital appreciation primarily and current income secondarily by investing in companies with above-average or expanding market shares, profit margins, and returns on equity.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Gabelli Funds, LLC",
-        "etf_name": "The Gabelli Growth Fund",
-        "strategy": "U.S. equity fund seeking capital appreciation primarily and current income secondarily by investing in companies with above-average or expanding market shares, profit margins, and returns on equity.",
         "is_alert_worthy": "LOW"
       }
     ],
