@@ -1,5 +1,150 @@
 [
   {
+    "created_at": "2026-06-10T19:56:48.028254+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001587982",
+    "company_name": "Investment Managers Series Trust II",
+    "accession_number": "0001213900-26-067268",
+    "filed_date": "2026-06-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026067268/0001213900-26-067268-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587982/000121390026067268/ea0293540-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026067268/ea0293540-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust II\nETF Name: Tradr 2X Short SpaceX Daily ETF (SPCG)\nStrategy: Uses derivatives including swaps and options to deliver leveraged inverse single-stock exposure on a daily-reset basis\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Investment Managers Series Trust II",
+        "etf_name": "Tradr 2X Short SpaceX Daily ETF (SPCG)",
+        "strategy": "Uses derivatives including swaps and options to deliver leveraged inverse single-stock exposure on a daily-reset basis",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-10T19:58:03.558786+00:00",
+    "form_type": "485APOS",
+    "cik": "0001064642",
+    "company_name": "SPDR SERIES TRUST",
+    "accession_number": "0001193125-26-265666",
+    "filed_date": "2026-06-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1064642/000119312526265666/0001193125-26-265666-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1064642/000119312526265666/d942355d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1064642/000119312526265666/d942355d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SPDR Series Trust\nETF Name: SPDR Nasdaq MyPaycheck ETF\nStrategy: The fund passively tracks the Nasdaq MyPaycheck Total Return Index by investing in approximately 10 underlying exchange-traded products spanning U.S and international equities, fixed income, commodities, and REITs using a replication strategy\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SPDR Series Trust",
+        "etf_name": "SPDR Nasdaq MyPaycheck ETF",
+        "strategy": "The fund passively tracks the Nasdaq MyPaycheck Total Return Index by investing in approximately 10 underlying exchange-traded products spanning U.S and international equities, fixed income, commodities, and REITs using a replication strategy",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-10T19:58:56.443047+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000088525",
+    "company_name": "GUGGENHEIM FUNDS TRUST",
+    "accession_number": "0001193125-26-265633",
+    "filed_date": "2026-06-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/88525/000119312526265633/0001193125-26-265633-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/88525/000119312526265633/d139913d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/88525/000119312526265633/d139913d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Guggenheim Funds Trust\nETF Name: Guggenheim Enhanced Equity Income Fund\nStrategy: equity portfolio optimized for dividend yield and free cash flow yield, benchmarked against the S&P 500\u00ae Index equity indices or index-tracking ETFs with notional exposure up to 100% of equity holdings\u2014to generate additional income and target lower volatility\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Guggenheim Funds Trust",
+        "etf_name": "Guggenheim Enhanced Equity Income Fund",
+        "strategy": "equity portfolio optimized for dividend yield and free cash flow yield, benchmarked against the S&P 500\u00ae Index equity indices or index-tracking ETFs with notional exposure up to 100% of equity holdings\u2014to generate additional income and target lower volatility",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-10T20:00:10.358386+00:00",
+    "form_type": "485APOS",
+    "cik": "0001517936",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND IV",
+    "accession_number": "0001445546-26-004333",
+    "filed_date": "2026-06-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626004333/0001445546-26-004333-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1517936/000144554626004333/etf4_485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626004333/etf4_485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund IV\nETF Name: FT Vest SPCX & Target Income ETF\nStrategy: The Fund is an actively managed ETF that seeks current income, with capital appreciation as a secondary objective, by investing in Space Exploration Technologies Corp\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "First Trust Exchange-Traded Fund IV",
+        "etf_name": "FT Vest SPCX & Target Income ETF",
+        "strategy": "The Fund is an actively managed ETF that seeks current income, with capital appreciation as a secondary objective, by investing in Space Exploration Technologies Corp",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-10T20:01:11.656889+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001618627",
+    "company_name": "RBB Fund Trust",
+    "accession_number": "0001999371-26-012555",
+    "filed_date": "2026-06-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126012555/0001999371-26-012555-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1618627/000199937126012555/rbb-485bpos_061026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126012555/rbb-485bpos_061026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: RBB Fund Trust\nETF Name: Twin Oak Horizons ETF\nStrategy: Actively managed total-return ETF with fully flexible allocation ranging 0\u2013100% in both equities and fixed income, using bottom-up security selection and top-down portfolio construction Employs macro hedges and derivatives\u2014including index/ETF hedges\u2014to manage overall market, interest-rate, and credit risk\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "RBB Fund Trust",
+        "etf_name": "Twin Oak Horizons ETF",
+        "strategy": "Actively managed total-return ETF with fully flexible allocation ranging 0\u2013100% in both equities and fixed income, using bottom-up security selection and top-down portfolio construction Employs macro hedges and derivatives\u2014including index/ETF hedges\u2014to manage overall market, interest-rate, and credit risk",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-10T17:25:16.228572+00:00",
     "form_type": "485APOS",
     "cik": "0001511699",
@@ -12545,7 +12690,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF but a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies tied to market index performance with buffers and floors, plus a Fixed Crediting Rate Strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies tied to market indices with upside limited by caps, participation rates, or trigger rates, and downside partially mitigated by buffer or floor percentages A Fixed Crediting Rate Strategy is also available, with early withdrawals subject to a Strategy Interim Value Adjustment that can reduce principal\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14349,151 +14494,6 @@
         "filer": "Listed Funds Trust",
         "etf_name": "Roundhill Ball Metaverse ETF",
         "strategy": "Passively managed ETF that seeks to track the Ball Metaverse Index The fund targets thematic equity exposure to companies involved in the metaverse ecosystem",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:08:23.023502+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000879947",
-    "company_name": "AMG ETF Trust",
-    "accession_number": "0001193125-26-196655",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/879947/000119312526196655/0001193125-26-196655-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/879947/000119312526196655/d129130d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/879947/000119312526196655/d129130d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AMG ETF Trust\nETF Name: AMG GW&K Muni Income ETF\nStrategy: Actively managed intermediate-duration municipal bond ETF seeking current income exempt from federal income tax, with capital appreciation as a secondary objective, benchmarked to the ICE BofA US Municipal Securities Index The sub-adviser (GW&K Investment Management) employs a bottom-up, research-driven credit analysis process with flexibility to invest across the full municipal bond spectrum, including below-investm...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AMG ETF Trust",
-        "etf_name": "AMG GW&K Muni Income ETF",
-        "strategy": "Actively managed intermediate-duration municipal bond ETF seeking current income exempt from federal income tax, with capital appreciation as a secondary objective, benchmarked to the ICE BofA US Municipal Securities Index The sub-adviser (GW&K Investment Management) employs a bottom-up, research-driven credit analysis process with flexibility to invest across the full municipal bond spectrum, including below-investm...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:09:15.052681+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000720309",
-    "company_name": "AMG FUNDS III",
-    "accession_number": "0001193125-26-196649",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/720309/000119312526196649/0001193125-26-196649-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/720309/000119312526196649/d105048d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/720309/000119312526196649/d105048d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AMG Funds III\nETF Name: AMG Veritas Asia Pacific Fund\nStrategy: Actively managed equity fund seeking long-term capital appreciation through a concentrated portfolio of Asia Pacific securities, with notable exposure to South Korean issuers\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AMG Funds III",
-        "etf_name": "AMG Veritas Asia Pacific Fund",
-        "strategy": "Actively managed equity fund seeking long-term capital appreciation through a concentrated portfolio of Asia Pacific securities, with notable exposure to South Korean issuers",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:10:29.712121+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001029122",
-    "company_name": "NATIONAL VARIABLE ANNUITY ACCOUNT II",
-    "accession_number": "0001104659-26-052754",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1029122/000110465926052754/0001104659-26-052754-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1029122/000110465926052754/tm262693d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1029122/000110465926052754/tm262693d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: NATIONAL VARIABLE ANNUITY ACCOUNT II\nETF Name: BlackRock 60/40 Target Allocation ETF V.I. Fund\nStrategy: A fund-of-funds seeking total return by investing in a portfolio of underlying iShares ETFs tracking equity and fixed-income indices, with a target allocation of approximately 60% equity ETFs and 40% fixed-income ETFs The fund uses a dynamic approach to investment management with target asset allocations updated at least annually and portfolio rebalancing considered at least quarterly\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "NATIONAL VARIABLE ANNUITY ACCOUNT II",
-        "etf_name": "BlackRock 60/40 Target Allocation ETF V.I. Fund",
-        "strategy": "A fund-of-funds seeking total return by investing in a portfolio of underlying iShares ETFs tracking equity and fixed-income indices, with a target allocation of approximately 60% equity ETFs and 40% fixed-income ETFs The fund uses a dynamic approach to investment management with target asset allocations updated at least annually and portfolio rebalancing considered at least quarterly",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:11:42.265195+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001089951",
-    "company_name": "AMG FUNDS",
-    "accession_number": "0001193125-26-196636",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1089951/000119312526196636/0001193125-26-196636-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1089951/000119312526196636/d762963d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1089951/000119312526196636/d762963d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AMG ETF Trust\nETF Name: AMG GW&K Muni Income ETF\nStrategy: Actively managed core intermediate municipal bond ETF, subadvised by GW&K Investment Management, investing across the municipal bond spectrum with the objective of current income exempt from federal income tax (with capital appreciation as a secondary objective), holding at least 80% of net assets in municipal bonds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AMG ETF Trust",
-        "etf_name": "AMG GW&K Muni Income ETF",
-        "strategy": "Actively managed core intermediate municipal bond ETF, subadvised by GW&K Investment Management, investing across the municipal bond spectrum with the objective of current income exempt from federal income tax (with capital appreciation as a secondary objective), holding at least 80% of net assets in municipal bonds",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T20:12:53.471461+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001934234",
-    "company_name": "Aspida Life Insurance Co",
-    "accession_number": "0001104659-26-052739",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926052739/0001104659-26-052739-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1934234/000110465926052739/tm263773d2_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926052739/tm263773d2_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Aspida DreamPath Annuity (not an ETF \u2014 registered index-linked annuity contract)\nStrategy: This product is a single premium deferred index-linked annuity offering indexed crediting rate strategies tied to market indices with downside protection via buffers (\u201310% or \u201320%) or floors (\u201310%), and upside shaped by caps, participation rates, or trigger rates\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Aspida Life Insurance Co",
-        "etf_name": "Aspida DreamPath Annuity (not an ETF \u2014 registered index-linked annuity contract)",
-        "strategy": "This product is a single premium deferred index-linked annuity offering indexed crediting rate strategies tied to market indices with downside protection via buffers (\u201310% or \u201320%) or floors (\u201310%), and upside shaped by caps, participation rates, or trigger rates",
         "is_alert_worthy": "LOW"
       }
     ],
