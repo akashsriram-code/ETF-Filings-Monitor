@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-06-11T22:58:19.991875+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001782952",
+    "company_name": "Kurv ETF Trust",
+    "accession_number": "0001999371-26-012664",
+    "filed_date": "2026-06-11",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126012664/0001999371-26-012664-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1782952/000199937126012664/xshp-485bpos_061126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126012664/xshp-485bpos_061126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Kurv ETF Trust\nETF Name: Total Annual Fund\nStrategy: Some or all of these risks may adversely affect the Fund\u2019s net asset value (\u201cNAV\u201d) per share, trading price, yield, total return, and/or ability to meet its objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Kurv ETF Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "Some or all of these risks may adversely affect the Fund\u2019s net asset value (\u201cNAV\u201d) per share, trading price, yield, total return, and/or ability to meet its objective",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-11T22:58:22.787945+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001618627",
+    "company_name": "RBB Fund Trust",
+    "accession_number": "0001398344-26-010749",
+    "filed_date": "2026-06-11",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1618627/000139834426010749/0001398344-26-010749-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1618627/000139834426010749/fp0099219-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1618627/000139834426010749/fp0099219-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: RBB Fund Trust\nETF Name: None Total Annual Fund\nStrategy: The investment objective of Synera Funds Japan Active+ ETF (the \u201cFund\u201d) is capital appreciation The Fund seeks to achieve its investment objective by investing in Japanese equity and equity-related securities (e.g\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "RBB Fund Trust",
+        "etf_name": "None Total Annual Fund",
+        "strategy": "The investment objective of Synera Funds Japan Active+ ETF (the \u201cFund\u201d) is capital appreciation The Fund seeks to achieve its investment objective by investing in Japanese equity and equity-related securities (e.g",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-11T21:07:14.426268+00:00",
     "form_type": "485BPOS",
     "cik": "0001350487",
@@ -14436,64 +14494,6 @@
         "filer": "Morgan Stanley",
         "etf_name": "Morgan Stanley Long Duration Government Opportunities Fund",
         "strategy": "The fund invests at least 80% of net assets in U.S Government/Mortgage Index and may use TBA transactions and derivatives to manage duration exposure",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T22:16:56.941528+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000916622",
-    "company_name": "TIFF INVESTMENT PROGRAM",
-    "accession_number": "0001104659-26-053080",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/916622/000110465926053080/0001104659-26-053080-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/916622/000110465926053080/tm263362d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/916622/000110465926053080/tm263362d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: TIFF Investment Program\nETF Name: TIFF Multi-Asset Fund\nStrategy: TIFF Advisory Services selects and allocates among external sub-advisers (such as AQR Capital Management and CenterBook) while also directly managing a portion of the portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "TIFF Investment Program",
-        "etf_name": "TIFF Multi-Asset Fund",
-        "strategy": "TIFF Advisory Services selects and allocates among external sub-advisers (such as AQR Capital Management and CenterBook) while also directly managing a portion of the portfolio",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T22:17:50.719885+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001069590",
-    "company_name": "STATE FARM LIFE & ACCIDENT ASSUR CO VAR LIFE SEP ACCT",
-    "accession_number": "0001193125-26-197631",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1069590/000119312526197631/0001193125-26-197631-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1069590/000119312526197631/d227246d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1069590/000119312526197631/d227246d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: State Farm Life & Accident Assurance Company Variable Life Separate Account\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: The fund seeks to preserve capital, maintain liquidity, and achieve the highest possible current income, with policyholders allocating net premiums among subaccounts that each invest in a corresponding BlackRock-managed fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "State Farm Life & Accident Assurance Company Variable Life Separate Account",
-        "etf_name": "Target Allocation ETF V.I. Fund",
-        "strategy": "The fund seeks to preserve capital, maintain liquidity, and achieve the highest possible current income, with policyholders allocating net premiums among subaccounts that each invest in a corresponding BlackRock-managed fund",
         "is_alert_worthy": "LOW"
       }
     ],
