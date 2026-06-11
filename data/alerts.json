@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-06-11T11:48:03.085468+00:00",
+    "form_type": "485APOS",
+    "cik": "0001719812",
+    "company_name": "Collaborative Investment Series Trust",
+    "accession_number": "0001999371-26-012584",
+    "filed_date": "2026-06-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1719812/000199937126012584/0001999371-26-012584-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1719812/000199937126012584/cist-485apos_061126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1719812/000199937126012584/cist-485apos_061126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Collaborative Investment Series Trust\nETF Name: Rareview Multi-Asset ETF\nStrategy: Actively managed, tactical multi-asset ETF seeking long-term capital appreciation by dynamically shifting allocations across equities, fixed income, commodities, inflation-linked bonds, and cash based on the adviser's macroeconomic outlook. Pairs growth-sensitive and inflation-sensitive assets in a risk-parity-style framework, using underlying fixed-income ETFs and an offshore subsidiary for commodity futures access.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Collaborative Investment Series Trust",
+        "etf_name": "Rareview Multi-Asset ETF",
+        "strategy": "Actively managed, tactical multi-asset ETF seeking long-term capital appreciation by dynamically shifting allocations across equities, fixed income, commodities, inflation-linked bonds, and cash based on the adviser's macroeconomic outlook. Pairs growth-sensitive and inflation-sensitive assets in a risk-parity-style framework, using underlying fixed-income ETFs and an offshore subsidiary for commodity futures access.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-10T22:06:42.491009+00:00",
     "form_type": "486BPOS",
     "cik": "0001616037",
@@ -12951,7 +12980,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering indexed crediting rate strategies that link returns to index performance, with upside limited by cap, participation, or trigger rates and downside partially mitigated by buffer or floor percentages A fixed crediting rate strategy is also available, and early withdrawals are subject to a Strategy Interim Value Adjustment that can result in...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: This is not an ETF but a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies tied to market indices with cap, participation, and trigger rates on the upside, and Buffer or Floor Percentages limiting downside A Fixed Crediting Rate Strategy is also available, with early withdrawals subject to a Strategy Interim Value Adjustment that can result in loss of up to 100% of princ...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14465,35 +14494,6 @@
         "filer": "LINCOLN VARIABLE INSURANCE PRODUCTS TRUST",
         "etf_name": "LVIP Vanguard Domestic Equity ETF Fund",
         "strategy": "The Fund employs a fund-of-funds asset allocation strategy, investing in Underlying Funds to gain broad exposure to U.S The Adviser sets the allocation among Underlying Funds, and the Fund's performance depends on each Underlying Fund's ability to meet its own investment objective",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T19:58:04.678487+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000821051",
-    "company_name": "FIDELITY INVESTMENTS VARIABLE ANNUITY ACCOUNT I",
-    "accession_number": "0001193125-26-196801",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/821051/000119312526196801/0001193125-26-196801-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/821051/000119312526196801/d57319d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/821051/000119312526196801/d57319d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fidelity Investments Life Insurance Company\nETF Name: Each Fund is part of a trust\nStrategy: Each Subaccount within the Variable Account invests exclusively in a single underlying Fund, which is a separate series of an open-end management investment company registered under the 1940 Act\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fidelity Investments Life Insurance Company",
-        "etf_name": "Each Fund is part of a trust",
-        "strategy": "Each Subaccount within the Variable Account invests exclusively in a single underlying Fund, which is a separate series of an open-end management investment company registered under the 1940 Act",
         "is_alert_worthy": "LOW"
       }
     ],
