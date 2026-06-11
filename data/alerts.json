@@ -12951,7 +12951,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering indexed crediting rate strategies tied to market indices with caps, participation rates, buffers, and floors, alongside a fixed crediting rate strategy This is not an ETF; it is a registered index-linked annuity (RILA) designed for tax-deferred, long-term investing with downside protection mechanisms and early-withdrawal adjustments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering indexed crediting rate strategies that link returns to index performance, with upside limited by cap, participation, or trigger rates and downside partially mitigated by buffer or floor percentages A fixed crediting rate strategy is also available, and early withdrawals are subject to a Strategy Interim Value Adjustment that can result in...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
