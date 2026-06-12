@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-06-12T20:26:49.796038+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-006449",
+    "filed_date": "2026-06-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006449/0001829126-26-006449-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626006449/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006449/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Total Annual Fund\nStrategy: The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily inverse investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily inverse investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-12T20:26:52.238059+00:00",
+    "form_type": "485APOS",
+    "cik": "0002034406",
+    "company_name": "Tortoise Capital Series Trust",
+    "accession_number": "0001213900-26-068282",
+    "filed_date": "2026-06-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2034406/000121390026068282/0001213900-26-068282-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2034406/000121390026068282/ea0294567-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2034406/000121390026068282/ea0294567-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tortoise Capital Series Trust\nETF Name: Power Index ETF\nStrategy: Power Index ETF (the \u201cFund\u201d), a series of Tortoise Capital Series Trust (the \u201cTrust\u201d), seeks to track the The Fund is an exchange-traded fund (\u201cETF\u201d) that employs a \u201cpassive\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tortoise Capital Series Trust",
+        "etf_name": "Power Index ETF",
+        "strategy": "Power Index ETF (the \u201cFund\u201d), a series of Tortoise Capital Series Trust (the \u201cTrust\u201d), seeks to track the The Fund is an exchange-traded fund (\u201cETF\u201d) that employs a \u201cpassive",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-12T20:26:55.546092+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001018170",
+    "company_name": "HARDING LOEVNER FUNDS INC",
+    "accession_number": "0001193125-26-269289",
+    "filed_date": "2026-06-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1018170/000119312526269289/0001193125-26-269289-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1018170/000119312526269289/d150600d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1018170/000119312526269289/d150600d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: HARDING LOEVNER FUNDS INC\nETF Name: Unknown\nStrategy: Investment Objective The Portfolio seeks long-term capital appreciation through investments in equity securities of companies based in developed markets outside the United States Investment Objective The Portfolio seeks long-term capital appreciation through investments in equity securities of companies based in developed markets outside the United States\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "HARDING LOEVNER FUNDS INC",
+        "etf_name": "Unknown",
+        "strategy": "Investment Objective The Portfolio seeks long-term capital appreciation through investments in equity securities of companies based in developed markets outside the United States Investment Objective The Portfolio seeks long-term capital appreciation through investments in equity securities of companies based in developed markets outside the United States",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-12T18:09:52.526688+00:00",
     "form_type": "485APOS",
     "cik": "0001976322",
@@ -14407,93 +14494,6 @@
         "filer": "Managed Portfolio Series",
         "etf_name": "Tremblant Global ETF (TOGA)",
         "strategy": "The fund targets a concentrated portfolio of 30\u201350 positions in companies undergoing disruptive consequential change or exhibiting durable long-term growth, using a proprietary fundamental selection process",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T22:08:04.319767+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001848758",
-    "company_name": "NEOS ETF Trust",
-    "accession_number": "0001999371-26-009592",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1848758/000199937126009592/0001999371-26-009592-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1848758/000199937126009592/neos-485bpos_043026.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1848758/000199937126009592/neos-485bpos_043026.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: NEOS ETF Trust\nETF Name: High Income ETF\nStrategy: The Fund seeks tax efficient returns by utilizing index options that receive favorable tax treatment under Internal Revenue Code rules because they qualify as \u201cSection 1256 Contracts.\u201d Under these rules, each section 1256 contract held by the Fund at year end is treated as if it were sold at fair market value on the last business day of the tax year The Fund seeks tax efficient returns by utilizing index options that\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "NEOS ETF Trust",
-        "etf_name": "High Income ETF",
-        "strategy": "The Fund seeks tax efficient returns by utilizing index options that receive favorable tax treatment under Internal Revenue Code rules because they qualify as \u201cSection 1256 Contracts.\u201d Under these rules, each section 1256 contract held by the Fund at year end is treated as if it were sold at fair market value on the last business day of the tax year The Fund seeks tax efficient returns by utilizing index options that",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T22:08:55.275615+00:00",
-    "form_type": "486BPOS",
-    "cik": "0002059436",
-    "company_name": "Blue Owl Alternative Credit Fund",
-    "accession_number": "0001628280-26-028976",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2059436/000162828026028976/0001628280-26-028976-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2059436/000162828026028976/ck0002059436-20260430.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2059436/000162828026028976/ck0002059436-20260430.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Blue Owl Alternative Credit Fund\nETF Name: Blue Owl Alternative Credit Fund\nStrategy: The fund seeks current income and secondarily long-term capital appreciation by dynamically allocating across a broad range of alternative credit assets and strategies, including asset-based finance\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Blue Owl Alternative Credit Fund",
-        "etf_name": "Blue Owl Alternative Credit Fund",
-        "strategy": "The fund seeks current income and secondarily long-term capital appreciation by dynamically allocating across a broad range of alternative credit assets and strategies, including asset-based finance",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T22:09:56.518256+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000836487",
-    "company_name": "MORGAN STANLEY INSTITUTIONAL FUND INC",
-    "accession_number": "0001133228-26-007524",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/836487/000113322826007524/0001133228-26-007524-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/836487/000113322826007524/msifi-efp24052_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/836487/000113322826007524/msifi-efp24052_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Morgan Stanley Institutional Fund, Inc\nETF Name: Advantage Portfolio\nStrategy: Seeks long-term capital appreciation by investing primarily in established large-cap growth companies within the Russell 1000\u00ae Growth Index capitalization range, emphasizing competitive advantages, high returns on capital, and strong balance sheets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Morgan Stanley Institutional Fund, Inc",
-        "etf_name": "Advantage Portfolio",
-        "strategy": "Seeks long-term capital appreciation by investing primarily in established large-cap growth companies within the Russell 1000\u00ae Growth Index capitalization range, emphasizing competitive advantages, high returns on capital, and strong balance sheets",
         "is_alert_worthy": "LOW"
       }
     ],
