@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-06-12T12:36:18.949724+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-012700",
+    "filed_date": "2026-06-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012700/0001999371-26-012700-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126012700/prai-485bpos_061226.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012700/prai-485bpos_061226.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Unknown\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Unknown",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-12T12:36:21.548618+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-028345",
+    "filed_date": "2026-06-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226028345/0001493152-26-028345-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226028345/form485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226028345/form485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares ETF Trust\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "GraniteShares ETF Trust",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-12T12:36:24.891916+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001545440",
+    "company_name": "Ultimus Managers Trust",
+    "accession_number": "0001580642-26-003726",
+    "filed_date": "2026-06-11",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1545440/000158064226003726/0001580642-26-003726-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1545440/000158064226003726/umt-westwood_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1545440/000158064226003726/umt-westwood_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Ultimus Managers Trust\nETF Name: Principal Investment Risks As with any mutual fund or ETF\nStrategy: and Investment Policies The Board of Trustees (the \u201cBoard\u201d) of Ultimus Managers Trust (the \u201cTrust\u201d) can change the Fund\u2019s investment objective and strategies without shareholder approval Shareholders will receive written notice of at least 60 days prior to any change of the Fund\u2019s investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Ultimus Managers Trust",
+        "etf_name": "Principal Investment Risks As with any mutual fund or ETF",
+        "strategy": "and Investment Policies The Board of Trustees (the \u201cBoard\u201d) of Ultimus Managers Trust (the \u201cTrust\u201d) can change the Fund\u2019s investment objective and strategies without shareholder approval Shareholders will receive written notice of at least 60 days prior to any change of the Fund\u2019s investment objective",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-11T22:58:19.991875+00:00",
     "form_type": "485BPOS",
     "cik": "0001782952",
@@ -14407,93 +14494,6 @@
         "filer": "State Farm Life Insurance Co Variable Annuity Separate Account",
         "etf_name": "Target Allocation ETF V.I. Fund",
         "strategy": "The fund is an underlying variable insurance investment option that allocates across multiple ETFs to pursue a target asset allocation, sub-advised by BlackRock Advisors, LLC. It is available exclusively through the variable annuity contract and is not offered as a standalone public ETF.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T22:14:28.296363+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001002427",
-    "company_name": "Morgan Stanley Insight Fund",
-    "accession_number": "0001133228-26-007514",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1002427/000113322826007514/0001133228-26-007514-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1002427/000113322826007514/msif-efp24057_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1002427/000113322826007514/msif-efp24057_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Morgan Stanley Investment Management Inc\nETF Name: Morgan Stanley Insight Fund\nStrategy: The fund seeks long-term capital appreciation through a concentrated, flexible global portfolio managed with broad adviser discretion across asset classes and geographies, including use of foreign currency forward contracts\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Morgan Stanley Investment Management Inc",
-        "etf_name": "Morgan Stanley Insight Fund",
-        "strategy": "The fund seeks long-term capital appreciation through a concentrated, flexible global portfolio managed with broad adviser discretion across asset classes and geographies, including use of foreign currency forward contracts",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T22:15:23.383383+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001027856",
-    "company_name": "STATE FARM LIFE INSURANCE CO VARIABLE LIFE SEPARATE ACCOUNT",
-    "accession_number": "0001193125-26-197646",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1027856/000119312526197646/0001193125-26-197646-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1027856/000119312526197646/d56174d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1027856/000119312526197646/d56174d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: State Farm Life Insurance Co Variable Life Separate Account\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: The fund is a variable insurance subaccount option that seeks a target asset allocation by investing in underlying ETFs, managed by BlackRock Advisors, LLC as adviser\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "State Farm Life Insurance Co Variable Life Separate Account",
-        "etf_name": "Target Allocation ETF V.I. Fund",
-        "strategy": "The fund is a variable insurance subaccount option that seeks a target asset allocation by investing in underlying ETFs, managed by BlackRock Advisors, LLC as adviser",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T22:16:04.985399+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000730044",
-    "company_name": "Morgan Stanley Long Duration Government Opportunities Fund",
-    "accession_number": "0001133228-26-007508",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/730044/000113322826007508/0001133228-26-007508-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/730044/000113322826007508/msldg-efp24058_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/730044/000113322826007508/msldg-efp24058_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Morgan Stanley\nETF Name: Morgan Stanley Long Duration Government Opportunities Fund\nStrategy: The fund invests at least 80% of net assets in U.S Government/Mortgage Index and may use TBA transactions and derivatives to manage duration exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Morgan Stanley",
-        "etf_name": "Morgan Stanley Long Duration Government Opportunities Fund",
-        "strategy": "The fund invests at least 80% of net assets in U.S Government/Mortgage Index and may use TBA transactions and derivatives to manage duration exposure",
         "is_alert_worthy": "LOW"
       }
     ],
