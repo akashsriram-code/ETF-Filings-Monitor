@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-06-12T18:09:52.526688+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-006431",
+    "filed_date": "2026-06-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006431/0001829126-26-006431-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626006431/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006431/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Total Annual Fund\nStrategy: The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily inverse investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily inverse investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-12T18:09:55.379703+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002043390",
+    "company_name": "Tidal Trust IV",
+    "accession_number": "0001999371-26-012741",
+    "filed_date": "2026-06-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126012741/0001999371-26-012741-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126012741/vegashares-485bpos_061226.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126012741/vegashares-485bpos_061226.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: VegaShares Synthetic Mind ETF\nStrategy: The Fund\u2019s investment objective is to seek capital appreciation Portfolio Selection Process : The Sub-Adviser utilizes an actively managed, rules-informed investment process that combines systema to: Eric W\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust IV",
+        "etf_name": "VegaShares Synthetic Mind ETF",
+        "strategy": "The Fund\u2019s investment objective is to seek capital appreciation Portfolio Selection Process : The Sub-Adviser utilizes an actively managed, rules-informed investment process that combines systema to: Eric W",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-12T15:53:08.099503+00:00",
     "form_type": "485APOS",
     "cik": "0002043390",
@@ -14440,64 +14498,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T22:11:03.647415+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001061435",
-    "company_name": "STATE FARM LIFE & ACCIDENT ASS CO VAR ANN SEP ACCT",
-    "accession_number": "0001193125-26-197688",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1061435/000119312526197688/0001193125-26-197688-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1061435/000119312526197688/d57145d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1061435/000119312526197688/d57145d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: State Farm Life & Accident Assurance Company Variable Annuity Separate Account\nETF Name: Target Allocation ETF V.I. Fund\nStrategy: The fund is a variable-insurance subaccount offered under BlackRock Variable Series Funds II, Inc., investing in a diversified target allocation of ETFs within an insurance policy wrapper. It is advised by BlackRock Advisors, LLC and is available only through variable annuity/life insurance policies, not as a standalone exchange-traded product.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "State Farm Life & Accident Assurance Company Variable Annuity Separate Account",
-        "etf_name": "Target Allocation ETF V.I. Fund",
-        "strategy": "The fund is a variable-insurance subaccount offered under BlackRock Variable Series Funds II, Inc., investing in a diversified target allocation of ETFs within an insurance policy wrapper. It is advised by BlackRock Advisors, LLC and is available only through variable annuity/life insurance policies, not as a standalone exchange-traded product.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T22:12:31.182314+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001396092",
-    "company_name": "World Funds Trust",
-    "accession_number": "0001396092-26-000276",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000276/0001396092-26-000276-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1396092/000139609226000276/ck0001396092-20260430.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1396092/000139609226000276/ck0001396092-20260430.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: World Funds Trust\nETF Name: T-Rex 2X Long Ether Daily Target ETF\nStrategy: This ETF, formed on October 24, 2024, is domiciled in the United States and seeks daily investment results of 200% (2X) of the daily performance of spot Ether using leveraged swap-based strategies\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "World Funds Trust",
-        "etf_name": "T-Rex 2X Long Ether Daily Target ETF",
-        "strategy": "This ETF, formed on October 24, 2024, is domiciled in the United States and seeks daily investment results of 200% (2X) of the daily performance of spot Ether using leveraged swap-based strategies",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
