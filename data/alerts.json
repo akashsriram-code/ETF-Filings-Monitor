@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-06-16T17:37:29.070226+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001722388",
+    "company_name": "Tidal Trust III",
+    "accession_number": "0001999371-26-012891",
+    "filed_date": "2026-06-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126012891/0001999371-26-012891-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1722388/000199937126012891/iinc-485bpos_061626.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126012891/iinc-485bpos_061626.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust III\nETF Name: Page Alki Consolidated Income ETF\nStrategy: The Alki Consolidated Income ETF (the \u201cFund\u201d) investment objective is to seek income The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks income The Fund\u2019s strategy involves two components: (1) investing, directly or indirectly, in a diversified portfolio of equity securities issued by large- and mid-capitalization companies (the \u201cEquity Strategy\u201d); and (2) seeking to generate options premiums thro\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust III",
+        "etf_name": "Page Alki Consolidated Income ETF",
+        "strategy": "The Alki Consolidated Income ETF (the \u201cFund\u201d) investment objective is to seek income The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks income The Fund\u2019s strategy involves two components: (1) investing, directly or indirectly, in a diversified portfolio of equity securities issued by large- and mid-capitalization companies (the \u201cEquity Strategy\u201d); and (2) seeking to generate options premiums thro",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-16T17:37:31.119813+00:00",
+    "form_type": "485APOS",
+    "cik": "0002065379",
+    "company_name": "Man ETF Series Trust",
+    "accession_number": "0001193125-26-272071",
+    "filed_date": "2026-06-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2065379/000119312526272071/0001193125-26-272071-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2065379/000119312526272071/d129882d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2065379/000119312526272071/d129882d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Man ETF Series Trust\nETF Name: Man Active Global Infrastructure ETF\nStrategy: Man Active Global Infrastructure ETF (the \u201cFund\u201d) seeks to provide long term capital growth Although your actual costs may be higher or lower, based on these assumptions, whether you do or do not sell your shares, your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Man ETF Series Trust",
+        "etf_name": "Man Active Global Infrastructure ETF",
+        "strategy": "Man Active Global Infrastructure ETF (the \u201cFund\u201d) seeks to provide long term capital growth Although your actual costs may be higher or lower, based on these assumptions, whether you do or do not sell your shares, your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-16T12:35:52.818084+00:00",
     "form_type": "485APOS",
     "cik": "0002081107",
@@ -14436,64 +14494,6 @@
         "filer": "Antares Private Credit Fund",
         "etf_name": "Antares Private Credit Fund (Class S, Class D, and Class I Shares)",
         "strategy": "The fund seeks to provide risk-adjusted returns and current income by investing primarily in a diversified portfolio of sponsor-backed senior secured loans to U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T21:51:39.166124+00:00",
-    "form_type": "485BPOS",
-    "cik": "0002071107",
-    "company_name": "Thrive Series Trust",
-    "accession_number": "0000894189-26-014158",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2071107/000089418926014158/0000894189-26-014158-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2071107/000089418926014158/ck0002071107-20260430.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2071107/000089418926014158/ck0002071107-20260430.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Thrive Series Trust\nETF Name: Prospera Income ETF\nStrategy: Actively managed multi-asset income ETF seeking income and capital preservation by investing across fixed-income ETFs, closed-end funds, ADRs, common stock, commodities, and fixed-income securities. Employs listed options on U.S.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Thrive Series Trust",
-        "etf_name": "Prospera Income ETF",
-        "strategy": "Actively managed multi-asset income ETF seeking income and capital preservation by investing across fixed-income ETFs, closed-end funds, ADRs, common stock, commodities, and fixed-income securities. Employs listed options on U.S.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T21:52:39.668816+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000854241",
-    "company_name": "FIDELITY & GUARANTY LIFE INSURANCE CO",
-    "accession_number": "0001193125-26-197886",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/854241/000119312526197886/0001193125-26-197886-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/854241/000119312526197886/d244436d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/854241/000119312526197886/d244436d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fidelity & Guaranty Life Insurance Co\nETF Name: Year Treasury Bond ETF\nStrategy: This is not a standalone ETF filing but an indexed annuity contract (\"Hindsight 20/20 Index-Linked Interest Strategy\") that credits interest based on the performance of BofA MP Indices (Growth, Balanced, Defensive), which are composed of existing ETFs\u2014SPY, IEF, and HYG\u2014providing blended equity, Treasury, and high-yield corporate bond exposure with a dividend-yield proxy subtracted Returns are subject to Cap Rates or...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fidelity & Guaranty Life Insurance Co",
-        "etf_name": "Year Treasury Bond ETF",
-        "strategy": "This is not a standalone ETF filing but an indexed annuity contract (\"Hindsight 20/20 Index-Linked Interest Strategy\") that credits interest based on the performance of BofA MP Indices (Growth, Balanced, Defensive), which are composed of existing ETFs\u2014SPY, IEF, and HYG\u2014providing blended equity, Treasury, and high-yield corporate bond exposure with a dividend-yield proxy subtracted Returns are subject to Cap Rates or...",
         "is_alert_worthy": "LOW"
       }
     ],
