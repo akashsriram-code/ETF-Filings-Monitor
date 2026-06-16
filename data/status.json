@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-06-16T07:41:40.490529+00:00",
+  "last_run": "2026-06-16T12:35:54.157853+00:00",
   "last_error": null,
-  "fetched_entries": 1085,
+  "fetched_entries": 1147,
   "feed_entries": 2000,
   "feed_max_pages": 20,
   "catchup_entries": 0,
@@ -12,7 +12,7 @@
   "refreshed_synopsis": 1,
   "force_refresh_synopsis": false,
   "suppress_email": false,
-  "new_alerts": 0,
+  "new_alerts": 1,
   "total_alerts": 500,
   "mode": "github-pages-scheduled-poller"
 }

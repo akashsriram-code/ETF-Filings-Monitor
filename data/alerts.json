@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-06-16T12:35:52.818084+00:00",
+    "form_type": "485APOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-012872",
+    "filed_date": "2026-06-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126012872/0001999371-26-012872-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126012872/hype-485apos_061626.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126012872/hype-485apos_061626.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: 2x Long Bitwise Hyperliquid ETF\nStrategy: This actively managed, daily-reset leveraged ETF seeks to deliver 200% of the daily percentage change in the share price of the Bitwise Hyperliquid ETF (NYSE: BHYP), gaining amplified indirect exposure to the HYPE token via swap agreements and options rather than direct crypto custody\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "2x Long Bitwise Hyperliquid ETF",
+        "strategy": "This actively managed, daily-reset leveraged ETF seeks to deliver 200% of the daily percentage change in the share price of the Bitwise Hyperliquid ETF (NYSE: BHYP), gaining amplified indirect exposure to the HYPE token via swap agreements and options rather than direct crypto custody",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-15T21:31:36.386868+00:00",
     "form_type": "485APOS",
     "cik": "0002078265",
@@ -14111,7 +14140,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract offering indexed crediting rate strategies with returns tied to index performance, subject to caps, participation rates, and buffer or floor percentages for partial downside protection over defined strategy periods A fixed crediting rate strategy is also available, and the contract is designed for tax-deferred, long-term financial planning rather...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract\u2014not an ETF\u2014that allows allocation among Indexed Crediting Rate Strategies (with caps, participation rates, buffers, and floors tied to market-index performance) and a Fixed Crediting Rate Strategy It is designed for tax-deferred, long-term investing with structured upside limits and defined downside protection over multi-year strategy periods\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Aspida Life Insurance Co",
@@ -14465,35 +14494,6 @@
         "filer": "Fidelity & Guaranty Life Insurance Co",
         "etf_name": "Year Treasury Bond ETF",
         "strategy": "This is not a standalone ETF filing but an indexed annuity contract (\"Hindsight 20/20 Index-Linked Interest Strategy\") that credits interest based on the performance of BofA MP Indices (Growth, Balanced, Defensive), which are composed of existing ETFs\u2014SPY, IEF, and HYG\u2014providing blended equity, Treasury, and high-yield corporate bond exposure with a dividend-yield proxy subtracted Returns are subject to Cap Rates or...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-04-30T21:54:02.508957+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000893818",
-    "company_name": "BlackRock Funds III",
-    "accession_number": "0001193125-26-197855",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/893818/000119312526197855/0001193125-26-197855-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/893818/000119312526197855/d104195d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/893818/000119312526197855/d104195d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BlackRock Funds III\nETF Name: BlackRock LifePath\u00ae Dynamic Retirement Fund\nStrategy: Multi-asset fund-of-funds that targets retirement outcomes by dynamically allocating across BFA-selected underlying funds spanning U.S. and foreign equities, fixed income, REITs, infrastructure, emerging markets, commodities, and derivatives.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BlackRock Funds III",
-        "etf_name": "BlackRock LifePath\u00ae Dynamic Retirement Fund",
-        "strategy": "Multi-asset fund-of-funds that targets retirement outcomes by dynamically allocating across BFA-selected underlying funds spanning U.S. and foreign equities, fixed income, REITs, infrastructure, emerging markets, commodities, and derivatives.",
         "is_alert_worthy": "LOW"
       }
     ],
