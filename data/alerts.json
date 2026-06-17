@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-06-17T19:33:10.669920+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001558107",
+    "company_name": "ALPS Series Trust",
+    "accession_number": "0001398344-26-010951",
+    "filed_date": "2026-06-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1558107/000139834426010951/0001398344-26-010951-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1558107/000139834426010951/fp0098889-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1558107/000139834426010951/fp0098889-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ALPS Series Trust\nETF Name: ONE India Conviction ETF\nStrategy: The 360 ONE India Conviction ETF seeks long-term capital appreciation One Year Three Years Although your actual costs may be higher or lower, based on these assumptions your costs would be: $ 72 $ 224 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ALPS Series Trust",
+        "etf_name": "ONE India Conviction ETF",
+        "strategy": "The 360 ONE India Conviction ETF seeks long-term capital appreciation One Year Three Years Although your actual costs may be higher or lower, based on these assumptions your costs would be: $ 72 $ 224 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-17T19:33:14.572620+00:00",
+    "form_type": "485APOS",
+    "cik": "0002018846",
+    "company_name": "MFS Active Exchange Traded Funds Trust",
+    "accession_number": "0000912938-26-000680",
+    "filed_date": "2026-06-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2018846/000091293826000680/0000912938-26-000680-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2018846/000091293826000680/c485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2018846/000091293826000680/c485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: MFS Active Exchange Traded Funds Trust\nETF Name: MFS Active Short Muni Bond ETF\nStrategy: The fund\u2019s investment objective is to seek total return with an emphasis on income exempt from U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "MFS Active Exchange Traded Funds Trust",
+        "etf_name": "MFS Active Short Muni Bond ETF",
+        "strategy": "The fund\u2019s investment objective is to seek total return with an emphasis on income exempt from U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-17T19:33:19.199252+00:00",
+    "form_type": "485APOS",
+    "cik": "0001503123",
+    "company_name": "DBX ETF TRUST",
+    "accession_number": "0000088053-26-000475",
+    "filed_date": "2026-06-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1503123/000008805326000475/0000088053-26-000475-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1503123/000008805326000475/na083126etf.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1503123/000008805326000475/na083126etf.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: DBX ETF TRUST\nETF Name: Hedged Equity ETF Fund Details Additional Information About Fund\nStrategy: The fund seeks investment results that correspond generally to the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "DBX ETF TRUST",
+        "etf_name": "Hedged Equity ETF Fund Details Additional Information About Fund",
+        "strategy": "The fund seeks investment results that correspond generally to the",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-17T17:17:10.236663+00:00",
     "form_type": "485APOS",
     "cik": "0001970751",
@@ -14411,93 +14498,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-01T18:27:22.136411+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001096266",
-    "company_name": "GUARDIAN SEPARATE ACCT N OF THE GUARDIAN INS & ANNUITY CO",
-    "accession_number": "0001193125-26-200677",
-    "filed_date": "2026-05-01",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1096266/000119312526200677/0001193125-26-200677-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1096266/000119312526200677/d79976d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1096266/000119312526200677/d79976d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Guardian Insurance & Annuity Company, Inc. (GIAC)\nETF Name: Guardian Variable Products Trust\nStrategy: GIAC's separate account offers policyholders variable investment options through underlying registered open-end mutual funds, selected based on asset-class coverage, adviser reputation, performance, and manager qualifications. Each investment option, including indexed and fixed-rate accounts, carries its own unique risks and is accessible through an insurance-product wrapper rather than a standalone ETF structure.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Guardian Insurance & Annuity Company, Inc. (GIAC)",
-        "etf_name": "Guardian Variable Products Trust",
-        "strategy": "GIAC's separate account offers policyholders variable investment options through underlying registered open-end mutual funds, selected based on asset-class coverage, adviser reputation, performance, and manager qualifications. Each investment option, including indexed and fixed-rate accounts, carries its own unique risks and is accessible through an insurance-product wrapper rather than a standalone ETF structure.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-01T17:16:10.800179+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001054816",
-    "company_name": "MH ELITE PORTFOLIO OF FUNDS TRUST",
-    "accession_number": "0001162044-26-000410",
-    "filed_date": "2026-05-01",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1054816/000116204426000410/0001162044-26-000410-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1054816/000116204426000410/mhelite485bpos2026.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1054816/000116204426000410/mhelite485bpos2026.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: MH Elite Portfolio of Funds Trust\nETF Name: MH Elite Fund of Funds\nStrategy: Fund-of-funds seeking long-term capital appreciation by investing at least 80% of assets in 12\u201325 unaffiliated open-end mutual funds focused on common stocks of mid- and large-cap companies. The fund is managed by MH Investment Management, Inc.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "MH Elite Portfolio of Funds Trust",
-        "etf_name": "MH Elite Fund of Funds",
-        "strategy": "Fund-of-funds seeking long-term capital appreciation by investing at least 80% of assets in 12\u201325 unaffiliated open-end mutual funds focused on common stocks of mid- and large-cap companies. The fund is managed by MH Investment Management, Inc.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-01T17:17:36.343471+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-020843",
-    "filed_date": "2026-05-01",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226020843/0001493152-26-020843-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226020843/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226020843/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares US 100 Autocallable Income ETF\nStrategy: Actively managed ETF seeking stable monthly income with limited downside risk by investing at least 80% of net assets in derivatives providing synthetic exposure to an Autocallable Index that references a broad U.S equity index, using a laddered portfolio of autocallable contracts to diversify timing risk\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "GraniteShares US 100 Autocallable Income ETF",
-        "strategy": "Actively managed ETF seeking stable monthly income with limited downside risk by investing at least 80% of net assets in derivatives providing synthetic exposure to an Autocallable Index that references a broad U.S equity index, using a laddered portfolio of autocallable contracts to diversify timing risk",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
