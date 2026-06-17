@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-06-17T17:17:10.236663+00:00",
+    "form_type": "485APOS",
+    "cik": "0001970751",
+    "company_name": "Advisor Managed Portfolios",
+    "accession_number": "0000894189-26-017903",
+    "filed_date": "2026-06-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1970751/000089418926017903/0000894189-26-017903-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1970751/000089418926017903/rebuildetf485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1970751/000089418926017903/rebuildetf485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Advisor Managed Portfolios\nETF Name: Rebuild America ETF\nStrategy: Rebuild America ETF (the \u201cFund\u201d) seeks capital appreciation Although your actual costs may be higher or lower, based on these assumptions your cost would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund is actively managed and seeks capital appreciation by investing in the public equities of\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Advisor Managed Portfolios",
+        "etf_name": "Rebuild America ETF",
+        "strategy": "Rebuild America ETF (the \u201cFund\u201d) seeks capital appreciation Although your actual costs may be higher or lower, based on these assumptions your cost would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund is actively managed and seeks capital appreciation by investing in the public equities of",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-17T17:17:15.175109+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000802716",
+    "company_name": "VICTORY PORTFOLIOS",
+    "accession_number": "0001193125-26-273630",
+    "filed_date": "2026-06-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/802716/000119312526273630/0001193125-26-273630-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/802716/000119312526273630/f45540d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/802716/000119312526273630/f45540d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VICTORY PORTFOLIOS\nETF Name: Victory RS Growth Fund\nStrategy: The Victory RS Mid Cap Growth Fund (the \u201cFund\u201d) seeks to provide long-term capital growth 6 Victory RS Mid Cap Growth Investment Objective The Victory RS Mid Cap Growth Fund (the \u201cFund\u201d) seeks to provide long-term capital growth effectively\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VICTORY PORTFOLIOS",
+        "etf_name": "Victory RS Growth Fund",
+        "strategy": "The Victory RS Mid Cap Growth Fund (the \u201cFund\u201d) seeks to provide long-term capital growth 6 Victory RS Mid Cap Growth Investment Objective The Victory RS Mid Cap Growth Fund (the \u201cFund\u201d) seeks to provide long-term capital growth effectively",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-17T14:01:29.973874+00:00",
     "form_type": "485APOS",
     "cik": "0002043390",
@@ -14440,64 +14498,6 @@
       }
     ],
     "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-01T16:07:25.369094+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001896670",
-    "company_name": "Thrivent ETF Trust",
-    "accession_number": "0001193125-26-200277",
-    "filed_date": "2026-05-01",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1896670/000119312526200277/0001193125-26-200277-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1896670/000119312526200277/d108541d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1896670/000119312526200277/d108541d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Thrivent ETF Trust\nETF Name: Thrivent International Large Cap ETF (TILC)\nStrategy: The fund seeks long-term capital appreciation by investing in international large-cap equities through an actively managed, quantitative approach that analyzes fundamental, technical, and risk-related factors It may use derivatives such as futures contracts to hedge risk or gain market exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Thrivent ETF Trust",
-        "etf_name": "Thrivent International Large Cap ETF (TILC)",
-        "strategy": "The fund seeks long-term capital appreciation by investing in international large-cap equities through an actively managed, quantitative approach that analyzes fundamental, technical, and risk-related factors It may use derivatives such as futures contracts to hedge risk or gain market exposure",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-01T13:55:01.945246+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001934234",
-    "company_name": "Aspida Life Insurance Co",
-    "accession_number": "0001104659-26-053308",
-    "filed_date": "2026-04-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/0001104659-26-053308-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1934234/000110465926053308/tm263773d2_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Aspida Life Insurance Co\nETF Name: Unknown\nStrategy: The product is a single premium deferred index-linked annuity contract\u2014not an ETF\u2014that allows allocation among Indexed Crediting Rate Strategies (with caps, participation rates, buffers, and floors tied to market-index performance) and a Fixed Crediting Rate Strategy It is designed for tax-deferred, long-term investing with structured upside limits and defined downside protection over multi-year strategy periods\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Aspida Life Insurance Co",
-        "etf_name": "Unknown",
-        "strategy": "The product is a single premium deferred index-linked annuity contract offering Indexed Crediting Rate Strategies with capped upside (via Index Cap Rates, Participation Rates, or Trigger Rates) and partial downside protection through Buffer or Floor Percentages, alongside a Fixed Crediting Rate Strategy Investors allocate premiums among these investment options for tax-deferred, long-term accumulation, with returns l...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
