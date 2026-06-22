@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-06-22T11:19:54.282395+00:00",
+    "form_type": "485APOS",
+    "cik": "0001500604",
+    "company_name": "Janus Detroit Street Trust",
+    "accession_number": "0001398344-26-011074",
+    "filed_date": "2026-06-18",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1500604/000139834426011074/0001398344-26-011074-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1500604/000139834426011074/fp0099313-1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1500604/000139834426011074/fp0099313-1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Janus Detroit Street Trust\nETF Name: Unknown\nStrategy: Unless otherwise stated, the following additional investment strategies and general policies apply to the Fund and provide further information including, but not limited to, the types of securities the Fund may invest in when implementing its investment objective Also see the Fund\u2019s SAI for supplemental information on other investments which the Fund may invest and other investment techniques in which the Fund may en\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Janus Detroit Street Trust",
+        "etf_name": "Unknown",
+        "strategy": "Unless otherwise stated, the following additional investment strategies and general policies apply to the Fund and provide further information including, but not limited to, the types of securities the Fund may invest in when implementing its investment objective Also see the Fund\u2019s SAI for supplemental information on other investments which the Fund may invest and other investment techniques in which the Fund may en",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-18T22:13:11.387924+00:00",
     "form_type": "485BPOS",
     "cik": "0001540305",
@@ -14463,35 +14492,6 @@
         "filer": "Tidal Trust I",
         "etf_name": "SMART Mid Cap ETF",
         "strategy": "mid-cap equity ETF using the same momentum- and trend-driven quantitative selection process to seek long-term capital appreciation The sub-adviser builds a concentrated portfolio of 25\u201340 U.S.-listed domestic stocks weighted by proprietary metrics based on price retracements and current trend strength",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-05T17:59:22.929711+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001667919",
-    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
-    "accession_number": "0001445546-26-003396",
-    "filed_date": "2026-05-05",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626003396/0001445546-26-003396-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1667919/000144554626003396/ft-20260505.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626003396/ft-20260505.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund VIII\nETF Name: FT Vest U.S. Equity Dual Directional Buffer ETF \u2013 May (DLMY)\nStrategy: The fund invests substantially all assets in FLEX Options referencing the SPDR S&P 500 ETF Trust (SPY) to pursue a dual directional target-outcome strategy that seeks positive returns whether SPY rises or falls over an approximate one-year period, with a predetermined upside Cap and an Inverse Performance Threshold on the downside It also seeks to provide a buffer against SPY losses exceeding a specified threshold, p...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "First Trust Exchange-Traded Fund VIII",
-        "etf_name": "FT Vest U.S. Equity Dual Directional Buffer ETF \u2013 May (DLMY)",
-        "strategy": "The fund invests substantially all assets in FLEX Options referencing the SPDR S&P 500 ETF Trust (SPY) to pursue a dual directional target-outcome strategy that seeks positive returns whether SPY rises or falls over an approximate one-year period, with a predetermined upside Cap and an Inverse Performance Threshold on the downside It also seeks to provide a buffer against SPY losses exceeding a specified threshold, p...",
         "is_alert_worthy": "LOW"
       }
     ],
