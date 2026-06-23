@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-06-23T15:26:16.379269+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001005942",
+    "company_name": "PUTNAM FUNDS TRUST",
+    "accession_number": "0001193125-26-278699",
+    "filed_date": "2026-06-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1005942/000119312526278699/0001193125-26-278699-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1005942/000119312526278699/d115456d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1005942/000119312526278699/d115456d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PUTNAM FUNDS TRUST\nETF Name: Putnam Floating Rate Income Fund\nStrategy: Prospectus 43 Putnam Floating Rate Income Fund - Class R Year Ended February 28, 2026 2025 2024 a 2023 2022 Per share operating performance (for a share outstanding throughout the year) Net asset valu at times to liquidate other investments, including when it is not advantageous to do so, in order to satisfy its distribution requirements. Prospectus 43 Putnam Floating Rate Income Fund - Class R Year Ended February 28...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PUTNAM FUNDS TRUST",
+        "etf_name": "Putnam Floating Rate Income Fund",
+        "strategy": "Prospectus 43 Putnam Floating Rate Income Fund - Class R Year Ended February 28, 2026 2025 2024 a 2023 2022 Per share operating performance (for a share outstanding throughout the year) Net asset valu at times to liquidate other investments, including when it is not advantageous to do so, in order to satisfy its distribution requirements. Prospectus 43 Putnam Floating Rate Income Fund - Class R Year Ended February 28...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-23T15:26:28.244695+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000932101",
+    "company_name": "PUTNAM INVESTMENT FUNDS",
+    "accession_number": "0001193125-26-278686",
+    "filed_date": "2026-06-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/932101/000119312526278686/0001193125-26-278686-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/932101/000119312526278686/d130892d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/932101/000119312526278686/d130892d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PUTNAM INVESTMENT FUNDS\nETF Name: Putnam Small Cap Value Fund\nStrategy: (5) Make loans, except by purchase of debt obligations in which the Fund may invest consistent with its investment policies (including without limitation debt obligations issued by other Putnam funds), by entering into repurchase agreements, or by lending its portfolio securities Putnam Small Cap Value Fund Prospectus July 1, 2026 Class A Class C Class R Class R6 Class Y PSLAX PSLCX PSCRX PSCMX PYSVX Investment Categ\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PUTNAM INVESTMENT FUNDS",
+        "etf_name": "Putnam Small Cap Value Fund",
+        "strategy": "(5) Make loans, except by purchase of debt obligations in which the Fund may invest consistent with its investment policies (including without limitation debt obligations issued by other Putnam funds), by entering into repurchase agreements, or by lending its portfolio securities Putnam Small Cap Value Fund Prospectus July 1, 2026 Class A Class C Class R Class R6 Class Y PSLAX PSLCX PSCRX PSCMX PYSVX Investment Categ",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-23T12:11:02.953955+00:00",
     "form_type": "485BPOS",
     "cik": "0001659326",
@@ -14438,64 +14496,6 @@
       }
     ],
     "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-08T21:37:52.316124+00:00",
-    "form_type": "485APOS",
-    "cik": "0001771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-000938",
-    "filed_date": "2026-05-08",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000938/0001771146-26-000938-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000938/t-rex2xlong7newetfs485afil.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000938/t-rex2xlong7newetfs485afil.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: REX ETF Trust\nETF Name: T-REX 2X Long SIVE Daily Target ETF\nStrategy: Seeks daily investment results equal to 200% (2X) of the daily performance of its Reference Asset, rebalancing at market close each trading day to maintain consistent leveraged exposure\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "REX ETF Trust",
-        "etf_name": "T-REX 2X Long SIVE Daily Target ETF",
-        "strategy": "Seeks daily investment results equal to 200% (2X) of the daily performance of its Reference Asset, rebalancing at market close each trading day to maintain consistent leveraged exposure",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-08T21:38:47.795422+00:00",
-    "form_type": "485APOS",
-    "cik": "0001771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-000937",
-    "filed_date": "2026-05-08",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000937/0001771146-26-000937-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626000937/t-rex2xlong16newetfs485afi.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626000937/t-rex2xlong16newetfs485afi.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: REX Shares (T-REX fund family)\nETF Name: T-REX 2X Long AEHR Daily Target ETF\nStrategy: Uses swap agreements, call options, and direct equity holdings to achieve 2\u00d7 daily leveraged exposure, with returns over periods longer than one day expected to deviate from 2\u00d7 the cumulative stock return due to daily compounding\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "REX Shares (T-REX fund family)",
-        "etf_name": "T-REX 2X Long AEHR Daily Target ETF",
-        "strategy": "Uses swap agreements, call options, and direct equity holdings to achieve 2\u00d7 daily leveraged exposure, with returns over periods longer than one day expected to deviate from 2\u00d7 the cumulative stock return due to daily compounding",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
