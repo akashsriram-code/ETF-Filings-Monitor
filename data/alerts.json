@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-06-23T17:28:30.269368+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000764624",
+    "company_name": "LEGG MASON PARTNERS INCOME TRUST",
+    "accession_number": "0001193125-26-278852",
+    "filed_date": "2026-06-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/764624/000119312526278852/0001193125-26-278852-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/764624/000119312526278852/d66910d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/764624/000119312526278852/d66910d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: LEGG MASON PARTNERS INCOME TRUST\nETF Name: Western Asset Managed Municipals Fund\nStrategy: If a significant amount of the fund\u2019s assets is used for defensive investing purposes, the fund will be less likely to achieve its investment objective Other investments The fund may also use other strategies and invest in other investments that are described, along with their risks, in the Statement of Additional Information (\u201cSAI\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "LEGG MASON PARTNERS INCOME TRUST",
+        "etf_name": "Western Asset Managed Municipals Fund",
+        "strategy": "If a significant amount of the fund\u2019s assets is used for defensive investing purposes, the fund will be less likely to achieve its investment objective Other investments The fund may also use other strategies and invest in other investments that are described, along with their risks, in the Statement of Additional Information (\u201cSAI\u201d)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-23T17:28:32.785376+00:00",
+    "form_type": "485APOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-013253",
+    "filed_date": "2026-06-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126013253/0001999371-26-013253-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126013253/defiance-485apos_062326.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126013253/defiance-485apos_062326.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Defiance S&P Accelerator ETF\nStrategy: The Defiance S&P Accelerator ETF (the \u201cFund\u201d) seeks to provide long-term capital appreciation Overview The Fund is an actively managed ETF that seeks to achieve its investment objective through exposure to a broad universe of large-capitalization U.S Under normal market conditions, the Strategy will invest in a portfolio consisting of exposure to equity securities of companies included in the S&P 500 \u00ae and ETFs that\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "Defiance S&P Accelerator ETF",
+        "strategy": "The Defiance S&P Accelerator ETF (the \u201cFund\u201d) seeks to provide long-term capital appreciation Overview The Fund is an actively managed ETF that seeks to achieve its investment objective through exposure to a broad universe of large-capitalization U.S Under normal market conditions, the Strategy will invest in a portfolio consisting of exposure to equity securities of companies included in the S&P 500 \u00ae and ETFs that",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-23T17:28:35.830451+00:00",
+    "form_type": "485APOS",
+    "cik": "0001710607",
+    "company_name": "AMERICAN CENTURY ETF TRUST",
+    "accession_number": "0001710607-26-000108",
+    "filed_date": "2026-06-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1710607/000171060726000108/0001710607-26-000108-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1710607/000171060726000108/acetftinsights485a-06232026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1710607/000171060726000108/acetftinsights485a-06232026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AMERICAN CENTURY ETF TRUST\nETF Name: Sale of Fund\nStrategy: The portfolio managers look for stocks of companies they believe will increase in value over time, using an investment strategy developed by the fund\u2019s investment advisor The portfolio managers look for stocks of companies they believe will increase in value over time, using an investment strategy developed by the fund\u2019s investment advisor\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AMERICAN CENTURY ETF TRUST",
+        "etf_name": "Sale of Fund",
+        "strategy": "The portfolio managers look for stocks of companies they believe will increase in value over time, using an investment strategy developed by the fund\u2019s investment advisor The portfolio managers look for stocks of companies they believe will increase in value over time, using an investment strategy developed by the fund\u2019s investment advisor",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-23T15:26:16.379269+00:00",
     "form_type": "485BPOS",
     "cik": "0001005942",
@@ -14405,93 +14492,6 @@
         "filer": "Themes ETF Trust",
         "etf_name": "Leverage Shares 2X Long Memory Daily ETF",
         "strategy": "The Fund seeks daily leveraged investment results equal to 200% (2X) of the daily performance of the Roundhill Memory ETF (DRAM), a semiconductor and memory-sector fund, using swap agreements and other derivatives The adviser rebalances the portfolio daily to maintain the targeted 2X exposure and does not take defensive positions regardless of market direction",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-08T21:33:50.590359+00:00",
-    "form_type": "486BPOS",
-    "cik": "0002071525",
-    "company_name": "Pre-IPO & Growth Fund",
-    "accession_number": "0001398344-26-008822",
-    "filed_date": "2026-05-08",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2071525/000139834426008822/0001398344-26-008822-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2071525/000139834426008822/fp0098853-1_486bposixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2071525/000139834426008822/fp0098853-1_486bposixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: The Pre-IPO and Growth Fund\nETF Name: ABS Global Pre-IPO Fund\nStrategy: The Fund seeks long-term capital appreciation by investing at least 80% of its assets in pre-IPO and growth-stage equity securities, with supplemental fixed-income holdings when private equity access is limited It employs qualitative and quantitative evaluation of market trends and may include exposure to foreign and emerging markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "The Pre-IPO and Growth Fund",
-        "etf_name": "ABS Global Pre-IPO Fund",
-        "strategy": "The Fund seeks long-term capital appreciation by investing at least 80% of its assets in pre-IPO and growth-stage equity securities, with supplemental fixed-income holdings when private equity access is limited It employs qualitative and quantitative evaluation of market trends and may include exposure to foreign and emerging markets",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-08T21:35:28.872129+00:00",
-    "form_type": "485APOS",
-    "cik": "0000097098",
-    "company_name": "BLACKROCK LIQUIDITY FUNDS",
-    "accession_number": "0001193125-26-214958",
-    "filed_date": "2026-05-08",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/97098/000119312526214958/0001193125-26-214958-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/97098/000119312526214958/d45978d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/97098/000119312526214958/d45978d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BlackRock Liquidity Funds\nETF Name: BlackRock Select Treasury Based Liquidity Fund \u2014 OnChain Shares\nStrategy: A government money market fund investing 100% of total assets in cash, U.S. Treasury bills, notes, and other Treasury obligations with maturities of 93 days or less, plus overnight Treasury-collateralized repurchase agreements.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BlackRock Liquidity Funds",
-        "etf_name": "BlackRock Select Treasury Based Liquidity Fund \u2014 OnChain Shares",
-        "strategy": "A government money market fund investing 100% of total assets in cash, U.S. Treasury bills, notes, and other Treasury obligations with maturities of 93 days or less, plus overnight Treasury-collateralized repurchase agreements.",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-08T21:37:02.317668+00:00",
-    "form_type": "485APOS",
-    "cik": "0000844779",
-    "company_name": "BLACKROCK FUNDS",
-    "accession_number": "0001193125-26-214946",
-    "filed_date": "2026-05-08",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/844779/000119312526214946/0001193125-26-214946-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/844779/000119312526214946/d283147d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/844779/000119312526214946/d283147d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BlackRock Funds SM\nETF Name: BlackRock Daily Reinvestment Stablecoin Reserve Vehicle \u2014 OnChain Shares\nStrategy: A Rule 2a-7 money market fund that invests 100% of total assets in cash and U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BlackRock Funds SM",
-        "etf_name": "BlackRock Daily Reinvestment Stablecoin Reserve Vehicle \u2014 OnChain Shares",
-        "strategy": "A Rule 2a-7 money market fund that invests 100% of total assets in cash and U.S",
         "is_alert_worthy": "HIGH"
       }
     ],
