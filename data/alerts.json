@@ -1,5 +1,150 @@
 [
   {
+    "created_at": "2026-06-23T12:11:02.953955+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001659326",
+    "company_name": "JPMORGAN TRUST IV",
+    "accession_number": "0001193125-26-277786",
+    "filed_date": "2026-06-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1659326/000119312526277786/0001193125-26-277786-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1659326/000119312526277786/d54994d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1659326/000119312526277786/d54994d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: JPMORGAN TRUST IV\nETF Name: JPMorgan Federal Money Market Fund\nStrategy: The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described in this prospectus, considered in light of all of the other investments in your portfolio, as well as your risk tolerance, financial goals and time horizons\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "JPMORGAN TRUST IV",
+        "etf_name": "JPMorgan Federal Money Market Fund",
+        "strategy": "The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described in this prospectus, considered in light of all of the other investments in your portfolio, as well as your risk tolerance, financial goals and time horizons",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-23T12:11:23.917201+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000763852",
+    "company_name": "JPMORGAN TRUST II",
+    "accession_number": "0001193125-26-277772",
+    "filed_date": "2026-06-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/763852/000119312526277772/0001193125-26-277772-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/763852/000119312526277772/d139095d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/763852/000119312526277772/d139095d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: JPMORGAN TRUST II\nETF Name: Unknown\nStrategy: The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described in this prospectus, considered in light of all of the other investments in your portfolio, as well as your risk tolerance, financial goals and time horizons The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "JPMORGAN TRUST II",
+        "etf_name": "Unknown",
+        "strategy": "The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described in this prospectus, considered in light of all of the other investments in your portfolio, as well as your risk tolerance, financial goals and time horizons The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-23T12:11:28.375157+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001064642",
+    "company_name": "SPDR SERIES TRUST",
+    "accession_number": "0001193125-26-277771",
+    "filed_date": "2026-06-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1064642/000119312526277771/0001193125-26-277771-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1064642/000119312526277771/d80004d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1064642/000119312526277771/d80004d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SPDR SERIES TRUST\nETF Name: Unknown\nStrategy: In certain situations or market conditions, the Fund may temporarily depart from its normal investment policies and strategies, provided that the alternative is consistent with the Fund's investment objective and is in the best interest of the Fund For example, the Fund may make larger than normal investments in derivatives to maintain exposure to its Index if it is unable to invest directly in a component security\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SPDR SERIES TRUST",
+        "etf_name": "Unknown",
+        "strategy": "In certain situations or market conditions, the Fund may temporarily depart from its normal investment policies and strategies, provided that the alternative is consistent with the Fund's investment objective and is in the best interest of the Fund For example, the Fund may make larger than normal investments in derivatives to maintain exposure to its Index if it is unable to invest directly in a component security",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-23T12:11:49.400648+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001217286",
+    "company_name": "JPMorgan Trust I",
+    "accession_number": "0001193125-26-277765",
+    "filed_date": "2026-06-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1217286/000119312526277765/0001193125-26-277765-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1217286/000119312526277765/d144058d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1217286/000119312526277765/d144058d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: JPMorgan Trust I\nETF Name: Unknown\nStrategy: The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described in this prospectus, considered in light of all of the other investments in your portfolio, as well as your risk tolerance, financial goals and time horizons The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "JPMorgan Trust I",
+        "etf_name": "Unknown",
+        "strategy": "The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described in this prospectus, considered in light of all of the other investments in your portfolio, as well as your risk tolerance, financial goals and time horizons The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-23T12:12:04.279242+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001485894",
+    "company_name": "J.P. Morgan Exchange-Traded Fund Trust",
+    "accession_number": "0001193125-26-277750",
+    "filed_date": "2026-06-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1485894/000119312526277750/0001193125-26-277750-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1485894/000119312526277750/d119484d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1485894/000119312526277750/d119484d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: J.P. Morgan Exchange-Traded Fund Trust\nETF Name: JPMorgan Flexible Debt ETF\nStrategy: by investing opportunistically across different markets and sectors, based on the portfolio management team\u2019s view of the markets and sectors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "J.P. Morgan Exchange-Traded Fund Trust",
+        "etf_name": "JPMorgan Flexible Debt ETF",
+        "strategy": "by investing opportunistically across different markets and sectors, based on the portfolio management team\u2019s view of the markets and sectors",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-22T21:52:04.789633+00:00",
     "form_type": "485APOS",
     "cik": "0002078265",
@@ -14351,151 +14496,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-08T21:39:57.730087+00:00",
-    "form_type": "485APOS",
-    "cik": "0001593547",
-    "company_name": "Advisors' Inner Circle Fund III",
-    "accession_number": "0001398344-26-008817",
-    "filed_date": "2026-05-08",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1593547/000139834426008817/0001398344-26-008817-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1593547/000139834426008817/fp0098852-1_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1593547/000139834426008817/fp0098852-1_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Advisors' Inner Circle Fund III\nETF Name: Schroders US Autocallable Ladder Income ETF\nStrategy: The Fund is an actively managed ETF that seeks to generate monthly income while providing reduced downside risk by investing primarily through total return swap agreements linked to the Schroders Bloomberg US Large Cap Autocallable Index Synthetic exposure to a diversified, laddered basket of autocallable structures\u2014obtained via swaps with one or more counterparties\u2014is designed to mitigate the timing risk inherent in...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Advisors' Inner Circle Fund III",
-        "etf_name": "Schroders US Autocallable Ladder Income ETF",
-        "strategy": "The Fund is an actively managed ETF that seeks to generate monthly income while providing reduced downside risk by investing primarily through total return swap agreements linked to the Schroders Bloomberg US Large Cap Autocallable Index Synthetic exposure to a diversified, laddered basket of autocallable structures\u2014obtained via swaps with one or more counterparties\u2014is designed to mitigate the timing risk inherent in...",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-08T21:40:47.378079+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001650149",
-    "company_name": "Series Portfolios Trust",
-    "accession_number": "0000894189-26-014631",
-    "filed_date": "2026-05-08",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926014631/0000894189-26-014631-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1650149/000089418926014631/ck0001650149-20260508.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926014631/ck0001650149-20260508.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Series Portfolios Trust\nETF Name: InfraCap Equity Income Fund ETF\nStrategy: equity ETF benchmarked to the Nasdaq Composite\u00ae Index that invests at least 80% of net assets in equities and options (puts and calls) on equity securities and indices, targeting high current monthly income with a secondary objective of capital appreciation The adviser, Infrastructure Capital Advisors LLC, employs an options overlay to reduce volatility and hedge portfolio risk, with wide discretion to invest outside...\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Series Portfolios Trust",
-        "etf_name": "InfraCap Equity Income Fund ETF",
-        "strategy": "equity ETF benchmarked to the Nasdaq Composite\u00ae Index that invests at least 80% of net assets in equities and options (puts and calls) on equity securities and indices, targeting high current monthly income with a secondary objective of capital appreciation The adviser, Infrastructure Capital Advisors LLC, employs an options overlay to reduce volatility and hedge portfolio risk, with wide discretion to invest outside...",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-08T21:41:36.128490+00:00",
-    "form_type": "485APOS",
-    "cik": "0001936157",
-    "company_name": "Elevation Series Trust",
-    "accession_number": "0001999371-26-010348",
-    "filed_date": "2026-05-08",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1936157/000199937126010348/0001999371-26-010348-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1936157/000199937126010348/trushares_485apos-050826.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1936157/000199937126010348/trushares_485apos-050826.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Elevation Series Trust\nETF Name: RiverNorth Market Neutral ETF\nStrategy: No principal investment strategy detail is provided in the available text beyond the fund name\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Elevation Series Trust",
-        "etf_name": "RiverNorth Market Neutral ETF",
-        "strategy": "No principal investment strategy detail is provided in the available text beyond the fund name",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-08T19:03:11.189090+00:00",
-    "form_type": "485APOS",
-    "cik": "0001782952",
-    "company_name": "Kurv ETF Trust",
-    "accession_number": "0001999371-26-010323",
-    "filed_date": "2026-05-08",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126010323/0001999371-26-010323-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1782952/000199937126010323/kurv-485apos_050826.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126010323/kurv-485apos_050826.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Kurv ETF Trust\nETF Name: Kurv High Income ETF\nStrategy: Actively managed fund-of-funds ETF that seeks current income by investing at least 80% of net assets in equity securities, equity derivatives, or other Kurv ETFs that pair FLEX Options and swaps on single-stock reference assets with Treasury-collateral portfolios\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Kurv ETF Trust",
-        "etf_name": "Kurv High Income ETF",
-        "strategy": "Actively managed fund-of-funds ETF that seeks current income by investing at least 80% of net assets in equity securities, equity derivatives, or other Kurv ETFs that pair FLEX Options and swaps on single-stock reference assets with Treasury-collateral portfolios",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-08T19:03:57.863060+00:00",
-    "form_type": "485APOS",
-    "cik": "0002043390",
-    "company_name": "Tidal Trust IV",
-    "accession_number": "0001999371-26-010316",
-    "filed_date": "2026-05-08",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126010316/0001999371-26-010316-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126010316/aihy_485apos-050826.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126010316/aihy_485apos-050826.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: Defiance AI Hyperscale Leaders ETF\nStrategy: Builds a concentrated, thematic portfolio using growth metrics, valuation discipline, and potential derivatives exposure to capture expansion in AI-driven markets\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust IV",
-        "etf_name": "Defiance AI Hyperscale Leaders ETF",
-        "strategy": "Builds a concentrated, thematic portfolio using growth metrics, valuation discipline, and potential derivatives exposure to capture expansion in AI-driven markets",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
