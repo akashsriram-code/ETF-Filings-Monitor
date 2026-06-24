@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-06-24T19:05:57.557060+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001644419",
+    "company_name": "Northern Lights Fund Trust IV",
+    "accession_number": "0001580642-26-003908",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1644419/000158064226003908/0001580642-26-003908-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1644419/000158064226003908/monarch-etfs_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1644419/000158064226003908/monarch-etfs_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust IV\nETF Name: Monarch ProCap Index ETF\nStrategy: The fund invests at least 80% of total assets in the components of the Monarch ProCap Index, a rules-based multi-asset index of fixed-income and equity ETFs providing broad U.S and global exposure, with constituents weighted across economic-cycle phases\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Northern Lights Fund Trust IV",
+        "etf_name": "Monarch ProCap Index ETF",
+        "strategy": "The fund invests at least 80% of total assets in the components of the Monarch ProCap Index, a rules-based multi-asset index of fixed-income and equity ETFs providing broad U.S and global exposure, with constituents weighted across economic-cycle phases",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-24T19:06:42.056370+00:00",
+    "form_type": "485APOS",
+    "cik": "0002043390",
+    "company_name": "Tidal Trust IV",
+    "accession_number": "0001999371-26-013363",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126013363/0001999371-26-013363-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126013363/mtgg-485apos_062426.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126013363/mtgg-485apos_062426.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: MayTech Global Growth ETF\nStrategy: Actively managed global equity ETF sub-advised by MayTech Global Investments LLC, investing in a concentrated, high-conviction portfolio of companies believed to benefit from long-term secular growth trends and major structural changes across the global economy The fund seeks long-term capital appreciation, with larger allocations to companies deemed to have the strongest thematic relevance, business quality, and gro...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust IV",
+        "etf_name": "MayTech Global Growth ETF",
+        "strategy": "Actively managed global equity ETF sub-advised by MayTech Global Investments LLC, investing in a concentrated, high-conviction portfolio of companies believed to benefit from long-term secular growth trends and major structural changes across the global economy The fund seeks long-term capital appreciation, with larger allocations to companies deemed to have the strongest thematic relevance, business quality, and gro...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-24T19:08:09.779331+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001540305",
+    "company_name": "ETF Series Solutions",
+    "accession_number": "0000894189-26-018099",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926018099/0000894189-26-018099-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1540305/000089418926018099/ck0001540305-20260624.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926018099/ck0001540305-20260624.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Series Solutions\nETF Name: The Frontier Economic Fund (AKAF)\nStrategy: The fund seeks to track The Alaska Last Frontier Index, a rules-based index designed to capture the economic footprint of companies with meaningful business exposure to the State of Alaska, including natural resources, operational presence, and government-related initiatives It invests in equity securities such as common and preferred stocks, REITs, and MLPs, with a management fee of 0.20%\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Series Solutions",
+        "etf_name": "The Frontier Economic Fund (AKAF)",
+        "strategy": "The fund seeks to track The Alaska Last Frontier Index, a rules-based index designed to capture the economic footprint of companies with meaningful business exposure to the State of Alaska, including natural resources, operational presence, and government-related initiatives It invests in equity securities such as common and preferred stocks, REITs, and MLPs, with a management fee of 0.20%",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-24T17:19:51.592342+00:00",
     "form_type": "485BPOS",
     "cik": "0000763852",
@@ -1809,7 +1896,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526275730/d124972d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Investment Grade Corporate Bond ETF\nStrategy: Passively tracks the ICE BofA 5-10 Year US Corporate Index via representative sampling, targeting U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Investment Grade Corporate Bond ETF\nStrategy: Passively tracks the ICE BofA 5-10 Year US Corporate Index using a representative-sampling approach, targeting U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14409,93 +14496,6 @@
       }
     ],
     "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-12T10:41:37.298337+00:00",
-    "form_type": "485APOS",
-    "cik": "0001547576",
-    "company_name": "Krane Shares Trust",
-    "accession_number": "0001829126-26-004964",
-    "filed_date": "2026-05-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547576/000182912626004964/0001829126-26-004964-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547576/000182912626004964/kraneshares_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547576/000182912626004964/kraneshares_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Krane Shares Trust\nETF Name: KraneShares Public-Private AI Energy Demand ETF\nStrategy: Under normal circumstances, the Fund invests at least 80% of its net assets (plus borrowings for investment purposes) in the publicly-traded or privately offered securities of AI Energy Demand Companies and other instruments that have economic characteristics similar to such securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Krane Shares Trust",
-        "etf_name": "KraneShares Public-Private AI Energy Demand ETF",
-        "strategy": "Under normal circumstances, the Fund invests at least 80% of its net assets (plus borrowings for investment purposes) in the publicly-traded or privately offered securities of AI Energy Demand Companies and other instruments that have economic characteristics similar to such securities",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-12T10:41:42.362371+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001659326",
-    "company_name": "JPMORGAN TRUST IV",
-    "accession_number": "0001193125-26-217424",
-    "filed_date": "2026-05-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1659326/000119312526217424/0001193125-26-217424-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1659326/000119312526217424/d44657d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1659326/000119312526217424/d44657d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: JPMORGAN TRUST IV\nETF Name: Additional Information. Morgan Money Market Funds OnChain Liquidity- Token Money Market Fund\nStrategy: The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described in this prospectus, considered in light of all of the other investments in your portfolio, as well as your risk tolerance, financial goals and time horizons The Fund is subject to the main risks designated as such in the table below, any of which may adversely affect the Fund\u2019s net asset\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "JPMORGAN TRUST IV",
-        "etf_name": "Additional Information. Morgan Money Market Funds OnChain Liquidity- Token Money Market Fund",
-        "strategy": "The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described in this prospectus, considered in light of all of the other investments in your portfolio, as well as your risk tolerance, financial goals and time horizons The Fund is subject to the main risks designated as such in the table below, any of which may adversely affect the Fund\u2019s net asset",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-11T21:47:19.181415+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001618627",
-    "company_name": "RBB Fund Trust",
-    "accession_number": "0001999371-26-010491",
-    "filed_date": "2026-05-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126010491/0001999371-26-010491-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1618627/000199937126010491/lteq-485bpos_051226.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126010491/lteq-485bpos_051226.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RBB Fund Trust\nETF Name: Equity Partners ETF\nStrategy: The investment objective of the Equity Partners ETF (the \u201cFund\u201d) is to seek long-term capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $ 62 $ 217 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund is an actively managed exchange-traded f\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RBB Fund Trust",
-        "etf_name": "Equity Partners ETF",
-        "strategy": "The investment objective of the Equity Partners ETF (the \u201cFund\u201d) is to seek long-term capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $ 62 $ 217 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund is an actively managed exchange-traded f",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
