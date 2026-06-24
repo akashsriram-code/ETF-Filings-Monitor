@@ -1,5 +1,179 @@
 [
   {
+    "created_at": "2026-06-24T20:58:17.988877+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000030162",
+    "company_name": "BNY MELLON RESEARCH GROWTH FUND, INC.",
+    "accession_number": "0000030146-26-000278",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/30162/000003014626000278/0000030146-26-000278-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/30162/000003014626000278/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/30162/000003014626000278/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BNY Mellon Research Growth Fund, Inc\nETF Name: BNY Mellon International Stock Index Fund\nStrategy: The fund seeks to match its benchmark index by maintaining holdings that closely replicate the index constituents, using shareholder cash flows to manage portfolio alignment It invests primarily in international equities and cash equivalents, employing a passive index-replication approach rather than active security selection\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BNY Mellon Research Growth Fund, Inc",
+        "etf_name": "BNY Mellon International Stock Index Fund",
+        "strategy": "The fund seeks to match its benchmark index by maintaining holdings that closely replicate the index constituents, using shareholder cash flows to manage portfolio alignment It invests primarily in international equities and cash equivalents, employing a passive index-replication approach rather than active security selection",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-24T20:59:07.314862+00:00",
+    "form_type": "485APOS",
+    "cik": "0001048702",
+    "company_name": "NATIONWIDE MUTUAL FUNDS",
+    "accession_number": "0001193125-26-281201",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048702/000119312526281201/0001193125-26-281201-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048702/000119312526281201/d51140d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048702/000119312526281201/d51140d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Nationwide Mutual Funds\nETF Name: Nationwide International Small Cap Fund\nStrategy: Seeks long-term capital growth by investing at least 80% of net assets in equities of smaller-capitalization international companies, including emerging markets, with flexibility to tilt between growth and value styles The subadviser employs a bottom-up, stock-selection-driven process and may use derivatives such as futures, forwards, and swaps for efficient exposure and currency hedging\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Nationwide Mutual Funds",
+        "etf_name": "Nationwide International Small Cap Fund",
+        "strategy": "Seeks long-term capital growth by investing at least 80% of net assets in equities of smaller-capitalization international companies, including emerging markets, with flexibility to tilt between growth and value styles The subadviser employs a bottom-up, stock-selection-driven process and may use derivatives such as futures, forwards, and swaps for efficient exposure and currency hedging",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-24T20:59:56.319098+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001540305",
+    "company_name": "ETF Series Solutions",
+    "accession_number": "0000894189-26-018169",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926018169/0000894189-26-018169-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1540305/000089418926018169/ck0001540305-20260624.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926018169/ck0001540305-20260624.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Series Solutions\nETF Name: Colterpoint Net Lease Real Estate ETF\nStrategy: The fund is a passively managed ETF that seeks to track an index of corporate net lease real estate companies, investing at least 80% of net assets in index constituents via replication or representative sampling\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Series Solutions",
+        "etf_name": "Colterpoint Net Lease Real Estate ETF",
+        "strategy": "The fund is a passively managed ETF that seeks to track an index of corporate net lease real estate companies, investing at least 80% of net assets in index constituents via replication or representative sampling",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-24T21:01:20.341225+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-001311",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001311/0001771146-26-001311-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626001311/ck0001771146-20260624.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001311/ck0001771146-20260624.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: TappAlpha Small-Cap Growth & Daily Income ETF\nStrategy: Actively managed ETF that gains long exposure to the Russell 2000 Index via underlying ETFs and writes exchange-traded call options on the Russell 2000 to generate income The fund seeks current income with prospects for capital appreciation, subject to a cap on potential gains from the options overlay\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Opportunities Trust",
+        "etf_name": "TappAlpha Small-Cap Growth & Daily Income ETF",
+        "strategy": "Actively managed ETF that gains long exposure to the Russell 2000 Index via underlying ETFs and writes exchange-traded call options on the Russell 2000 to generate income The fund seeks current income with prospects for capital appreciation, subject to a cap on potential gains from the options overlay",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-24T21:02:07.139531+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000856517",
+    "company_name": "Federated Hermes Money Market Obligations Trust",
+    "accession_number": "0001623632-26-000911",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/856517/000162363226000911/0001623632-26-000911-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/856517/000162363226000911/mmot2551-form.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/856517/000162363226000911/mmot2551-form.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Federated Hermes Money Market Obligations Trust\nETF Name: Federated Hermes U.S. Treasury Cash Reserves\nStrategy: A Rule 2a-7 government money market fund seeking current income consistent with stability of principal and liquidity, targeting a stable $1.00 NAV. The fund invests primarily in U.S.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Federated Hermes Money Market Obligations Trust",
+        "etf_name": "Federated Hermes U.S. Treasury Cash Reserves",
+        "strategy": "A Rule 2a-7 government money market fund seeking current income consistent with stability of principal and liquidity, targeting a stable $1.00 NAV. The fund invests primarily in U.S.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-24T21:02:58.843728+00:00",
+    "form_type": "485APOS",
+    "cik": "0001105076",
+    "company_name": "ARBITRAGE FUNDS",
+    "accession_number": "0001104659-26-077283",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1105076/000110465926077283/0001104659-26-077283-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1105076/000110465926077283/tm2618321d1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1105076/000110465926077283/tm2618321d1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: The Arbitrage Funds\nETF Name: AltShares Event-Driven ETF\nStrategy: Actively managed long/short event-driven strategy investing in equity and debt securities of companies the adviser believes are or will be impacted by announced or anticipated corporate events\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "The Arbitrage Funds",
+        "etf_name": "AltShares Event-Driven ETF",
+        "strategy": "Actively managed long/short event-driven strategy investing in equity and debt securities of companies the adviser believes are or will be impacted by announced or anticipated corporate events",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-24T19:05:57.557060+00:00",
     "form_type": "485BPOS",
     "cik": "0001644419",
@@ -1896,7 +2070,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526275730/d124972d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Investment Grade Corporate Bond ETF\nStrategy: Passively tracks the ICE BofA 5-10 Year US Corporate Index using a representative-sampling approach, targeting U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Investment Grade Corporate Bond ETF\nStrategy: Passively tracks the ICE\u00ae BofA\u00ae 5-10 Year US Corporate Index, which measures the performance of U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14318,180 +14492,6 @@
         "filer": "Roundhill ETF Trust",
         "etf_name": "Roundhill HALO ETF",
         "strategy": "The fund passively tracks a market-cap-weighted index of U.S Under normal conditions it invests at least 80% of total assets in index constituents spanning sectors such as utilities, industrials, materials, logistics, defense, and healthcare infrastructure, positioning as a physical-moat, AI-disruption-resistant theme",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-12T22:24:49.238260+00:00",
-    "form_type": "485APOS",
-    "cik": "0001496608",
-    "company_name": "AB Active ETFs, Inc.",
-    "accession_number": "0000919574-26-002893",
-    "filed_date": "2026-05-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1496608/000091957426002893/0000919574-26-002893-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1496608/000091957426002893/d12151751_485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1496608/000091957426002893/d12151751_485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AB Active ETFs, Inc\nETF Name: AB Equity Income ETF\nStrategy: companies, with integrated ESG considerations and benchmarked to the S&P 500 Index This filing represents a mutual fund-to-ETF conversion of a predecessor fund originally launched in 1993, with a newly appointed portfolio management team effective 2026\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AB Active ETFs, Inc",
-        "etf_name": "AB Equity Income ETF",
-        "strategy": "companies, with integrated ESG considerations and benchmarked to the S&P 500 Index This filing represents a mutual fund-to-ETF conversion of a predecessor fund originally launched in 1993, with a newly appointed portfolio management team effective 2026",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-12T22:26:29.358374+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001592900",
-    "company_name": "EA Series Trust",
-    "accession_number": "0001592900-26-002035",
-    "filed_date": "2026-05-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002035/0001592900-26-002035-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026002035/ck0001592900-20260512.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002035/ck0001592900-20260512.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Humilis US Dividend Growth Opportunities ETF (HISD)\nStrategy: Actively managed U.S. equity ETF focused on dividend-growing companies, seeking long-term capital appreciation and income.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "EA Series Trust",
-        "etf_name": "Humilis US Dividend Growth Opportunities ETF (HISD)",
-        "strategy": "Actively managed U.S. equity ETF focused on dividend-growing companies, seeking long-term capital appreciation and income.",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-12T22:28:04.197840+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001782952",
-    "company_name": "Kurv ETF Trust",
-    "accession_number": "0001999371-26-010571",
-    "filed_date": "2026-05-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126010571/0001999371-26-010571-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1782952/000199937126010571/kurv-485bpos_051226.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126010571/kurv-485bpos_051226.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Kurv ETF Trust\nETF Name: Kurv AI Memory ETF\nStrategy: A non-diversified, actively managed ETF that invests at least 80% of net assets in securities, derivatives, and ETF shares tied to \"Memory Companies\" \u2014 firms engaged in memory chip\u2013related activities The fund may also gain exposure through equities, debt, derivatives, or other Memory Company ETFs and may take short positions to maximize total return\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Kurv ETF Trust",
-        "etf_name": "Kurv AI Memory ETF",
-        "strategy": "A non-diversified, actively managed ETF that invests at least 80% of net assets in securities, derivatives, and ETF shares tied to \"Memory Companies\" \u2014 firms engaged in memory chip\u2013related activities The fund may also gain exposure through equities, debt, derivatives, or other Memory Company ETFs and may take short positions to maximize total return",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-12T21:06:03.238263+00:00",
-    "form_type": "485APOS",
-    "cik": "0001859001",
-    "company_name": "WisdomTree Digital Trust",
-    "accession_number": "0001214659-26-005986",
-    "filed_date": "2026-05-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1859001/000121465926005986/0001214659-26-005986-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1859001/000121465926005986/wtd51126485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1859001/000121465926005986/wtd51126485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: WisdomTree Digital Trust\nETF Name: WisdomTree 500 Digital Fund\nStrategy: Passively managed, blockchain-tokenized fund that tracks the WisdomTree 500 Index \u2014 composed of the 500 largest U.S.-domiciled, U.S.-listed companies weighted by modified market cap \u2014 using a representative sampling approach\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "WisdomTree Digital Trust",
-        "etf_name": "WisdomTree 500 Digital Fund",
-        "strategy": "Passively managed, blockchain-tokenized fund that tracks the WisdomTree 500 Index \u2014 composed of the 500 largest U.S.-domiciled, U.S.-listed companies weighted by modified market cap \u2014 using a representative sampling approach",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-12T21:06:59.364293+00:00",
-    "form_type": "485APOS",
-    "cik": "0000831114",
-    "company_name": "RBB FUND, INC.",
-    "accession_number": "0001398344-26-009011",
-    "filed_date": "2026-05-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/831114/000139834426009011/0001398344-26-009011-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/831114/000139834426009011/fp0098879-1_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/831114/000139834426009011/fp0098879-1_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RBB FUND, INC\nETF Name: F/m Accumulator BDC Fund\nStrategy: Actively managed, non-diversified fund-of-funds that invests at least 80% of net assets in publicly traded business development companies, either directly or through affiliated and unaffiliated BDC-focused ETFs such as BIZD and PBDC The fund seeks to minimize dividend and distribution payments by actively selling holdings before their dividend record dates, and may shift entirely into cash and prime-quality money mar...\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RBB FUND, INC",
-        "etf_name": "F/m Accumulator BDC Fund",
-        "strategy": "Actively managed, non-diversified fund-of-funds that invests at least 80% of net assets in publicly traded business development companies, either directly or through affiliated and unaffiliated BDC-focused ETFs such as BIZD and PBDC The fund seeks to minimize dividend and distribution payments by actively selling holdings before their dividend record dates, and may shift entirely into cash and prime-quality money mar...",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-12T17:38:51.258510+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-004990",
-    "filed_date": "2026-05-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004990/0001829126-26-004990-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626004990/themesetftrust_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004990/themesetftrust_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: T-Rex 2X Long Cerebras Daily Target ETF\nStrategy: It invests at least 80% of net assets in CBRS shares and financial instruments\u2014primarily swap agreements and options contracts\u2014to deliver leveraged exposure, rebalanced daily\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "T-Rex 2X Long Cerebras Daily Target ETF",
-        "strategy": "It invests at least 80% of net assets in CBRS shares and financial instruments\u2014primarily swap agreements and options contracts\u2014to deliver leveraged exposure, rebalanced daily",
         "is_alert_worthy": "HIGH"
       }
     ],
