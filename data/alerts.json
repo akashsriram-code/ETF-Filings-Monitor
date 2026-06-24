@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-06-24T12:23:35.089812+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001145022",
+    "company_name": "HOTCHKIS & WILEY FUNDS /DE/",
+    "accession_number": "0000894189-26-018071",
+    "filed_date": "2026-06-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926018071/0000894189-26-018071-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1145022/000089418926018071/ck0001145022-20260623.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1145022/000089418926018071/ck0001145022-20260623.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Hotchkis & Wiley Funds /DE/\nETF Name: Hotchkis & Wiley Large Cap Value Fund \u2013 ETF Class Shares\nStrategy: Actively managed U.S. large-cap value equity fund investing at least 80% of net assets in equity securities the Advisor deems undervalued, using a fundamental, bottom-up process evaluating relative valuation, operating trends, and diversification.\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Hotchkis & Wiley Funds /DE/",
+        "etf_name": "Hotchkis & Wiley Large Cap Value Fund \u2013 ETF Class Shares",
+        "strategy": "Actively managed U.S. large-cap value equity fund investing at least 80% of net assets in equity securities the Advisor deems undervalued, using a fundamental, bottom-up process evaluating relative valuation, operating trends, and diversification.",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-24T12:24:22.335542+00:00",
+    "form_type": "485APOS",
+    "cik": "0001547576",
+    "company_name": "Krane Shares Trust",
+    "accession_number": "0001829126-26-006796",
+    "filed_date": "2026-06-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547576/000182912626006796/0001829126-26-006796-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547576/000182912626006796/kraneshares_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547576/000182912626006796/kraneshares_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: KraneShares Trust\nETF Name: KraneShares Actuator ETF\nStrategy: The adviser selects portfolio holdings in this robotics niche using public data sources such as earnings transcripts, industry publications, scientific literature, and proprietary data\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "KraneShares Trust",
+        "etf_name": "KraneShares Actuator ETF",
+        "strategy": "The adviser selects portfolio holdings in this robotics niche using public data sources such as earnings transcripts, industry publications, scientific literature, and proprietary data",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-24T12:25:31.613377+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001107414",
+    "company_name": "STATE STREET INSTITUTIONAL INVESTMENT TRUST",
+    "accession_number": "0001193125-26-280014",
+    "filed_date": "2026-06-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1107414/000119312526280014/0001193125-26-280014-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1107414/000119312526280014/d154871d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1107414/000119312526280014/d154871d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: State Street Institutional Investment Trust\nETF Name: State Street Prime Money Market ETF\nStrategy: Actively managed prime money market ETF that seeks to maximize current income, consistent with the preservation of capital and liquidity, by investing in a portfolio of short-term, high-quality debt obligations\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "State Street Institutional Investment Trust",
+        "etf_name": "State Street Prime Money Market ETF",
+        "strategy": "Actively managed prime money market ETF that seeks to maximize current income, consistent with the preservation of capital and liquidity, by investing in a portfolio of short-term, high-quality debt obligations",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-23T21:17:23.817710+00:00",
     "form_type": "485APOS",
     "cik": "0001924868",
@@ -417,7 +504,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/763852/000119312526277772/d139095d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: JPMORGAN TRUST II\nETF Name: Unknown\nStrategy: The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described in this prospectus, considered in light of all of the other investments in your portfolio, as well as your risk tolerance, financial goals and time horizons The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: JPMORGAN TRUST II\nETF Name: JPMorgan Treasury Securities Money Market Fund / JPMorgan Government Money Market Fund\nStrategy: These are government money market funds seeking to maintain a stable $1.00 NAV per share by investing in Treasury and government securities, targeting capital preservation, liquidity, and current income. The filing is an omnibus SAI from JPMorgan Trust II covering multiple funds, including JPMorgan BetaBuilders Canada ETF, though extracted content centers on the money market series.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "JPMORGAN TRUST II",
@@ -446,7 +533,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1064642/000119312526277771/d80004d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SPDR SERIES TRUST\nETF Name: Unknown\nStrategy: In certain situations or market conditions, the Fund may temporarily depart from its normal investment policies and strategies, provided that the alternative is consistent with the Fund's investment objective and is in the best interest of the Fund For example, the Fund may make larger than normal investments in derivatives to maintain exposure to its Index if it is unable to invest directly in a component security\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: SPDR Series Trust\nETF Name: SPDR Nasdaq 100 ETF\nStrategy: Passively tracks the Nasdaq 100 Index using a replication or sampling approach, investing at least 80% of net assets in index constituents The adviser may use quantitative analysis to select a representative subset of securities and may employ derivatives to maintain index exposure when direct investment is impractical\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "SPDR SERIES TRUST",
@@ -475,7 +562,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1217286/000119312526277765/d144058d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: JPMorgan Trust I\nETF Name: Unknown\nStrategy: The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described in this prospectus, considered in light of all of the other investments in your portfolio, as well as your risk tolerance, financial goals and time horizons The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: JPMorgan Trust I\nETF Name: JPMorgan BetaBuilders Canada ETF\nStrategy: It is a passively managed international equity ETF offering targeted exposure to the Canadian equity market\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "JPMorgan Trust I",
@@ -533,7 +620,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000286/Mangos2x.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Corgi ETF Trust I\nETF Name: Unknown\nStrategy: The Corgi MANGOS 2x Daily ETF (the \u201cFund\u201d) seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Corgi ETF Trust I\nETF Name: Corgi MANGOS 2x Daily ETF\nStrategy: Actively managed leveraged ETF that seeks daily investment results equal to two times (2x) the daily performance of the Corgi MANGOS ETF, primarily through total return swap agreements providing approximately 200% notional exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Corgi ETF Trust I",
@@ -1055,7 +1142,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1500604/000139834426011074/fp0099313-1_485apos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Janus Detroit Street Trust\nETF Name: Unknown\nStrategy: Unless otherwise stated, the following additional investment strategies and general policies apply to the Fund and provide further information including, but not limited to, the types of securities the Fund may invest in when implementing its investment objective Also see the Fund\u2019s SAI for supplemental information on other investments which the Fund may invest and other investment techniques in which the Fund may en\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Janus Detroit Street Trust\nETF Name: Janus Henderson International Core Alpha ETF\nStrategy: Actively managed international equity ETF benchmarked to the MSCI EAFE Index that employs portfolio optimization techniques to construct a risk-managed portfolio seeking long-term growth of capital The fund invests in international equities with industry concentration generally capped at 25% of total assets (up to 35% where an industry represents 20%+ of the benchmark)\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Janus Detroit Street Trust",
@@ -1229,7 +1316,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/44402/000089843226000419/nbef-20250831.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: NEUBERGER BERMAN EQUITY FUNDS\nETF Name: Unknown\nStrategy: may, to a limited extent, use certain derivatives as a means of hedging risk and/or for investment or efficient portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: NEUBERGER BERMAN EQUITY FUNDS\nETF Name: VanEck ETF Trust Fund\nStrategy: Multi-manager global equity fund that invests across all market capitalizations\u2014including common stocks, preferred stocks, convertibles, depositary receipts, REITs, and ETFs\u2014with portfolio managers dynamically allocating among underlying sub-strategies based on risk/return assessments The fund maintains fund-of-funds investment agreements with vehicles such as VanEck ETF Trust and SPDR Series Trust, and may use deriv...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "NEUBERGER BERMAN EQUITY FUNDS",
@@ -1316,7 +1403,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006686/themesetftrust_485apos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Fund is subject to the risk that a counterparty to a derivatives transaction, including a swap agreement or option contract, may be unwilling or unable to make timely payments or otherwise meet its contractual obligations, or may fail to return holdings that are subject to the agreement, which could result in losses to the Fund and may impair the Fund\u2019s ability to achieve its daily inverse investment objective In\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Leverage Shares 2X Short SK Hynix Daily ETF\nStrategy: The fund seeks daily investment results corresponding to \u2013200% (\u20132X) of the daily price performance of SK Hynix Inc\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Themes ETF Trust",
@@ -1490,7 +1577,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526275730/d124972d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: YEAR INVESTMENT GRADE CORPORATE BOND ETF\nStrategy: The Fund seeks to track the investment results of the ICE \u00ae BofA \u00ae 5-10 Year US Corporate Index (the \u201c Underlying Index \u201d ), which measures the performance of investment-grade corporate bonds of both U.S BFA uses an indexing approach to try to achieve the Fund\u2019s investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Investment Grade Corporate Bond ETF\nStrategy: Passively tracks the ICE BofA 5-10 Year US Corporate Index, which measures the performance of intermediate-maturity, investment-grade U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -1751,7 +1838,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1310558/000119312526275515/d124843d485apos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: United States Life Insurance Co in the City of New York\nETF Name: Unknown\nStrategy: In such cases, the maximum Index Credit Rate you can earn under a Strategy Account Option with Enhanced Participation and Cap may be limited, even if its Participation Rate is higher than a Strategy Account Option with Participation and Cap As a result, you may receive a lower Index Credit Rate on a Strategy Account Option with Enhanced Participation and Cap than you would on a Strategy Account Option with Participat\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: United States Life Insurance Co in the City of New York\nETF Name: Registered Index-Linked Annuity Contract (not an ETF or index fund)\nStrategy: The Contract offers Strategy Account Options that credit returns based on the performance of specified indices over defined terms, subject to upside limits (Cap Rate, Participation Rate, Trigger Rate) and downside Buffer Rates (10% or 20%) that absorb a portion of index losses A Fixed Account Option providing a guaranteed interest rate is also available as a default allocation when Strategy Account terms expire\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "United States Life Insurance Co in the City of New York",
@@ -1780,7 +1867,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/5108/000119312526275509/d123398d485apos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AMERICAN GENERAL LIFE INSURANCE CO\nETF Name: Unknown\nStrategy: In such cases, the maximum Index Credit Rate you can earn under a Strategy Account Option with Enhanced Participation and Cap may be limited, even if its Participation Rate is higher than a Strategy Account Option with Participation and Cap As a result, you may receive a lower Index Credit Rate on a Strategy Account Option with Enhanced Participation and Cap than you would on a Strategy Account Option with Participat\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: AMERICAN GENERAL LIFE INSURANCE CO\nETF Name: The Contract is an insurance contract and is not an index fund\nStrategy: The Contract offers Strategy Account Options that credit returns based on the performance of specified indices over defined terms, subject to caps, trigger rates, participation rates, and downside buffers of 10% or 20% A Fixed Account Option providing a guaranteed interest rate is also available, with investors bearing losses beyond the buffer in negative index scenarios\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "AMERICAN GENERAL LIFE INSURANCE CO",
@@ -1925,7 +2012,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013066/sfyi-485bpos_061826.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust I\nETF Name: Unknown\nStrategy: The SoFi Social 50 Income ETF (the \u201cFund\u201d) seeks current income and long-term capital appreciation 2 The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks current income and long-term capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust I\nETF Name: SoFi Social 50 Income ETF\nStrategy: equity ETF that invests in the 50 most widely held stocks across SoFi Securities self-directed brokerage accounts and layers on a synthetic covered-call options overlay to generate current income alongside long-term capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Tidal Trust I",
@@ -14405,93 +14492,6 @@
         "filer": "Themes ETF Trust",
         "etf_name": "Unknown",
         "strategy": "The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-11T20:21:06.407670+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-004940",
-    "filed_date": "2026-05-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004940/0001829126-26-004940-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626004940/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004940/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Leverage Shares 2X Long Revolut Daily ETF\nStrategy: The fund seeks daily leveraged investment results of 200% (2X) of the daily percentage change in the common stock of Revolut Group Holdings Ltd, using swaps, standardized exchange-traded options, and FLEX options with daily rebalancing It invests at least 80% of net assets in Revolut shares and derivative instruments that, in combination, provide 2X daily leveraged exposure to Revolut's stock price\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "Unknown",
-        "strategy": "The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-11T20:21:09.436584+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-004939",
-    "filed_date": "2026-05-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004939/0001829126-26-004939-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626004939/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004939/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Applied Intuition 2X Long Daily Target ETF\nStrategy: equity ETF seeking investment results equal to 200% of the daily price change of Applied Intuition common stock, gaining exposure primarily through swap agreements, standardized and FLEX options, and limited direct holdings with daily portfolio rebalancing The fund is concentrated in Applied Intuition's industry and invests at least 80% of net assets in the underlying security or financial instruments providing equiv...\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "Unknown",
-        "strategy": "The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-11T18:30:24.153645+00:00",
-    "form_type": "485APOS",
-    "cik": "0001643174",
-    "company_name": "Horizon Funds",
-    "accession_number": "0001398344-26-008885",
-    "filed_date": "2026-05-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1643174/000139834426008885/0001398344-26-008885-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1643174/000139834426008885/fp0098866-1_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1643174/000139834426008885/fp0098866-1_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Horizon Funds\nETF Name: High Yield Bonds The Allocation Fund\nStrategy: The investment objective of the Horizon Active Risk Assist \u00ae Fund (the \u201cRisk Assist Fund\u201d or the \u201cFund\u201d) is to capture the majority of the returns associated with equity market investments, while mitigating downside risk through use of a risk overlay strategy (the \u201cRisk Assist strategy\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Horizon Funds",
-        "etf_name": "High Yield Bonds The Allocation Fund",
-        "strategy": "The investment objective of the Horizon Active Risk Assist \u00ae Fund (the \u201cRisk Assist Fund\u201d or the \u201cFund\u201d) is to capture the majority of the returns associated with equity market investments, while mitigating downside risk through use of a risk overlay strategy (the \u201cRisk Assist strategy\u201d)",
         "is_alert_worthy": "LOW"
       }
     ],
