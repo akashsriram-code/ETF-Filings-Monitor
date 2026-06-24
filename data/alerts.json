@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-06-24T22:23:04.383791+00:00",
+    "form_type": "485APOS",
+    "cik": "0000205007",
+    "company_name": "SHORT-TERM INVESTMENTS TRUST",
+    "accession_number": "0002071844-26-000727",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/205007/000207184426000727/0002071844-26-000727-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/205007/000207184426000727/final485.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/205007/000207184426000727/final485.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SHORT-TERM INVESTMENTS TRUST\nETF Name: Invesco Stablecoin Reserves Money Market Fund\nStrategy: A Rule 2a-7 government money market fund that invests exclusively in GENIUS Act-eligible reserve assets \u2014 including U.S Shares of the fund are primarily intended to serve as reserves backing outstanding payment stablecoins, while the fund does not invest in stablecoins or in stablecoin issuers\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SHORT-TERM INVESTMENTS TRUST",
+        "etf_name": "Invesco Stablecoin Reserves Money Market Fund",
+        "strategy": "A Rule 2a-7 government money market fund that invests exclusively in GENIUS Act-eligible reserve assets \u2014 including U.S Shares of the fund are primarily intended to serve as reserves backing outstanding payment stablecoins, while the fund does not invest in stablecoins or in stablecoin issuers",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-24T22:24:20.827832+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001518042",
+    "company_name": "NORTHERN LIGHTS FUND TRUST II",
+    "accession_number": "0001580642-26-003913",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1518042/000158064226003913/0001580642-26-003913-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1518042/000158064226003913/beacon_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1518042/000158064226003913/beacon_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust II\nETF Name: Beacon Dynamic Allocation Fund\nStrategy: The fund uses a tactical, multi-asset allocation approach investing at least 80% of assets in ETFs spanning domestic and foreign equities, fixed income, alternatives, and cash equivalents. Macroeconomic trend analysis drives shifts toward risk assets during stable or rising conditions and toward defensive positions such as cash, fixed income, and inverse equity ETFs during weakening conditions.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Northern Lights Fund Trust II",
+        "etf_name": "Beacon Dynamic Allocation Fund",
+        "strategy": "The fund uses a tactical, multi-asset allocation approach investing at least 80% of assets in ETFs spanning domestic and foreign equities, fixed income, alternatives, and cash equivalents. Macroeconomic trend analysis drives shifts toward risk assets during stable or rising conditions and toward defensive positions such as cash, fixed income, and inverse equity ETFs during weakening conditions.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-24T22:25:18.371994+00:00",
+    "form_type": "485APOS",
+    "cik": "0001742912",
+    "company_name": "Tidal Trust I",
+    "accession_number": "0001999371-26-013382",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013382/0001999371-26-013382-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1742912/000199937126013382/sofi-485apos_062426.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013382/sofi-485apos_062426.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust I\nETF Name: SoFi Risk-On Equity ETF\nStrategy: equity ETF tracking the BITA US Risk-On Equity Index, oriented toward higher-beta, growth-tilted equity exposure The fund seeks to replicate index performance through standard index-replication methodology\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust I",
+        "etf_name": "SoFi Risk-On Equity ETF",
+        "strategy": "equity ETF tracking the BITA US Risk-On Equity Index, oriented toward higher-beta, growth-tilted equity exposure The fund seeks to replicate index performance through standard index-replication methodology",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-24T20:58:17.988877+00:00",
     "form_type": "485BPOS",
     "cik": "0000030162",
@@ -2070,7 +2157,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526275730/d124972d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Investment Grade Corporate Bond ETF\nStrategy: Passively tracks the ICE\u00ae BofA\u00ae 5-10 Year US Corporate Index, which measures the performance of U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Investment Grade Corporate Bond ETF\nStrategy: Passively tracks the ICE BofA 5-10 Year US Corporate Index, measuring performance of U.S Employs a representative-sampling indexing approach rather than full replication of the underlying index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14405,93 +14492,6 @@
         "filer": "Tidal Trust IV",
         "etf_name": "VegaShares AI Metals, Miners & Materials ETF",
         "strategy": "Actively managed global equity ETF seeking capital appreciation by investing in AI-related metals, miners, and materials companies guided by the BITA AI Metals, Miners & Materials Global Index The sub-adviser actively manages the portfolio and may trade ahead of index reconstitution events",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-13T13:09:19.840572+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001795351",
-    "company_name": "T. Rowe Price Exchange-Traded Funds, Inc.",
-    "accession_number": "0001999371-26-010589",
-    "filed_date": "2026-05-13",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1795351/000199937126010589/0001999371-26-010589-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1795351/000199937126010589/cax-485bpos_051326.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1795351/000199937126010589/cax-485bpos_051326.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: T. Rowe Price Exchange-Traded Funds, Inc\nETF Name: T. Rowe Price Capital Appreciation Market Opportunities ETF\nStrategy: The fund seeks current income with capital appreciation potential by dynamically allocating between writing (selling) put options on large-cap U.S equity indices or ETFs (such as the S&P 500 or SPY) and direct equity exposure, guided by a proprietary statistical model\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "T. Rowe Price Exchange-Traded Funds, Inc",
-        "etf_name": "T. Rowe Price Capital Appreciation Market Opportunities ETF",
-        "strategy": "The fund seeks current income with capital appreciation potential by dynamically allocating between writing (selling) put options on large-cap U.S equity indices or ETFs (such as the S&P 500 or SPY) and direct equity exposure, guided by a proprietary statistical model",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-13T13:10:24.697276+00:00",
-    "form_type": "485APOS",
-    "cik": "0001924868",
-    "company_name": "Tidal Trust II",
-    "accession_number": "0001999371-26-010584",
-    "filed_date": "2026-05-13",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126010584/0001999371-26-010584-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126010584/defiance-485apos_051326.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126010584/defiance-485apos_051326.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Defiance AI Magnificent 10 ETF\nStrategy: Passively tracks the BITA AI Magnificent 10 Select Index by holding all or substantially all index components, with the ability to use options and total-return swaps for equivalent exposure\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust II",
-        "etf_name": "Defiance AI Magnificent 10 ETF",
-        "strategy": "Passively tracks the BITA AI Magnificent 10 Select Index by holding all or substantially all index components, with the ability to use options and total-return swaps for equivalent exposure",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-13T10:50:25.429247+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001976517",
-    "company_name": "Roundhill ETF Trust",
-    "accession_number": "0001398344-26-009036",
-    "filed_date": "2026-05-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426009036/0001398344-26-009036-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976517/000139834426009036/fp0098894-2_485bposixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426009036/fp0098894-2_485bposixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Roundhill ETF Trust\nETF Name: Roundhill HALO ETF\nStrategy: The fund passively tracks a market-cap-weighted index of U.S Under normal conditions it invests at least 80% of total assets in index constituents spanning sectors such as utilities, industrials, materials, logistics, defense, and healthcare infrastructure, positioning as a physical-moat, AI-disruption-resistant theme\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Roundhill ETF Trust",
-        "etf_name": "Roundhill HALO ETF",
-        "strategy": "The fund passively tracks a market-cap-weighted index of U.S Under normal conditions it invests at least 80% of total assets in index constituents spanning sectors such as utilities, industrials, materials, logistics, defense, and healthcare infrastructure, positioning as a physical-moat, AI-disruption-resistant theme",
         "is_alert_worthy": "HIGH"
       }
     ],
