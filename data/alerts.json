@@ -1,5 +1,150 @@
 [
   {
+    "created_at": "2026-06-24T15:10:29.047746+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000225322",
+    "company_name": "FIDELITY SUMMER STREET TRUST",
+    "accession_number": "0000225322-26-000117",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/225322/000022532226000117/0000225322-26-000117-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/225322/000022532226000117/filing12079.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/225322/000022532226000117/filing12079.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIDELITY SUMMER STREET TRUST\nETF Name: Fidelity\u00ae Short Duration High Income Fund\nStrategy: Seeks a high level of current income by investing at least 80% of assets in short-duration, high-yield fixed-income securities selected through fundamental analysis of issuer financial condition, industry position, and market conditions\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIDELITY SUMMER STREET TRUST",
+        "etf_name": "Fidelity\u00ae Short Duration High Income Fund",
+        "strategy": "Seeks a high level of current income by investing at least 80% of assets in short-duration, high-yield fixed-income securities selected through fundamental analysis of issuer financial condition, industry position, and market conditions",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-24T15:11:39.700314+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000035315",
+    "company_name": "FIDELITY SALEM STREET TRUST",
+    "accession_number": "0000035315-26-000387",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/35315/000003531526000387/0000035315-26-000387-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/35315/000003531526000387/filing12089.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/35315/000003531526000387/filing12089.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIDELITY SALEM STREET TRUST\nETF Name: Fidelity\u00ae Large Cap Growth Index Fund\nStrategy: large-cap growth index fund that seeks to track an unmanaged growth index and may operate as non-diversified to the extent its benchmark is non-diversified Total expense ratio of 0.035%, with derivatives permitted for index replication purposes\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIDELITY SALEM STREET TRUST",
+        "etf_name": "Fidelity\u00ae Large Cap Growth Index Fund",
+        "strategy": "large-cap growth index fund that seeks to track an unmanaged growth index and may operate as non-diversified to the extent its benchmark is non-diversified Total expense ratio of 0.035%, with derivatives permitted for index replication purposes",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-24T15:13:00.602416+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000917286",
+    "company_name": "FIDELITY HEREFORD STREET TRUST",
+    "accession_number": "0000917286-26-000089",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/917286/000091728626000089/0000917286-26-000089-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/917286/000091728626000089/filing12087.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/917286/000091728626000089/filing12087.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIDELITY HEREFORD STREET TRUST\nETF Name: Fidelity\u00ae Series Treasury Bill Index Fund\nStrategy: The fund is a passively managed index vehicle that seeks a high level of current income consistent with preservation of capital by tracking an unmanaged U.S\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIDELITY HEREFORD STREET TRUST",
+        "etf_name": "Fidelity\u00ae Series Treasury Bill Index Fund",
+        "strategy": "The fund is a passively managed index vehicle that seeks a high level of current income consistent with preservation of capital by tracking an unmanaged U.S",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-24T15:13:53.371267+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000819118",
+    "company_name": "FIDELITY CONCORD STREET TRUST",
+    "accession_number": "0000819118-26-000136",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/819118/000081911826000136/0000819118-26-000136-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/819118/000081911826000136/filing12081.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/819118/000081911826000136/filing12081.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIDELITY CONCORD STREET TRUST\nETF Name: Fidelity\u00ae Small Cap Stock K6 Fund\nStrategy: Seeks long-term growth of capital by actively investing in U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIDELITY CONCORD STREET TRUST",
+        "etf_name": "Fidelity\u00ae Small Cap Stock K6 Fund",
+        "strategy": "Seeks long-term growth of capital by actively investing in U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-24T15:15:15.681751+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-013319",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013319/0001999371-26-013319-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126013319/defiance-485bpos_062426.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013319/defiance-485bpos_062426.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: YieldMax Memory and Storage ETF\nStrategy: The fund is being renamed from YieldMax WarTech & Cyber Defense Portfolio Option Income ETF to YieldMax Memory and Storage ETF, reflecting a material amendment to the series' focus\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "YieldMax Memory and Storage ETF",
+        "strategy": "The fund is being renamed from YieldMax WarTech & Cyber Defense Portfolio Option Income ETF to YieldMax Memory and Storage ETF, reflecting a material amendment to the series' focus",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-24T12:23:35.089812+00:00",
     "form_type": "485BPOS",
     "cik": "0001145022",
@@ -1577,7 +1722,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526275730/d124972d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Investment Grade Corporate Bond ETF\nStrategy: Passively tracks the ICE BofA 5-10 Year US Corporate Index, which measures the performance of intermediate-maturity, investment-grade U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Investment Grade Corporate Bond ETF\nStrategy: Passively tracks the ICE BofA 5-10 Year US Corporate Index using a representative-sampling approach, targeting U.S Management fee is 0.04% with no indicated material strategy or fee changes from prior filings\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14347,151 +14492,6 @@
         "filer": "TRUTH SOCIAL FUNDS",
         "etf_name": "Liquidity Providers Concentration Risk. Truth Social America First ETF",
         "strategy": "The Index was developed by Point Bridge Capital, LLC, the Fund\u2019s investment sub-adviser (\u201cPoint Bridge\u201d or the \u201cSub-Adviser\u201d) Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years 5 Years 10 Years $ 74 $ 230 $ 401 $ 894 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-11T21:47:31.645540+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-004957",
-    "filed_date": "2026-05-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004957/0001829126-26-004957-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626004957/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004957/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: SPCX Daily ETF\nStrategy: The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "SPCX Daily ETF",
-        "strategy": "The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks daily investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-11T21:47:34.507562+00:00",
-    "form_type": "485APOS",
-    "cik": "0001587551",
-    "company_name": "Capitol Series Trust",
-    "accession_number": "0001580642-26-003126",
-    "filed_date": "2026-05-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587551/000158064226003126/0001580642-26-003126-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587551/000158064226003126/fullerthaler_485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587551/000158064226003126/fullerthaler_485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Capitol Series Trust\nETF Name: SUMMARY INFORMATION FULLERTHALER BEHAVIORAL GROWTH ETF\nStrategy: The FullerThaler Behavioral Growth ETF (the \u201cFund\u201d) seeks long-term capital appreciation OF THE FUND AND THE ADVISER\u2019S RESEARCH PROCESS 11 ADDITIONAL INFORMATION ABOUT\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Capitol Series Trust",
-        "etf_name": "SUMMARY INFORMATION FULLERTHALER BEHAVIORAL GROWTH ETF",
-        "strategy": "The FullerThaler Behavioral Growth ETF (the \u201cFund\u201d) seeks long-term capital appreciation OF THE FUND AND THE ADVISER\u2019S RESEARCH PROCESS 11 ADDITIONAL INFORMATION ABOUT",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-11T21:47:39.227248+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001761055",
-    "company_name": "BlackRock ETF Trust",
-    "accession_number": "0001193125-26-216861",
-    "filed_date": "2026-05-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526216861/0001193125-26-216861-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1761055/000119312526216861/d848400d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526216861/d848400d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BlackRock ETF Trust\nETF Name: Nasdaq Investment Objective The iShares Flexible Equity Active ETF\nStrategy: The iShares Flexible Equity Active ETF (the \u201cFund\u201d) seeks to provide total return S-1 Under normal circumstances, the Fund will invest at least 80% of its net assets (plus any borrowings for investment purposes) in equity securities and derivatives that provide investment exposure to such securities or to one or more market risk factors associated with such securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BlackRock ETF Trust",
-        "etf_name": "Nasdaq Investment Objective The iShares Flexible Equity Active ETF",
-        "strategy": "The iShares Flexible Equity Active ETF (the \u201cFund\u201d) seeks to provide total return S-1 Under normal circumstances, the Fund will invest at least 80% of its net assets (plus any borrowings for investment purposes) in equity securities and derivatives that provide investment exposure to such securities or to one or more market risk factors associated with such securities",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-11T20:21:00.274281+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-004944",
-    "filed_date": "2026-05-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004944/0001829126-26-004944-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626004944/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004944/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Leverage Shares 2X Long Roze Daily ETF (placeholder underlying; part of multi-series shelf filing)\nStrategy: The fund seeks daily investment results equal to 200% of the daily price change of a single underlying stock, using swaps, options, and direct holdings with at least 80% of net assets in leveraged-exposure instruments The portfolio is rebalanced daily and concentrated in the industry of the underlying security, targeting short-term traders who actively monitor positions\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "Unknown",
-        "strategy": "The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-11T20:21:03.481501+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-004943",
-    "filed_date": "2026-05-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004943/0001829126-26-004943-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626004943/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626004943/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Leverage Shares 2X Long Anduril Industries Daily ETF\nStrategy: At least 80% of net assets are invested in the underlying security or economically equivalent derivative instruments, with daily portfolio rebalancing to maintain targeted leveraged exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "Unknown",
-        "strategy": "The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily",
         "is_alert_worthy": "LOW"
       }
     ],
