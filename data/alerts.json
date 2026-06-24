@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-06-24T17:19:51.592342+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000763852",
+    "company_name": "JPMORGAN TRUST II",
+    "accession_number": "0001193125-26-280592",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/763852/000119312526280592/0001193125-26-280592-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/763852/000119312526280592/d142824d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/763852/000119312526280592/d142824d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: JPMorgan Trust II\nETF Name: JPMorgan Corporate Bond Fund\nStrategy: Actively managed fund investing in investment-grade corporate debt, with the adviser conducting issuer-level fundamental analysis to identify financially material opportunities and risks across industries. Non-principal tools include short selling, CPI-U swaps, Sukuk, and foreign securities, while cash and cash equivalents may be held for defensive purposes.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "JPMorgan Trust II",
+        "etf_name": "JPMorgan Corporate Bond Fund",
+        "strategy": "Actively managed fund investing in investment-grade corporate debt, with the adviser conducting issuer-level fundamental analysis to identify financially material opportunities and risks across industries. Non-principal tools include short selling, CPI-U swaps, Sukuk, and foreign securities, while cash and cash equivalents may be held for defensive purposes.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-24T17:21:28.059036+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001141819",
+    "company_name": "TRUST FOR PROFESSIONAL MANAGERS",
+    "accession_number": "0000894189-26-018084",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1141819/000089418926018084/0000894189-26-018084-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1141819/000089418926018084/cik0001141819-20260624.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1141819/000089418926018084/cik0001141819-20260624.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Trust for Professional Managers\nETF Name: Dearborn Partners Rising Dividend Fund\nStrategy: The fund also includes REIT exposure, adding real-asset diversification alongside the core U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Trust for Professional Managers",
+        "etf_name": "Dearborn Partners Rising Dividend Fund",
+        "strategy": "The fund also includes REIT exposure, adding real-asset diversification alongside the core U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-24T17:22:19.401538+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001217286",
+    "company_name": "JPMorgan Trust I",
+    "accession_number": "0001193125-26-280583",
+    "filed_date": "2026-06-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1217286/000119312526280583/0001193125-26-280583-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1217286/000119312526280583/d30986d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1217286/000119312526280583/d30986d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: JPMorgan Trust I\nETF Name: JPMorgan Corporate Bond Fund\nStrategy: Actively managed corporate bond fund investing primarily in corporate debt securities, with the adviser analyzing opportunities and risks across industries to identify financially material issues and engage with issuers. Non-principal tools may include short selling, CPI-U swaps, passively managed ETFs, Sukuk, and temporary defensive cash positions.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "JPMorgan Trust I",
+        "etf_name": "JPMorgan Corporate Bond Fund",
+        "strategy": "Actively managed corporate bond fund investing primarily in corporate debt securities, with the adviser analyzing opportunities and risks across industries to identify financially material issues and engage with issuers. Non-principal tools may include short selling, CPI-U swaps, passively managed ETFs, Sukuk, and temporary defensive cash positions.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-24T15:10:29.047746+00:00",
     "form_type": "485BPOS",
     "cik": "0000225322",
@@ -1722,7 +1809,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526275730/d124972d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Investment Grade Corporate Bond ETF\nStrategy: Passively tracks the ICE BofA 5-10 Year US Corporate Index using a representative-sampling approach, targeting U.S Management fee is 0.04% with no indicated material strategy or fee changes from prior filings\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Investment Grade Corporate Bond ETF\nStrategy: Passively tracks the ICE BofA 5-10 Year US Corporate Index via representative sampling, targeting U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14405,93 +14492,6 @@
         "filer": "RBB Fund Trust",
         "etf_name": "Equity Partners ETF",
         "strategy": "The investment objective of the Equity Partners ETF (the \u201cFund\u201d) is to seek long-term capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $ 62 $ 217 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund is an actively managed exchange-traded f",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-11T21:47:22.871971+00:00",
-    "form_type": "485APOS",
-    "cik": "0000897111",
-    "company_name": "CARILLON SERIES TRUST",
-    "accession_number": "0000898432-26-000349",
-    "filed_date": "2026-05-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/897111/000089843226000349/0000898432-26-000349-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/897111/000089843226000349/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/897111/000089843226000349/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: CARILLON SERIES TRUST\nETF Name: Finally, because the value of ETF\nStrategy: S&P\u2019s Depositary Receipts, S&P\u2019s Mid Cap 400 Depositary Receipts, and other similar index securities are ETFs and are considered investments in other investment companies (\u201cIndex Securities\u201d) Index Securities are subject to the risks of an investment in a broadly based portfolio of common stocks\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "CARILLON SERIES TRUST",
-        "etf_name": "Finally, because the value of ETF",
-        "strategy": "S&P\u2019s Depositary Receipts, S&P\u2019s Mid Cap 400 Depositary Receipts, and other similar index securities are ETFs and are considered investments in other investment companies (\u201cIndex Securities\u201d) Index Securities are subject to the risks of an investment in a broadly based portfolio of common stocks",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-11T21:47:25.945072+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001592900",
-    "company_name": "EA Series Trust",
-    "accession_number": "0001592900-26-002014",
-    "filed_date": "2026-05-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002014/0001592900-26-002014-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026002014/ck0001592900-20260511.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002014/ck0001592900-20260511.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Total Annual Fund\nStrategy: More complete risk descriptions are set forth below under the heading \u201c Additional Information About the Fund\u2019s Principal Investment Risks. Because the Fund is non-diversified, it may be more sensitive to economic, business, political or other changes affecting individual issuers or investments than a diversified fund, which may result in greater fluctuation in the value of the Shares and greater risk of loss.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "EA Series Trust",
-        "etf_name": "Total Annual Fund",
-        "strategy": "More complete risk descriptions are set forth below under the heading \u201c Additional Information About the Fund\u2019s Principal Investment Risks. Because the Fund is non-diversified, it may be more sensitive to economic, business, political or other changes affecting individual issuers or investments than a diversified fund, which may result in greater fluctuation in the value of the Shares and greater risk of loss.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-11T21:47:27.892978+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001040674",
-    "company_name": "TRUTH SOCIAL FUNDS",
-    "accession_number": "0001104659-26-058736",
-    "filed_date": "2026-05-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1040674/000110465926058736/0001104659-26-058736-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1040674/000110465926058736/tm266450d9_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1040674/000110465926058736/tm266450d9_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: TRUTH SOCIAL FUNDS\nETF Name: Liquidity Providers Concentration Risk. Truth Social America First ETF\nStrategy: The Index was developed by Point Bridge Capital, LLC, the Fund\u2019s investment sub-adviser (\u201cPoint Bridge\u201d or the \u201cSub-Adviser\u201d) Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years 5 Years 10 Years $ 74 $ 230 $ 401 $ 894 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "TRUTH SOCIAL FUNDS",
-        "etf_name": "Liquidity Providers Concentration Risk. Truth Social America First ETF",
-        "strategy": "The Index was developed by Point Bridge Capital, LLC, the Fund\u2019s investment sub-adviser (\u201cPoint Bridge\u201d or the \u201cSub-Adviser\u201d) Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years 5 Years 10 Years $ 74 $ 230 $ 401 $ 894 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
         "is_alert_worthy": "LOW"
       }
     ],
