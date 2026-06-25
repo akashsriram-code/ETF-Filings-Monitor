@@ -1,5 +1,150 @@
 [
   {
+    "created_at": "2026-06-25T17:26:25.103627+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000789281",
+    "company_name": "Federated Hermes Income Securities Trust",
+    "accession_number": "0001623632-26-000935",
+    "filed_date": "2026-06-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/789281/000162363226000935/0001623632-26-000935-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/789281/000162363226000935/fist2574-form.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/789281/000162363226000935/fist2574-form.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Federated Hermes Income Securities Trust\nETF Name: Federated Hermes Short-Term Income Fund\nStrategy: Seeks current income by investing primarily in a diversified portfolio of short- and medium-term U.S The advisory fee is 0.29% on average daily net assets with no material strategy changes indicated\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Federated Hermes Income Securities Trust",
+        "etf_name": "Federated Hermes Short-Term Income Fund",
+        "strategy": "Seeks current income by investing primarily in a diversified portfolio of short- and medium-term U.S The advisory fee is 0.29% on average daily net assets with no material strategy changes indicated",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-25T17:27:08.932067+00:00",
+    "form_type": "485APOS",
+    "cik": "0001478482",
+    "company_name": "John Hancock Exchange-Traded Fund Trust",
+    "accession_number": "0001193125-26-282243",
+    "filed_date": "2026-06-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1478482/000119312526282243/0001193125-26-282243-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1478482/000119312526282243/d69324d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1478482/000119312526282243/d69324d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: John Hancock Exchange-Traded Fund Trust\nETF Name: John Hancock International Dynamic Growth Select ETF\nStrategy: Actively managed international equity growth ETF that invests at least 80% of net assets in equities of growth companies outside the U.S., incorporating ESG criteria and subadvised by Axiom Investors LLC The fund benchmarks against the MSCI ACWI ex-USA Growth Index, focusing primarily on developed-market issuers\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "John Hancock Exchange-Traded Fund Trust",
+        "etf_name": "John Hancock International Dynamic Growth Select ETF",
+        "strategy": "Actively managed international equity growth ETF that invests at least 80% of net assets in equities of growth companies outside the U.S., incorporating ESG criteria and subadvised by Axiom Investors LLC The fund benchmarks against the MSCI ACWI ex-USA Growth Index, focusing primarily on developed-market issuers",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-25T17:28:35.071948+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001722388",
+    "company_name": "Tidal Trust III",
+    "accession_number": "0001999371-26-013466",
+    "filed_date": "2026-06-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126013466/0001999371-26-013466-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1722388/000199937126013466/vistashares-485bpos_062526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126013466/vistashares-485bpos_062526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust III\nETF Name: Davis Fundamental ETF Trust\nStrategy: Each fund is an actively managed U.S. equity ETF pairing a distinct factor tilt\u2014Berkshire-clone, momentum, value, quality, or low volatility\u2014with an options overlay targeting approximately 15% annualized income distributed monthly.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust III",
+        "etf_name": "Davis Fundamental ETF Trust",
+        "strategy": "Each fund is an actively managed U.S. equity ETF pairing a distinct factor tilt\u2014Berkshire-clone, momentum, value, quality, or low volatility\u2014with an options overlay targeting approximately 15% annualized income distributed monthly.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-25T17:29:45.124996+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000356349",
+    "company_name": "MFS SERIES TRUST XIII",
+    "accession_number": "0000912938-26-000711",
+    "filed_date": "2026-06-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/356349/000091293826000711/0000912938-26-000711-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/356349/000091293826000711/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/356349/000091293826000711/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: MFS Series Trust XIII\nETF Name: MFS Diversified Income Fund\nStrategy: Seeks total return with an emphasis on current income, but also considering capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "MFS Series Trust XIII",
+        "etf_name": "MFS Diversified Income Fund",
+        "strategy": "Seeks total return with an emphasis on current income, but also considering capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-25T17:30:51.439239+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002018846",
+    "company_name": "MFS Active Exchange Traded Funds Trust",
+    "accession_number": "0000912938-26-000698",
+    "filed_date": "2026-06-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2018846/000091293826000698/0000912938-26-000698-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2018846/000091293826000698/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2018846/000091293826000698/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: MFS Active Exchange Traded Funds Trust\nETF Name: MFS Active International Value ETF\nStrategy: Actively managed equity ETF seeking exposure to international stocks selected using a value-oriented investment approach\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "MFS Active Exchange Traded Funds Trust",
+        "etf_name": "MFS Active International Value ETF",
+        "strategy": "Actively managed equity ETF seeking exposure to international stocks selected using a value-oriented investment approach",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-25T15:11:58.201707+00:00",
     "form_type": "485BPOS",
     "cik": "0001849998",
@@ -40,7 +185,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1319067/000199937126013444/m3sixty-485apos_062526.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: M3Sixty Onchain U.S. Government Money Market Fund\nStrategy: The Fund is a Rule 2a-7 government money market fund investing at least 99.5% of total assets in U.S. government securities, cash, and fully collateralized repurchase agreements while targeting a stable $1.00 NAV.\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: M3Sixty Onchain U.S. Government Money Market Fund (MCGXX)\nStrategy: The fund is a Rule 2a-7 government money market fund investing primarily in U.S. Treasury bills and government securities, seeking high current income with preservation of capital and a stable $1.00 NAV.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -3085,7 +3230,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526275730/d124972d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Investment Grade Corporate Bond ETF\nStrategy: Passively tracks the ICE BofA 5-10 Year US Corporate Index via representative sampling, providing exposure to U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Investment Grade Corporate Bond ETF\nStrategy: Passively tracks the ICE BofA 5-10 Year US Corporate Index via representative sampling, targeting U.S The management fee is 0.04%, and no material strategy or fee changes are introduced in this filing\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14351,151 +14496,6 @@
       }
     ],
     "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-15T21:38:32.735234+00:00",
-    "form_type": "485APOS",
-    "cik": "0002081107",
-    "company_name": "Tidal Trust V",
-    "accession_number": "0001999371-26-010892",
-    "filed_date": "2026-05-15",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126010892/0001999371-26-010892-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126010892/defiance-485apos_051526.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126010892/defiance-485apos_051526.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Defiance Compute ETF\nStrategy: The fund is an actively managed ETF seeking long-term capital appreciation through exposure to computing resources powering AI and data-intensive processing infrastructure It employs a derivatives-based approach\u2014including swaps and futures held through a subsidiary\u2014backed by a cash and short-term instrument collateral portfolio\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust V",
-        "etf_name": "Defiance Compute ETF",
-        "strategy": "The fund is an actively managed ETF seeking long-term capital appreciation through exposure to computing resources powering AI and data-intensive processing infrastructure It employs a derivatives-based approach\u2014including swaps and futures held through a subsidiary\u2014backed by a cash and short-term instrument collateral portfolio",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-15T20:25:18.194235+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-023687",
-    "filed_date": "2026-05-15",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226023687/0001493152-26-023687-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226023687/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226023687/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: Real Estate Fund Bridge Builder Trust Cambria ETF Trust\nStrategy: Investment Managers Series Trust II (AXS-Advised Funds) Investment Managers Series Trust II (Alternative Access-Advised Fund) Janus Detroit Street Trust Lattice Strategies Trust Litman Gregory Funds Trust Longleaf Partners Funds Trust Manager Directed Portfolios (Spyglass Growth Fund) Meridian Fund, Inc.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "Real Estate Fund Bridge Builder Trust Cambria ETF Trust",
-        "strategy": "Investment Managers Series Trust II (AXS-Advised Funds) Investment Managers Series Trust II (Alternative Access-Advised Fund) Janus Detroit Street Trust Lattice Strategies Trust Litman Gregory Funds Trust Longleaf Partners Funds Trust Manager Directed Portfolios (Spyglass Growth Fund) Meridian Fund, Inc.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-15T20:26:07.999236+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-023680",
-    "filed_date": "2026-05-15",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226023680/0001493152-26-023680-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226023680/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226023680/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares 2x Long RVMD Daily ETF\nStrategy: Single-stock leveraged ETF seeking daily investment results equal to 200% of the daily percentage change of Revolution Medicines Inc. common stock.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "GraniteShares 2x Long RVMD Daily ETF",
-        "strategy": "Single-stock leveraged ETF seeking daily investment results equal to 200% of the daily percentage change of Revolution Medicines Inc. common stock.",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-15T20:26:59.069373+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001415726",
-    "company_name": "Innovator ETFs Trust",
-    "accession_number": "0001213900-26-057636",
-    "filed_date": "2026-05-15",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026057636/0001213900-26-057636-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1415726/000121390026057636/ea0290275-01_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026057636/ea0290275-01_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Innovator ETFs Trust\nETF Name: Innovator Dual Direction Fund (DDFZ)\nStrategy: Actively managed, FLEX Options-based ETF that seeks positive \"dual direction\" returns over a defined Outcome Period by participating in Underlying ETF gains up to an Upside Cap and seeking positive returns when the Underlying ETF declines, subject to an Inverse Performance Threshold and Buffer At least 80% of net assets are invested in instruments providing exposure to the Underlying ETF\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Innovator ETFs Trust",
-        "etf_name": "Innovator Dual Direction Fund (DDFZ)",
-        "strategy": "Actively managed, FLEX Options-based ETF that seeks positive \"dual direction\" returns over a defined Outcome Period by participating in Underlying ETF gains up to an Upside Cap and seeking positive returns when the Underlying ETF declines, subject to an Inverse Performance Threshold and Buffer At least 80% of net assets are invested in instruments providing exposure to the Underlying ETF",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-15T19:02:49.963911+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001479026",
-    "company_name": "Goldman Sachs ETF Trust",
-    "accession_number": "0001193125-26-226152",
-    "filed_date": "2026-05-15",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1479026/000119312526226152/0001193125-26-226152-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1479026/000119312526226152/d40249d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1479026/000119312526226152/d40249d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Goldman Sachs ETF Trust\nETF Name: Goldman Sachs Data Enhanced International Equity ETF\nStrategy: The fund seeks long-term capital growth by investing in international developed-market equities, using a quantitative management style with a qualitative overlay focused on fundamentals-based stock selection It is benchmarked to the MSCI EAFE Index (Net, USD, Unhedged) with notable European exposure\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Goldman Sachs ETF Trust",
-        "etf_name": "Goldman Sachs Data Enhanced International Equity ETF",
-        "strategy": "The fund seeks long-term capital growth by investing in international developed-market equities, using a quantitative management style with a qualitative overlay focused on fundamentals-based stock selection It is benchmarked to the MSCI EAFE Index (Net, USD, Unhedged) with notable European exposure",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
