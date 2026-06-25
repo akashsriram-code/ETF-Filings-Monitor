@@ -1,5 +1,179 @@
 [
   {
+    "created_at": "2026-06-25T21:16:41.310747+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000842790",
+    "company_name": "AIM INVESTMENT SECURITIES FUNDS (INVESCO INVESTMENT SECURITIES FUNDS)",
+    "accession_number": "0001104659-26-077782",
+    "filed_date": "2026-06-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/842790/000110465926077782/0001104659-26-077782-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/842790/000110465926077782/tm2618072d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/842790/000110465926077782/tm2618072d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AIM Investment Securities Funds (Invesco Investment Securities Funds)\nETF Name: Invesco Corporate Bond Fund; Invesco Government Money Market Fund; Invesco High Yield Fund\nStrategy: fixed-income mutual funds: a corporate bond fund investing at least 80% of net assets in corporate bonds (65%+ investment grade) with capital appreciation as a secondary objective; a Rule 2a-7 government money market fund seeking stable $1.00 NAV through government securities and collateralized repos; and a high-yield fund investing at least 80% of net assets in below-investment-grade debt securities All funds may em...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AIM Investment Securities Funds (Invesco Investment Securities Funds)",
+        "etf_name": "Invesco Corporate Bond Fund; Invesco Government Money Market Fund; Invesco High Yield Fund",
+        "strategy": "fixed-income mutual funds: a corporate bond fund investing at least 80% of net assets in corporate bonds (65%+ investment grade) with capital appreciation as a secondary objective; a Rule 2a-7 government money market fund seeking stable $1.00 NAV through government securities and collateralized repos; and a high-yield fund investing at least 80% of net assets in below-investment-grade debt securities All funds may em...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-25T21:17:39.212944+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001141819",
+    "company_name": "TRUST FOR PROFESSIONAL MANAGERS",
+    "accession_number": "0000894189-26-018583",
+    "filed_date": "2026-06-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1141819/000089418926018583/0000894189-26-018583-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1141819/000089418926018583/ck0001141819-20260625.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1141819/000089418926018583/ck0001141819-20260625.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Trust for Professional Managers (Adviser: Bright Rock / Rockland Trust Company)\nETF Name: Bright Rock Mid Cap Fund\nStrategy: mid-cap equities using bottom-up fundamental research emphasizing earnings stability, competitive positioning, and balance-sheet strength, benchmarked to the Russell Midcap\u00ae Growth Total Return Index May also invest in preferred stocks, convertible debt, and ETFs holding mid-cap companies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Trust for Professional Managers (Adviser: Bright Rock / Rockland Trust Company)",
+        "etf_name": "Bright Rock Mid Cap Fund",
+        "strategy": "mid-cap equities using bottom-up fundamental research emphasizing earnings stability, competitive positioning, and balance-sheet strength, benchmarked to the Russell Midcap\u00ae Growth Total Return Index May also invest in preferred stocks, convertible debt, and ETFs holding mid-cap companies",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-25T21:18:54.516317+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001742912",
+    "company_name": "Tidal Trust I",
+    "accession_number": "0001999371-26-013505",
+    "filed_date": "2026-06-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013505/0001999371-26-013505-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1742912/000199937126013505/sofi-485bpos_062526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126013505/sofi-485bpos_062526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust I\nETF Name: SoFi Enhanced Yield ETF\nStrategy: Seeks current income by holding U.S securities overlaid with a vertical credit spread options strategy managed via the adviser's proprietary High Probability Options Strategy (HiPOS)\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust I",
+        "etf_name": "SoFi Enhanced Yield ETF",
+        "strategy": "Seeks current income by holding U.S securities overlaid with a vertical credit spread options strategy managed via the adviser's proprietary High Probability Options Strategy (HiPOS)",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-25T21:19:45.030573+00:00",
+    "form_type": "485APOS",
+    "cik": "0001137360",
+    "company_name": "VanEck ETF Trust",
+    "accession_number": "0001137360-26-000640",
+    "filed_date": "2026-06-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000640/0001137360-26-000640-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1137360/000113736026000640/vaneckeminternationalinflac.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000640/vaneckeminternationalinflac.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VanEck ETF Trust\nETF Name: VanEck EM Focus Inflation Bond ETF\nStrategy: Passively managed fixed-income ETF that seeks to replicate an emerging-market inflation-linked bond index by investing at least 80% of total assets in index-constituent securities The fund is non-diversified and may concentrate in sectors or industries to the extent the underlying index does\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VanEck ETF Trust",
+        "etf_name": "VanEck EM Focus Inflation Bond ETF",
+        "strategy": "Passively managed fixed-income ETF that seeks to replicate an emerging-market inflation-linked bond index by investing at least 80% of total assets in index-constituent securities The fund is non-diversified and may concentrate in sectors or industries to the extent the underlying index does",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-25T21:21:31.489522+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000909466",
+    "company_name": "AIM TAX-EXEMPT FUNDS (INVESCO TAX-EXEMPT FUNDS)",
+    "accession_number": "0001104659-26-077727",
+    "filed_date": "2026-06-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/909466/000110465926077727/0001104659-26-077727-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/909466/000110465926077727/tm2618073d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/909466/000110465926077727/tm2618073d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AIM Tax-Exempt Funds (Invesco Tax-Exempt Funds)\nETF Name: Invesco California Municipal Fund / Invesco Municipal Income Fund (multi-fund trust filing)\nStrategy: The funds invest at least 80% of net assets in municipal securities whose interest is exempt from federal income tax, with the California fund further targeting exemption from California state income tax\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AIM Tax-Exempt Funds (Invesco Tax-Exempt Funds)",
+        "etf_name": "Invesco California Municipal Fund / Invesco Municipal Income Fund (multi-fund trust filing)",
+        "strategy": "The funds invest at least 80% of net assets in municipal securities whose interest is exempt from federal income tax, with the California fund further targeting exemption from California state income tax",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-25T21:23:03.194241+00:00",
+    "form_type": "485APOS",
+    "cik": "0000710124",
+    "company_name": "NORTHERN INSTITUTIONAL FUNDS",
+    "accession_number": "0001193125-26-282634",
+    "filed_date": "2026-06-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/710124/000119312526282634/0001193125-26-282634-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/710124/000119312526282634/d125385d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/710124/000119312526282634/d125385d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Northern Institutional Funds\nETF Name: Stablecoin Cash Reserves Portfolio\nStrategy: A Rule 2a-7 government money market fund that invests in cash, U.S The fund seeks to maximize current income while preserving capital and maintaining liquidity, with holdings limited to eligible securities presenting minimal credit risk\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Northern Institutional Funds",
+        "etf_name": "Stablecoin Cash Reserves Portfolio",
+        "strategy": "A Rule 2a-7 government money market fund that invests in cash, U.S The fund seeks to maximize current income while preserving capital and maintaining liquidity, with holdings limited to eligible securities presenting minimal credit risk",
+        "is_alert_worthy": "HIGH"
+      }
+    ],
+    "wire_recommendation": "HIGH",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-25T19:28:22.295730+00:00",
     "form_type": "485APOS",
     "cik": "0001424212",
@@ -388,7 +562,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1319067/000199937126013444/m3sixty-485apos_062526.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: M3Sixty OnChain U.S. Government Money Market Fund\nStrategy: The fund is an actively managed government money market fund operating under Rule 2a-7, investing in U.S. Treasury bills and government-backed instruments while targeting a stable $1.00 NAV per share.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: M3Sixty OnChain U.S. Government Money Market Fund\nStrategy: It seeks to provide a high level of current income consistent with preservation of capital, liquidity, and a stable $1.00 NAV per share\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -3433,7 +3607,7 @@
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526275730/d124972d485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Investment Grade Corporate Bond ETF\nStrategy: Passively tracks the ICE BofA 5-10 Year US Corporate Index, which measures the performance of U.S Uses a representative-sampling indexing approach to approximate the index's investment profile rather than full replication\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Year Investment Grade Corporate Bond ETF\nStrategy: Passively tracks the ICE BofA 5-10 Year US Corporate Index, targeting U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
     "synopsis_items": [
       {
         "filer": "Unknown",
@@ -14322,180 +14496,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-19T14:18:34.843197+00:00",
-    "form_type": "485APOS",
-    "cik": "0001562577",
-    "company_name": "MEMBERS Life Insurance Co",
-    "accession_number": "0001562577-26-000216",
-    "filed_date": "2026-05-19",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1562577/000156257726000216/0001562577-26-000216-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1562577/000156257726000216/trustagezonechoiceincome48.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1562577/000156257726000216/trustagezonechoiceincome48.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: MEMBERS Life Insurance Co\nETF Name: TruStage Ventures Discovery Fund\nStrategy: Information about Contracts with Index-Linked Options and Fixed Options Subject to a Contract Adjustment\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "MEMBERS Life Insurance Co",
-        "etf_name": "TruStage Ventures Discovery Fund",
-        "strategy": "Information about Contracts with Index-Linked Options and Fixed Options Subject to a Contract Adjustment",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-18T21:57:35.033911+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001924868",
-    "company_name": "Tidal Trust II",
-    "accession_number": "0001999371-26-011020",
-    "filed_date": "2026-05-18",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126011020/0001999371-26-011020-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126011020/defiance-485bpos_051826.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126011020/defiance-485bpos_051826.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Defiance Daily Target 2X Long SILJ ETF\nStrategy: Seeks daily leveraged investment results of two times (200%) the daily percentage change in the share price of the Amplify Junior Silver Miners ETF (SILJ) Provides 2\u00d7 daily exposure to junior silver-mining equities via derivatives, intended for short-term, actively monitored trading\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust II",
-        "etf_name": "Defiance Daily Target 2X Long SILJ ETF",
-        "strategy": "Seeks daily leveraged investment results of two times (200%) the daily percentage change in the share price of the Amplify Junior Silver Miners ETF (SILJ) Provides 2\u00d7 daily exposure to junior silver-mining equities via derivatives, intended for short-term, actively monitored trading",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-18T21:58:31.668733+00:00",
-    "form_type": "485APOS",
-    "cik": "0001804196",
-    "company_name": "BlackRock ETF Trust II",
-    "accession_number": "0001193125-26-228968",
-    "filed_date": "2026-05-18",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1804196/000119312526228968/0001193125-26-228968-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1804196/000119312526228968/d118499d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1804196/000119312526228968/d118499d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BlackRock ETF Trust II\nETF Name: BlackRock Funds III BlackRock ETF Trust BlackRock Funds IV BlackRock ETF Trust\nStrategy: Actively managed U.S. municipal bond ETF targeting short-duration, federally tax-exempt income at the shorter end of the muni yield curve.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BlackRock ETF Trust II",
-        "etf_name": "BlackRock Funds III BlackRock ETF Trust BlackRock Funds IV BlackRock ETF Trust",
-        "strategy": "Actively managed U.S. municipal bond ETF targeting short-duration, federally tax-exempt income at the shorter end of the muni yield curve.",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-18T19:05:34.764103+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-024148",
-    "filed_date": "2026-05-18",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226024148/0001493152-26-024148-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226024148/form485pos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226024148/form485pos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares 2x Short Kioxia Daily ETF\nStrategy: Seeks daily inverse investment results of \u2212200% the daily percentage change of the Kioxia Holdings Corporation ADR Single-stock inverse-leveraged equity product designed for short-term, actively monitored positions with daily-reset exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "GraniteShares 2x Short Kioxia Daily ETF",
-        "strategy": "Seeks daily inverse investment results of \u2212200% the daily percentage change of the Kioxia Holdings Corporation ADR Single-stock inverse-leveraged equity product designed for short-term, actively monitored positions with daily-reset exposure",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-18T19:06:59.902463+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-024144",
-    "filed_date": "2026-05-18",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226024144/0001493152-26-024144-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226024144/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226024144/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares 2x Short Crusoe Energy Systems Daily ETF\nStrategy: The fund is designed for active, knowledgeable investors who understand leverage, inverse exposure, and daily compounding risk\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "GraniteShares 2x Short Crusoe Energy Systems Daily ETF",
-        "strategy": "The fund is designed for active, knowledgeable investors who understand leverage, inverse exposure, and daily compounding risk",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-18T19:07:45.589300+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-024138",
-    "filed_date": "2026-05-18",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226024138/0001493152-26-024138-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226024138/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226024138/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares Autocallable DRAM ETF\nStrategy: Actively managed ETF that invests in autocallable structured products referencing the Roundhill Memory ETF (CBOE: DRAM) to generate current income while providing limited downside protection Exposure to the semiconductor memory sector is obtained through derivatives rather than direct equity holdings\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "GraniteShares Autocallable DRAM ETF",
-        "strategy": "Actively managed ETF that invests in autocallable structured products referencing the Roundhill Memory ETF (CBOE: DRAM) to generate current income while providing limited downside protection Exposure to the semiconductor memory sector is obtained through derivatives rather than direct equity holdings",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
