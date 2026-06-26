@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-06-26T17:52:11.095493+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001071873",
+    "company_name": "MP63 FUND INC",
+    "accession_number": "0001162044-26-000558",
+    "filed_date": "2026-06-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1071873/000116204426000558/0001162044-26-000558-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1071873/000116204426000558/mp63fund485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1071873/000116204426000558/mp63fund485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: MP63 FUND INC\nETF Name: When you sell Fund\nStrategy: The Fund seeks to achieve its investment objective by investing at least 80% of its total assets in DRIP companies Portfolio positions are constantly monitored to ensure that they continue to meet the Fund\u2019s investment objectives\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "MP63 FUND INC",
+        "etf_name": "When you sell Fund",
+        "strategy": "The Fund seeks to achieve its investment objective by investing at least 80% of its total assets in DRIP companies Portfolio positions are constantly monitored to ensure that they continue to meet the Fund\u2019s investment objectives",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-26T17:52:13.028797+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001645192",
+    "company_name": "WP Trust",
+    "accession_number": "0001413042-26-000523",
+    "filed_date": "2026-06-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1645192/000141304226000523/0001413042-26-000523-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1645192/000141304226000523/fp0099355-1_pro.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1645192/000141304226000523/fp0099355-1_pro.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: WP Trust\nETF Name: Unknown\nStrategy: Other Investment Company and ETF Securities risk \u2014 When the Fund invests in an ETF, the Fund indirectly will bear its proportionate share of any\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "WP Trust",
+        "etf_name": "Unknown",
+        "strategy": "Other Investment Company and ETF Securities risk \u2014 When the Fund invests in an ETF, the Fund indirectly will bear its proportionate share of any",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-26T15:56:30.283169+00:00",
     "form_type": "485BPOS",
     "cik": "0000314650",
@@ -14434,64 +14492,6 @@
         "filer": "Defiance ETFs, LLC",
         "etf_name": "Defiance Pure Play Memory ETF",
         "strategy": "Actively managed ETF seeking total return by investing in equities and ADRs of pure play memory semiconductor companies, with industry concentration aligned to its reference index The fund implements its strategy primarily through swap agreements and other derivatives, with the adviser responsible for structuring swaps and identifying counterparties",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-20T22:22:59.291011+00:00",
-    "form_type": "485APOS",
-    "cik": "0001540305",
-    "company_name": "ETF Series Solutions",
-    "accession_number": "0000894189-26-015074",
-    "filed_date": "2026-05-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926015074/0000894189-26-015074-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1540305/000089418926015074/defianceplumbingaiindexetfb.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926015074/defianceplumbingaiindexetfb.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Series Solutions\nETF Name: Defiance Memory & Photonics ETF\nStrategy: Passively tracks the Solactive Memory and Photonics Index, investing at least 80% of net assets in Memory & Photonics companies Uses a replication approach or representative sampling and may concentrate in the same industries as the index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Series Solutions",
-        "etf_name": "Defiance Memory & Photonics ETF",
-        "strategy": "Passively tracks the Solactive Memory and Photonics Index, investing at least 80% of net assets in Memory & Photonics companies Uses a replication approach or representative sampling and may concentrate in the same industries as the index",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-20T22:23:53.135140+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001592900",
-    "company_name": "EA Series Trust",
-    "accession_number": "0001592900-26-002097",
-    "filed_date": "2026-05-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002097/0001592900-26-002097-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026002097/ck0001592900-20260520.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002097/ck0001592900-20260520.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: StockSnips AI-Powered Sentiment US All Cap ETF\nStrategy: At least 80% of net assets are invested in U.S.-listed stocks, with the objective of long-term capital appreciation\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "EA Series Trust",
-        "etf_name": "StockSnips AI-Powered Sentiment US All Cap ETF",
-        "strategy": "At least 80% of net assets are invested in U.S.-listed stocks, with the objective of long-term capital appreciation",
         "is_alert_worthy": "MEDIUM"
       }
     ],
