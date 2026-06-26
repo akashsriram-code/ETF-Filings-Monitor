@@ -1,5 +1,179 @@
 [
   {
+    "created_at": "2026-06-26T15:56:30.283169+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000314650",
+    "company_name": "EDWARD JONES MONEY MARKET FUND",
+    "accession_number": "0001193125-26-284420",
+    "filed_date": "2026-06-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/314650/000119312526284420/0001193125-26-284420-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/314650/000119312526284420/d100064d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/314650/000119312526284420/d100064d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EDWARD JONES MONEY MARKET FUND\nETF Name: No Bank Guarantee Contents Fund\nStrategy: Not FDIC Insured \u220e May Lose Value \u220e No Bank Guarantee Contents Information 1 Additional Information Regarding the Fund\u2019s Investment Objective and Strategies 8 Additional Information Regarding the Fund\u2019s\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EDWARD JONES MONEY MARKET FUND",
+        "etf_name": "No Bank Guarantee Contents Fund",
+        "strategy": "Not FDIC Insured \u220e May Lose Value \u220e No Bank Guarantee Contents Information 1 Additional Information Regarding the Fund\u2019s Investment Objective and Strategies 8 Additional Information Regarding the Fund\u2019s",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-26T15:56:34.551342+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-006913",
+    "filed_date": "2026-06-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006913/0001829126-26-006913-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626006913/themesetftrust_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006913/themesetftrust_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily leveraged investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Unknown",
+        "strategy": "The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily leveraged investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-26T15:56:39.255937+00:00",
+    "form_type": "485APOS",
+    "cik": "0001501825",
+    "company_name": "Hartford Funds Exchange-Traded Trust",
+    "accession_number": "0001193125-26-284347",
+    "filed_date": "2026-06-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1501825/000119312526284347/0001193125-26-284347-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1501825/000119312526284347/d93104d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1501825/000119312526284347/d93104d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Hartford Funds Exchange-Traded Trust\nETF Name: Credit Opportunities ETF\nStrategy: and principal investment strategy as the Predecessor Fund The Predecessor Fund changed its performance index on July 31, 2026 because the Investment Manager believes that the ICE BofA US All Capital Securities Index better reflects the Predecessor Fund\u2019s revised investment strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Hartford Funds Exchange-Traded Trust",
+        "etf_name": "Credit Opportunities ETF",
+        "strategy": "and principal investment strategy as the Predecessor Fund The Predecessor Fund changed its performance index on July 31, 2026 because the Investment Manager believes that the ICE BofA US All Capital Securities Index better reflects the Predecessor Fund\u2019s revised investment strategy",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-26T15:56:42.756889+00:00",
+    "form_type": "485APOS",
+    "cik": "0001657201",
+    "company_name": "Invesco Exchange-Traded Self-Indexed Fund Trust",
+    "accession_number": "0001193125-26-284334",
+    "filed_date": "2026-06-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1657201/000119312526284334/0001193125-26-284334-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1657201/000119312526284334/d52874d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1657201/000119312526284334/d52874d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Invesco Exchange-Traded Self-Indexed Fund Trust\nETF Name: Municipal Bond ETF\nStrategy: is to seek to track the investment results (before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Invesco Exchange-Traded Self-Indexed Fund Trust",
+        "etf_name": "Municipal Bond ETF",
+        "strategy": "is to seek to track the investment results (before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-26T15:56:48.380678+00:00",
+    "form_type": "485APOS",
+    "cik": "0000898745",
+    "company_name": "PRINCIPAL FUNDS, INC.",
+    "accession_number": "0000898745-26-000760",
+    "filed_date": "2026-06-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/898745/000089874526000760/0000898745-26-000760-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/898745/000089874526000760/pfi1031485adifiling.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/898745/000089874526000760/pfi1031485adifiling.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PRINCIPAL FUNDS, INC\nETF Name: PRICING OF FUND\nStrategy: is described in the summary section for the Fund. The summary section also describes the Fund\u2019s and risks, remove the sub-advisors, and change the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PRINCIPAL FUNDS, INC",
+        "etf_name": "PRICING OF FUND",
+        "strategy": "is described in the summary section for the Fund. The summary section also describes the Fund\u2019s and risks, remove the sub-advisors, and change the",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-06-26T15:56:53.220432+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001545440",
+    "company_name": "Ultimus Managers Trust",
+    "accession_number": "0001580642-26-003952",
+    "filed_date": "2026-06-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1545440/000158064226003952/0001580642-26-003952-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1545440/000158064226003952/umt-blueprinthviania_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1545440/000158064226003952/umt-blueprinthviania_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Ultimus Managers Trust\nETF Name: RETURN SUMMARY INVESTMENT OBJECTIVE The Blueprint Adaptive Growth Allocation Fund\nStrategy: The Blueprint Adaptive Growth Allocation Fund (the \u201cFund\u201d) seeks capital appreciation while managing risk 1 The Fund uses a dynamic asset allocation strategy in an effort to generate returns while also seeking to preserve capital during prolonged market downtrends by allocating across a portfolio of broadly diversified global asset classes\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Ultimus Managers Trust",
+        "etf_name": "RETURN SUMMARY INVESTMENT OBJECTIVE The Blueprint Adaptive Growth Allocation Fund",
+        "strategy": "The Blueprint Adaptive Growth Allocation Fund (the \u201cFund\u201d) seeks capital appreciation while managing risk 1 The Fund uses a dynamic asset allocation strategy in an effort to generate returns while also seeking to preserve capital during prolonged market downtrends by allocating across a portfolio of broadly diversified global asset classes",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-06-26T11:24:47.551883+00:00",
     "form_type": "485BPOS",
     "cik": "0001018975",
@@ -14322,180 +14496,6 @@
       }
     ],
     "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-20T20:41:42.761267+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001710607",
-    "company_name": "AMERICAN CENTURY ETF TRUST",
-    "accession_number": "0001710607-26-000092",
-    "filed_date": "2026-05-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1710607/000171060726000092/0001710607-26-000092-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1710607/000171060726000092/ck0001710607-20260520.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1710607/000171060726000092/ck0001710607-20260520.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AMERICAN CENTURY ETF TRUST\nETF Name: Avantis Credit ETF\nStrategy: Portfolio managers assign proprietary credit scores across the investment universe and may use derivatives consistent with fund objectives\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AMERICAN CENTURY ETF TRUST",
-        "etf_name": "Avantis Credit ETF",
-        "strategy": "Portfolio managers assign proprietary credit scores across the investment universe and may use derivatives consistent with fund objectives",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-20T20:42:35.146422+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-024618",
-    "filed_date": "2026-05-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226024618/0001493152-26-024618-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226024618/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226024618/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: Real Estate Fund Bridge Builder Trust Cambria ETF Trust\nStrategy: The Fund is an actively managed ETF that sells put options\u2014via either a put write or put spread strategy\u2014on an underlying leveraged ETF tracking 2\u00d7 the daily performance of a single stock, targeting weekly income distributions from collected premiums Upside is capped at the option premium received while the Fund bears full downside exposure to the leveraged ETF, with only partial protection available under the put sp...\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "Real Estate Fund Bridge Builder Trust Cambria ETF Trust",
-        "strategy": "The Fund is an actively managed ETF that sells put options\u2014via either a put write or put spread strategy\u2014on an underlying leveraged ETF tracking 2\u00d7 the daily performance of a single stock, targeting weekly income distributions from collected premiums Upside is capped at the option premium received while the Fund bears full downside exposure to the leveraged ETF, with only partial protection available under the put sp...",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-20T20:43:54.269590+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976517",
-    "company_name": "Roundhill ETF Trust",
-    "accession_number": "0001398344-26-009500",
-    "filed_date": "2026-05-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426009500/0001398344-26-009500-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976517/000139834426009500/fp0099058-1_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426009500/fp0099058-1_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Roundhill ETF Trust\nETF Name: Roundhill Photonics & Optics ETF\nStrategy: The portfolio may include ADRs, GDRs, China A-Shares, and VIE structures, with holdings selected via a proprietary methodology developed by adviser Roundhill Financial Inc\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Roundhill ETF Trust",
-        "etf_name": "Roundhill Photonics & Optics ETF",
-        "strategy": "The portfolio may include ADRs, GDRs, China A-Shares, and VIE structures, with holdings selected via a proprietary methodology developed by adviser Roundhill Financial Inc",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-20T20:45:10.461726+00:00",
-    "form_type": "485APOS",
-    "cik": "0001496608",
-    "company_name": "AB Active ETFs, Inc.",
-    "accession_number": "0000919574-26-003617",
-    "filed_date": "2026-05-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1496608/000091957426003617/0000919574-26-003617-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1496608/000091957426003617/d12147133_485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1496608/000091957426003617/d12147133_485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AB Active ETFs, Inc\nETF Name: Davis Fundamental ETF Trust\nStrategy: The portfolio construction balances return opportunities, diversification, and risk management, with discretion to use derivatives for hedging or return enhancement\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AB Active ETFs, Inc",
-        "etf_name": "Davis Fundamental ETF Trust",
-        "strategy": "The portfolio construction balances return opportunities, diversification, and risk management, with discretion to use derivatives for hedging or return enhancement",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-20T16:11:30.374942+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000867297",
-    "company_name": "Virtus Investment Trust",
-    "accession_number": "0000930413-26-001676",
-    "filed_date": "2026-05-20",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/867297/000093041326001676/0000930413-26-001676-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/867297/000093041326001676/c116422_485bpos-ixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/867297/000093041326001676/c116422_485bpos-ixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Virtus Investment Trust\nETF Name: Virtus Zevenbergen Technology Fund\nStrategy: The fund seeks long-term capital appreciation by investing at least 80% of net assets in common stocks of U.S It employs a concentrated, actively managed approach with allowance for foreign securities exposure via depositary receipts\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Virtus Investment Trust",
-        "etf_name": "Virtus Zevenbergen Technology Fund",
-        "strategy": "The fund seeks long-term capital appreciation by investing at least 80% of net assets in common stocks of U.S It employs a concentrated, actively managed approach with allowance for foreign securities exposure via depositary receipts",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-20T12:30:42.541841+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001727074",
-    "company_name": "PGIM ETF TRUST",
-    "accession_number": "0001727074-26-000046",
-    "filed_date": "2026-05-19",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1727074/000172707426000046/0001727074-26-000046-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1727074/000172707426000046/f45265d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1727074/000172707426000046/f45265d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PGIM ETF Trust\nETF Name: PGIM Core Equity ETF\nStrategy: Seeks long-term capital appreciation through an actively managed U.S large-cap equity portfolio combining proprietary fundamental research with quantitative portfolio construction\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PGIM ETF Trust",
-        "etf_name": "PGIM Core Equity ETF",
-        "strategy": "Seeks long-term capital appreciation through an actively managed U.S large-cap equity portfolio combining proprietary fundamental research with quantitative portfolio construction",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
