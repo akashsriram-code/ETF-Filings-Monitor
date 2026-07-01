@@ -1,5 +1,181 @@
 [
   {
+    "created_at": "2026-07-01T21:53:46.603059+00:00",
+    "form_type": "S-1",
+    "cik": "0001849380",
+    "company_name": "1 - OneMedNet Corp",
+    "accession_number": "0001493152-26-031598",
+    "filed_date": "2026-07-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1849380/000149315226031598/0001493152-26-031598-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1849380/000149315226031598/forms-1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1849380/000149315226031598/forms-1.htm",
+    "matched_keywords": [
+      "Bitcoin"
+    ],
+    "is_crypto": true,
+    "synopsis": "Synopsis 1\nFiler: 1 - OneMedNet Corp\nETF Name: Unknown\nStrategy: Not available.\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Crypto-linked ETF disclosures can move market narrative and regulatory coverage.",
+    "synopsis_items": [
+      {
+        "filer": "1 - OneMedNet Corp",
+        "etf_name": "Unknown",
+        "strategy": "Not available.",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Crypto-linked ETF disclosures can move market narrative and regulatory coverage."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-01T21:53:48.236719+00:00",
+    "form_type": "485APOS",
+    "cik": "0002078265",
+    "company_name": "Corgi ETF Trust I",
+    "accession_number": "0002078265-26-000302",
+    "filed_date": "2026-07-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000302/0002078265-26-000302-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2078265/000207826526000302/485APOS_CorgiMM.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000302/485APOS_CorgiMM.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Corgi ETF Trust I\nETF Name: FUND Investment Objectives Corgi Money Market ETF The Corgi Money Market ETF\nStrategy: The Fund's investment objective is not fundamental and may be changed by the Board of Trustees (the \"Board\") of Corgi ETF Trust I (the \"Trust\") upon 60 days' prior written notice to shareholders The Fund operates as a \"government money market fund\" pursuant to Rule 2a-7 under the Investment Company Act of 1940, as amended (the \"1940 Act\"), and is subject to related restrictions on its portfolio composition\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Corgi ETF Trust I",
+        "etf_name": "FUND Investment Objectives Corgi Money Market ETF The Corgi Money Market ETF",
+        "strategy": "The Fund's investment objective is not fundamental and may be changed by the Board of Trustees (the \"Board\") of Corgi ETF Trust I (the \"Trust\") upon 60 days' prior written notice to shareholders The Fund operates as a \"government money market fund\" pursuant to Rule 2a-7 under the Investment Company Act of 1940, as amended (the \"1940 Act\"), and is subject to related restrictions on its portfolio composition",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-01T21:53:50.428114+00:00",
+    "form_type": "485APOS",
+    "cik": "0001484018",
+    "company_name": "Spinnaker ETF Series",
+    "accession_number": "0001999371-26-014077",
+    "filed_date": "2026-07-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1484018/000199937126014077/0001999371-26-014077-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1484018/000199937126014077/trifecta-485apos_063026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1484018/000199937126014077/trifecta-485apos_063026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Spinnaker ETF Series\nETF Name: Tuttle Capital Trifecta AI ETF\nStrategy: The Fund is an actively managed ETF that seeks its objective primarily through total return swap agreements (\u201cSwaps\u201d), which are derivatives, providing equal-weighted exposure to the equity of issuers specified by Tuttle Capital\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Spinnaker ETF Series",
+        "etf_name": "Tuttle Capital Trifecta AI ETF",
+        "strategy": "The Fund is an actively managed ETF that seeks its objective primarily through total return swap agreements (\u201cSwaps\u201d), which are derivatives, providing equal-weighted exposure to the equity of issuers specified by Tuttle Capital",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-01T21:54:00.702469+00:00",
+    "form_type": "485APOS",
+    "cik": "0001424958",
+    "company_name": "Direxion Shares ETF Trust",
+    "accession_number": "0001193125-26-292789",
+    "filed_date": "2026-07-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526292789/0001193125-26-292789-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1424958/000119312526292789/d544966d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526292789/d544966d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Direxion Shares ETF Trust\nETF Name: Each Bear Fund\nStrategy: Further, the return for investors that invest for periods less than a full trading day will not be the product of the return of a Fund\u2019s stated daily leveraged investment objective and the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Direxion Shares ETF Trust",
+        "etf_name": "Each Bear Fund",
+        "strategy": "Further, the return for investors that invest for periods less than a full trading day will not be the product of the return of a Fund\u2019s stated daily leveraged investment objective and the",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-01T21:54:02.897657+00:00",
+    "form_type": "485APOS",
+    "cik": "0001484018",
+    "company_name": "Spinnaker ETF Series",
+    "accession_number": "0001999371-26-014069",
+    "filed_date": "2026-07-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1484018/000199937126014069/0001999371-26-014069-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1484018/000199937126014069/tuttlecapital-485apos_063026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1484018/000199937126014069/tuttlecapital-485apos_063026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Spinnaker ETF Series\nETF Name: Total Annual Fund\nStrategy: Moreover, changes in these and other areas present uncertainty and risk with respect to the Fund\u2019s NAV Under normal circumstances, the Fund invests at least 80% of its net assets (plus borrowings for investment purposes) in equity securities of companies principally engaged in longevity and healthspan extension (the \u201c80% Policy\u201d) The Advisor constructs and manages the Fund's portfolio using a proprietary framework or\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Spinnaker ETF Series",
+        "etf_name": "Total Annual Fund",
+        "strategy": "Moreover, changes in these and other areas present uncertainty and risk with respect to the Fund\u2019s NAV Under normal circumstances, the Fund invests at least 80% of its net assets (plus borrowings for investment purposes) in equity securities of companies principally engaged in longevity and healthspan extension (the \u201c80% Policy\u201d) The Advisor constructs and manages the Fund's portfolio using a proprietary framework or",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-01T21:54:06.587659+00:00",
+    "form_type": "485APOS",
+    "cik": "0001100663",
+    "company_name": "iSHARES TRUST",
+    "accession_number": "0001193125-26-292701",
+    "filed_date": "2026-07-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526292701/0001193125-26-292701-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1100663/000119312526292701/d47216d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526292701/d47216d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: US Artificial Intelligence Beneficiaries Select Index The iShares Future AI Beneficiaries ETF\nStrategy: and its Underlying Index may be changed without shareholder approval Fund Underlying Index Investment Objective iShares Future AI Beneficiaries ETF Morningstar US Artificial Intelligence Beneficiaries Select Index The iShares Future AI Beneficiaries ETF seeks to track the investment results of an index composed of U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Unknown",
+        "etf_name": "US Artificial Intelligence Beneficiaries Select Index The iShares Future AI Beneficiaries ETF",
+        "strategy": "and its Underlying Index may be changed without shareholder approval Fund Underlying Index Investment Objective iShares Future AI Beneficiaries ETF Morningstar US Artificial Intelligence Beneficiaries Select Index The iShares Future AI Beneficiaries ETF seeks to track the investment results of an index composed of U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-01T20:12:28.795820+00:00",
     "form_type": "485BPOS",
     "cik": "0001782952",
@@ -14318,180 +14494,6 @@
         "filer": "GraniteShares ETF Trust",
         "etf_name": "GraniteShares Orbital AI ETF",
         "strategy": "The fund targets AI-themed equities with potential exposure to emerging markets",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-28T21:34:31.872706+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-025647",
-    "filed_date": "2026-05-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226025647/0001493152-26-025647-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226025647/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226025647/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares AI Energy ETF\nStrategy: The fund is non-diversified and may hold emerging-markets exposure, without tracking a specific benchmark\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "GraniteShares AI Energy ETF",
-        "strategy": "The fund is non-diversified and may hold emerging-markets exposure, without tracking a specific benchmark",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-28T21:35:10.423430+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-025645",
-    "filed_date": "2026-05-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226025645/0001493152-26-025645-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226025645/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226025645/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares K-AI ETF\nStrategy: The non-diversified fund targets the intersection of South Korean equities and the AI theme, carrying emerging-markets exposure\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "GraniteShares K-AI ETF",
-        "strategy": "The non-diversified fund targets the intersection of South Korean equities and the AI theme, carrying emerging-markets exposure",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-28T21:35:54.270183+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001540305",
-    "company_name": "ETF Series Solutions",
-    "accession_number": "0000894189-26-016465",
-    "filed_date": "2026-05-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926016465/0000894189-26-016465-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1540305/000089418926016465/ck0001540305-20260528.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926016465/ck0001540305-20260528.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Defiance ETFs, LLC\nETF Name: Defiance Autism Impact ETF\nStrategy: Passively tracks the VettaFi Autism Impact Index, investing at least 80% of net assets in companies classified as \"Autism Impact Companies\" using full replication or representative sampling Penserra Capital Management LLC serves as sub-adviser, handling portfolio trading and rebalancing on behalf of the fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Defiance ETFs, LLC",
-        "etf_name": "Defiance Autism Impact ETF",
-        "strategy": "Passively tracks the VettaFi Autism Impact Index, investing at least 80% of net assets in companies classified as \"Autism Impact Companies\" using full replication or representative sampling Penserra Capital Management LLC serves as sub-adviser, handling portfolio trading and rebalancing on behalf of the fund",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-28T21:36:28.418397+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-025641",
-    "filed_date": "2026-05-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226025641/0001493152-26-025641-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226025641/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226025641/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares Speed of Light AI ETF\nStrategy: The fund may include emerging-market exposure and is thematically concentrated on AI-related optical networking businesses rather than tracking a benchmark index\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "GraniteShares Speed of Light AI ETF",
-        "strategy": "The fund may include emerging-market exposure and is thematically concentrated on AI-related optical networking businesses rather than tracking a benchmark index",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-28T21:37:26.460910+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-025639",
-    "filed_date": "2026-05-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226025639/0001493152-26-025639-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226025639/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226025639/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares Data Center Cooling ETF\nStrategy: The fund is non-diversified and uses a proprietary security selection methodology rather than tracking a benchmark index\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "GraniteShares Data Center Cooling ETF",
-        "strategy": "The fund is non-diversified and uses a proprietary security selection methodology rather than tracking a benchmark index",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-28T21:38:14.155215+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-025634",
-    "filed_date": "2026-05-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226025634/0001493152-26-025634-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226025634/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226025634/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares 3D Stacked AI Chips ETF\nStrategy: The fund targets a niche segment of the AI hardware supply chain with notable exposure to Asian issuers, including China and Taiwan\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "GraniteShares 3D Stacked AI Chips ETF",
-        "strategy": "The fund targets a niche segment of the AI hardware supply chain with notable exposure to Asian issuers, including China and Taiwan",
         "is_alert_worthy": "HIGH"
       }
     ],
