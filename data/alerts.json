@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-07-01T13:14:30.728787+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-013975",
+    "filed_date": "2026-07-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013975/0001999371-26-013975-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126013975/defiance-485apos_070226.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013975/defiance-485apos_070226.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Unknown\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Unknown",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-01T13:14:34.842689+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-013968",
+    "filed_date": "2026-07-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013968/0001999371-26-013968-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126013968/defiance-485bpos_070126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013968/defiance-485bpos_070126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Unknown\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Unknown",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-01T10:15:09.848982+00:00",
     "form_type": "485BPOS",
     "cik": "0001350487",
@@ -14438,64 +14496,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-28T19:26:43.215671+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001096012",
-    "company_name": "AMERICAN BEACON SELECT FUNDS",
-    "accession_number": "0001133228-26-008454",
-    "filed_date": "2026-05-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1096012/000113322826008454/0001133228-26-008454-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1096012/000113322826008454/absf-efp24888_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1096012/000113322826008454/absf-efp24888_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: American Beacon Select Funds\nETF Name: American Beacon AHL Trend ETF\nStrategy: The fund seeks capital growth by implementing a quantitative, systematic investment process designed to capitalize on price trends across more than 20 global markets\u2014including stock indices, bonds, and currencies\u2014using derivative instruments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "American Beacon Select Funds",
-        "etf_name": "American Beacon AHL Trend ETF",
-        "strategy": "The fund seeks capital growth by implementing a quantitative, systematic investment process designed to capitalize on price trends across more than 20 global markets\u2014including stock indices, bonds, and currencies\u2014using derivative instruments",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-28T19:28:29.860266+00:00",
-    "form_type": "485APOS",
-    "cik": "0001742912",
-    "company_name": "Tidal Trust I",
-    "accession_number": "0001999371-26-011597",
-    "filed_date": "2026-05-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126011597/0001999371-26-011597-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1742912/000199937126011597/sofi-485apos_052826.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126011597/sofi-485apos_052826.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust I\nETF Name: SoFi Robotaxi and Autonomous Vehicles ETF\nStrategy: Passively managed ETF tracking the BITA Robotaxi Select Index, identifying companies materially involved in the robotaxi and autonomous vehicle ecosystem Uses a rules-based methodology evaluating revenue exposure, R&D activity, strategic partnerships, government contracts, and patent filings\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust I",
-        "etf_name": "SoFi Robotaxi and Autonomous Vehicles ETF",
-        "strategy": "Passively managed ETF tracking the BITA Robotaxi Select Index, identifying companies materially involved in the robotaxi and autonomous vehicle ecosystem Uses a rules-based methodology evaluating revenue exposure, R&D activity, strategic partnerships, government contracts, and patent filings",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
