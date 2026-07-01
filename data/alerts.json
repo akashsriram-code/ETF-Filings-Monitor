@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-07-01T20:12:28.795820+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001782952",
+    "company_name": "Kurv ETF Trust",
+    "accession_number": "0001999371-26-014051",
+    "filed_date": "2026-07-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126014051/0001999371-26-014051-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1782952/000199937126014051/lcto-485bpos_070126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126014051/lcto-485bpos_070126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Kurv ETF Trust\nETF Name: Large Cap TaxOptimized ETF\nStrategy: 12 PRINCIPAL RISKS OF INVESTING IN THE FUND 13 FUND WEBSITE AND DISCLOSURE OF PORTFOLIO HOLDINGS 30 FUND\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Kurv ETF Trust",
+        "etf_name": "Large Cap TaxOptimized ETF",
+        "strategy": "12 PRINCIPAL RISKS OF INVESTING IN THE FUND 13 FUND WEBSITE AND DISCLOSURE OF PORTFOLIO HOLDINGS 30 FUND",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-01T20:12:31.518154+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001667919",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+    "accession_number": "0001445546-26-004800",
+    "filed_date": "2026-07-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626004800/0001445546-26-004800-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1667919/000144554626004800/ft-20260701.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626004800/ft-20260701.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIRST TRUST EXCHANGE-TRADED FUND VIII\nETF Name: Digital Return ETF\nStrategy: Equity Buffer & Digital Return ETF \u2013 July (DGJL) Investment Objective The investment objective of the FT Vest U.S Under normal market conditions, the Fund will invest substantially all of its assets in FLexible EXchange \u00ae Options ( \u201cFLEX Options\u201d ) that reference the price performance of the Underlying ETF The Fund uses FLEX Options to employ a \u201ctarget outcome strategy.\u201d Target outcome strategies seek to produce pre-\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+        "etf_name": "Digital Return ETF",
+        "strategy": "Equity Buffer & Digital Return ETF \u2013 July (DGJL) Investment Objective The investment objective of the FT Vest U.S Under normal market conditions, the Fund will invest substantially all of its assets in FLexible EXchange \u00ae Options ( \u201cFLEX Options\u201d ) that reference the price performance of the Underlying ETF The Fund uses FLEX Options to employ a \u201ctarget outcome strategy.\u201d Target outcome strategies seek to produce pre-",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-01T20:12:34.191593+00:00",
+    "form_type": "485APOS",
+    "cik": "0001667919",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+    "accession_number": "0001445546-26-004798",
+    "filed_date": "2026-07-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626004798/0001445546-26-004798-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1667919/000144554626004798/etf8_485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626004798/etf8_485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIRST TRUST EXCHANGE-TRADED FUND VIII\nETF Name: The Underlying ETF\nStrategy: There can be no guarantee that the Fund will be successful in its strategy to buffer against Underlying ETF losses if the Underlying ETF decreases over the Target Outcome Period by 15% or less The Fund\u2019s strategy seeks to deliver returns (before Under normal market conditions, the Fund will invest substantially all of its assets in FLexible EXchange \u00ae Options ( \u201cFLEX Options\u201d ) that reference the price performance of\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+        "etf_name": "The Underlying ETF",
+        "strategy": "There can be no guarantee that the Fund will be successful in its strategy to buffer against Underlying ETF losses if the Underlying ETF decreases over the Target Outcome Period by 15% or less The Fund\u2019s strategy seeks to deliver returns (before Under normal market conditions, the Fund will invest substantially all of its assets in FLexible EXchange \u00ae Options ( \u201cFLEX Options\u201d ) that reference the price performance of",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-01T18:07:43.259001+00:00",
     "form_type": "485APOS",
     "cik": "0001484018",
@@ -14405,93 +14492,6 @@
         "filer": "GraniteShares ETF Trust",
         "etf_name": "GraniteShares 3D Stacked AI Chips ETF",
         "strategy": "The fund targets a niche segment of the AI hardware supply chain with notable exposure to Asian issuers, including China and Taiwan",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-28T21:39:10.527746+00:00",
-    "form_type": "485APOS",
-    "cik": "0001084380",
-    "company_name": "TIAA-CREF FUNDS",
-    "accession_number": "0000930413-26-001737",
-    "filed_date": "2026-05-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1084380/000093041326001737/0000930413-26-001737-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1084380/000093041326001737/c116444_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1084380/000093041326001737/c116444_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: TIAA-CREF FUNDS\nETF Name: Generally, a Fund will treat an investment in an ETF\nStrategy: The fund invests in ETFs to gain exposure to specific securities or indices, bearing the underlying ETF's investor expenses in addition to its own It treats each ETF investment as exposure to the asset class or index the ETF tracks rather than as a standalone holding\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "TIAA-CREF FUNDS",
-        "etf_name": "Generally, a Fund will treat an investment in an ETF",
-        "strategy": "The fund invests in ETFs to gain exposure to specific securities or indices, bearing the underlying ETF's investor expenses in addition to its own It treats each ETF investment as exposure to the asset class or index the ETF tracks rather than as a standalone holding",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-28T21:40:26.032001+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000225604",
-    "company_name": "MFS SERIES TRUST III",
-    "accession_number": "0000912938-26-000665",
-    "filed_date": "2026-05-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/225604/000091293826000665/0000912938-26-000665-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/225604/000091293826000665/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/225604/000091293826000665/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: MFS Series Trust III\nETF Name: MFS Global High Yield Fund\nStrategy: exposure and may pass through foreign income taxes to shareholders\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "MFS Series Trust III",
-        "etf_name": "MFS Global High Yield Fund",
-        "strategy": "exposure and may pass through foreign income taxes to shareholders",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-28T21:41:12.586723+00:00",
-    "form_type": "485APOS",
-    "cik": "0001761055",
-    "company_name": "BlackRock ETF Trust",
-    "accession_number": "0001193125-26-245290",
-    "filed_date": "2026-05-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526245290/0001193125-26-245290-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1761055/000119312526245290/d228087d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526245290/d228087d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BlackRock ETF Trust\nETF Name: Inc. BlackRock ETF Trust BlackRock Series Fund II\nStrategy: The fund may use derivatives such as options, futures, and swaps as position substitutes and for currency-risk hedging, and is not benchmarked to an index\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BlackRock ETF Trust",
-        "etf_name": "Inc. BlackRock ETF Trust BlackRock Series Fund II",
-        "strategy": "The fund may use derivatives such as options, futures, and swaps as position substitutes and for currency-risk hedging, and is not benchmarked to an index",
         "is_alert_worthy": "HIGH"
       }
     ],
