@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-07-02T15:36:58.133347+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-007191",
+    "filed_date": "2026-07-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007191/0001829126-26-007191-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626007191/themesetftrust_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007191/themesetftrust_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Long SK Hynix Daily ETF\nStrategy: The Fund's performance, ability to achieve its investment objective and ability to rebalance its portfolio may be adversely affected by these conditions The Fund is designed to be utilized only by knowledgeable i F IMPORTANT INFORMATION REGARDING THE FUND The Leverage Shares 2X Long SK Hynix Daily ETF (the \u201cFund\u201d) seeks daily leveraged investment results and is very different from most other exchange-traded funds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Long SK Hynix Daily ETF",
+        "strategy": "The Fund's performance, ability to achieve its investment objective and ability to rebalance its portfolio may be adversely affected by these conditions The Fund is designed to be utilized only by knowledgeable i F IMPORTANT INFORMATION REGARDING THE FUND The Leverage Shares 2X Long SK Hynix Daily ETF (the \u201cFund\u201d) seeks daily leveraged investment results and is very different from most other exchange-traded funds",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-02T15:37:01.064437+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-031689",
+    "filed_date": "2026-07-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226031689/0001493152-26-031689-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226031689/form485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226031689/form485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: Long SK HYNIX Daily ETF\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "Long SK HYNIX Daily ETF",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-02T15:37:03.849325+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-014114",
+    "filed_date": "2026-07-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126014114/0001999371-26-014114-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126014114/defiance-485apos_070226.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126014114/defiance-485apos_070226.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Daily Target MANGOS ETF\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Daily Target MANGOS ETF",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-02T13:13:10.348181+00:00",
     "form_type": "485APOS",
     "cik": "0002043390",
@@ -14411,93 +14498,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-28T21:30:21.614710+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000701939",
-    "company_name": "SEI DAILY INCOME TRUST /MA/",
-    "accession_number": "0001104659-26-067624",
-    "filed_date": "2026-05-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/701939/000110465926067624/0001104659-26-067624-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/701939/000110465926067624/tm2611171d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/701939/000110465926067624/tm2611171d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SEI Daily Income Trust /MA/\nETF Name: The Government Fund\nStrategy: The Fund is a government money market fund that invests in U.S government securities, using amortized cost valuation to seek a stable net asset value of $1.00 per share\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "SEI Daily Income Trust /MA/",
-        "etf_name": "The Government Fund",
-        "strategy": "The Fund is a government money market fund that invests in U.S government securities, using amortized cost valuation to seek a stable net asset value of $1.00 per share",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-28T21:31:39.914111+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001051562",
-    "company_name": "PRUDENTIAL INVESTMENT PORTFOLIOS 12",
-    "accession_number": "0001051562-26-000009",
-    "filed_date": "2026-05-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1051562/000105156226000009/0001051562-26-000009-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1051562/000105156226000009/f45369d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1051562/000105156226000009/f45369d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Prudential Investment Portfolios 12\nETF Name: PGIM Global Real Estate Fund\nStrategy: The fund offers exposure through direct property investments and real estate securities, employing research-driven strategic asset allocation across global real estate markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Prudential Investment Portfolios 12",
-        "etf_name": "PGIM Global Real Estate Fund",
-        "strategy": "The fund offers exposure through direct property investments and real estate securities, employing research-driven strategic asset allocation across global real estate markets",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-28T21:32:37.253003+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-025656",
-    "filed_date": "2026-05-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226025656/0001493152-26-025656-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226025656/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226025656/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares Defense AI ETF\nStrategy: Actively managed, non-diversified ETF seeking capital appreciation by investing in equity securities of \"Defense AI Companies\" \u2014 firms deriving revenue from AI-enabled defense and national security technologies such as autonomous drones, predictive logistics, and AI-driven threat detection. The fund concentrates in industrials, information technology, and communication services sectors and may hold U.S.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "GraniteShares Defense AI ETF",
-        "strategy": "Actively managed, non-diversified ETF seeking capital appreciation by investing in equity securities of \"Defense AI Companies\" \u2014 firms deriving revenue from AI-enabled defense and national security technologies such as autonomous drones, predictive logistics, and AI-driven threat detection. The fund concentrates in industrials, information technology, and communication services sectors and may hold U.S.",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
