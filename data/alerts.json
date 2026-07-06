@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-07-06T22:36:03.743055+00:00",
+    "form_type": "485APOS",
+    "cik": "0002078265",
+    "company_name": "Corgi ETF Trust I",
+    "accession_number": "0002078265-26-000310",
+    "filed_date": "2026-07-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000310/0002078265-26-000310-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2078265/000207826526000310/485APOS_FI.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000310/485APOS_FI.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Corgi ETF Trust I\nETF Name: Year Treasury Bond ETF FUND\nStrategy: Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover When the Fund buys and sells securities, it incurs trading costs such as brokerage commissions\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Corgi ETF Trust I",
+        "etf_name": "Year Treasury Bond ETF FUND",
+        "strategy": "Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover When the Fund buys and sells securities, it incurs trading costs such as brokerage commissions",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-06T22:36:09.693256+00:00",
+    "form_type": "485APOS",
+    "cik": "0001040674",
+    "company_name": "Yorkville America Investment Trust",
+    "accession_number": "0001040674-26-000030",
+    "filed_date": "2026-07-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1040674/000104067426000030/0001040674-26-000030-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1040674/000104067426000030/yorkville2xinversemangospld.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1040674/000104067426000030/yorkville2xinversemangospld.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Yorkville America Investment Trust\nETF Name: Inverse MANGOS Plus Daily Target ETF\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Yorkville America Investment Trust",
+        "etf_name": "Inverse MANGOS Plus Daily Target ETF",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-06T22:36:13.873320+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-014321",
+    "filed_date": "2026-07-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126014321/0001999371-26-014321-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126014321/defiance-485bpos_070626.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126014321/defiance-485bpos_070626.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: LONG ISRAEL ETF\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "LONG ISRAEL ETF",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-06T21:06:49.376561+00:00",
     "form_type": "485APOS",
     "cik": "0000816153",
@@ -14407,93 +14494,6 @@
         "filer": "Blackstone Alternative Investment Funds",
         "etf_name": "BLACKSTONE ALTERNATIVE MULTI-STRATEGY FUND",
         "strategy": "The NAV per share of a class of shares of the Fund is determined by dividing the total value of the Fund\u2019s portfolio investments and other assets, less any liabilities allocated to that share class, by the total number of outstanding shares of that class When market quotations are not readily available, the Fund must value portfolio securities and all other assets by using the fair value as determined in good faith b",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-29T22:22:28.487603+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001716885",
-    "company_name": "Angel Oak Strategic Credit Fund",
-    "accession_number": "0000894189-26-016741",
-    "filed_date": "2026-05-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1716885/000089418926016741/0000894189-26-016741-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1716885/000089418926016741/ck0001716885-20260529.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1716885/000089418926016741/ck0001716885-20260529.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Angel Oak Strategic Credit Fund\nETF Name: ANGEL OAK STRATEGIC CREDIT FUND\nStrategy: In pursuing its investment objective, the Fund invests, under normal circumstances, at least 80% of its net assets, plus any borrowings for investment purposes, in credit-related instruments In pursuing its investment objective, the Fund invests, under normal circumstances, at least 80% of its net assets, plus any borrowings for investment purposes, in credit-related instruments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Angel Oak Strategic Credit Fund",
-        "etf_name": "ANGEL OAK STRATEGIC CREDIT FUND",
-        "strategy": "In pursuing its investment objective, the Fund invests, under normal circumstances, at least 80% of its net assets, plus any borrowings for investment purposes, in credit-related instruments In pursuing its investment objective, the Fund invests, under normal circumstances, at least 80% of its net assets, plus any borrowings for investment purposes, in credit-related instruments",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-29T22:22:33.694978+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001612930",
-    "company_name": "Angel Oak Funds Trust",
-    "accession_number": "0000894189-26-016738",
-    "filed_date": "2026-05-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1612930/000089418926016738/0000894189-26-016738-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1612930/000089418926016738/ck0001612930-20260529.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1612930/000089418926016738/ck0001612930-20260529.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Angel Oak Funds Trust\nETF Name: Angel Oak Income ETF\nStrategy: that was included as a series (the \u201cPredecessor Multi-Strategy Income Fund\u201d) of another investment company, Valued Advisers Trust (the \u201cVAT Trust\u201d), and that was also advised by the Fund\u2019s investment adviser, Angel Oak Capital Advisors, LLC\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Angel Oak Funds Trust",
-        "etf_name": "Angel Oak Income ETF",
-        "strategy": "that was included as a series (the \u201cPredecessor Multi-Strategy Income Fund\u201d) of another investment company, Valued Advisers Trust (the \u201cVAT Trust\u201d), and that was also advised by the Fund\u2019s investment adviser, Angel Oak Capital Advisors, LLC",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-29T22:22:37.040312+00:00",
-    "form_type": "485APOS",
-    "cik": "0001174610",
-    "company_name": "PROSHARES TRUST",
-    "accession_number": "0001174610-26-000219",
-    "filed_date": "2026-05-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000219/0001174610-26-000219-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000219/f45388d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000219/f45388d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROSHARES TRUST\nETF Name: Money Market ETF\nStrategy: Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as SB Energy when SB Energy rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PROSHARES TRUST",
-        "etf_name": "Money Market ETF",
-        "strategy": "Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as SB Energy when SB Energy rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
         "is_alert_worthy": "LOW"
       }
     ],
