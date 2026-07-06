@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-07-06T21:06:49.376561+00:00",
+    "form_type": "485APOS",
+    "cik": "0000816153",
+    "company_name": "THORNBURG INVESTMENT TRUST",
+    "accession_number": "0001999371-26-014309",
+    "filed_date": "2026-07-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/816153/000199937126014309/0001999371-26-014309-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/816153/000199937126014309/thornburg-485apos_070626.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/816153/000199937126014309/thornburg-485apos_070626.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: THORNBURG INVESTMENT TRUST\nETF Name: This Prospectus provides important information about the ETF\nStrategy: The Fund may invest in municipal obligations of any maturity, but seeks to maintain a portfolio of investments having a dollar-weighted average effective duration of normally one to ten years The Fund may invest in municipal obligations of any maturity, but seeks to maintain a portfolio of investments having a dollar-weighted average effective duration of normally one to ten years\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "THORNBURG INVESTMENT TRUST",
+        "etf_name": "This Prospectus provides important information about the ETF",
+        "strategy": "The Fund may invest in municipal obligations of any maturity, but seeks to maintain a portfolio of investments having a dollar-weighted average effective duration of normally one to ten years The Fund may invest in municipal obligations of any maturity, but seeks to maintain a portfolio of investments having a dollar-weighted average effective duration of normally one to ten years",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-06T17:27:46.093241+00:00",
     "form_type": "485APOS",
     "cik": "0001810747",
@@ -14465,35 +14494,6 @@
         "filer": "PROSHARES TRUST",
         "etf_name": "Money Market ETF",
         "strategy": "Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as SB Energy when SB Energy rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-29T22:22:39.729330+00:00",
-    "form_type": "485APOS",
-    "cik": "0001174610",
-    "company_name": "PROSHARES TRUST",
-    "accession_number": "0001174610-26-000218",
-    "filed_date": "2026-05-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000218/0001174610-26-000218-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000218/f45387d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000218/f45387d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROSHARES TRUST\nETF Name: Money Market ETF\nStrategy: Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as Oura when Oura rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PROSHARES TRUST",
-        "etf_name": "Money Market ETF",
-        "strategy": "Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as Oura when Oura rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
         "is_alert_worthy": "LOW"
       }
     ],
