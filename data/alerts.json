@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-07-07T11:58:25.102929+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001100663",
+    "company_name": "iSHARES TRUST",
+    "accession_number": "0001193125-26-296459",
+    "filed_date": "2026-07-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526296459/0001193125-26-296459-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1100663/000119312526296459/d81216d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526296459/d81216d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Total Annual Fund\nStrategy: and its Underlying Index may be changed without shareholder approval Fund Underlying Index Investment Objective iShares Nasdaq 100 ETF Nasdaq-100 Index The iShares Nasdaq 100 ETF seeks to track the investment results of an index composed of 100 of the largest non-financial companies listed on the Nasdaq Stock Market based on market capitalization\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Unknown",
+        "etf_name": "Total Annual Fund",
+        "strategy": "and its Underlying Index may be changed without shareholder approval Fund Underlying Index Investment Objective iShares Nasdaq 100 ETF Nasdaq-100 Index The iShares Nasdaq 100 ETF seeks to track the investment results of an index composed of 100 of the largest non-financial companies listed on the Nasdaq Stock Market based on market capitalization",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-06T22:36:03.743055+00:00",
     "form_type": "485APOS",
     "cik": "0002078265",
@@ -14465,35 +14494,6 @@
         "filer": "SPDR SERIES TRUST",
         "etf_name": "Endowment Strategy Index ETF",
         "strategy": "In certain situations or market conditions, the Fund may temporarily depart from its normal investment policies and strategies, provided that the alternative is consistent with the Fund's investment objective and is in the best interest of the Fund For example, the Fund may make larger than normal investments in derivatives to maintain exposure to its Index if it is unable to invest directly in a component security",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-29T22:22:25.819893+00:00",
-    "form_type": "485APOS",
-    "cik": "0001557794",
-    "company_name": "Blackstone Alternative Investment Funds",
-    "accession_number": "0001193125-26-248709",
-    "filed_date": "2026-05-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1557794/000119312526248709/0001193125-26-248709-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1557794/000119312526248709/d147821d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1557794/000119312526248709/d147821d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Blackstone Alternative Investment Funds\nETF Name: BLACKSTONE ALTERNATIVE MULTI-STRATEGY FUND\nStrategy: The NAV per share of a class of shares of the Fund is determined by dividing the total value of the Fund\u2019s portfolio investments and other assets, less any liabilities allocated to that share class, by the total number of outstanding shares of that class When market quotations are not readily available, the Fund must value portfolio securities and all other assets by using the fair value as determined in good faith b\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Blackstone Alternative Investment Funds",
-        "etf_name": "BLACKSTONE ALTERNATIVE MULTI-STRATEGY FUND",
-        "strategy": "The NAV per share of a class of shares of the Fund is determined by dividing the total value of the Fund\u2019s portfolio investments and other assets, less any liabilities allocated to that share class, by the total number of outstanding shares of that class When market quotations are not readily available, the Fund must value portfolio securities and all other assets by using the fair value as determined in good faith b",
         "is_alert_worthy": "LOW"
       }
     ],
