@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-07-08T21:35:05.470334+00:00",
+    "form_type": "485APOS",
+    "cik": "0001547580",
+    "company_name": "Victory Portfolios II",
+    "accession_number": "0001193125-26-298704",
+    "filed_date": "2026-07-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547580/000119312526298704/0001193125-26-298704-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547580/000119312526298704/f45750d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547580/000119312526298704/f45750d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Victory Portfolios II\nETF Name: VictoryShares Municipal High Yield ETF\nStrategy: The Fund\u2019s Board of Trustees (the \u201cBoard\u201d) may change this investment objective without shareholder approval Under normal circumstances, the Fund invests at least 80% of its net assets (plus the amount of borrowings, if any, for investment purposes) in debt securities and other obligati\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Victory Portfolios II",
+        "etf_name": "VictoryShares Municipal High Yield ETF",
+        "strategy": "The Fund\u2019s Board of Trustees (the \u201cBoard\u201d) may change this investment objective without shareholder approval Under normal circumstances, the Fund invests at least 80% of its net assets (plus the amount of borrowings, if any, for investment purposes) in debt securities and other obligati",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-08T21:35:08.271078+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001683471",
+    "company_name": "Listed Funds Trust",
+    "accession_number": "0000894189-26-021082",
+    "filed_date": "2026-07-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021082/0000894189-26-021082-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1683471/000089418926021082/ck0001683471-20260708.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021082/ck0001683471-20260708.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Listed Funds Trust\nETF Name: None Annual Fund\nStrategy: The Overlay Shares Hedged Equity Fund (the \u201cHedged Equity Fund\u201d or the \u201cFund\u201d) seeks capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Listed Funds Trust",
+        "etf_name": "None Annual Fund",
+        "strategy": "The Overlay Shares Hedged Equity Fund (the \u201cHedged Equity Fund\u201d or the \u201cFund\u201d) seeks capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-08T21:35:12.069462+00:00",
+    "form_type": "485APOS",
+    "cik": "0001742912",
+    "company_name": "Tidal Trust I",
+    "accession_number": "0001999371-26-014558",
+    "filed_date": "2026-07-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126014558/0001999371-26-014558-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1742912/000199937126014558/exelon-485apos_070826.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126014558/exelon-485apos_070826.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust I\nETF Name: Nasdaq-100 Ex-Elon Enterprises ETF\nStrategy: The Nasdaq-100 Ex-Elon Enterprises ETF (the \u201cFund\u201d) seeks capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust I",
+        "etf_name": "Nasdaq-100 Ex-Elon Enterprises ETF",
+        "strategy": "The Nasdaq-100 Ex-Elon Enterprises ETF (the \u201cFund\u201d) seeks capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-08T20:14:07.098981+00:00",
     "form_type": "485BPOS",
     "cik": "0001643174",
@@ -14411,93 +14498,6 @@
       }
     ],
     "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-01T22:02:39.522865+00:00",
-    "form_type": "485BPOS",
-    "cik": "0002078265",
-    "company_name": "Corgi ETF Trust I",
-    "accession_number": "0002078265-26-000201",
-    "filed_date": "2026-06-01",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000201/0002078265-26-000201-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2078265/000207826526000201/cik0002078265-20260601.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000201/cik0002078265-20260601.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Corgi ETF Trust I\nETF Name: Corgi SK hynix 2x Daily ETF\nStrategy: The Corgi SK hynix 2x Daily ETF (the \"Fund\") seeks daily investment results, before\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Corgi ETF Trust I",
-        "etf_name": "Corgi SK hynix 2x Daily ETF",
-        "strategy": "The Corgi SK hynix 2x Daily ETF (the \"Fund\") seeks daily investment results, before",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-01T22:03:18.205419+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976517",
-    "company_name": "Roundhill ETF Trust",
-    "accession_number": "0001398344-26-010113",
-    "filed_date": "2026-06-01",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426010113/0001398344-26-010113-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976517/000139834426010113/fp0099232-1_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426010113/fp0099232-1_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Roundhill ETF Trust\nETF Name: Roundhill Power Semiconductor ETF\nStrategy: Portfolio is constructed using Roundhill's proprietary security selection methodology with potential global exposure including China A-Shares and VIE structures\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Roundhill ETF Trust",
-        "etf_name": "Roundhill Power Semiconductor ETF",
-        "strategy": "Portfolio is constructed using Roundhill's proprietary security selection methodology with potential global exposure including China A-Shares and VIE structures",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-01T22:04:09.098908+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001030213",
-    "company_name": "ANNUITY INVESTORS VARIABLE ACCOUNT B",
-    "accession_number": "0001193125-26-251510",
-    "filed_date": "2026-06-01",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1030213/000119312526251510/0001193125-26-251510-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1030213/000119312526251510/d44313d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1030213/000119312526251510/d44313d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Annuity Investors Life Insurance Company\nETF Name: Restated Fund Participation Agreement among Wilshire Variable Insurance Trust\nStrategy: No ETF investment strategy is described; the documents govern the inclusion of underlying fund options within a variable annuity product\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Annuity Investors Life Insurance Company",
-        "etf_name": "Restated Fund Participation Agreement among Wilshire Variable Insurance Trust",
-        "strategy": "No ETF investment strategy is described; the documents govern the inclusion of underlying fund options within a variable annuity product",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
