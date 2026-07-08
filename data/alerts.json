@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-07-08T11:29:16.154146+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001633061",
+    "company_name": "Amplify ETF Trust",
+    "accession_number": "0001213900-26-076079",
+    "filed_date": "2026-07-07",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1633061/000121390026076079/0001213900-26-076079-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1633061/000121390026076079/ea0296745-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1633061/000121390026076079/ea0296745-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Amplify ETF Trust\nETF Name: Other Information Signatures Index to Exhibits Amplify ETF Trust\nStrategy: of the Fund is to provide investment results (before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Amplify ETF Trust",
+        "etf_name": "Other Information Signatures Index to Exhibits Amplify ETF Trust",
+        "strategy": "of the Fund is to provide investment results (before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-07T22:20:13.035897+00:00",
     "form_type": "485BPOS",
     "cik": "0001936157",
@@ -14465,35 +14494,6 @@
         "filer": "Themes ETF Trust",
         "etf_name": "Long Computing Power Daily ETF",
         "strategy": "The Leverage Shares 2X Long Computing Power Daily ETF\u2019s investment adviser will not attempt to position the Fund\u2019s portfolio to ensure that the Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day 1 of the Fund The Fund is an actively managed ETF that seeks to achieve its investment objective by providing economic exposure to the market for computing power (\u201cComputin",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-05-29T22:21:58.024192+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001587551",
-    "company_name": "Capitol Series Trust",
-    "accession_number": "0001580642-26-003376",
-    "filed_date": "2026-05-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587551/000158064226003376/0001580642-26-003376-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587551/000158064226003376/fairlead_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587551/000158064226003376/fairlead_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Capitol Series Trust\nETF Name: Portfolio Long Term Treasury ETF\nStrategy: depends, in large part, on each underlying ETF\u2019s ability to meet its investment objective Because the Fund invests its assets in shares of the underlying ETFs, the Fund indirectly owns the investments made by the underlying ETFs\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Capitol Series Trust",
-        "etf_name": "Portfolio Long Term Treasury ETF",
-        "strategy": "depends, in large part, on each underlying ETF\u2019s ability to meet its investment objective Because the Fund invests its assets in shares of the underlying ETFs, the Fund indirectly owns the investments made by the underlying ETFs",
         "is_alert_worthy": "LOW"
       }
     ],
