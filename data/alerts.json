@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-07-09T16:15:53.277779+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001559109",
+    "company_name": "ETFis Series Trust I",
+    "accession_number": "0001999371-26-014630",
+    "filed_date": "2026-07-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1559109/000199937126014630/0001999371-26-014630-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1559109/000199937126014630/etfis-485bpos_070926.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1559109/000199937126014630/etfis-485bpos_070926.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETFis Series Trust I\nETF Name: Income Securities ETF\nStrategy: When the Fund takes a temporary defensive position, the Fund may not be able to achieve its investment objective The Fund\u2019s portfolio holdings are disclosed on the Fund\u2019s website (www.virtusetfs.com) daily after the close of trading on the Exchange and prior to the opening of trading on the Exchange the following day\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETFis Series Trust I",
+        "etf_name": "Income Securities ETF",
+        "strategy": "When the Fund takes a temporary defensive position, the Fund may not be able to achieve its investment objective The Fund\u2019s portfolio holdings are disclosed on the Fund\u2019s website (www.virtusetfs.com) daily after the close of trading on the Exchange and prior to the opening of trading on the Exchange the following day",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-09T13:35:40.665007+00:00",
     "form_type": "485APOS",
     "cik": "0001845809",
@@ -14469,35 +14498,6 @@
       }
     ],
     "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-01T22:00:38.343714+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001597634",
-    "company_name": "Apollo Diversified Real Estate Fund",
-    "accession_number": "0001193125-26-251731",
-    "filed_date": "2026-06-01",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1597634/000119312526251731/0001193125-26-251731-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1597634/000119312526251731/d147232d486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1597634/000119312526251731/d147232d486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Apollo Diversified Real Estate Fund\nETF Name: Apollo Diversified Real Estate Fund\nStrategy: The fund is a diversified, closed-end management investment company pursuing total return through income and capital appreciation via a multi-strategy allocation across private and public real estate debt and equity, including Apollo-originated hybrid credit, equity investments, secondaries, and public securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Apollo Diversified Real Estate Fund",
-        "etf_name": "Apollo Diversified Real Estate Fund",
-        "strategy": "The fund is a diversified, closed-end management investment company pursuing total return through income and capital appreciation via a multi-strategy allocation across private and public real estate debt and equity, including Apollo-originated hybrid credit, equity investments, secondaries, and public securities",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
