@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-07-09T18:14:42.186318+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-014641",
+    "filed_date": "2026-07-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126014641/0001999371-26-014641-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126014641/defiance-485bpos_060926.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126014641/defiance-485bpos_060926.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Daily Target Short Taiwan ETF as two new series of the Trust\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Daily Target Short Taiwan ETF as two new series of the Trust",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-09T18:14:44.606380+00:00",
+    "form_type": "485APOS",
+    "cik": "0001722388",
+    "company_name": "Tidal Trust III",
+    "accession_number": "0001999371-26-014639",
+    "filed_date": "2026-07-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126014639/0001999371-26-014639-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1722388/000199937126014639/ninepoint-485apos_070926.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126014639/ninepoint-485apos_070926.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust III\nETF Name: Ninepoint North American Energy Independence ETF\nStrategy: The Fund\u2019s investment objective is to seek income and capital appreciation Ninepoint North American Energy Independence ETF - 1 Ninepoint Energy Income ETF - 9 Additional Information About the Funds 17 Portfolio Holdings 26\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust III",
+        "etf_name": "Ninepoint North American Energy Independence ETF",
+        "strategy": "The Fund\u2019s investment objective is to seek income and capital appreciation Ninepoint North American Energy Independence ETF - 1 Ninepoint Energy Income ETF - 9 Additional Information About the Funds 17 Portfolio Holdings 26",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-09T16:15:53.277779+00:00",
     "form_type": "485BPOS",
     "cik": "0001559109",
@@ -14440,64 +14498,6 @@
       }
     ],
     "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-01T21:59:03.458328+00:00",
-    "form_type": "485APOS",
-    "cik": "0001131013",
-    "company_name": "GuideStone Funds",
-    "accession_number": "0001193125-26-251792",
-    "filed_date": "2026-06-01",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1131013/000119312526251792/0001193125-26-251792-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1131013/000119312526251792/d132287d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1131013/000119312526251792/d132287d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GuideStone Funds\nETF Name: Exchange-Traded Funds. An ETF is a fund\nStrategy: GuideStone operates a fund-of-funds lineup in which Target Date and Target Risk Funds allocate across proprietary Select Funds that passively track benchmarks such as the S&P 500, Russell 1000 Value, Russell 1000 Growth, and MSCI EAFE\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GuideStone Funds",
-        "etf_name": "Exchange-Traded Funds. An ETF is a fund",
-        "strategy": "GuideStone operates a fund-of-funds lineup in which Target Date and Target Risk Funds allocate across proprietary Select Funds that passively track benchmarks such as the S&P 500, Russell 1000 Value, Russell 1000 Growth, and MSCI EAFE",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-01T21:59:48.657731+00:00",
-    "form_type": "485BPOS",
-    "cik": "0002069687",
-    "company_name": "FIS Trust",
-    "accession_number": "0001999371-26-011825",
-    "filed_date": "2026-06-01",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2069687/000199937126011825/0001999371-26-011825-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2069687/000199937126011825/arimathea-485bpos_060126.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2069687/000199937126011825/arimathea-485bpos_060126.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FIS Trust\nETF Name: Arimathea Catholic Core Bond ETF\nStrategy: Actively managed core bond ETF seeking income and capital preservation by selecting fixed-income securities from a broad bond benchmark universe filtered through Catholic Faith-Based Guidelines aligned with U.S. Conference of Catholic Bishops standards.\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FIS Trust",
-        "etf_name": "Arimathea Catholic Core Bond ETF",
-        "strategy": "Actively managed core bond ETF seeking income and capital preservation by selecting fixed-income securities from a broad bond benchmark universe filtered through Catholic Faith-Based Guidelines aligned with U.S. Conference of Catholic Bishops standards.",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
