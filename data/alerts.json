@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-07-10T20:46:47.661958+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001479026",
+    "company_name": "Goldman Sachs ETF Trust",
+    "accession_number": "0001193125-26-300911",
+    "filed_date": "2026-07-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1479026/000119312526300911/0001193125-26-300911-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1479026/000119312526300911/d129127d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1479026/000119312526300911/d129127d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Goldman Sachs ETF Trust\nETF Name: Investment Management Approach INVESTMENT OBJECTIVE The Goldman Sachs Core Plus Bond ETF\nStrategy: The Goldman Sachs Core Plus Bond ETF seeks a total return consisting of capital appreciation and income Each Fund\u2019s investment objective may be changed without shareholder approval upon sixty days\u2019 notice Goldman Sachs Core Plus Bond ETF The Fund invests, under normal circumstances, at least 80% of its Net Assets in bonds and other fixed income securities, including U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Goldman Sachs ETF Trust",
+        "etf_name": "Investment Management Approach INVESTMENT OBJECTIVE The Goldman Sachs Core Plus Bond ETF",
+        "strategy": "The Goldman Sachs Core Plus Bond ETF seeks a total return consisting of capital appreciation and income Each Fund\u2019s investment objective may be changed without shareholder approval upon sixty days\u2019 notice Goldman Sachs Core Plus Bond ETF The Fund invests, under normal circumstances, at least 80% of its Net Assets in bonds and other fixed income securities, including U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-10T20:46:52.513039+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-007504",
+    "filed_date": "2026-07-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007504/0001829126-26-007504-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626007504/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007504/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Total Annual Fund\nStrategy: Investment Objective The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily inverse investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "Investment Objective The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily inverse investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-10T19:12:37.966820+00:00",
     "form_type": "485BPOS",
     "cik": "0001093278",
@@ -14438,64 +14496,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-09T21:28:55.583617+00:00",
-    "form_type": "485APOS",
-    "cik": "0001484018",
-    "company_name": "Spinnaker ETF Series",
-    "accession_number": "0001484018-26-000069",
-    "filed_date": "2026-06-09",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1484018/000148401826000069/0001484018-26-000069-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1484018/000148401826000069/n1a0526.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1484018/000148401826000069/n1a0526.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Spinnaker ETF Series\nETF Name: As an actively managed ETF\nStrategy: 2 The Fund will generally invest in a group of domestic equity securities selected from a blend of components in two proprietary indices; targeting 65% from the Indexperts All Cap Aggressive Growth Index and 35% from the Indexperts Large Cap Core Growth Index As an actively managed ETF that does not seek to replicate the As an actively managed exchange-traded fund (\u201cETF\u201d), the Fund will not seek to replicate the perf\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Spinnaker ETF Series",
-        "etf_name": "As an actively managed ETF",
-        "strategy": "2 The Fund will generally invest in a group of domestic equity securities selected from a blend of components in two proprietary indices; targeting 65% from the Indexperts All Cap Aggressive Growth Index and 35% from the Indexperts Large Cap Core Growth Index As an actively managed ETF that does not seek to replicate the As an actively managed exchange-traded fund (\u201cETF\u201d), the Fund will not seek to replicate the perf",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-09T17:50:11.898476+00:00",
-    "form_type": "485APOS",
-    "cik": "0002043390",
-    "company_name": "Tidal Trust IV",
-    "accession_number": "0001999371-26-012462",
-    "filed_date": "2026-06-09",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126012462/0001999371-26-012462-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126012462/emag-485apos_060926.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126012462/emag-485apos_060926.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: The Emerging Markets AI MAG 3 ETF\nStrategy: Actively managed, concentrated equity ETF targeting the three largest emerging-market companies by market capitalization with significant artificial-intelligence business exposure in the semiconductor and computing segment The fund may gain exposure through direct equity holdings or indirectly via derivatives such as swaps and forward contracts\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust IV",
-        "etf_name": "The Emerging Markets AI MAG 3 ETF",
-        "strategy": "Actively managed, concentrated equity ETF targeting the three largest emerging-market companies by market capitalization with significant artificial-intelligence business exposure in the semiconductor and computing segment The fund may gain exposure through direct equity holdings or indirectly via derivatives such as swaps and forward contracts",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
