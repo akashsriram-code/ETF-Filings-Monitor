@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-07-10T13:22:47.750451+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-014683",
+    "filed_date": "2026-07-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126014683/0001999371-26-014683-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126014683/yspc-485bpos_071026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126014683/yspc-485bpos_071026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: SPCX Option Income Strategy ETF as a new series of the Trust\nStrategy: The Fund\u2019s primary investment objective is to seek current income The Fund\u2019s secondary investment objective is to seek exposure to the share price of Class A common stock of Space Exploration Technologies Corporation (NASDAQ: SPCX) (the \u201cUnderlying Security\u201d or \u201cSPCX\u201d), subject in certain circumstances to a limit on the Fund\u2019s participation in gains\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "SPCX Option Income Strategy ETF as a new series of the Trust",
+        "strategy": "The Fund\u2019s primary investment objective is to seek current income The Fund\u2019s secondary investment objective is to seek exposure to the share price of Class A common stock of Space Exploration Technologies Corporation (NASDAQ: SPCX) (the \u201cUnderlying Security\u201d or \u201cSPCX\u201d), subject in certain circumstances to a limit on the Fund\u2019s participation in gains",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-10T13:22:51.474554+00:00",
+    "form_type": "485APOS",
+    "cik": "0001501825",
+    "company_name": "Hartford Funds Exchange-Traded Trust",
+    "accession_number": "0001193125-26-300303",
+    "filed_date": "2026-07-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1501825/000119312526300303/0001193125-26-300303-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1501825/000119312526300303/d26675d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1501825/000119312526300303/d26675d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Hartford Funds Exchange-Traded Trust\nETF Name: Risks Information about each Fund\nStrategy: The Fund may also invest in other investment companies (including exchange-traded funds (ETFs)), exchange-traded notes (ETNs), real estate investment trusts (REITs), depositary receipts, and restricted securities The Fund\u2019s portfolio manager selects multiple fundamental equity investment teams with complementary investment approaches to identify securities for inclusion in the Fund\u2019s investment universe\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Hartford Funds Exchange-Traded Trust",
+        "etf_name": "Risks Information about each Fund",
+        "strategy": "The Fund may also invest in other investment companies (including exchange-traded funds (ETFs)), exchange-traded notes (ETNs), real estate investment trusts (REITs), depositary receipts, and restricted securities The Fund\u2019s portfolio manager selects multiple fundamental equity investment teams with complementary investment approaches to identify securities for inclusion in the Fund\u2019s investment universe",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-09T21:46:43.164742+00:00",
     "form_type": "485APOS",
     "cik": "0002078265",
@@ -14440,64 +14498,6 @@
       }
     ],
     "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-03T23:01:48.361643+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-001142",
-    "filed_date": "2026-06-03",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001142/0001771146-26-001142-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626001142/ck0001771146-20260603.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001142/ck0001771146-20260603.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Ai Funds Multi Crypto and Equity Rotation AI-Managed ETF\nStrategy: Actively managed fund providing diversified crypto-asset exposure\u2014combining direct crypto holdings with blockchain-related equities, crypto-tracking ETFs, and digital infrastructure stocks\u2014allocated by an AI engine (\"BAILA\") that generates return rankings and confidence-based position sizing\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Opportunities Trust",
-        "etf_name": "Ai Funds Multi Crypto and Equity Rotation AI-Managed ETF",
-        "strategy": "Actively managed fund providing diversified crypto-asset exposure\u2014combining direct crypto holdings with blockchain-related equities, crypto-tracking ETFs, and digital infrastructure stocks\u2014allocated by an AI engine (\"BAILA\") that generates return rankings and confidence-based position sizing",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-03T23:02:37.181443+00:00",
-    "form_type": "485APOS",
-    "cik": "0001592900",
-    "company_name": "EA Series Trust",
-    "accession_number": "0001592900-26-002841",
-    "filed_date": "2026-06-03",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002841/0001592900-26-002841-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026002841/a3aallworldequityetf485afi.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002841/a3aallworldequityetf485afi.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: 3A All World Equity ETF\nStrategy: Actively managed, non-diversified global equity fund-of-funds that invests in underlying ETFs to achieve target geographic allocations across developed and emerging markets, with tilts across countries, regions, sectors, and style factors such as growth and value\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "EA Series Trust",
-        "etf_name": "3A All World Equity ETF",
-        "strategy": "Actively managed, non-diversified global equity fund-of-funds that invests in underlying ETFs to achieve target geographic allocations across developed and emerging markets, with tilts across countries, regions, sectors, and style factors such as growth and value",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
