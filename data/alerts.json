@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-07-13T22:04:14.314220+00:00",
+    "form_type": "485APOS",
+    "cik": "0001432353",
+    "company_name": "Global X Funds",
+    "accession_number": "0001432353-26-000612",
+    "filed_date": "2026-07-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000612/0001432353-26-000612-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1432353/000143235326000612/asiasemiconductoretf-485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000612/asiasemiconductoretf-485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Global X Funds\nETF Name: Unknown\nStrategy: The Fund invests at least 80% of its net assets, plus borrowings for investment purposes (if any), in the securities of the Underlying Index The Underlying Index is owned and was developed by Global X\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Global X Funds",
+        "etf_name": "Unknown",
+        "strategy": "The Fund invests at least 80% of its net assets, plus borrowings for investment purposes (if any), in the securities of the Underlying Index The Underlying Index is owned and was developed by Global X",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-13T22:04:18.036030+00:00",
+    "form_type": "485APOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-033076",
+    "filed_date": "2026-07-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226033076/0001493152-26-033076-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226033076/form485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226033076/form485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares ETF Trust\nStrategy: Page GraniteShares YieldBoost RAM ETF 1 Additional Information about the Fund\u2019s Investment Objectives, Strategies and Risks 15 Fund Website and Disclosure of Portfolio Holdings 24 Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "GraniteShares ETF Trust",
+        "strategy": "Page GraniteShares YieldBoost RAM ETF 1 Additional Information about the Fund\u2019s Investment Objectives, Strategies and Risks 15 Fund Website and Disclosure of Portfolio Holdings 24 Fund",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-13T20:59:51.000218+00:00",
     "form_type": "485BPOS",
     "cik": "0000809064",
@@ -14436,64 +14494,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-10T13:59:08.506888+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001924868",
-    "company_name": "Tidal Trust II",
-    "accession_number": "0001999371-26-012526",
-    "filed_date": "2026-06-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012526/0001999371-26-012526-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126012526/spcl-485bpos_061026.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126012526/spcl-485bpos_061026.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Defiance Daily 2X Space ETF\nStrategy: The fund seeks daily investment results equal to two times (200%) the performance of an actively managed portfolio of one to five equity securities in space-related companies It uses swap agreements and listed options to achieve leveraged exposure to companies deriving at least 50% of revenue from space technologies and services\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust II",
-        "etf_name": "Defiance Daily 2X Space ETF",
-        "strategy": "The fund seeks daily investment results equal to two times (200%) the performance of an actively managed portfolio of one to five equity securities in space-related companies It uses swap agreements and listed options to achieve leveraged exposure to companies deriving at least 50% of revenue from space technologies and services",
-        "is_alert_worthy": "MEDIUM"
-      }
-    ],
-    "wire_recommendation": "MEDIUM",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-10T14:00:02.741037+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000754510",
-    "company_name": "FIDELITY SECURITIES FUND",
-    "accession_number": "0000754510-26-000095",
-    "filed_date": "2026-06-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/754510/000075451026000095/0000754510-26-000095-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/754510/000075451026000095/filing12346.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/754510/000075451026000095/filing12346.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fidelity Securities Fund\nETF Name: Fidelity Real Estate Income Fund \u2013 ETF Class\nStrategy: Seeks higher-than-average income by investing primarily in real-estate-related securities, offered as an exchange-traded share class within a multi-class fund structure where mutual fund and ETF shares share the same underlying portfolio The fund may temporarily adopt a different investment strategy for defensive purposes in response to adverse market, economic, or political conditions\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fidelity Securities Fund",
-        "etf_name": "Fidelity Real Estate Income Fund \u2013 ETF Class",
-        "strategy": "Seeks higher-than-average income by investing primarily in real-estate-related securities, offered as an exchange-traded share class within a multi-class fund structure where mutual fund and ETF shares share the same underlying portfolio The fund may temporarily adopt a different investment strategy for defensive purposes in response to adverse market, economic, or political conditions",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
