@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-07-14T22:13:43.093164+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001761055",
+    "company_name": "BlackRock ETF Trust",
+    "accession_number": "0001193125-26-303384",
+    "filed_date": "2026-07-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526303384/0001193125-26-303384-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1761055/000119312526303384/d143216d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526303384/d143216d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BlackRock ETF Trust\nETF Name: Advisors and its affiliates. i iSHARES ENHANCED LARGE CAP VALUE ACTIVE ETF\nStrategy: The iShares Enhanced Large Cap Value Active ETF (the \u201cFund\u201d) seeks long-term capital growth The Fund is actively managed and seeks to pursue its investment objective while seeking to maintain a low tracking error to the Russell 1000 \u00ae Value Index (the \u201cRussell 1000 Value Index\u201d) Principal Investment Strategies The Fund is actively managed and seeks to pursue its investment objective while seeking to maintain a low tr\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BlackRock ETF Trust",
+        "etf_name": "Advisors and its affiliates. i iSHARES ENHANCED LARGE CAP VALUE ACTIVE ETF",
+        "strategy": "The iShares Enhanced Large Cap Value Active ETF (the \u201cFund\u201d) seeks long-term capital growth The Fund is actively managed and seeks to pursue its investment objective while seeking to maintain a low tracking error to the Russell 1000 \u00ae Value Index (the \u201cRussell 1000 Value Index\u201d) Principal Investment Strategies The Fund is actively managed and seeks to pursue its investment objective while seeking to maintain a low tr",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-14T21:11:11.282633+00:00",
     "form_type": "485APOS",
     "cik": "0001064641",
@@ -14461,35 +14490,6 @@
         "filer": "ProShares Trust",
         "etf_name": "ProShares Ultra GigaDevice",
         "strategy": "It obtains leveraged exposure primarily through derivatives such as swaps, futures, options, and forwards, rather than direct equity holdings",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-10T22:12:20.108703+00:00",
-    "form_type": "485APOS",
-    "cik": "0001174610",
-    "company_name": "PROSHARES TRUST",
-    "accession_number": "0001174610-26-000306",
-    "filed_date": "2026-06-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000306/0001174610-26-000306-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000306/f45425d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000306/f45425d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ProShares Trust\nETF Name: ProShares Ultra CATL\nStrategy: A single-stock leveraged ETF seeking daily investment results corresponding to two times (2\u00d7) the daily performance of CATL (Contemporary Amperex Technology Co. Limited), the world's largest EV battery maker, using derivatives such as swap agreements, futures, and options.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ProShares Trust",
-        "etf_name": "ProShares Ultra CATL",
-        "strategy": "A single-stock leveraged ETF seeking daily investment results corresponding to two times (2\u00d7) the daily performance of CATL (Contemporary Amperex Technology Co. Limited), the world's largest EV battery maker, using derivatives such as swap agreements, futures, and options.",
         "is_alert_worthy": "HIGH"
       }
     ],
