@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-07-14T20:01:16.777136+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-003556",
+    "filed_date": "2026-07-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003556/0001592900-26-003556-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026003556/ck0001592900-20260714.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003556/ck0001592900-20260714.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Unknown\nStrategy: AND PRINCIPAL INVESTMENT STRATEGIES The Fund\u2019s investment objective is a non-fundamental investment policy and may be changed without a vote of shareholders upon prior written notice to shareholders ADDITIONAL INFORMATION ABOUT THE FUND\u2019S INVESTMENT OBJECTIVE AND\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "Unknown",
+        "strategy": "AND PRINCIPAL INVESTMENT STRATEGIES The Fund\u2019s investment objective is a non-fundamental investment policy and may be changed without a vote of shareholders upon prior written notice to shareholders ADDITIONAL INFORMATION ABOUT THE FUND\u2019S INVESTMENT OBJECTIVE AND",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-14T20:01:21.305471+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000837276",
+    "company_name": "Voya INVESTORS TRUST",
+    "accession_number": "0000837276-26-000070",
+    "filed_date": "2026-07-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/837276/000083727626000070/0000837276-26-000070-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/837276/000083727626000070/f45745d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/837276/000083727626000070/f45745d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Voya INVESTORS TRUST\nETF Name: Investment Policy Voya Inflation Protected Bond Plus Fund\nStrategy: 11 MORE INFORMATION ABOUT THE FUND Additional Information About the Investment Objective The Fund's investment objective is non-fundamental and may be changed by a vote of the Board, without shareholder approval All share classes of the Fund have a common investment objective and investment portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Voya INVESTORS TRUST",
+        "etf_name": "Investment Policy Voya Inflation Protected Bond Plus Fund",
+        "strategy": "11 MORE INFORMATION ABOUT THE FUND Additional Information About the Investment Objective The Fund's investment objective is non-fundamental and may be changed by a vote of the Board, without shareholder approval All share classes of the Fund have a common investment objective and investment portfolio",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-14T17:38:59.806453+00:00",
     "form_type": "485APOS",
     "cik": "0001924868",
@@ -14436,64 +14494,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-10T19:56:48.028254+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001587982",
-    "company_name": "Investment Managers Series Trust II",
-    "accession_number": "0001213900-26-067268",
-    "filed_date": "2026-06-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026067268/0001213900-26-067268-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587982/000121390026067268/ea0293540-01_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026067268/ea0293540-01_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust II\nETF Name: Tradr 2X Short SpaceX Daily ETF (SPCG)\nStrategy: Uses derivatives including swaps and options to deliver leveraged inverse single-stock exposure on a daily-reset basis\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Investment Managers Series Trust II",
-        "etf_name": "Tradr 2X Short SpaceX Daily ETF (SPCG)",
-        "strategy": "Uses derivatives including swaps and options to deliver leveraged inverse single-stock exposure on a daily-reset basis",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-10T19:58:03.558786+00:00",
-    "form_type": "485APOS",
-    "cik": "0001064642",
-    "company_name": "SPDR SERIES TRUST",
-    "accession_number": "0001193125-26-265666",
-    "filed_date": "2026-06-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1064642/000119312526265666/0001193125-26-265666-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1064642/000119312526265666/d942355d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1064642/000119312526265666/d942355d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SPDR Series Trust\nETF Name: SPDR Nasdaq MyPaycheck ETF\nStrategy: The fund passively tracks the Nasdaq MyPaycheck Total Return Index by investing in approximately 10 underlying exchange-traded products spanning U.S and international equities, fixed income, commodities, and REITs using a replication strategy\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "SPDR Series Trust",
-        "etf_name": "SPDR Nasdaq MyPaycheck ETF",
-        "strategy": "The fund passively tracks the Nasdaq MyPaycheck Total Return Index by investing in approximately 10 underlying exchange-traded products spanning U.S and international equities, fixed income, commodities, and REITs using a replication strategy",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
