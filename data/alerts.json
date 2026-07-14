@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-07-14T14:57:56.451652+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001485894",
+    "company_name": "J.P. Morgan Exchange-Traded Fund Trust",
+    "accession_number": "0001193125-26-302736",
+    "filed_date": "2026-07-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1485894/000119312526302736/0001193125-26-302736-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1485894/000119312526302736/d40367d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1485894/000119312526302736/d40367d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: J.P. Morgan Exchange-Traded Fund Trust\nETF Name: Unknown\nStrategy: The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described in this prospectus, considered in light of all of the other investments in your portfolio, as well as your risk tolerance, financial goals and time horizons The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "J.P. Morgan Exchange-Traded Fund Trust",
+        "etf_name": "Unknown",
+        "strategy": "The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described in this prospectus, considered in light of all of the other investments in your portfolio, as well as your risk tolerance, financial goals and time horizons The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-14T14:57:59.272784+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-014910",
+    "filed_date": "2026-07-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126014910/0001999371-26-014910-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126014910/drmy-485bpos_071426.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126014910/drmy-485bpos_071426.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: XFUNDS TM Memory Income ETF\nStrategy: The XFUNDS TM Memory Income ETF\u2019s (the \u201cFund\u201d) primary investment objective is to seek capital appreciation The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective through a combination of an equity investment strategy and an options strategy 1 Under normal circumstances, the Fund invests at least 80% of its net assets (plus borrowings for investment purposes) in eq\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "XFUNDS TM Memory Income ETF",
+        "strategy": "The XFUNDS TM Memory Income ETF\u2019s (the \u201cFund\u201d) primary investment objective is to seek capital appreciation The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective through a combination of an equity investment strategy and an options strategy 1 Under normal circumstances, the Fund invests at least 80% of its net assets (plus borrowings for investment purposes) in eq",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-14T14:58:03.968877+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002043390",
+    "company_name": "Tidal Trust IV",
+    "accession_number": "0001999371-26-014903",
+    "filed_date": "2026-07-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126014903/0001999371-26-014903-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126014903/pbb-485bpos_071426.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126014903/pbb-485bpos_071426.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: Inverse US Growth Daily Target ETF\nStrategy: The Fund seeks daily inverse investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust IV",
+        "etf_name": "Inverse US Growth Daily Target ETF",
+        "strategy": "The Fund seeks daily inverse investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-14T10:13:34.407229+00:00",
     "form_type": "485BPOS",
     "cik": "0001547950",
@@ -14407,93 +14494,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-10T20:00:10.358386+00:00",
-    "form_type": "485APOS",
-    "cik": "0001517936",
-    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND IV",
-    "accession_number": "0001445546-26-004333",
-    "filed_date": "2026-06-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626004333/0001445546-26-004333-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1517936/000144554626004333/etf4_485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626004333/etf4_485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: First Trust Exchange-Traded Fund IV\nETF Name: FT Vest SPCX & Target Income ETF\nStrategy: The Fund is an actively managed ETF that seeks current income, with capital appreciation as a secondary objective, by investing in Space Exploration Technologies Corp\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "First Trust Exchange-Traded Fund IV",
-        "etf_name": "FT Vest SPCX & Target Income ETF",
-        "strategy": "The Fund is an actively managed ETF that seeks current income, with capital appreciation as a secondary objective, by investing in Space Exploration Technologies Corp",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-10T20:01:11.656889+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001618627",
-    "company_name": "RBB Fund Trust",
-    "accession_number": "0001999371-26-012555",
-    "filed_date": "2026-06-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126012555/0001999371-26-012555-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1618627/000199937126012555/rbb-485bpos_061026.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126012555/rbb-485bpos_061026.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RBB Fund Trust\nETF Name: Twin Oak Horizons ETF\nStrategy: Actively managed total-return ETF with fully flexible allocation ranging 0\u2013100% in both equities and fixed income, using bottom-up security selection and top-down portfolio construction Employs macro hedges and derivatives\u2014including index/ETF hedges\u2014to manage overall market, interest-rate, and credit risk\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RBB Fund Trust",
-        "etf_name": "Twin Oak Horizons ETF",
-        "strategy": "Actively managed total-return ETF with fully flexible allocation ranging 0\u2013100% in both equities and fixed income, using bottom-up security selection and top-down portfolio construction Employs macro hedges and derivatives\u2014including index/ETF hedges\u2014to manage overall market, interest-rate, and credit risk",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-10T17:25:16.228572+00:00",
-    "form_type": "485APOS",
-    "cik": "0001511699",
-    "company_name": "Managed Portfolio Series",
-    "accession_number": "0000894189-26-017728",
-    "filed_date": "2026-06-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1511699/000089418926017728/0000894189-26-017728-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1511699/000089418926017728/kensingtonpremiumopportuni.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1511699/000089418926017728/kensingtonpremiumopportuni.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Managed Portfolio Series\nETF Name: Kensington Premium Opportunities ETF\nStrategy: Actively managed options-based ETF targeting 200% aggregate notional exposure \u2014 100% to the S&P 500 and 100% to the Nasdaq-100 \u2014 via hedged synthetic positions using quarterly put spreads for downside protection and Treasuries/cash equivalents as collateral The fund seeks long-term capital appreciation by capturing a portion of index upside, mitigating significant drawdowns, and generating options premium income\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Managed Portfolio Series",
-        "etf_name": "Kensington Premium Opportunities ETF",
-        "strategy": "Actively managed options-based ETF targeting 200% aggregate notional exposure \u2014 100% to the S&P 500 and 100% to the Nasdaq-100 \u2014 via hedged synthetic positions using quarterly put spreads for downside protection and Treasuries/cash equivalents as collateral The fund seeks long-term capital appreciation by capturing a portion of index upside, mitigating significant drawdowns, and generating options premium income",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
