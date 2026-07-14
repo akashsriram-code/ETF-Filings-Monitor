@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-07-14T21:11:11.282633+00:00",
+    "form_type": "485APOS",
+    "cik": "0001064641",
+    "company_name": "SELECT SECTOR SPDR TRUST",
+    "accession_number": "0001193125-26-303372",
+    "filed_date": "2026-07-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1064641/000119312526303372/0001193125-26-303372-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1064641/000119312526303372/d137905d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1064641/000119312526303372/d137905d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SELECT SECTOR SPDR TRUST\nETF Name: Consumer Discretionary Market Sector SPDR ETF\nStrategy: The State Street S&P 500 Consumer Staples Market Sector SPDR ETF (the \u201cFund\u201d) seeks to provide investment results that, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SELECT SECTOR SPDR TRUST",
+        "etf_name": "Consumer Discretionary Market Sector SPDR ETF",
+        "strategy": "The State Street S&P 500 Consumer Staples Market Sector SPDR ETF (the \u201cFund\u201d) seeks to provide investment results that, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-14T21:11:16.273103+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001944285",
+    "company_name": "Tema ETF Trust",
+    "accession_number": "0001999371-26-014967",
+    "filed_date": "2026-07-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1944285/000199937126014967/0001999371-26-014967-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1944285/000199937126014967/hlth-485bpos_071426.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1944285/000199937126014967/hlth-485bpos_071426.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tema ETF Trust\nETF Name: TEMA HEALTHCARE AI ETF\nStrategy: TEMA HEALTHCARE AI ETF \u2013 Investment Objective Tema Healthcare AI ETF (the \u201cFund\u201d) seeks to provide long-term growth\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tema ETF Trust",
+        "etf_name": "TEMA HEALTHCARE AI ETF",
+        "strategy": "TEMA HEALTHCARE AI ETF \u2013 Investment Objective Tema Healthcare AI ETF (the \u201cFund\u201d) seeks to provide long-term growth",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-14T20:01:16.777136+00:00",
     "form_type": "485BPOS",
     "cik": "0001592900",
@@ -14436,64 +14494,6 @@
       }
     ],
     "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-10T22:13:27.301383+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001540305",
-    "company_name": "ETF Series Solutions",
-    "accession_number": "0000894189-26-017741",
-    "filed_date": "2026-06-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926017741/0000894189-26-017741-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1540305/000089418926017741/ck0001540305-20260610.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926017741/ck0001540305-20260610.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Series Solutions\nETF Name: Defiance US 100 Tech Ex Software ETF\nStrategy: equity ETF targeting large-cap technology companies while deliberately excluding software firms, designed to track those positioned to benefit from or structurally withstand AI expansion Seeks to track the Indxx US 100 Tech Focused Ex Software Technology Index, investing at least 80% of net assets in U.S\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Series Solutions",
-        "etf_name": "Defiance US 100 Tech Ex Software ETF",
-        "strategy": "equity ETF targeting large-cap technology companies while deliberately excluding software firms, designed to track those positioned to benefit from or structurally withstand AI expansion Seeks to track the Indxx US 100 Tech Focused Ex Software Technology Index, investing at least 80% of net assets in U.S",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-10T22:15:06.185375+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001592900",
-    "company_name": "EA Series Trust",
-    "accession_number": "0001592900-26-002873",
-    "filed_date": "2026-06-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002873/0001592900-26-002873-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026002873/ck0001592900-20260610.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026002873/ck0001592900-20260610.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Humilis US Large Cap Fundamental Value ETF\nStrategy: large-cap equity ETF that seeks long-term capital appreciation by selecting stocks through a fundamental value approach\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "EA Series Trust",
-        "etf_name": "Unknown",
-        "strategy": "PRINCIPAL INVESTMENT STRATEGIES The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective by investing primarily in equity securities of small-, mid- and large-capitalization companies that The Investment House LLC (the \u201cSub-Adviser\u201d), the Fund\u2019s sub-adviser, believes have the potential for long term growth PRINCIPAL INVESTMENT STRATEGIES The Fund is an actively manag",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
