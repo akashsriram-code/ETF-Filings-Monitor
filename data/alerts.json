@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-07-14T10:13:34.407229+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001547950",
+    "company_name": "Exchange Listed Funds Trust",
+    "accession_number": "0001213900-26-077675",
+    "filed_date": "2026-07-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026077675/0001213900-26-077675-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547950/000121390026077675/ea0297509-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026077675/ea0297509-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Exchange Listed Funds Trust\nETF Name: ARIA Opportunities ETF Investment Objective The ARIA Opportunities ETF\nStrategy: The ARIA Opportunities ETF (the \u201cFund\u201d) seeks to provide total return 1 Information 12 Additional Principal Risk Information 12 Portfolio Holdings 20 Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Exchange Listed Funds Trust",
+        "etf_name": "ARIA Opportunities ETF Investment Objective The ARIA Opportunities ETF",
+        "strategy": "The ARIA Opportunities ETF (the \u201cFund\u201d) seeks to provide total return 1 Information 12 Additional Principal Risk Information 12 Portfolio Holdings 20 Fund",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-13T22:04:14.314220+00:00",
     "form_type": "485APOS",
     "cik": "0001432353",
@@ -14465,35 +14494,6 @@
       }
     ],
     "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-10T13:57:43.432366+00:00",
-    "form_type": "485APOS",
-    "cik": "0002025968",
-    "company_name": "BNY Mellon ETF Trust II",
-    "accession_number": "0000030146-26-000265",
-    "filed_date": "2026-06-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2025968/000003014626000265/0000030146-26-000265-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2025968/000003014626000265/lp1-bnymetftii.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2025968/000003014626000265/lp1-bnymetftii.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BNY Mellon ETF Trust II\nETF Name: Depositary Receipts ETFs Exchange-traded funds and similar exchange-traded products Exchange A fund\nStrategy: A-1 Newton seeks to make proxy voting decisions that are in the best long-term financial interests of its clients and which seek to support investor value creation by supporting proposals that are consistent with our corporate governance views and investment case Any such contentious issues identified may be referred to the appropriate global fundamental equity analyst or portfolio manager for comment\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BNY Mellon ETF Trust II",
-        "etf_name": "Depositary Receipts ETFs Exchange-traded funds and similar exchange-traded products Exchange A fund",
-        "strategy": "A-1 Newton seeks to make proxy voting decisions that are in the best long-term financial interests of its clients and which seek to support investor value creation by supporting proposals that are consistent with our corporate governance views and investment case Any such contentious issues identified may be referred to the appropriate global fundamental equity analyst or portfolio manager for comment",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
