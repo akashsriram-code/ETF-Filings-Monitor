@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-07-15T14:08:00.542057+00:00",
+    "form_type": "485APOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-033291",
+    "filed_date": "2026-07-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226033291/0001493152-26-033291-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226033291/form485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226033291/form485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: Long Holtec Nuclear Daily ETF\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "Long Holtec Nuclear Daily ETF",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-14T22:13:43.093164+00:00",
     "form_type": "485BPOS",
     "cik": "0001761055",
@@ -14461,35 +14490,6 @@
         "filer": "ProShares Trust",
         "etf_name": "ProShares Ultra Cambricon (2x Daily)",
         "strategy": "The fund seeks daily investment results corresponding to two times (2x) the daily performance of Cambricon Technologies Corporation Limited, a Chinese AI semiconductor company, using swap agreements and other financial instruments to achieve leveraged exposure",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-10T22:11:21.316776+00:00",
-    "form_type": "485APOS",
-    "cik": "0001174610",
-    "company_name": "PROSHARES TRUST",
-    "accession_number": "0001174610-26-000307",
-    "filed_date": "2026-06-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000307/0001174610-26-000307-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000307/f45424d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000307/f45424d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ProShares Trust\nETF Name: ProShares Ultra GigaDevice\nStrategy: It obtains leveraged exposure primarily through derivatives such as swaps, futures, options, and forwards, rather than direct equity holdings\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ProShares Trust",
-        "etf_name": "ProShares Ultra GigaDevice",
-        "strategy": "It obtains leveraged exposure primarily through derivatives such as swaps, futures, options, and forwards, rather than direct equity holdings",
         "is_alert_worthy": "HIGH"
       }
     ],
