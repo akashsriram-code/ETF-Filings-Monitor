@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-07-16T15:06:08.316593+00:00",
+    "form_type": "486BPOS",
+    "cik": "0002003497",
+    "company_name": "Jackson Real Assets Fund",
+    "accession_number": "0001999371-26-015118",
+    "filed_date": "2026-07-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2003497/000199937126015118/0001999371-26-015118-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2003497/000199937126015118/jraf-486bpos_072026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2003497/000199937126015118/jraf-486bpos_072026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Jackson Real Assets Fund\nETF Name: PROSPECTUS Jackson Real Assets Fund\nStrategy: or negatively affect the Fund\u2019s investment\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Jackson Real Assets Fund",
+        "etf_name": "PROSPECTUS Jackson Real Assets Fund",
+        "strategy": "or negatively affect the Fund\u2019s investment",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-16T12:57:07.291490+00:00",
     "form_type": "486BPOS",
     "cik": "0001982467",
@@ -14461,35 +14490,6 @@
         "filer": "FIRST TRUST EXCHANGE-TRADED FUND",
         "etf_name": "Total Annual Fund",
         "strategy": "Such \"laddering\" is achieved by \u201crolling\u201d ( i.e., replacing) the Synthetic Autocallable Contracts upon their call or maturity into new Synthetic Autocallable Contracts to allow the Fund to maintain the staggered investment time periods to which it is exposed and thereby mitigate the risks associated with exposure to only a single time period",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-11T18:35:35.095716+00:00",
-    "form_type": "485APOS",
-    "cik": "0002043390",
-    "company_name": "Tidal Trust IV",
-    "accession_number": "0001999371-26-012619",
-    "filed_date": "2026-06-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126012619/0001999371-26-012619-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126012619/vish-485apos_061126.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126012619/vish-485apos_061126.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: Page Systematic Equity Alpha ETF\nStrategy: The Systematic Equity Alpha ETF seeks capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve capital appreci\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust IV",
-        "etf_name": "Page Systematic Equity Alpha ETF",
-        "strategy": "The Systematic Equity Alpha ETF seeks capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve capital appreci",
         "is_alert_worthy": "LOW"
       }
     ],
