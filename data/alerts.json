@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-07-16T19:16:43.947542+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001537140",
+    "company_name": "NORTHERN LIGHTS FUND TRUST III",
+    "accession_number": "0001580642-26-004436",
+    "filed_date": "2026-07-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1537140/000158064226004436/0001580642-26-004436-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1537140/000158064226004436/hcm-hedged_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1537140/000158064226004436/hcm-hedged_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NORTHERN LIGHTS FUND TRUST III\nETF Name: Index and the Nasdaq-100 Index, t he Fund\nStrategy: may be changed by the Board of Trustees (the \u201cBoard\u201d) upon 60 days\u2019 written notice to shareholders\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NORTHERN LIGHTS FUND TRUST III",
+        "etf_name": "Index and the Nasdaq-100 Index, t he Fund",
+        "strategy": "may be changed by the Board of Trustees (the \u201cBoard\u201d) upon 60 days\u2019 written notice to shareholders",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-16T19:16:46.129615+00:00",
+    "form_type": "485APOS",
+    "cik": "0001936157",
+    "company_name": "Elevation Series Trust",
+    "accession_number": "0001999371-26-015168",
+    "filed_date": "2026-07-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1936157/000199937126015168/0001999371-26-015168-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1936157/000199937126015168/cmac_485apos-071626.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1936157/000199937126015168/cmac_485apos-071626.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Elevation Series Trust\nETF Name: Clough Global Macro ETF\nStrategy: The Clough Global Macro ETF (the \u201cFund\u201d) seeks long-term capital appreciation 3 of the Fund The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective by investing across a broad range of asset classes and geographies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Elevation Series Trust",
+        "etf_name": "Clough Global Macro ETF",
+        "strategy": "The Clough Global Macro ETF (the \u201cFund\u201d) seeks long-term capital appreciation 3 of the Fund The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective by investing across a broad range of asset classes and geographies",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-16T19:16:49.041734+00:00",
+    "form_type": "485APOS",
+    "cik": "0001845809",
+    "company_name": "Putnam ETF Trust",
+    "accession_number": "0001193125-26-305860",
+    "filed_date": "2026-07-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1845809/000119312526305860/0001193125-26-305860-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1845809/000119312526305860/d101010d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1845809/000119312526305860/d101010d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Putnam ETF Trust\nETF Name: For more information about Franklin Core Plus ETF\nStrategy: Because of this, the fund may be unable to realize certain tax benefits associated with in-kind transfers of portfolio securities that may be realized by other ETFs Because of this, the fund may be unable to realize certain tax benefits associated with in-kind transfers of portfolio securities that may be realized by other ETFs\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Putnam ETF Trust",
+        "etf_name": "For more information about Franklin Core Plus ETF",
+        "strategy": "Because of this, the fund may be unable to realize certain tax benefits associated with in-kind transfers of portfolio securities that may be realized by other ETFs Because of this, the fund may be unable to realize certain tax benefits associated with in-kind transfers of portfolio securities that may be realized by other ETFs",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-16T15:06:08.316593+00:00",
     "form_type": "486BPOS",
     "cik": "0002003497",
@@ -14403,93 +14490,6 @@
         "filer": "GOLDMAN SACHS TRUST",
         "etf_name": "Diversification can help a Fund",
         "strategy": "\u25fc Portfolio Diversification: Diversification can help a Fund reduce the risks of investing",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-11T21:07:48.653958+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-006378",
-    "filed_date": "2026-06-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006378/0001829126-26-006378-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626006378/themesetftrust_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006378/themesetftrust_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Total Annual Fund\nStrategy: Investment Objective The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily leveraged investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "Total Annual Fund",
-        "strategy": "Investment Objective The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily leveraged investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-11T18:35:30.625162+00:00",
-    "form_type": "485APOS",
-    "cik": "0001727074",
-    "company_name": "PGIM ETF TRUST",
-    "accession_number": "0001727074-26-000078",
-    "filed_date": "2026-06-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1727074/000172707426000078/0001727074-26-000078-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1727074/000172707426000078/f45451d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1727074/000172707426000078/f45451d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PGIM ETF TRUST\nETF Name: The management agreement between PGIM ETF Trust\nStrategy: The subadviser seeks to generate long-term capital appreciation through investments in equity and equity-related securities by integrating insights from the subadviser\u2019s fundamental investment teams within a disciplined, risk-managed portfolio construction framework The subadviser applies a quantitative portfolio construction process that seeks to manage overall investment risk exposures and characteristics in order\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PGIM ETF TRUST",
-        "etf_name": "The management agreement between PGIM ETF Trust",
-        "strategy": "The subadviser seeks to generate long-term capital appreciation through investments in equity and equity-related securities by integrating insights from the subadviser\u2019s fundamental investment teams within a disciplined, risk-managed portfolio construction framework The subadviser applies a quantitative portfolio construction process that seeks to manage overall investment risk exposures and characteristics in order",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-11T18:35:33.055441+00:00",
-    "form_type": "485APOS",
-    "cik": "0001329377",
-    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND",
-    "accession_number": "0001445546-26-004348",
-    "filed_date": "2026-06-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1329377/000144554626004348/0001445546-26-004348-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1329377/000144554626004348/etf1_485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1329377/000144554626004348/etf1_485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FIRST TRUST EXCHANGE-TRADED FUND\nETF Name: Total Annual Fund\nStrategy: Such \"laddering\" is achieved by \u201crolling\u201d ( i.e., replacing) the Synthetic Autocallable Contracts upon their call or maturity into new Synthetic Autocallable Contracts to allow the Fund to maintain the staggered investment time periods to which it is exposed and thereby mitigate the risks associated with exposure to only a single time period\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FIRST TRUST EXCHANGE-TRADED FUND",
-        "etf_name": "Total Annual Fund",
-        "strategy": "Such \"laddering\" is achieved by \u201crolling\u201d ( i.e., replacing) the Synthetic Autocallable Contracts upon their call or maturity into new Synthetic Autocallable Contracts to allow the Fund to maintain the staggered investment time periods to which it is exposed and thereby mitigate the risks associated with exposure to only a single time period",
         "is_alert_worthy": "LOW"
       }
     ],
