@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-07-16T12:57:07.291490+00:00",
+    "form_type": "486BPOS",
+    "cik": "0001982467",
+    "company_name": "Jackson Credit Opportunities Fund",
+    "accession_number": "0001999371-26-015115",
+    "filed_date": "2026-07-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1982467/000199937126015115/0001999371-26-015115-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1982467/000199937126015115/jcof-486bpos_071626.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1982467/000199937126015115/jcof-486bpos_071626.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Jackson Credit Opportunities Fund\nETF Name: Unknown\nStrategy: The Fund\u2019s investment objective is to seek total return with an emphasis on current income The Fund\u2019s investment objective is to seek total return with an emphasis on current income\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Jackson Credit Opportunities Fund",
+        "etf_name": "Unknown",
+        "strategy": "The Fund\u2019s investment objective is to seek total return with an emphasis on current income The Fund\u2019s investment objective is to seek total return with an emphasis on current income",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-15T21:44:13.430737+00:00",
     "form_type": "486BPOS",
     "cik": "0002044490",
@@ -14461,35 +14490,6 @@
         "filer": "Tidal Trust IV",
         "etf_name": "Page Systematic Equity Alpha ETF",
         "strategy": "The Systematic Equity Alpha ETF seeks capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve capital appreci",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-11T15:24:01.253790+00:00",
-    "form_type": "485APOS",
-    "cik": "0002081107",
-    "company_name": "Tidal Trust V",
-    "accession_number": "0001999371-26-012614",
-    "filed_date": "2026-06-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126012614/0001999371-26-012614-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126012614/defiance-485apos_061126.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126012614/defiance-485apos_061126.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Defiance Daily Target 2X Long AMPG ETF\nStrategy: A single-stock leveraged ETF that seeks daily investment results equal to two times (200%) the daily percentage change in the share price of AmpliTech Group, Inc\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust V",
-        "etf_name": "Unknown",
-        "strategy": "The Fund seeks daily investment results, before",
         "is_alert_worthy": "LOW"
       }
     ],
