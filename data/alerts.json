@@ -1,5 +1,121 @@
 [
   {
+    "created_at": "2026-07-17T15:38:44.929164+00:00",
+    "form_type": "485APOS",
+    "cik": "0001096012",
+    "company_name": "AMERICAN BEACON SELECT FUNDS",
+    "accession_number": "0001133228-26-010500",
+    "filed_date": "2026-07-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1096012/000113322826010500/0001133228-26-010500-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1096012/000113322826010500/absietf-efp26234_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1096012/000113322826010500/absietf-efp26234_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AMERICAN BEACON SELECT FUNDS\nETF Name: Spreads on an underlying broad based securities market index or an ETF\nStrategy: The Fund may enter Box Spreads on an underlying broad based securities market index or an ETF that tracks a broad based securities market index Principal Risks There is no assurance that the Fund will achieve its investment objective, and you could lose part or all of your investment in the Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AMERICAN BEACON SELECT FUNDS",
+        "etf_name": "Spreads on an underlying broad based securities market index or an ETF",
+        "strategy": "The Fund may enter Box Spreads on an underlying broad based securities market index or an ETF that tracks a broad based securities market index Principal Risks There is no assurance that the Fund will achieve its investment objective, and you could lose part or all of your investment in the Fund",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-17T15:38:47.195803+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001081400",
+    "company_name": "ALLSPRING FUNDS TRUST",
+    "accession_number": "0001081400-26-000299",
+    "filed_date": "2026-07-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1081400/000108140026000299/0001081400-26-000299-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1081400/000108140026000299/allspring-20260720.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1081400/000108140026000299/allspring-20260720.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ALLSPRING FUNDS TRUST\nETF Name: Treasury Money Market Fund\nStrategy: may not produce expected returns, may cause the Fund\u2019s shares to lose value or may cause the Fund to underperform other funds with similar investment objectives. Government MoneyMarket Funds 3 Back to\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ALLSPRING FUNDS TRUST",
+        "etf_name": "Treasury Money Market Fund",
+        "strategy": "may not produce expected returns, may cause the Fund\u2019s shares to lose value or may cause the Fund to underperform other funds with similar investment objectives. Government MoneyMarket Funds 3 Back to",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-17T15:38:51.018615+00:00",
+    "form_type": "485APOS",
+    "cik": "0002025968",
+    "company_name": "BNY Mellon ETF Trust II",
+    "accession_number": "0000030146-26-000305",
+    "filed_date": "2026-07-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2025968/000003014626000305/0000030146-26-000305-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2025968/000003014626000305/lp1-etfii.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2025968/000003014626000305/lp1-etfii.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BNY Mellon ETF Trust II\nETF Name: Oversight III-54 Review of Proxy Voting III-54 Availability of Fund\nStrategy: III-15 Specific Types of Derivatives III-16 Foreign Currency Transactions III-22 Lending Portfolio Securities III-23 Borrowing Money III-24 Forward Commitments III-24 Section 4(a)(2) Paper and Rule 144A Securities III-24 Illiquid Investments III-25 Non-Diversified Status III-25 Cybersecurity Risk III-25 Recent Market and Economic Developments III-26 RATING CATEGORIES III-26 S&P III-26 Long-Term Issue Credit Ratings W\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BNY Mellon ETF Trust II",
+        "etf_name": "Oversight III-54 Review of Proxy Voting III-54 Availability of Fund",
+        "strategy": "III-15 Specific Types of Derivatives III-16 Foreign Currency Transactions III-22 Lending Portfolio Securities III-23 Borrowing Money III-24 Forward Commitments III-24 Section 4(a)(2) Paper and Rule 144A Securities III-24 Illiquid Investments III-25 Non-Diversified Status III-25 Cybersecurity Risk III-25 Recent Market and Economic Developments III-26 RATING CATEGORIES III-26 S&P III-26 Long-Term Issue Credit Ratings W",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-17T15:38:55.232815+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001886172",
+    "company_name": "DoubleLine ETF Trust",
+    "accession_number": "0001193125-26-307039",
+    "filed_date": "2026-07-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1886172/000119312526307039/0001193125-26-307039-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1886172/000119312526307039/d48499d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1886172/000119312526307039/d48499d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: DoubleLine ETF Trust\nETF Name: DoubleLine ETF Trust\nStrategy: Securitized credit investments may also be referred to as \u201cstructured product securities\u201d or \u201cstructured products.\u201d The Fund may invest in securitized credit investments directly or indirectly, for example, by investing in derivatives or synthetic instruments with underlying assets that have similar economic characteristics to the securitized credit investments in which the Fund may make direct investments DoubleLine\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "DoubleLine ETF Trust",
+        "etf_name": "DoubleLine ETF Trust",
+        "strategy": "Securitized credit investments may also be referred to as \u201cstructured product securities\u201d or \u201cstructured products.\u201d The Fund may invest in securitized credit investments directly or indirectly, for example, by investing in derivatives or synthetic instruments with underlying assets that have similar economic characteristics to the securitized credit investments in which the Fund may make direct investments DoubleLine",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-17T14:09:04.059660+00:00",
     "form_type": "485APOS",
     "cik": "0001032423",
@@ -14374,122 +14490,6 @@
         "filer": "FIDELITY SALEM STREET TRUST",
         "etf_name": "Class's performance. For example, a Multi-Class ETF Fund",
         "strategy": "In addition, because all of the classes of a Multi-Class ETF Fund are based on the same portfolio, transactions through one class could generate portfolio transaction costs and tax consequences for shareholders in other classes Fund Basics Investment Details Investment Objective Fidelity\u00ae Short-Term Bond Fund seeks to obtain a high level of current income consistent with preservation of capital",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-11T21:07:22.500595+00:00",
-    "form_type": "485APOS",
-    "cik": "0001174610",
-    "company_name": "PROSHARES TRUST",
-    "accession_number": "0001174610-26-000325",
-    "filed_date": "2026-06-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000325/0001174610-26-000325-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000325/f45519d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000325/f45519d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROSHARES TRUST\nETF Name: Money Market ETF\nStrategy: Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as OpenAI loses when OpenAI falls on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PROSHARES TRUST",
-        "etf_name": "Money Market ETF",
-        "strategy": "Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as OpenAI loses when OpenAI falls on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-11T21:07:25.310111+00:00",
-    "form_type": "485APOS",
-    "cik": "0001174610",
-    "company_name": "PROSHARES TRUST",
-    "accession_number": "0001174610-26-000324",
-    "filed_date": "2026-06-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000324/0001174610-26-000324-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000324/f45518d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000324/f45518d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROSHARES TRUST\nETF Name: Money Market ETF\nStrategy: Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as Anthropic loses when Anthropic falls on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PROSHARES TRUST",
-        "etf_name": "Money Market ETF",
-        "strategy": "Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as Anthropic loses when Anthropic falls on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-11T21:07:28.128411+00:00",
-    "form_type": "485APOS",
-    "cik": "0001174610",
-    "company_name": "PROSHARES TRUST",
-    "accession_number": "0001174610-26-000323",
-    "filed_date": "2026-06-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000323/0001174610-26-000323-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000323/f45517d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000323/f45517d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROSHARES TRUST\nETF Name: Money Market ETF\nStrategy: Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as TFC Communication when TFC Communication rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PROSHARES TRUST",
-        "etf_name": "Money Market ETF",
-        "strategy": "Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as TFC Communication when TFC Communication rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-11T21:07:30.774088+00:00",
-    "form_type": "485APOS",
-    "cik": "0001174610",
-    "company_name": "PROSHARES TRUST",
-    "accession_number": "0001174610-26-000322",
-    "filed_date": "2026-06-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000322/0001174610-26-000322-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000322/f45516d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000322/f45516d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROSHARES TRUST\nETF Name: Money Market ETF\nStrategy: Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as Hygon when Hygon rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PROSHARES TRUST",
-        "etf_name": "Money Market ETF",
-        "strategy": "Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as Hygon when Hygon rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
         "is_alert_worthy": "LOW"
       }
     ],
