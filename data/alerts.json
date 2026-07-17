@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-07-17T16:46:41.498891+00:00",
+    "form_type": "485APOS",
+    "cik": "0000768847",
+    "company_name": "VanEck Funds",
+    "accession_number": "0000768847-26-000112",
+    "filed_date": "2026-07-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/768847/000076884726000112/0000768847-26-000112-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/768847/000076884726000112/vaneckpivotaltrendsetfvef4.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/768847/000076884726000112/vaneckpivotaltrendsetfvef4.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VanEck Funds\nETF Name: VanEck Pivotal Trends ETF\nStrategy: The VanEck Pivotal Trends ETF (the \u201cFund\u201d) seeks long-term capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VanEck Funds",
+        "etf_name": "VanEck Pivotal Trends ETF",
+        "strategy": "The VanEck Pivotal Trends ETF (the \u201cFund\u201d) seeks long-term capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-17T16:46:44.872417+00:00",
+    "form_type": "485APOS",
+    "cik": "0000768847",
+    "company_name": "VanEck Funds",
+    "accession_number": "0000768847-26-000111",
+    "filed_date": "2026-07-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/768847/000076884726000111/0000768847-26-000111-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/768847/000076884726000111/vaneckwealthbuilderetf485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/768847/000076884726000111/vaneckwealthbuilderetf485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VanEck Funds\nETF Name: VanEck Wealth Builder ETF\nStrategy: The VanEck Wealth Builder ETF (the \u201cFund\u201d) seeks long-term capital appreciation and current income\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VanEck Funds",
+        "etf_name": "VanEck Wealth Builder ETF",
+        "strategy": "The VanEck Wealth Builder ETF (the \u201cFund\u201d) seeks long-term capital appreciation and current income",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-17T15:38:44.929164+00:00",
     "form_type": "485APOS",
     "cik": "0001096012",
@@ -14432,64 +14490,6 @@
         "filer": "WisdomTree Trust",
         "etf_name": "Investment Objective The WisdomTree International Multifactor Fund",
         "strategy": "The WisdomTree International Multifactor Fund (the \u201cFund\u201d) seeks capital appreciation of the Fund The Fund is actively managed using a model-based approach and seeks to achieve its investment objective by investing primarily in equity securities of developed markets, excluding the United States and Canada, that exhibit certain characteristics that the investment adviser, WisdomTree Asset",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-11T21:07:16.946407+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000215829",
-    "company_name": "FIDELITY SCHOOL STREET TRUST",
-    "accession_number": "0000215829-26-000051",
-    "filed_date": "2026-06-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/215829/000021582926000051/0000215829-26-000051-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/215829/000021582926000051/filing12344.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/215829/000021582926000051/filing12344.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FIDELITY SCHOOL STREET TRUST\nETF Name: Class's performance. For example, a Multi-Class ETF Fund\nStrategy: In addition, because all of the classes of a Multi-Class ETF Fund are based on the same portfolio, transactions through one class could generate portfolio transaction costs and tax consequences for shareholders in other classes For example, a Multi-Class ETF Fund is required to disclose its complete holdings daily, which has the potential to make the fund more susceptible to front running than a traditional mutual fu\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FIDELITY SCHOOL STREET TRUST",
-        "etf_name": "Class's performance. For example, a Multi-Class ETF Fund",
-        "strategy": "In addition, because all of the classes of a Multi-Class ETF Fund are based on the same portfolio, transactions through one class could generate portfolio transaction costs and tax consequences for shareholders in other classes For example, a Multi-Class ETF Fund is required to disclose its complete holdings daily, which has the potential to make the fund more susceptible to front running than a traditional mutual fu",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-11T21:07:19.830198+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000035315",
-    "company_name": "FIDELITY SALEM STREET TRUST",
-    "accession_number": "0000035315-26-000342",
-    "filed_date": "2026-06-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/35315/000003531526000342/0000035315-26-000342-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/35315/000003531526000342/filing12348.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/35315/000003531526000342/filing12348.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FIDELITY SALEM STREET TRUST\nETF Name: Class's performance. For example, a Multi-Class ETF Fund\nStrategy: In addition, because all of the classes of a Multi-Class ETF Fund are based on the same portfolio, transactions through one class could generate portfolio transaction costs and tax consequences for shareholders in other classes Fund Basics Investment Details Investment Objective Fidelity\u00ae Short-Term Bond Fund seeks to obtain a high level of current income consistent with preservation of capital\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FIDELITY SALEM STREET TRUST",
-        "etf_name": "Class's performance. For example, a Multi-Class ETF Fund",
-        "strategy": "In addition, because all of the classes of a Multi-Class ETF Fund are based on the same portfolio, transactions through one class could generate portfolio transaction costs and tax consequences for shareholders in other classes Fund Basics Investment Details Investment Objective Fidelity\u00ae Short-Term Bond Fund seeks to obtain a high level of current income consistent with preservation of capital",
         "is_alert_worthy": "LOW"
       }
     ],
