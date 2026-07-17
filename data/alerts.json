@@ -1,5 +1,121 @@
 [
   {
+    "created_at": "2026-07-17T22:11:18.070089+00:00",
+    "form_type": "485APOS",
+    "cik": "0002078265",
+    "company_name": "Corgi ETF Trust I",
+    "accession_number": "0002078265-26-000324",
+    "filed_date": "2026-07-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000324/0002078265-26-000324-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2078265/000207826526000324/485apos_2xthematic.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000324/485apos_2xthematic.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Corgi ETF Trust I\nETF Name: In general, higher volatility and frequent directional reversals in the Underlying ETF\nStrategy: The Corgi Advanced Packaging 2x Daily ETF (the \u201cFund\u201d) seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Corgi ETF Trust I",
+        "etf_name": "In general, higher volatility and frequent directional reversals in the Underlying ETF",
+        "strategy": "The Corgi Advanced Packaging 2x Daily ETF (the \u201cFund\u201d) seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-17T22:11:20.135648+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-007646",
+    "filed_date": "2026-07-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007646/0001829126-26-007646-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626007646/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007646/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: of the Fund The Fund employs a \u201cpassive\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Unknown",
+        "strategy": "of the Fund The Fund employs a \u201cpassive",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-17T22:11:23.736310+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001415726",
+    "company_name": "Innovator ETFs Trust",
+    "accession_number": "0001213900-26-079269",
+    "filed_date": "2026-07-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026079269/0001213900-26-079269-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1415726/000121390026079269/ea0297924-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026079269/ea0297924-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Innovator ETFs Trust\nETF Name: If the Underlying ETF\nStrategy: The Fund\u2019s investment strategy is designed to deliver the Outcomes described herein if Shares are held from the time the Fund enters into the FLEX Options and held until those FLEX Options expire at the end of the Outcome Period\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Innovator ETFs Trust",
+        "etf_name": "If the Underlying ETF",
+        "strategy": "The Fund\u2019s investment strategy is designed to deliver the Outcomes described herein if Shares are held from the time the Fund enters into the FLEX Options and held until those FLEX Options expire at the end of the Outcome Period",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-17T22:11:27.015646+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001415726",
+    "company_name": "Innovator ETFs Trust",
+    "accession_number": "0001213900-26-079257",
+    "filed_date": "2026-07-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026079257/0001213900-26-079257-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1415726/000121390026079257/ea0297922-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026079257/ea0297922-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Innovator ETFs Trust\nETF Name: If the Underlying ETF\nStrategy: The Fund\u2019s investment strategy is designed to deliver the Outcomes described herein if Shares are held from the time the Fund enters into the FLEX Options and held until those FLEX Options expire at the end of the Outcome Period\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Innovator ETFs Trust",
+        "etf_name": "If the Underlying ETF",
+        "strategy": "The Fund\u2019s investment strategy is designed to deliver the Outcomes described herein if Shares are held from the time the Fund enters into the FLEX Options and held until those FLEX Options expire at the end of the Outcome Period",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-17T21:12:43.020217+00:00",
     "form_type": "485BPOS",
     "cik": "0001364608",
@@ -14374,122 +14490,6 @@
         "filer": "CoinShares ETF Trust",
         "etf_name": "Digital Power ETF",
         "strategy": "The Fund seeks to provide investors with total return 11 Additional Risks of Investing in the Fund 14",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-12T22:08:44.416171+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001485894",
-    "company_name": "J.P. Morgan Exchange-Traded Fund Trust",
-    "accession_number": "0001193125-26-269648",
-    "filed_date": "2026-06-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1485894/000119312526269648/0001193125-26-269648-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1485894/000119312526269648/d152354d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1485894/000119312526269648/d152354d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: J.P. Morgan Exchange-Traded Fund Trust\nETF Name: JPMorgan California Tax Free Bond ETF\nStrategy: The fund benchmarks against the Bloomberg California 1-17 Year Municipal Index and the Bloomberg California Municipal Bond Index, and was created via a tax-free reorganization of the predecessor JPMorgan California Tax Free Bond Fund effective June 2026\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "J.P. Morgan Exchange-Traded Fund Trust",
-        "etf_name": "Unknown",
-        "strategy": "The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described in this prospectus, considered in light of all of the other investments in your portfolio, as well as your risk tolerance, financial goals and time horizons The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-12T22:08:47.947908+00:00",
-    "form_type": "485APOS",
-    "cik": "0001174610",
-    "company_name": "PROSHARES TRUST",
-    "accession_number": "0001174610-26-000333",
-    "filed_date": "2026-06-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000333/0001174610-26-000333-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000333/f45527d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000333/f45527d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROSHARES TRUST\nETF Name: Money Market ETF\nStrategy: Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as SK hynix loses when SK hynix falls on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PROSHARES TRUST",
-        "etf_name": "Money Market ETF",
-        "strategy": "Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as SK hynix loses when SK hynix falls on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-12T22:08:51.605016+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-006453",
-    "filed_date": "2026-06-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006453/0001829126-26-006453-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626006453/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006453/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Total Annual Fund\nStrategy: The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily inverse investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "Total Annual Fund",
-        "strategy": "The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily inverse investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-12T20:26:49.796038+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-006449",
-    "filed_date": "2026-06-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006449/0001829126-26-006449-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626006449/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006449/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Total Annual Fund\nStrategy: The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily inverse investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "Total Annual Fund",
-        "strategy": "The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily inverse investment results, before",
         "is_alert_worthy": "LOW"
       }
     ],
