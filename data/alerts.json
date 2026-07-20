@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-07-20T20:11:50.264542+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-007664",
+    "filed_date": "2026-07-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007664/0001829126-26-007664-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626007664/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007664/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) of the daily\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Unknown",
+        "strategy": "The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) of the daily",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-20T20:11:53.588033+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-015400",
+    "filed_date": "2026-07-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126015400/0001999371-26-015400-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126015400/ym-485apos_072026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126015400/ym-485apos_072026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Quantum Portfolio Option Income ETF\nStrategy: The Fund\u2019s primary investment objective is to seek current income The Fund\u2019s secondary objective is to seek capital appreciation via investments in a select portfolio of Quantum Companies and/or one or more Quantum ETFs (each defined below) The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks (i) to generate cash distributions, and (ii) capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Quantum Portfolio Option Income ETF",
+        "strategy": "The Fund\u2019s primary investment objective is to seek current income The Fund\u2019s secondary objective is to seek capital appreciation via investments in a select portfolio of Quantum Companies and/or one or more Quantum ETFs (each defined below) The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks (i) to generate cash distributions, and (ii) capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-17T22:11:18.070089+00:00",
     "form_type": "485APOS",
     "cik": "0002078265",
@@ -14432,64 +14490,6 @@
         "filer": "Tidal Trust V",
         "etf_name": "Unknown",
         "strategy": "Defiance China Memory & Storage ETF (the \u201cFund\u201d) seeks to track the Overview The Fund uses a \u201cpassive",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-15T13:38:17.186418+00:00",
-    "form_type": "485APOS",
-    "cik": "0001810747",
-    "company_name": "Simplify Exchange Traded Funds",
-    "accession_number": "0001829126-26-006460",
-    "filed_date": "2026-06-15",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626006460/0001829126-26-006460-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1810747/000182912626006460/simplifyetf_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626006460/simplifyetf_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Simplify Exchange Traded Funds\nETF Name: Simplify Brookwood Global Macro ETF\nStrategy: The fund is an actively managed global macro ETF seeking capital appreciation by investing long and short across a wide range of asset classes. The sub-adviser allocates across 10\u201320 distinct strategies\u2014including hedge fund replication, managed futures, risk parity, and fund-of-funds approaches\u2014executed primarily through swaps tied to model portfolios.\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Simplify Exchange Traded Funds",
-        "etf_name": "Unknown",
-        "strategy": "by investing globally long and short across a wide range of asset classes. Brookwood Investment Group LLC 10845 Griffith Peak Drive 2/F 3930 East Ray Road, Suite 155 Las Vegas, NV 89135 Phoenix, AZ 85044 www.simplify.us/etfs phone: 1 (855) 772-8488 This Prospectus provides important information about the Fund that you should know before investing",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-12T22:08:37.139911+00:00",
-    "form_type": "485APOS",
-    "cik": "0001877493",
-    "company_name": "CoinShares ETF Trust",
-    "accession_number": "0001999371-26-012776",
-    "filed_date": "2026-06-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1877493/000199937126012776/0001999371-26-012776-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1877493/000199937126012776/wgmi-485apos_061226.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1877493/000199937126012776/wgmi-485apos_061226.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: CoinShares ETF Trust\nETF Name: Digital Power ETF\nStrategy: The Fund seeks to provide investors with total return 11 Additional Risks of Investing in the Fund 14\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "CoinShares ETF Trust",
-        "etf_name": "Digital Power ETF",
-        "strategy": "The Fund seeks to provide investors with total return 11 Additional Risks of Investing in the Fund 14",
         "is_alert_worthy": "LOW"
       }
     ],
