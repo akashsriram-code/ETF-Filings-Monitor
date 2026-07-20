@@ -1,5 +1,66 @@
 [
   {
+    "created_at": "2026-07-20T21:33:15.423217+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000315774",
+    "company_name": "FORUM FUNDS",
+    "accession_number": "0001398344-26-012331",
+    "filed_date": "2026-07-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/315774/000139834426012331/0001398344-26-012331-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/315774/000139834426012331/fp0099629-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/315774/000139834426012331/fp0099629-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FORUM FUNDS\nETF Name: Unknown\nStrategy: Additional Information Regarding Principal Investment Risks The Fund\u2019s net asset value (\u201cNAV\u201d) and investment return will fluctuate based upon changes in the value of its portfolio There is no guarantee that the Fund will meet its investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FORUM FUNDS",
+        "etf_name": "Unknown",
+        "strategy": "Additional Information Regarding Principal Investment Risks The Fund\u2019s net asset value (\u201cNAV\u201d) and investment return will fluctuate based upon changes in the value of its portfolio There is no guarantee that the Fund will meet its investment objective",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-20T21:33:19.381913+00:00",
+    "form_type": "S-1",
+    "cik": "0002145351",
+    "company_name": "1 - Grayscale Worldcoin ETF",
+    "accession_number": "0001193125-26-308957",
+    "filed_date": "2026-07-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2145351/000119312526308957/0001193125-26-308957-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2145351/000119312526308957/ck0002145351-20260720.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2145351/000119312526308957/ck0002145351-20260720.htm",
+    "matched_keywords": [
+      "Ethereum",
+      "Digital Asset"
+    ],
+    "is_crypto": true,
+    "synopsis": "Synopsis 1\nFiler: 1 - Grayscale Worldcoin ETF\nETF Name: Grayscale Worldcoin ETF Trust Overview Grayscale Worldcoin ETF\nStrategy: As a passive investment vehicle, the Trust\u2019s investment objective is for the value of the Shares (based on WLD per Share) to reflect the value of WLD held by the Trust, determined by reference to the Index Price, less the Trust\u2019s expenses and other liabilities As a passive investment vehicle, the Trust\u2019s investment objective is for the value of the Shares (based on WLD per Share) to reflect the value of WLD held by t\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Crypto-linked ETF disclosures can move market narrative and regulatory coverage.",
+    "synopsis_items": [
+      {
+        "filer": "1 - Grayscale Worldcoin ETF",
+        "etf_name": "Grayscale Worldcoin ETF Trust Overview Grayscale Worldcoin ETF",
+        "strategy": "As a passive investment vehicle, the Trust\u2019s investment objective is for the value of the Shares (based on WLD per Share) to reflect the value of WLD held by the Trust, determined by reference to the Index Price, less the Trust\u2019s expenses and other liabilities As a passive investment vehicle, the Trust\u2019s investment objective is for the value of the Shares (based on WLD per Share) to reflect the value of WLD held by t",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Crypto-linked ETF disclosures can move market narrative and regulatory coverage."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-20T20:11:50.264542+00:00",
     "form_type": "485APOS",
     "cik": "0001976322",
@@ -14432,64 +14493,6 @@
         "filer": "AIM Variable Insurance Funds (Invesco Variable Insurance Funds)",
         "etf_name": "Declaration of Trust",
         "strategy": "No investment objective, asset class, benchmark, or portfolio strategy is stated in the provided text",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-15T18:24:55.586448+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000088048",
-    "company_name": "DEUTSCHE DWS SECURITIES TRUST",
-    "accession_number": "0000088053-26-000470",
-    "filed_date": "2026-06-15",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/88048/000008805326000470/0000088053-26-000470-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/88048/000008805326000470/ddst-20260615.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/88048/000008805326000470/ddst-20260615.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: DEUTSCHE DWS SECURITIES TRUST\nETF Name: DWS Enhanced Commodity Strategy Fund\nStrategy: Seeks total return by investing in commodity-linked derivatives\u2014including total return swaps, options, and futures\u2014to gain broad commodity-market exposure without holding physical commodities The fund may also invest in commodity-related ETFs and use derivatives for hedging and risk management purposes\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "DEUTSCHE DWS SECURITIES TRUST",
-        "etf_name": "DWS Enhanced Commodity Strategy Fund",
-        "strategy": "Seeks total return by investing in commodity-linked derivatives\u2014including total return swaps, options, and futures\u2014to gain broad commodity-market exposure without holding physical commodities The fund may also invest in commodity-related ETFs and use derivatives for hedging and risk management purposes",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-15T13:38:14.336040+00:00",
-    "form_type": "485APOS",
-    "cik": "0002081107",
-    "company_name": "Tidal Trust V",
-    "accession_number": "0001999371-26-012800",
-    "filed_date": "2026-06-15",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126012800/0001999371-26-012800-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126012800/cram-485apos_061526.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126012800/cram-485apos_061526.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Defiance China Memory & Storage ETF\nStrategy: Passively tracks the BITA China Memory & Storage Index, investing in companies economically connected to China's memory and storage semiconductor value chain May also use swap agreements and other derivatives for synthetic exposure, with holdings concentrated in the same industries as the underlying index\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust V",
-        "etf_name": "Unknown",
-        "strategy": "Defiance China Memory & Storage ETF (the \u201cFund\u201d) seeks to track the Overview The Fund uses a \u201cpassive",
         "is_alert_worthy": "LOW"
       }
     ],
