@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-07-21T15:17:50.993256+00:00",
+    "form_type": "485APOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-015461",
+    "filed_date": "2026-07-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126015461/0001999371-26-015461-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126015461/nano-485apos_072126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126015461/nano-485apos_072126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Unknown\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "Unknown",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-21T15:17:53.149308+00:00",
+    "form_type": "485APOS",
+    "cik": "0001760588",
+    "company_name": "Zacks Trust",
+    "accession_number": "0001580642-26-004505",
+    "filed_date": "2026-07-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1760588/000158064226004505/0001580642-26-004505-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1760588/000158064226004505/zacks_485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1760588/000158064226004505/zacks_485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Zacks Trust\nETF Name: Zacks All-Cap Core ETF\nStrategy: The investment objective of the Zacks Small-Cap Core ETF (the \u201cFund\u201d) is capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Zacks Trust",
+        "etf_name": "Zacks All-Cap Core ETF",
+        "strategy": "The investment objective of the Zacks Small-Cap Core ETF (the \u201cFund\u201d) is capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-20T21:33:15.423217+00:00",
     "form_type": "485BPOS",
     "cik": "0000315774",
@@ -14439,64 +14497,6 @@
       }
     ],
     "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-15T21:34:41.790587+00:00",
-    "form_type": "485APOS",
-    "cik": "0001040674",
-    "company_name": "Yorkville America Investment Trust",
-    "accession_number": "0001040674-26-000006",
-    "filed_date": "2026-06-15",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1040674/000104067426000006/0001040674-26-000006-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1040674/000104067426000006/yorkvilleamericamangopluse.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1040674/000104067426000006/yorkvilleamericamangopluse.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Yorkville America Investment Trust\nETF Name: Years Yorkville America MANGO Plus ETF\nStrategy: Although your actual costs may be higher or lower, based on these assumptions your costs would be: Name of Fund 1 Year 3 Years Yorkville America MANGO Plus ETF $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) Although your actual costs may be higher or lower, based on these assumptions your costs would be: Name of Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Yorkville America Investment Trust",
-        "etf_name": "Years Yorkville America MANGO Plus ETF",
-        "strategy": "Although your actual costs may be higher or lower, based on these assumptions your costs would be: Name of Fund 1 Year 3 Years Yorkville America MANGO Plus ETF $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) Although your actual costs may be higher or lower, based on these assumptions your costs would be: Name of Fund",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-15T21:35:43.269264+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000896435",
-    "company_name": "AIM VARIABLE INSURANCE FUNDS (INVESCO VARIABLE INSURANCE FUNDS)",
-    "accession_number": "0001193125-26-271215",
-    "filed_date": "2026-06-15",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/896435/000119312526271215/0001193125-26-271215-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/896435/000119312526271215/d124784d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/896435/000119312526271215/d124784d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AIM Variable Insurance Funds (Invesco Variable Insurance Funds)\nETF Name: Declaration of Trust\nStrategy: No investment objective, asset class, benchmark, or portfolio strategy is stated in the provided text\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AIM Variable Insurance Funds (Invesco Variable Insurance Funds)",
-        "etf_name": "Declaration of Trust",
-        "strategy": "No investment objective, asset class, benchmark, or portfolio strategy is stated in the provided text",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
