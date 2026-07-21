@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-07-21T20:56:54.589949+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-007709",
+    "filed_date": "2026-07-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007709/0001829126-26-007709-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626007709/themesetftrust_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007709/themesetftrust_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Fund\u2019s investment adviser will not attempt to position the Fund\u2019s portfolio to ensure that the Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200% or 2X) the daily of the Fund The Fund is an actively managed ETF that seeks to provide 2\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Unknown",
+        "strategy": "The Fund\u2019s investment adviser will not attempt to position the Fund\u2019s portfolio to ensure that the Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200% or 2X) the daily of the Fund The Fund is an actively managed ETF that seeks to provide 2",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-21T20:56:56.880819+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001432353",
+    "company_name": "Global X Funds",
+    "accession_number": "0001432353-26-000623",
+    "filed_date": "2026-07-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000623/0001432353-26-000623-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1432353/000143235326000623/glx-20260721.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000623/glx-20260721.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Global X Funds\nETF Name: Unknown\nStrategy: The Fund invests at least 80% of its total assets in the securities of the Morningstar \u00ae US Capital Allocation Leaders Index (the \u201cUnderlying Index\u201d) PRINCIPAL INVESTMENT STRATEGIES The Fund invests at least 80% of its total assets in the securities of the Morningstar \u00ae US Capital Allocation Leaders Index (the \u201cUnderlying Index\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Global X Funds",
+        "etf_name": "Unknown",
+        "strategy": "The Fund invests at least 80% of its total assets in the securities of the Morningstar \u00ae US Capital Allocation Leaders Index (the \u201cUnderlying Index\u201d) PRINCIPAL INVESTMENT STRATEGIES The Fund invests at least 80% of its total assets in the securities of the Morningstar \u00ae US Capital Allocation Leaders Index (the \u201cUnderlying Index\u201d)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-21T18:06:33.187688+00:00",
     "form_type": "485BPOS",
     "cik": "0000932381",
@@ -14439,64 +14497,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-16T17:37:31.119813+00:00",
-    "form_type": "485APOS",
-    "cik": "0002065379",
-    "company_name": "Man ETF Series Trust",
-    "accession_number": "0001193125-26-272071",
-    "filed_date": "2026-06-16",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2065379/000119312526272071/0001193125-26-272071-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2065379/000119312526272071/d129882d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2065379/000119312526272071/d129882d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Man ETF Series Trust\nETF Name: Man Active Global Infrastructure ETF\nStrategy: Man Active Global Infrastructure ETF (the \u201cFund\u201d) seeks to provide long term capital growth Although your actual costs may be higher or lower, based on these assumptions, whether you do or do not sell your shares, your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Man ETF Series Trust",
-        "etf_name": "Man Active Global Infrastructure ETF",
-        "strategy": "Man Active Global Infrastructure ETF (the \u201cFund\u201d) seeks to provide long term capital growth Although your actual costs may be higher or lower, based on these assumptions, whether you do or do not sell your shares, your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-16T12:35:52.818084+00:00",
-    "form_type": "485APOS",
-    "cik": "0002081107",
-    "company_name": "Tidal Trust V",
-    "accession_number": "0001999371-26-012872",
-    "filed_date": "2026-06-16",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126012872/0001999371-26-012872-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126012872/hype-485apos_061626.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126012872/hype-485apos_061626.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: 2x Long Bitwise Hyperliquid ETF\nStrategy: This actively managed, daily-reset leveraged ETF seeks to deliver 200% of the daily percentage change in the share price of the Bitwise Hyperliquid ETF (NYSE: BHYP), gaining amplified indirect exposure to the HYPE token via swap agreements and options rather than direct crypto custody\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust V",
-        "etf_name": "2x Long Bitwise Hyperliquid ETF",
-        "strategy": "This actively managed, daily-reset leveraged ETF seeks to deliver 200% of the daily percentage change in the share price of the Bitwise Hyperliquid ETF (NYSE: BHYP), gaining amplified indirect exposure to the HYPE token via swap agreements and options rather than direct crypto custody",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
