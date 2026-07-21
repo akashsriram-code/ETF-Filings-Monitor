@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-07-21T18:06:33.187688+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000932381",
+    "company_name": "Tributary Funds, Inc.",
+    "accession_number": "0001398344-26-012400",
+    "filed_date": "2026-07-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/932381/000139834426012400/0001398344-26-012400-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/932381/000139834426012400/fp0099631-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/932381/000139834426012400/fp0099631-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tributary Funds, Inc\nETF Name: Fund relatively diversified within its stated investment objective. The Short-Intermediate Bond Fund\nStrategy: The Short-Intermediate Bond Fund\u2019s investment strategy emphasizes fundamental analysis, relative value, and a long-term outlook The Short-Intermediate Bond Fund\u2019s \u201clong-term outlook\u201d is typically a minimum three to five year view of general market conditions that may affect the overall structure of the Short-Intermediate Bond Fund\u2019s portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tributary Funds, Inc",
+        "etf_name": "Fund relatively diversified within its stated investment objective. The Short-Intermediate Bond Fund",
+        "strategy": "The Short-Intermediate Bond Fund\u2019s investment strategy emphasizes fundamental analysis, relative value, and a long-term outlook The Short-Intermediate Bond Fund\u2019s \u201clong-term outlook\u201d is typically a minimum three to five year view of general market conditions that may affect the overall structure of the Short-Intermediate Bond Fund\u2019s portfolio",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-21T18:06:36.802225+00:00",
+    "form_type": "485APOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-015487",
+    "filed_date": "2026-07-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126015487/0001999371-26-015487-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126015487/quantify-485apos_072126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126015487/quantify-485apos_072126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Infrastructure ETF\nStrategy: The Quantify OpenAI Winners and Infrastructure ETF (the \u201cFund\u201d) seeks long-term capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund is an actively managed exchange-traded fund tha\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Infrastructure ETF",
+        "strategy": "The Quantify OpenAI Winners and Infrastructure ETF (the \u201cFund\u201d) seeks long-term capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund is an actively managed exchange-traded fund tha",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-21T15:17:50.993256+00:00",
     "form_type": "485APOS",
     "cik": "0002081107",
@@ -14435,64 +14493,6 @@
         "filer": "Tidal Trust V",
         "etf_name": "2x Long Bitwise Hyperliquid ETF",
         "strategy": "This actively managed, daily-reset leveraged ETF seeks to deliver 200% of the daily percentage change in the share price of the Bitwise Hyperliquid ETF (NYSE: BHYP), gaining amplified indirect exposure to the HYPE token via swap agreements and options rather than direct crypto custody",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-15T21:31:36.386868+00:00",
-    "form_type": "485APOS",
-    "cik": "0002078265",
-    "company_name": "Corgi ETF Trust I",
-    "accession_number": "0002078265-26-000263",
-    "filed_date": "2026-06-15",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000263/0002078265-26-000263-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2078265/000207826526000263/June485APOS.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000263/June485APOS.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Corgi ETF Trust I\nETF Name: Large Language Model ETF Investment Objective The Corgi Large Language Model ETF\nStrategy: Up to 20% may be held in cash, cash equivalents, other equities, or other ETFs for liquidity and portfolio management\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Corgi ETF Trust I",
-        "etf_name": "Large Language Model ETF Investment Objective The Corgi Large Language Model ETF",
-        "strategy": "Up to 20% may be held in cash, cash equivalents, other equities, or other ETFs for liquidity and portfolio management",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-15T21:32:25.559218+00:00",
-    "form_type": "485APOS",
-    "cik": "0002078265",
-    "company_name": "Corgi ETF Trust I",
-    "accession_number": "0002078265-26-000262",
-    "filed_date": "2026-06-15",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000262/0002078265-26-000262-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2078265/000207826526000262/MANGOS485APOS.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000262/MANGOS485APOS.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Corgi ETF Trust I\nETF Name: Corgi MANGOS ETF\nStrategy: The Fund is an actively managed, non-diversified ETF seeking capital appreciation by investing at least 80% of net assets in equity securities, derivatives, and other instruments providing exposure to six specific mega-cap \"MANGOS Companies,\" including Meta Platforms, Inc\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Corgi ETF Trust I",
-        "etf_name": "Corgi MANGOS ETF",
-        "strategy": "The Fund is an actively managed, non-diversified ETF seeking capital appreciation by investing at least 80% of net assets in equity securities, derivatives, and other instruments providing exposure to six specific mega-cap \"MANGOS Companies,\" including Meta Platforms, Inc",
         "is_alert_worthy": "HIGH"
       }
     ],
