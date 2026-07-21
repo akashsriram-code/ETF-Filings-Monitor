@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-07-21T22:07:01.545410+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-007716",
+    "filed_date": "2026-07-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007716/0001829126-26-007716-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626007716/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007716/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) of the daily\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Unknown",
+        "strategy": "The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) of the daily",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-21T22:07:12.875738+00:00",
+    "form_type": "485APOS",
+    "cik": "0001944285",
+    "company_name": "Tema ETF Trust",
+    "accession_number": "0001999371-26-015513",
+    "filed_date": "2026-07-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1944285/000199937126015513/0001999371-26-015513-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1944285/000199937126015513/tema-485apos_072126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1944285/000199937126015513/tema-485apos_072126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tema ETF Trust\nETF Name: TEMA PHYSICAL ACTUATOR ETF\nStrategy: TEMA MLCC ETF \u2013 Investment Objective Tema MLCC ETF (the \u201cFund\u201d) seeks to provide long-term growth\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tema ETF Trust",
+        "etf_name": "TEMA PHYSICAL ACTUATOR ETF",
+        "strategy": "TEMA MLCC ETF \u2013 Investment Objective Tema MLCC ETF (the \u201cFund\u201d) seeks to provide long-term growth",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-21T22:07:16.782689+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001424958",
+    "company_name": "Direxion Shares ETF Trust",
+    "accession_number": "0001193125-26-310518",
+    "filed_date": "2026-07-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526310518/0001193125-26-310518-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1424958/000119312526310518/d92793d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526310518/d92793d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Direxion Shares ETF Trust\nETF Name: Unknown\nStrategy: The Fund, under normal circumstances, invests at least 80% of its net assets (plus any borrowings for investment purposes) in the Index\u2019s constituent securities and financial instruments, such as swap agreements and options, that, in combination, provide exposure to the Index consistent with the Fund\u2019s investment objective The Fund, under normal circumstances, invests at least 80% of its net assets (plus any borrowin\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Direxion Shares ETF Trust",
+        "etf_name": "Unknown",
+        "strategy": "The Fund, under normal circumstances, invests at least 80% of its net assets (plus any borrowings for investment purposes) in the Index\u2019s constituent securities and financial instruments, such as swap agreements and options, that, in combination, provide exposure to the Index consistent with the Fund\u2019s investment objective The Fund, under normal circumstances, invests at least 80% of its net assets (plus any borrowin",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-21T20:56:54.589949+00:00",
     "form_type": "485BPOS",
     "cik": "0001976322",
@@ -14406,93 +14493,6 @@
         "filer": "PROSHARES TRUST",
         "etf_name": "Money Market ETF",
         "strategy": "Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as Montage Technology when Montage Technology rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-16T22:34:41.439502+00:00",
-    "form_type": "485APOS",
-    "cik": "0001174610",
-    "company_name": "PROSHARES TRUST",
-    "accession_number": "0001174610-26-000343",
-    "filed_date": "2026-06-16",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000343/0001174610-26-000343-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000343/f45544d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000343/f45544d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROSHARES TRUST\nETF Name: Money Market ETF\nStrategy: Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as Dongshan Precision when Dongshan Precision rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PROSHARES TRUST",
-        "etf_name": "Money Market ETF",
-        "strategy": "Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as Dongshan Precision when Dongshan Precision rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-16T22:34:44.641145+00:00",
-    "form_type": "485APOS",
-    "cik": "0001174610",
-    "company_name": "PROSHARES TRUST",
-    "accession_number": "0001174610-26-000342",
-    "filed_date": "2026-06-16",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000342/0001174610-26-000342-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000342/f45543d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000342/f45543d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROSHARES TRUST\nETF Name: Money Market ETF\nStrategy: Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as Victory Giant Technology when Victory Giant Technology rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PROSHARES TRUST",
-        "etf_name": "Money Market ETF",
-        "strategy": "Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as Victory Giant Technology when Victory Giant Technology rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-16T17:37:29.070226+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001722388",
-    "company_name": "Tidal Trust III",
-    "accession_number": "0001999371-26-012891",
-    "filed_date": "2026-06-16",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126012891/0001999371-26-012891-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1722388/000199937126012891/iinc-485bpos_061626.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126012891/iinc-485bpos_061626.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust III\nETF Name: Page Alki Consolidated Income ETF\nStrategy: The Alki Consolidated Income ETF (the \u201cFund\u201d) investment objective is to seek income The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks income The Fund\u2019s strategy involves two components: (1) investing, directly or indirectly, in a diversified portfolio of equity securities issued by large- and mid-capitalization companies (the \u201cEquity Strategy\u201d); and (2) seeking to generate options premiums thro\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust III",
-        "etf_name": "Page Alki Consolidated Income ETF",
-        "strategy": "The Alki Consolidated Income ETF (the \u201cFund\u201d) investment objective is to seek income The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks income The Fund\u2019s strategy involves two components: (1) investing, directly or indirectly, in a diversified portfolio of equity securities issued by large- and mid-capitalization companies (the \u201cEquity Strategy\u201d); and (2) seeking to generate options premiums thro",
         "is_alert_worthy": "LOW"
       }
     ],
