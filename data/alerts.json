@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-07-22T17:58:54.155544+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002025968",
+    "company_name": "BNY Mellon ETF Trust II",
+    "accession_number": "0000030146-26-000310",
+    "filed_date": "2026-07-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2025968/000003014626000310/0000030146-26-000310-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2025968/000003014626000310/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2025968/000003014626000310/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BNY Mellon ETF Trust II\nETF Name: Summary BNY Mellon Emerging Markets Debt ETF\nStrategy: The fund seeks high total return (consisting of income and capital appreciation) To pursue its goal, the fund normally invests at least 80% of its net assets, plus any borrowings for investment purposes, in fixed-income securities of emerging markets issuers Duration is an indication of an investment's \"interest rate risk,\" or how sensitive a bond or the fund's portfolio may be to changes in interest rates\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BNY Mellon ETF Trust II",
+        "etf_name": "Summary BNY Mellon Emerging Markets Debt ETF",
+        "strategy": "The fund seeks high total return (consisting of income and capital appreciation) To pursue its goal, the fund normally invests at least 80% of its net assets, plus any borrowings for investment purposes, in fixed-income securities of emerging markets issuers Duration is an indication of an investment's \"interest rate risk,\" or how sensitive a bond or the fund's portfolio may be to changes in interest rates",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-22T16:44:19.838364+00:00",
     "form_type": "485BPOS",
     "cik": "0001592900",
@@ -14464,35 +14493,6 @@
         "filer": "Tidal Trust IV",
         "etf_name": "Put Options Strategy ETF",
         "strategy": "Principal Investment Strategies The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks long exposure to the daily upside, or increase in value, of the Nasdaq 100 Index (the \u201cQ100 Index\u201d), which is an index that is designed to track the",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-16T22:34:18.393594+00:00",
-    "form_type": "485APOS",
-    "cik": "0001023391",
-    "company_name": "FMI FUNDS INC",
-    "accession_number": "0000897069-26-001416",
-    "filed_date": "2026-06-16",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1023391/000089706926001416/0000897069-26-001416-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1023391/000089706926001416/fmi485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1023391/000089706926001416/fmi485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FMI FUNDS INC\nETF Name: FMI Global Equity ETF\nStrategy: AND PRINCIPAL INVESTMENT STRATEGIES AND RISKS Investment Objective: The Fund seeks long-term capital appreciation Although the Fund has no intention of doing so, the Fund may change its investment objective without obtaining shareholder approval AND RISKS Investment Objective: The Fund seeks long-term capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FMI FUNDS INC",
-        "etf_name": "FMI Global Equity ETF",
-        "strategy": "AND PRINCIPAL INVESTMENT STRATEGIES AND RISKS Investment Objective: The Fund seeks long-term capital appreciation Although the Fund has no intention of doing so, the Fund may change its investment objective without obtaining shareholder approval AND RISKS Investment Objective: The Fund seeks long-term capital appreciation",
         "is_alert_worthy": "LOW"
       }
     ],
