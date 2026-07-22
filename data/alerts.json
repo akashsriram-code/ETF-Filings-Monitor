@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-07-22T21:55:29.729440+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000315774",
+    "company_name": "FORUM FUNDS",
+    "accession_number": "0001398344-26-012499",
+    "filed_date": "2026-07-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/315774/000139834426012499/0001398344-26-012499-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/315774/000139834426012499/fp0099630-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/315774/000139834426012499/fp0099630-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FORUM FUNDS\nETF Name: None Annual Fund\nStrategy: There is no guarantee that the Fund will meet its investment objective There is no guarantee that the Fund will meet its investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FORUM FUNDS",
+        "etf_name": "None Annual Fund",
+        "strategy": "There is no guarantee that the Fund will meet its investment objective There is no guarantee that the Fund will meet its investment objective",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-22T21:55:35.548707+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-001475",
+    "filed_date": "2026-07-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001475/0001771146-26-001475-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626001475/ck0001771146-20260722.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001475/ck0001771146-20260722.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Long ETF Each Fund\nStrategy: and the Fund\u2019s performance for periods greater than a trading day will be the result of each day's returns compounded over the period, which is very likely to differ from an underlying security\u2019s\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Opportunities Trust",
+        "etf_name": "Long ETF Each Fund",
+        "strategy": "and the Fund\u2019s performance for periods greater than a trading day will be the result of each day's returns compounded over the period, which is very likely to differ from an underlying security\u2019s",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-22T20:45:43.506156+00:00",
     "form_type": "485BPOS",
     "cik": "0001771146",
@@ -14435,64 +14493,6 @@
         "filer": "DBX ETF TRUST",
         "etf_name": "Hedged Equity ETF Fund Details Additional Information About Fund",
         "strategy": "The fund seeks investment results that correspond generally to the",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-17T17:17:10.236663+00:00",
-    "form_type": "485APOS",
-    "cik": "0001970751",
-    "company_name": "Advisor Managed Portfolios",
-    "accession_number": "0000894189-26-017903",
-    "filed_date": "2026-06-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1970751/000089418926017903/0000894189-26-017903-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1970751/000089418926017903/rebuildetf485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1970751/000089418926017903/rebuildetf485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Advisor Managed Portfolios\nETF Name: Rebuild America ETF\nStrategy: Rebuild America ETF (the \u201cFund\u201d) seeks capital appreciation Although your actual costs may be higher or lower, based on these assumptions your cost would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund is actively managed and seeks capital appreciation by investing in the public equities of\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Advisor Managed Portfolios",
-        "etf_name": "Rebuild America ETF",
-        "strategy": "Rebuild America ETF (the \u201cFund\u201d) seeks capital appreciation Although your actual costs may be higher or lower, based on these assumptions your cost would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund is actively managed and seeks capital appreciation by investing in the public equities of",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-17T17:17:15.175109+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000802716",
-    "company_name": "VICTORY PORTFOLIOS",
-    "accession_number": "0001193125-26-273630",
-    "filed_date": "2026-06-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/802716/000119312526273630/0001193125-26-273630-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/802716/000119312526273630/f45540d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/802716/000119312526273630/f45540d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: VICTORY PORTFOLIOS\nETF Name: Victory RS Growth Fund\nStrategy: The Victory RS Mid Cap Growth Fund (the \u201cFund\u201d) seeks to provide long-term capital growth 6 Victory RS Mid Cap Growth Investment Objective The Victory RS Mid Cap Growth Fund (the \u201cFund\u201d) seeks to provide long-term capital growth effectively\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "VICTORY PORTFOLIOS",
-        "etf_name": "Victory RS Growth Fund",
-        "strategy": "The Victory RS Mid Cap Growth Fund (the \u201cFund\u201d) seeks to provide long-term capital growth 6 Victory RS Mid Cap Growth Investment Objective The Victory RS Mid Cap Growth Fund (the \u201cFund\u201d) seeks to provide long-term capital growth effectively",
         "is_alert_worthy": "LOW"
       }
     ],
