@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-07-22T20:45:43.506156+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-001473",
+    "filed_date": "2026-07-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001473/0001771146-26-001473-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626001473/ck0001771146-20260722.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001473/ck0001771146-20260722.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Long ETF Each Fund\nStrategy: and the Fund\u2019s performance for periods greater than a trading day will be the result of each day's returns compounded over the period, which is very likely to differ from an underlying security\u2019s\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Opportunities Trust",
+        "etf_name": "Long ETF Each Fund",
+        "strategy": "and the Fund\u2019s performance for periods greater than a trading day will be the result of each day's returns compounded over the period, which is very likely to differ from an underlying security\u2019s",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-22T17:58:54.155544+00:00",
     "form_type": "485BPOS",
     "cik": "0002025968",
@@ -14464,35 +14493,6 @@
         "filer": "VICTORY PORTFOLIOS",
         "etf_name": "Victory RS Growth Fund",
         "strategy": "The Victory RS Mid Cap Growth Fund (the \u201cFund\u201d) seeks to provide long-term capital growth 6 Victory RS Mid Cap Growth Investment Objective The Victory RS Mid Cap Growth Fund (the \u201cFund\u201d) seeks to provide long-term capital growth effectively",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-17T14:01:29.973874+00:00",
-    "form_type": "485APOS",
-    "cik": "0002043390",
-    "company_name": "Tidal Trust IV",
-    "accession_number": "0001999371-26-012964",
-    "filed_date": "2026-06-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126012964/0001999371-26-012964-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126012964/dailydelta-485apos_061726.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126012964/dailydelta-485apos_061726.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: Put Options Strategy ETF\nStrategy: Principal Investment Strategies The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks long exposure to the daily upside, or increase in value, of the Nasdaq 100 Index (the \u201cQ100 Index\u201d), which is an index that is designed to track the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust IV",
-        "etf_name": "Put Options Strategy ETF",
-        "strategy": "Principal Investment Strategies The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks long exposure to the daily upside, or increase in value, of the Nasdaq 100 Index (the \u201cQ100 Index\u201d), which is an index that is designed to track the",
         "is_alert_worthy": "LOW"
       }
     ],
