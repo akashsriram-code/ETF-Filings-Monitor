@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-07-24T15:04:23.857107+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000740766",
+    "company_name": "DREYFUS GOVERNMENT CASH MANAGEMENT FUNDS",
+    "accession_number": "0000030146-26-000314",
+    "filed_date": "2026-07-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/740766/000003014626000314/0000030146-26-000314-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/740766/000003014626000314/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/740766/000003014626000314/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: DREYFUS GOVERNMENT CASH MANAGEMENT FUNDS\nETF Name: Total annual fund\nStrategy: The fund seeks to enter into repurchase agreements that present minimal credit risk (and are considered \"eligible securities\" as defined in Rule 2a-7 under the 1940 Act), based on an assessment by Dreyfus, a division of Mellon Investments Corporation (Dreyfus), the fund's sub \u2011 adviser, of the counterparty's credit quality and capacity to meet its financial obligations, among other factors Although your actual costs\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "DREYFUS GOVERNMENT CASH MANAGEMENT FUNDS",
+        "etf_name": "Total annual fund",
+        "strategy": "The fund seeks to enter into repurchase agreements that present minimal credit risk (and are considered \"eligible securities\" as defined in Rule 2a-7 under the 1940 Act), based on an assessment by Dreyfus, a division of Mellon Investments Corporation (Dreyfus), the fund's sub \u2011 adviser, of the counterparty's credit quality and capacity to meet its financial obligations, among other factors Although your actual costs",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-24T15:04:30.282845+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001450501",
+    "company_name": "Columbia ETF Trust II",
+    "accession_number": "0001193125-26-315293",
+    "filed_date": "2026-07-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1450501/000119312526315293/0001193125-26-315293-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1450501/000119312526315293/d112512d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1450501/000119312526315293/d112512d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Columbia ETF Trust II\nETF Name: Columbia ETF Trust\nStrategy: by attempting to replicate the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Columbia ETF Trust II",
+        "etf_name": "Columbia ETF Trust",
+        "strategy": "by attempting to replicate the",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-24T15:04:39.694265+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001551950",
+    "company_name": "Columbia ETF Trust I",
+    "accession_number": "0001193125-26-315281",
+    "filed_date": "2026-07-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1551950/000119312526315281/0001193125-26-315281-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1551950/000119312526315281/d216531d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1551950/000119312526315281/d216531d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Columbia ETF Trust I\nETF Name: Manager has contractually agreed to implement a waiver with respect to Fund\nStrategy: The Predecessor Fund was managed by the same investment manager and its investment objective and investment strategy were substantially similar to those of the Fund The Predecessor Fund was managed by the same investment manager and its investment objective and investment strategy were substantially similar to those of the Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Columbia ETF Trust I",
+        "etf_name": "Manager has contractually agreed to implement a waiver with respect to Fund",
+        "strategy": "The Predecessor Fund was managed by the same investment manager and its investment objective and investment strategy were substantially similar to those of the Fund The Predecessor Fund was managed by the same investment manager and its investment objective and investment strategy were substantially similar to those of the Fund",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-24T13:00:43.053299+00:00",
     "form_type": "485BPOS",
     "cik": "0001097519",
@@ -14406,93 +14493,6 @@
         "filer": "ETF Opportunities Trust",
         "etf_name": "Long MANGOS Daily Target ETF",
         "strategy": "The Fund seeks daily investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-18T22:13:24.747728+00:00",
-    "form_type": "485APOS",
-    "cik": "0001771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-001280",
-    "filed_date": "2026-06-18",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001280/0001771146-26-001280-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626001280/etfot-txrex2xinverse6newetd.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001280/etfot-txrex2xinverse6newetd.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Inverse Anduril Daily Target ETF\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Opportunities Trust",
-        "etf_name": "Inverse Anduril Daily Target ETF",
-        "strategy": "The Fund seeks daily investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-18T22:13:27.883364+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001924868",
-    "company_name": "Tidal Trust II",
-    "accession_number": "0001999371-26-013133",
-    "filed_date": "2026-06-18",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013133/0001999371-26-013133-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126013133/rank-485bpos_061826.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126013133/rank-485bpos_061826.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: SUMMARY INFORMATION Defiance KSM TipRanks Analyst ETF\nStrategy: The Defiance KSM TipRanks Analyst ETF (the \u201cFund\u201d) seeks to track the The Fund is an exchange-traded fund (\u201cETF\u201d) that uses a passive\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust II",
-        "etf_name": "SUMMARY INFORMATION Defiance KSM TipRanks Analyst ETF",
-        "strategy": "The Defiance KSM TipRanks Analyst ETF (the \u201cFund\u201d) seeks to track the The Fund is an exchange-traded fund (\u201cETF\u201d) that uses a passive",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-18T22:13:33.075773+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000044402",
-    "company_name": "NEUBERGER BERMAN EQUITY FUNDS",
-    "accession_number": "0000898432-26-000419",
-    "filed_date": "2026-06-18",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/44402/000089843226000419/0000898432-26-000419-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/44402/000089843226000419/nbef-20250831.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/44402/000089843226000419/nbef-20250831.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: NEUBERGER BERMAN EQUITY FUNDS\nETF Name: VanEck ETF Trust Fund\nStrategy: Multi-manager global equity fund that invests across all market capitalizations\u2014including common stocks, preferred stocks, convertibles, depositary receipts, REITs, and ETFs\u2014with portfolio managers dynamically allocating among underlying sub-strategies based on risk/return assessments The fund maintains fund-of-funds investment agreements with vehicles such as VanEck ETF Trust and SPDR Series Trust, and may use deriv...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "NEUBERGER BERMAN EQUITY FUNDS",
-        "etf_name": "Unknown",
-        "strategy": "may, to a limited extent, use certain derivatives as a means of hedging risk and/or for investment or efficient portfolio",
         "is_alert_worthy": "LOW"
       }
     ],
