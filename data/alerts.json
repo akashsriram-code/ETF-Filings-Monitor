@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-07-24T22:18:54.389871+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001959372",
+    "company_name": "Aristotle Funds Series Trust",
+    "accession_number": "0000894189-26-021422",
+    "filed_date": "2026-07-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1959372/000089418926021422/0000894189-26-021422-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1959372/000089418926021422/ck0001959372-20260724.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1959372/000089418926021422/ck0001959372-20260724.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Aristotle Funds Series Trust\nETF Name: Aristotle Multi-Sector Income ETF\nStrategy: HISTORICAL PERFORMANCE OF THE FUNDS\u2019 SUB-ADVISER Performance Information for Similar Accounts The following tables set forth historical performance information for composites consisting of all discretionary accounts managed by the Sub-Adviser that have substantially similar investment objectives, policies, strategies, risks and investment restrictions as the listed Fund. Each Composite includes all actual discretiona...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Aristotle Funds Series Trust",
+        "etf_name": "Aristotle Multi-Sector Income ETF",
+        "strategy": "HISTORICAL PERFORMANCE OF THE FUNDS\u2019 SUB-ADVISER Performance Information for Similar Accounts The following tables set forth historical performance information for composites consisting of all discretionary accounts managed by the Sub-Adviser that have substantially similar investment objectives, policies, strategies, risks and investment restrictions as the listed Fund. Each Composite includes all actual discretiona...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-24T22:18:56.991444+00:00",
+    "form_type": "486BPOS",
+    "cik": "0001589390",
+    "company_name": "Evanston Multi-Alpha Fund",
+    "accession_number": "0001580642-26-004596",
+    "filed_date": "2026-07-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1589390/000158064226004596/0001580642-26-004596-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1589390/000158064226004596/emaf_486bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1589390/000158064226004596/emaf_486bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Evanston Multi-Alpha Fund\nETF Name: Unknown\nStrategy: Neither the Transition nor the proposed conversion (as defined below) will result in any material changes in the day-to-day portfolio management of the Fund or to the Fund\u2019s investment objective and\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Evanston Multi-Alpha Fund",
+        "etf_name": "Unknown",
+        "strategy": "Neither the Transition nor the proposed conversion (as defined below) will result in any material changes in the day-to-day portfolio management of the Fund or to the Fund\u2019s investment objective and",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-24T22:19:00.056861+00:00",
+    "form_type": "485APOS",
+    "cik": "0001782952",
+    "company_name": "Kurv ETF Trust",
+    "accession_number": "0001999371-26-015850",
+    "filed_date": "2026-07-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126015850/0001999371-26-015850-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1782952/000199937126015850/kurv-485apos_072426.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126015850/kurv-485apos_072426.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Kurv ETF Trust\nETF Name: Principal Investment Strategies The Nasdaq-100 Fund\nStrategy: Kurv Nasdaq-100 Enhanced Income ETF (the \u201cNasdaq-100 Fund\u201d) seeks to provide current income\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Kurv ETF Trust",
+        "etf_name": "Principal Investment Strategies The Nasdaq-100 Fund",
+        "strategy": "Kurv Nasdaq-100 Enhanced Income ETF (the \u201cNasdaq-100 Fund\u201d) seeks to provide current income",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-24T21:08:58.167293+00:00",
     "form_type": "485BPOS",
     "cik": "0001645194",
@@ -14406,93 +14493,6 @@
         "filer": "Tidal Trust V",
         "etf_name": "Defiance S&P Accelerator ETF",
         "strategy": "The Defiance S&P Accelerator ETF (the \u201cFund\u201d) seeks to provide long-term capital appreciation Overview The Fund is an actively managed ETF that seeks to achieve its investment objective through exposure to a broad universe of large-capitalization U.S Under normal market conditions, the Strategy will invest in a portfolio consisting of exposure to equity securities of companies included in the S&P 500 \u00ae and ETFs that",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-23T17:28:35.830451+00:00",
-    "form_type": "485APOS",
-    "cik": "0001710607",
-    "company_name": "AMERICAN CENTURY ETF TRUST",
-    "accession_number": "0001710607-26-000108",
-    "filed_date": "2026-06-23",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1710607/000171060726000108/0001710607-26-000108-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1710607/000171060726000108/acetftinsights485a-06232026.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1710607/000171060726000108/acetftinsights485a-06232026.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AMERICAN CENTURY ETF TRUST\nETF Name: Sale of Fund\nStrategy: The portfolio managers look for stocks of companies they believe will increase in value over time, using an investment strategy developed by the fund\u2019s investment advisor The portfolio managers look for stocks of companies they believe will increase in value over time, using an investment strategy developed by the fund\u2019s investment advisor\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AMERICAN CENTURY ETF TRUST",
-        "etf_name": "Sale of Fund",
-        "strategy": "The portfolio managers look for stocks of companies they believe will increase in value over time, using an investment strategy developed by the fund\u2019s investment advisor The portfolio managers look for stocks of companies they believe will increase in value over time, using an investment strategy developed by the fund\u2019s investment advisor",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-23T15:26:16.379269+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001005942",
-    "company_name": "PUTNAM FUNDS TRUST",
-    "accession_number": "0001193125-26-278699",
-    "filed_date": "2026-06-23",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1005942/000119312526278699/0001193125-26-278699-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1005942/000119312526278699/d115456d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1005942/000119312526278699/d115456d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PUTNAM FUNDS TRUST\nETF Name: Putnam Floating Rate Income Fund\nStrategy: Prospectus 43 Putnam Floating Rate Income Fund - Class R Year Ended February 28, 2026 2025 2024 a 2023 2022 Per share operating performance (for a share outstanding throughout the year) Net asset valu at times to liquidate other investments, including when it is not advantageous to do so, in order to satisfy its distribution requirements. Prospectus 43 Putnam Floating Rate Income Fund - Class R Year Ended February 28...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PUTNAM FUNDS TRUST",
-        "etf_name": "Putnam Floating Rate Income Fund",
-        "strategy": "Prospectus 43 Putnam Floating Rate Income Fund - Class R Year Ended February 28, 2026 2025 2024 a 2023 2022 Per share operating performance (for a share outstanding throughout the year) Net asset valu at times to liquidate other investments, including when it is not advantageous to do so, in order to satisfy its distribution requirements. Prospectus 43 Putnam Floating Rate Income Fund - Class R Year Ended February 28...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-23T15:26:28.244695+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000932101",
-    "company_name": "PUTNAM INVESTMENT FUNDS",
-    "accession_number": "0001193125-26-278686",
-    "filed_date": "2026-06-23",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/932101/000119312526278686/0001193125-26-278686-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/932101/000119312526278686/d130892d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/932101/000119312526278686/d130892d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PUTNAM INVESTMENT FUNDS\nETF Name: Putnam Small Cap Value Fund\nStrategy: (5) Make loans, except by purchase of debt obligations in which the Fund may invest consistent with its investment policies (including without limitation debt obligations issued by other Putnam funds), by entering into repurchase agreements, or by lending its portfolio securities Putnam Small Cap Value Fund Prospectus July 1, 2026 Class A Class C Class R Class R6 Class Y PSLAX PSLCX PSCRX PSCMX PYSVX Investment Categ\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PUTNAM INVESTMENT FUNDS",
-        "etf_name": "Putnam Small Cap Value Fund",
-        "strategy": "(5) Make loans, except by purchase of debt obligations in which the Fund may invest consistent with its investment policies (including without limitation debt obligations issued by other Putnam funds), by entering into repurchase agreements, or by lending its portfolio securities Putnam Small Cap Value Fund Prospectus July 1, 2026 Class A Class C Class R Class R6 Class Y PSLAX PSLCX PSCRX PSCMX PYSVX Investment Categ",
         "is_alert_worthy": "LOW"
       }
     ],
