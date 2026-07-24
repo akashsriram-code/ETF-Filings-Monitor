@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-07-24T11:26:35.872000+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001795351",
+    "company_name": "T. Rowe Price Exchange-Traded Funds, Inc.",
+    "accession_number": "0001999371-26-015740",
+    "filed_date": "2026-07-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1795351/000199937126015740/0001999371-26-015740-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1795351/000199937126015740/etf-485bpos_072426.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1795351/000199937126015740/etf-485bpos_072426.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: T. Rowe Price Exchange-Traded Funds, Inc\nETF Name: Summary Biotech ETF\nStrategy: The fund normally invests at least 80% of its net assets (plus any borrowings for investment purposes) in the securities of biotechnology companies Any derivatives that provide exposure to the investment focus suggested by the fund\u2019s name, or to one or more market risk factors associated with the investment focus suggested by the fund\u2019s name, are counted (as applicable) toward compliance with the fund\u2019s 80% investmen\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "T. Rowe Price Exchange-Traded Funds, Inc",
+        "etf_name": "Summary Biotech ETF",
+        "strategy": "The fund normally invests at least 80% of its net assets (plus any borrowings for investment purposes) in the securities of biotechnology companies Any derivatives that provide exposure to the investment focus suggested by the fund\u2019s name, or to one or more market risk factors associated with the investment focus suggested by the fund\u2019s name, are counted (as applicable) toward compliance with the fund\u2019s 80% investmen",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-24T11:26:41.609862+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001644419",
+    "company_name": "Northern Lights Fund Trust IV",
+    "accession_number": "0001580642-26-004562",
+    "filed_date": "2026-07-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1644419/000158064226004562/0001580642-26-004562-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1644419/000158064226004562/usam_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1644419/000158064226004562/usam_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust IV\nETF Name: Each a Series of Northern Lights Fund Trust\nStrategy: and could increase the operating expenses of the Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Northern Lights Fund Trust IV",
+        "etf_name": "Each a Series of Northern Lights Fund Trust",
+        "strategy": "and could increase the operating expenses of the Fund",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-23T21:32:57.689150+00:00",
     "form_type": "485BPOS",
     "cik": "0001576367",
@@ -14435,64 +14493,6 @@
         "filer": "PROSHARES TRUST",
         "etf_name": "The time and manner in which a Fund",
         "strategy": "In addition, a Fund may use a combination of swaps on an underlying index and swaps on an ETF that is designed to track the AND RELATED RISKS PROSHARES.COM subject to greater correlation risk and may not achieve as high a degree of correlation with its index as it would if the Fund only used swaps on the underlying index The factors most likely to have a significant impact on a Fund\u2019s portfolio are called \u201cprincipal",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-18T22:13:45.210909+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-006686",
-    "filed_date": "2026-06-18",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006686/0001829126-26-006686-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626006686/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626006686/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Leverage Shares 2X Short SK Hynix Daily ETF\nStrategy: The fund seeks daily investment results corresponding to \u2013200% (\u20132X) of the daily price performance of SK Hynix Inc\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "Unknown",
-        "strategy": "The Fund is subject to the risk that a counterparty to a derivatives transaction, including a swap agreement or option contract, may be unwilling or unable to make timely payments or otherwise meet its contractual obligations, or may fail to return holdings that are subject to the agreement, which could result in losses to the Fund and may impair the Fund\u2019s ability to achieve its daily inverse investment objective In",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-18T22:13:48.386930+00:00",
-    "form_type": "485APOS",
-    "cik": "0001174610",
-    "company_name": "PROSHARES TRUST",
-    "accession_number": "0001174610-26-000364",
-    "filed_date": "2026-06-18",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000364/0001174610-26-000364-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000364/f45621d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000364/f45621d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROSHARES TRUST\nETF Name: Management of ProShares Trust\nStrategy: Principal Investment Strategies The Fund invests in financial instruments that ProShare Advisors believes, in combination, should track the performance of the Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PROSHARES TRUST",
-        "etf_name": "Management of ProShares Trust",
-        "strategy": "Principal Investment Strategies The Fund invests in financial instruments that ProShare Advisors believes, in combination, should track the performance of the Index",
         "is_alert_worthy": "LOW"
       }
     ],
