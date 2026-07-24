@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-07-24T19:54:53.550748+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001587551",
+    "company_name": "Capitol Series Trust",
+    "accession_number": "0001580642-26-004589",
+    "filed_date": "2026-07-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587551/000158064226004589/0001580642-26-004589-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587551/000158064226004589/fullerthaler_486b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587551/000158064226004589/fullerthaler_486b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Capitol Series Trust\nETF Name: S RESEARCH PROCESS FullerThaler Behavioral Growth ETF\nStrategy: Update The investment objective of the Fund may be changed upon notice to shareholders without shareholder approval The Fund will primarily use a behavioral under-reaction strategy to invest the majority of the portfolio in domestic mid-cap growth stocks that are mid-cap at the time of purchase\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Capitol Series Trust",
+        "etf_name": "S RESEARCH PROCESS FullerThaler Behavioral Growth ETF",
+        "strategy": "Update The investment objective of the Fund may be changed upon notice to shareholders without shareholder approval The Fund will primarily use a behavioral under-reaction strategy to invest the majority of the portfolio in domestic mid-cap growth stocks that are mid-cap at the time of purchase",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-24T18:22:47.605719+00:00",
     "form_type": "485BPOS",
     "cik": "0001592900",
@@ -14464,35 +14493,6 @@
         "filer": "AMERICAN BEACON SELECT FUNDS",
         "etf_name": "American Beacon Aberdeen Municipal High Income ETF",
         "strategy": "Within these macro views, the sub-advisor seeks to capture a broad range of credit opportunities through bottom-up fundamental research, evaluating factors such as debt profile, liquidity, profitability, management quality, security and covenant protections, and socioeconomic trends, among other factors In constructing the portfolio, the sub-advisor also monitors state- and sector-level exposures and single issuer al",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-22T19:45:25.312585+00:00",
-    "form_type": "485BPOS",
-    "cik": "0002025968",
-    "company_name": "BNY Mellon ETF Trust II",
-    "accession_number": "0000030146-26-000274",
-    "filed_date": "2026-06-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2025968/000003014626000274/0000030146-26-000274-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2025968/000003014626000274/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2025968/000003014626000274/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BNY Mellon ETF Trust II\nETF Name: Total annual fund\nStrategy: The fund seeks to provide a high level of current income To pursue its goal, the fund normally invests at least 80% of its net assets, plus any borrowings for investment purposes, in fixed-income securities The fund, however, may invest up to 25% of its assets in fixed-income securities rated, at the time of purchase, below investment grade (\"high yield\" or \"junk\" bonds), but not rated lower than B, or the unrated eq\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BNY Mellon ETF Trust II",
-        "etf_name": "Total annual fund",
-        "strategy": "The fund seeks to provide a high level of current income To pursue its goal, the fund normally invests at least 80% of its net assets, plus any borrowings for investment purposes, in fixed-income securities The fund, however, may invest up to 25% of its assets in fixed-income securities rated, at the time of purchase, below investment grade (\"high yield\" or \"junk\" bonds), but not rated lower than B, or the unrated eq",
         "is_alert_worthy": "LOW"
       }
     ],
