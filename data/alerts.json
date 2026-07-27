@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-07-27T13:44:49.320482+00:00",
+    "form_type": "485APOS",
+    "cik": "0001896670",
+    "company_name": "Thrivent ETF Trust",
+    "accession_number": "0001193125-26-317051",
+    "filed_date": "2026-07-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1896670/000119312526317051/0001193125-26-317051-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1896670/000119312526317051/d52024d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1896670/000119312526317051/d52024d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Thrivent ETF Trust\nETF Name: Thrivent Securitized Income ETF TSIE Investment Objective Thrivent Securitized Income ETF\nStrategy: The Fund is actively managed and the success of its investment strategy depends significantly on the skills of the Adviser in assessing the potential of the investments in which the Fund invests The Fund is actively managed and the success of its investment strategy depends significantly on the skills of the Adviser in assessing the potential of the investments in which the Fund invests\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Thrivent ETF Trust",
+        "etf_name": "Thrivent Securitized Income ETF TSIE Investment Objective Thrivent Securitized Income ETF",
+        "strategy": "The Fund is actively managed and the success of its investment strategy depends significantly on the skills of the Adviser in assessing the potential of the investments in which the Fund invests The Fund is actively managed and the success of its investment strategy depends significantly on the skills of the Adviser in assessing the potential of the investments in which the Fund invests",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-27T13:44:53.019413+00:00",
+    "form_type": "485APOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-015899",
+    "filed_date": "2026-07-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126015899/0001999371-26-015899-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126015899/pasqal-485apos_072726.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126015899/pasqal-485apos_072726.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Unknown\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "Unknown",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-27T11:00:57.307842+00:00",
     "form_type": "485BPOS",
     "cik": "0001633061",
@@ -14435,64 +14493,6 @@
         "filer": "Investment Managers Series Trust II",
         "etf_name": "Long CIEN Daily ETF",
         "strategy": "The Tradr 2X Long CIEN Daily ETF seeks daily investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-23T21:17:48.844451+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001761055",
-    "company_name": "BlackRock ETF Trust",
-    "accession_number": "0001193125-26-279441",
-    "filed_date": "2026-06-23",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526279441/0001193125-26-279441-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1761055/000119312526279441/d82220d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526279441/d82220d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BlackRock ETF Trust\nETF Name: NYSE Arca Investment Objective The iShares Dynamic Short-Term Active ETF\nStrategy: The iShares Dynamic Short-Term Active ETF (the \u201cFund\u201d) (formerly known as iShares Enhanced Short-Term Bond Active ETF) seeks total return, net of Fund expenses, in excess of the ICE BofA 3\u2011Month U.S S-1 The Fund seeks to achieve its investment objective by allocating opportunistically across global fixed income, equities and currencies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BlackRock ETF Trust",
-        "etf_name": "NYSE Arca Investment Objective The iShares Dynamic Short-Term Active ETF",
-        "strategy": "The iShares Dynamic Short-Term Active ETF (the \u201cFund\u201d) (formerly known as iShares Enhanced Short-Term Bond Active ETF) seeks total return, net of Fund expenses, in excess of the ICE BofA 3\u2011Month U.S S-1 The Fund seeks to achieve its investment objective by allocating opportunistically across global fixed income, equities and currencies",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-23T21:17:52.064070+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-001294",
-    "filed_date": "2026-06-23",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001294/0001771146-26-001294-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626001294/ck0001771146-20260624.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001294/ck0001771146-20260624.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Long DRAM Daily Target ETF\nStrategy: Although your actual costs may be higher or lower, based on these assumptions your costs would be: Name of Fund 1 Year 3 Years Roundhill T-REX 2X Long DRAM Daily Target ETF $ 127 $ 450 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund may also seek to achieve its investment objective by purchasing call options on DRAM or\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Opportunities Trust",
-        "etf_name": "Long DRAM Daily Target ETF",
-        "strategy": "Although your actual costs may be higher or lower, based on these assumptions your costs would be: Name of Fund 1 Year 3 Years Roundhill T-REX 2X Long DRAM Daily Target ETF $ 127 $ 450 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund may also seek to achieve its investment objective by purchasing call options on DRAM or",
         "is_alert_worthy": "LOW"
       }
     ],
