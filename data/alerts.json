@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-07-28T17:11:55.826803+00:00",
+    "form_type": "485APOS",
+    "cik": "0001215880",
+    "company_name": "NEIMAN FUNDS",
+    "accession_number": "0001413042-26-000618",
+    "filed_date": "2026-07-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1215880/000141304226000618/0001413042-26-000618-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1215880/000141304226000618/acmpe72apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1215880/000141304226000618/acmpe72apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NEIMAN FUNDS\nETF Name: The Sub-Advisor primarily employs a fund\nStrategy: of the Fund Under normal circumstances, the Fund invests at least 80% of its assets (defined as net assets plus borrowing for investment purposes) in the securities of small capitalization companies The Fund's investment advisor delegates execution of the Fund's investment strategy to Advisors Capital\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NEIMAN FUNDS",
+        "etf_name": "The Sub-Advisor primarily employs a fund",
+        "strategy": "of the Fund Under normal circumstances, the Fund invests at least 80% of its assets (defined as net assets plus borrowing for investment purposes) in the securities of small capitalization companies The Fund's investment advisor delegates execution of the Fund's investment strategy to Advisors Capital",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-28T17:11:57.703389+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001199046",
+    "company_name": "UNIFIED SERIES TRUST",
+    "accession_number": "0001580642-26-004637",
+    "filed_date": "2026-07-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1199046/000158064226004637/0001580642-26-004637-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1199046/000158064226004637/absoluteetf_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1199046/000158064226004637/absoluteetf_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: UNIFIED SERIES TRUST\nETF Name: Unknown\nStrategy: The Fund seeks positive absolute returns James Investment Company, LLC, the Fund\u2019s investment sub-adviser (the \u201cSubadviser\u201d), seeks to achieve the Fund\u2019s objective by investing primarily in equity securities of U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "UNIFIED SERIES TRUST",
+        "etf_name": "Unknown",
+        "strategy": "The Fund seeks positive absolute returns James Investment Company, LLC, the Fund\u2019s investment sub-adviser (the \u201cSubadviser\u201d), seeks to achieve the Fund\u2019s objective by investing primarily in equity securities of U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-28T15:40:59.053405+00:00",
     "form_type": "485BPOS",
     "cik": "0000863209",
@@ -14439,64 +14497,6 @@
       }
     ],
     "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-25T21:21:31.489522+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000909466",
-    "company_name": "AIM TAX-EXEMPT FUNDS (INVESCO TAX-EXEMPT FUNDS)",
-    "accession_number": "0001104659-26-077727",
-    "filed_date": "2026-06-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/909466/000110465926077727/0001104659-26-077727-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/909466/000110465926077727/tm2618073d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/909466/000110465926077727/tm2618073d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AIM Tax-Exempt Funds (Invesco Tax-Exempt Funds)\nETF Name: Invesco California Municipal Fund / Invesco Municipal Income Fund (multi-fund trust filing)\nStrategy: The funds invest at least 80% of net assets in municipal securities whose interest is exempt from federal income tax, with the California fund further targeting exemption from California state income tax\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AIM Tax-Exempt Funds (Invesco Tax-Exempt Funds)",
-        "etf_name": "Invesco California Municipal Fund / Invesco Municipal Income Fund (multi-fund trust filing)",
-        "strategy": "The funds invest at least 80% of net assets in municipal securities whose interest is exempt from federal income tax, with the California fund further targeting exemption from California state income tax",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-25T21:23:03.194241+00:00",
-    "form_type": "485APOS",
-    "cik": "0000710124",
-    "company_name": "NORTHERN INSTITUTIONAL FUNDS",
-    "accession_number": "0001193125-26-282634",
-    "filed_date": "2026-06-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/710124/000119312526282634/0001193125-26-282634-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/710124/000119312526282634/d125385d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/710124/000119312526282634/d125385d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Northern Institutional Funds\nETF Name: Stablecoin Cash Reserves Portfolio\nStrategy: A Rule 2a-7 government money market fund that invests in cash, U.S The fund seeks to maximize current income while preserving capital and maintaining liquidity, with holdings limited to eligible securities presenting minimal credit risk\nIS ALERT WORTHY: HIGH\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Northern Institutional Funds",
-        "etf_name": "Stablecoin Cash Reserves Portfolio",
-        "strategy": "A Rule 2a-7 government money market fund that invests in cash, U.S The fund seeks to maximize current income while preserving capital and maintaining liquidity, with holdings limited to eligible securities presenting minimal credit risk",
-        "is_alert_worthy": "HIGH"
-      }
-    ],
-    "wire_recommendation": "HIGH",
     "why_this_matters": [
       "Captured for ETF desk triage and potential wire follow-up.",
       "Escalate when the filing changes strategy, structure, exposure, or launch timing."
