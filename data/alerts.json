@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-07-30T22:40:56.078732+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001496608",
+    "company_name": "AB Active ETFs, Inc.",
+    "accession_number": "0000919574-26-004699",
+    "filed_date": "2026-07-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1496608/000091957426004699/0000919574-26-004699-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1496608/000091957426004699/d161945d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1496608/000091957426004699/d161945d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AB Active ETFs, Inc\nETF Name: Fund is subject to management risk because it is an actively-managed ETF\nStrategy: \u2022 Model Risk: The Fund seeks to achieve its investment objective through a rules-based portfolio construction process that incorporates fundamental inputs and proprietary quantitative models \u2022 Model Risk: The Fund seeks to achieve its investment objective through a rules-based portfolio construction process that incorporates fundamental inputs and proprietary quantitative models\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AB Active ETFs, Inc",
+        "etf_name": "Fund is subject to management risk because it is an actively-managed ETF",
+        "strategy": "\u2022 Model Risk: The Fund seeks to achieve its investment objective through a rules-based portfolio construction process that incorporates fundamental inputs and proprietary quantitative models \u2022 Model Risk: The Fund seeks to achieve its investment objective through a rules-based portfolio construction process that incorporates fundamental inputs and proprietary quantitative models",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-30T21:26:04.831872+00:00",
     "form_type": "485BPOS",
     "cik": "0001131013",
@@ -14462,35 +14491,6 @@
     "synopsis_items": [
       {
         "filer": "MIDLAND NATIONAL LIFE INSURANCE CO RILA",
-        "etf_name": "Columbia Funds Variable Insurance Trust",
-        "strategy": "and risk profile to the original Index Information regarding each Investment Portfolio, including (i) its name, (ii) its type, (iii) its investment advisor and any sub-investment advisor, (iv) current expenses, and (v)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-01T16:00:06.442164+00:00",
-    "form_type": "485APOS",
-    "cik": "0000906564",
-    "company_name": "MIDLAND NATIONAL LIFE SEPARATE ACCOUNT C",
-    "accession_number": "0000906564-26-000063",
-    "filed_date": "2026-07-01",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/906564/000090656426000063/0000906564-26-000063-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/906564/000090656426000063/n-4dynxlivewell.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/906564/000090656426000063/n-4dynxlivewell.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: MIDLAND NATIONAL LIFE SEPARATE ACCOUNT C\nETF Name: Columbia Funds Variable Insurance Trust\nStrategy: and risk profile to the original Index Information regarding each Investment Portfolio, including (i) its name, (ii) its type, (iii) its investment advisor and any sub-investment advisor, (iv) current expenses, and (v)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "MIDLAND NATIONAL LIFE SEPARATE ACCOUNT C",
         "etf_name": "Columbia Funds Variable Insurance Trust",
         "strategy": "and risk profile to the original Index Information regarding each Investment Portfolio, including (i) its name, (ii) its type, (iii) its investment advisor and any sub-investment advisor, (iv) current expenses, and (v)",
         "is_alert_worthy": "LOW"
