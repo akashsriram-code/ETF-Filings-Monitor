@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-07-30T15:27:33.726114+00:00",
+    "form_type": "485APOS",
+    "cik": "0001418144",
+    "company_name": "INVESCO ACTIVELY MANAGED EXCHANGE-TRADED FUND TRUST",
+    "accession_number": "0001193125-26-325154",
+    "filed_date": "2026-07-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1418144/000119312526325154/0001193125-26-325154-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1418144/000119312526325154/d164014d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1418144/000119312526325154/d164014d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: INVESCO ACTIVELY MANAGED EXCHANGE-TRADED FUND TRUST\nETF Name: Summary Information Investment Objective The Invesco Emerging Markets Enhanced ETF\nStrategy: The Invesco Emerging Markets Enhanced ETF (the \u201cFund\u201d) seeks to provide capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "INVESCO ACTIVELY MANAGED EXCHANGE-TRADED FUND TRUST",
+        "etf_name": "Summary Information Investment Objective The Invesco Emerging Markets Enhanced ETF",
+        "strategy": "The Invesco Emerging Markets Enhanced ETF (the \u201cFund\u201d) seeks to provide capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-30T15:27:37.146817+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000809981",
+    "company_name": "SIT U S GOVERNMENT SECURITIES FUND INC",
+    "accession_number": "0001193125-26-325109",
+    "filed_date": "2026-07-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/809981/000119312526325109/0001193125-26-325109-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/809981/000119312526325109/d35657d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/809981/000119312526325109/d35657d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SIT U S GOVERNMENT SECURITIES FUND INC\nETF Name: DIVIDENDS AND DISTRIBUTIONS Dividends from a Fund\nStrategy: A capital gain occurs if a Fund sells portfolio securities for more than its cost\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SIT U S GOVERNMENT SECURITIES FUND INC",
+        "etf_name": "DIVIDENDS AND DISTRIBUTIONS Dividends from a Fund",
+        "strategy": "A capital gain occurs if a Fund sells portfolio securities for more than its cost",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-07-30T15:27:39.848506+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000746601",
+    "company_name": "SIT MUTUAL FUNDS II INC",
+    "accession_number": "0001193125-26-325121",
+    "filed_date": "2026-07-30",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/746601/000119312526325121/0001193125-26-325121-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/746601/000119312526325121/d114972d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/746601/000119312526325121/d114972d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SIT MUTUAL FUNDS II INC\nETF Name: DIVIDENDS AND DISTRIBUTIONS Dividends from a Fund\nStrategy: A capital gain occurs if a Fund sells portfolio securities for more than its cost\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SIT MUTUAL FUNDS II INC",
+        "etf_name": "DIVIDENDS AND DISTRIBUTIONS Dividends from a Fund",
+        "strategy": "A capital gain occurs if a Fund sells portfolio securities for more than its cost",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-07-30T11:30:16.242808+00:00",
     "form_type": "486BPOS",
     "cik": "0002066579",
@@ -14406,93 +14493,6 @@
         "filer": "GMO TRUST",
         "etf_name": "High Yield Fund",
         "strategy": "GMO is not obligated to, and generally will not consider, tax consequences when seeking to achieve a Fund\u2019s investment objective (e.g., a Fund may engage in transactions or make investments in a manner that is not tax efficient for U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-30T20:24:26.714354+00:00",
-    "form_type": "485APOS",
-    "cik": "0001424212",
-    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND III",
-    "accession_number": "0001445546-26-004768",
-    "filed_date": "2026-06-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1424212/000144554626004768/0001445546-26-004768-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1424212/000144554626004768/etf3_485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1424212/000144554626004768/etf3_485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FIRST TRUST EXCHANGE-TRADED FUND III\nETF Name: Unknown\nStrategy: The Fund\u2019s investment objective is fundamental and may not be changed without approval by the holders of a majority of the outstanding voting securities of the Fund During the Fund\u2019s initial invest-up period and during periods of high in-flows and out-flows, the Fund may not be fully invested pursuant to its on ________, 2026, the Fund may experience higher levels of portfolio turnover in the current fiscal year than\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FIRST TRUST EXCHANGE-TRADED FUND III",
-        "etf_name": "Unknown",
-        "strategy": "The Fund\u2019s investment objective is fundamental and may not be changed without approval by the holders of a majority of the outstanding voting securities of the Fund During the Fund\u2019s initial invest-up period and during periods of high in-flows and out-flows, the Fund may not be fully invested pursuant to its on ________, 2026, the Fund may experience higher levels of portfolio turnover in the current fiscal year than",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-30T20:24:33.361251+00:00",
-    "form_type": "485APOS",
-    "cik": "0001355064",
-    "company_name": "MUTUAL FUND SERIES TRUST",
-    "accession_number": "0001580642-26-004058",
-    "filed_date": "2026-06-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1355064/000158064226004058/0001580642-26-004058-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1355064/000158064226004058/eventideetf_485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1355064/000158064226004058/eventideetf_485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: MUTUAL FUND SERIES TRUST\nETF Name: Eventide Dividend Growth ETF\nStrategy: Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover: The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "MUTUAL FUND SERIES TRUST",
-        "etf_name": "Eventide Dividend Growth ETF",
-        "strategy": "Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover: The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-06-30T20:24:35.680615+00:00",
-    "form_type": "485APOS",
-    "cik": "0002043954",
-    "company_name": "REX ETF Trust",
-    "accession_number": "0001999371-26-013897",
-    "filed_date": "2026-06-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043954/000199937126013897/0001999371-26-013897-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043954/000199937126013897/rex-485apos_063026.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043954/000199937126013897/rex-485apos_063026.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: REX ETF Trust\nETF Name: Unknown\nStrategy: To the extent the Index has limited performance history, no assurance can be given that the Index methodology will result in the Fund achieving its investment objective In seeking to achieve its investment objective, under normal market conditions, the Fund will invest at least 80% of its net assets (plus any borrowings for investment purposes) in the securities that comprise the Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "REX ETF Trust",
-        "etf_name": "Unknown",
-        "strategy": "To the extent the Index has limited performance history, no assurance can be given that the Index methodology will result in the Fund achieving its investment objective In seeking to achieve its investment objective, under normal market conditions, the Fund will invest at least 80% of its net assets (plus any borrowings for investment purposes) in the securities that comprise the Index",
         "is_alert_worthy": "LOW"
       }
     ],
