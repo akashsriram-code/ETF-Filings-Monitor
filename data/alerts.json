@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-08-03T22:19:23.025506+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002043390",
+    "company_name": "Tidal Trust IV",
+    "accession_number": "0001999371-26-016840",
+    "filed_date": "2026-08-03",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126016840/0001999371-26-016840-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126016840/vegashares-485bpos_080326.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126016840/vegashares-485bpos_080326.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: Power Management ETF\nStrategy: The VegaShares AI Networking ETF (the \u201cFund\u201d) seeks capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust IV",
+        "etf_name": "Power Management ETF",
+        "strategy": "The VegaShares AI Networking ETF (the \u201cFund\u201d) seeks capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-03T22:19:25.089164+00:00",
+    "form_type": "485APOS",
+    "cik": "0001936157",
+    "company_name": "Elevation Series Trust",
+    "accession_number": "0001999371-26-016838",
+    "filed_date": "2026-08-03",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1936157/000199937126016838/0001999371-26-016838-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1936157/000199937126016838/vulcan-485apos_080326.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1936157/000199937126016838/vulcan-485apos_080326.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Elevation Series Trust\nETF Name: Page Vulcan Value Partners ETF\nStrategy: The Vulcan Value Partners ETF (the \u201cFund\u201d) seeks to achieve long-term capital appreciation as its investment objective The Adviser seeks to invest for the long term, limiting the selection of qualifying investments to good businesses with identifiable, Sustainable Competitive Advantages that allow a company to outcompete peers to maximize returns and to minimize risk\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Elevation Series Trust",
+        "etf_name": "Page Vulcan Value Partners ETF",
+        "strategy": "The Vulcan Value Partners ETF (the \u201cFund\u201d) seeks to achieve long-term capital appreciation as its investment objective The Adviser seeks to invest for the long term, limiting the selection of qualifying investments to good businesses with identifiable, Sustainable Competitive Advantages that allow a company to outcompete peers to maximize returns and to minimize risk",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-03T19:58:46.440001+00:00",
     "form_type": "485BPOS",
     "cik": "0001976322",
@@ -14433,64 +14491,6 @@
         "filer": "ETFis Series Trust I",
         "etf_name": "Income Securities ETF",
         "strategy": "When the Fund takes a temporary defensive position, the Fund may not be able to achieve its investment objective The Fund\u2019s portfolio holdings are disclosed on the Fund\u2019s website (www.virtusetfs.com) daily after the close of trading on the Exchange and prior to the opening of trading on the Exchange the following day",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-09T13:35:40.665007+00:00",
-    "form_type": "485APOS",
-    "cik": "0001845809",
-    "company_name": "Putnam ETF Trust",
-    "accession_number": "0001193125-26-299276",
-    "filed_date": "2026-07-09",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1845809/000119312526299276/0001193125-26-299276-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1845809/000119312526299276/d86300d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1845809/000119312526299276/d86300d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Putnam ETF Trust\nETF Name: For more information about Franklin Multisector Bond ETF\nStrategy: Under normal market conditions, the fund invests in a diversified portfolio of U.S \u201cMultisector Bond\u201d in the fund\u2019s name refers to the fund\u2019s strategy of seeking to maximize current income by allocating portfolio investments opportunistically across different fixed income market sectors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Putnam ETF Trust",
-        "etf_name": "For more information about Franklin Multisector Bond ETF",
-        "strategy": "Under normal market conditions, the fund invests in a diversified portfolio of U.S \u201cMultisector Bond\u201d in the fund\u2019s name refers to the fund\u2019s strategy of seeking to maximize current income by allocating portfolio investments opportunistically across different fixed income market sectors",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-08T21:35:05.470334+00:00",
-    "form_type": "485APOS",
-    "cik": "0001547580",
-    "company_name": "Victory Portfolios II",
-    "accession_number": "0001193125-26-298704",
-    "filed_date": "2026-07-08",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547580/000119312526298704/0001193125-26-298704-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547580/000119312526298704/f45750d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547580/000119312526298704/f45750d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Victory Portfolios II\nETF Name: VictoryShares Municipal High Yield ETF\nStrategy: The Fund\u2019s Board of Trustees (the \u201cBoard\u201d) may change this investment objective without shareholder approval Under normal circumstances, the Fund invests at least 80% of its net assets (plus the amount of borrowings, if any, for investment purposes) in debt securities and other obligati\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Victory Portfolios II",
-        "etf_name": "VictoryShares Municipal High Yield ETF",
-        "strategy": "The Fund\u2019s Board of Trustees (the \u201cBoard\u201d) may change this investment objective without shareholder approval Under normal circumstances, the Fund invests at least 80% of its net assets (plus the amount of borrowings, if any, for investment purposes) in debt securities and other obligati",
         "is_alert_worthy": "LOW"
       }
     ],
