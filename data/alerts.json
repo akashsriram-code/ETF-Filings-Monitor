@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-08-03T19:58:46.440001+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-008272",
+    "filed_date": "2026-08-03",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626008272/0001829126-26-008272-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626008272/themesetftrust_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626008272/themesetftrust_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Total Annual Fund\nStrategy: The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily leveraged investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily leveraged investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-03T19:58:58.307767+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001503123",
+    "company_name": "DBX ETF TRUST",
+    "accession_number": "0000088053-26-000596",
+    "filed_date": "2026-08-03",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1503123/000008805326000596/0000088053-26-000596-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1503123/000008805326000596/dbxetf-20260531.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1503123/000008805326000596/dbxetf-20260531.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: DBX ETF TRUST\nETF Name: Xtrackers Municipal Infrastructure Revenue Bond Active ETF Fund\nStrategy: The fund seeks to provide income exempt from regular federal income tax The fund is an actively-managed exchange-traded fund (\u201cETF\u201d) that does not seek to replicate the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "DBX ETF TRUST",
+        "etf_name": "Xtrackers Municipal Infrastructure Revenue Bond Active ETF Fund",
+        "strategy": "The fund seeks to provide income exempt from regular federal income tax The fund is an actively-managed exchange-traded fund (\u201cETF\u201d) that does not seek to replicate the",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-03T19:59:10.305577+00:00",
+    "form_type": "485APOS",
+    "cik": "0001040674",
+    "company_name": "Yorkville America Investment Trust",
+    "accession_number": "0001040674-26-000045",
+    "filed_date": "2026-08-03",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1040674/000104067426000045/0001040674-26-000045-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1040674/000104067426000045/yorkvilleamericaanti-debasc.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1040674/000104067426000045/yorkvilleamericaanti-debasc.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Yorkville America Investment Trust\nETF Name: Years Yorkville America Anti-Debasement Index ETF\nStrategy: by investing in the assets that comprise the MarketVector\u2122 Anti-Debasement Index (the \"Underlying Index\") The Fund employs a passive investment strategy designed to track, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Yorkville America Investment Trust",
+        "etf_name": "Years Yorkville America Anti-Debasement Index ETF",
+        "strategy": "by investing in the assets that comprise the MarketVector\u2122 Anti-Debasement Index (the \"Underlying Index\") The Fund employs a passive investment strategy designed to track, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-03T18:11:07.645798+00:00",
     "form_type": "485APOS",
     "cik": "0002081107",
@@ -14404,93 +14491,6 @@
         "filer": "Victory Portfolios II",
         "etf_name": "VictoryShares Municipal High Yield ETF",
         "strategy": "The Fund\u2019s Board of Trustees (the \u201cBoard\u201d) may change this investment objective without shareholder approval Under normal circumstances, the Fund invests at least 80% of its net assets (plus the amount of borrowings, if any, for investment purposes) in debt securities and other obligati",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-08T21:35:08.271078+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001683471",
-    "company_name": "Listed Funds Trust",
-    "accession_number": "0000894189-26-021082",
-    "filed_date": "2026-07-08",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021082/0000894189-26-021082-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1683471/000089418926021082/ck0001683471-20260708.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021082/ck0001683471-20260708.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Listed Funds Trust\nETF Name: None Annual Fund\nStrategy: The Overlay Shares Hedged Equity Fund (the \u201cHedged Equity Fund\u201d or the \u201cFund\u201d) seeks capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Listed Funds Trust",
-        "etf_name": "None Annual Fund",
-        "strategy": "The Overlay Shares Hedged Equity Fund (the \u201cHedged Equity Fund\u201d or the \u201cFund\u201d) seeks capital appreciation",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-08T21:35:12.069462+00:00",
-    "form_type": "485APOS",
-    "cik": "0001742912",
-    "company_name": "Tidal Trust I",
-    "accession_number": "0001999371-26-014558",
-    "filed_date": "2026-07-08",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126014558/0001999371-26-014558-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1742912/000199937126014558/exelon-485apos_070826.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126014558/exelon-485apos_070826.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust I\nETF Name: Nasdaq-100 Ex-Elon Enterprises ETF\nStrategy: The Nasdaq-100 Ex-Elon Enterprises ETF (the \u201cFund\u201d) seeks capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust I",
-        "etf_name": "Nasdaq-100 Ex-Elon Enterprises ETF",
-        "strategy": "The Nasdaq-100 Ex-Elon Enterprises ETF (the \u201cFund\u201d) seeks capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-08T20:14:07.098981+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001643174",
-    "company_name": "Horizon Funds",
-    "accession_number": "0001398344-26-011897",
-    "filed_date": "2026-07-08",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1643174/000139834426011897/0001398344-26-011897-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1643174/000139834426011897/fp0099759-1_485bposixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1643174/000139834426011897/fp0099759-1_485bposixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Horizon Funds\nETF Name: High Yield Bonds The Allocation Fund\nStrategy: The investment objective of the Horizon Active Risk Assist \u00ae Fund (the \u201cRisk Assist Fund\u201d or the \u201cFund\u201d) is to capture the majority of the returns associated with equity market investments, while mitigating downside risk through use of a risk overlay strategy (the \u201cRisk Assist strategy\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Horizon Funds",
-        "etf_name": "High Yield Bonds The Allocation Fund",
-        "strategy": "The investment objective of the Horizon Active Risk Assist \u00ae Fund (the \u201cRisk Assist Fund\u201d or the \u201cFund\u201d) is to capture the majority of the returns associated with equity market investments, while mitigating downside risk through use of a risk overlay strategy (the \u201cRisk Assist strategy\u201d)",
         "is_alert_worthy": "LOW"
       }
     ],
