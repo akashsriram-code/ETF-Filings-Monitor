@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-04T21:39:40.840167+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001644419",
+    "company_name": "Northern Lights Fund Trust IV",
+    "accession_number": "0001580642-26-004875",
+    "filed_date": "2026-08-04",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1644419/000158064226004875/0001580642-26-004875-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1644419/000158064226004875/mainactiverotation_etf-485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1644419/000158064226004875/mainactiverotation_etf-485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust IV\nETF Name: Main Management ETF\nStrategy: The Fund seeks to earn income and gains both from dividends paid on the ETFs owned by the Fund and cash premiums received from writing or \u201cselling\u201d: \u25cf covered call options or index-based options on equity-based ETFs held in the Fund\u2019s portfolio; and \u25cf cash secured put options against cash balances in the Fund The ability of the Fund to meet its investment objective is directly related to the ability of the underlying\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Northern Lights Fund Trust IV",
+        "etf_name": "Main Management ETF",
+        "strategy": "The Fund seeks to earn income and gains both from dividends paid on the ETFs owned by the Fund and cash premiums received from writing or \u201cselling\u201d: \u25cf covered call options or index-based options on equity-based ETFs held in the Fund\u2019s portfolio; and \u25cf cash secured put options against cash balances in the Fund The ability of the Fund to meet its investment objective is directly related to the ability of the underlying",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-04T12:20:52.415201+00:00",
     "form_type": "485APOS",
     "cik": "0002081107",
@@ -14462,35 +14491,6 @@
         "filer": "Themes ETF Trust",
         "etf_name": "Total Annual Fund",
         "strategy": "Investment Objective The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily inverse investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-09T20:11:45.900193+00:00",
-    "form_type": "485APOS",
-    "cik": "0000205007",
-    "company_name": "SHORT-TERM INVESTMENTS TRUST",
-    "accession_number": "0002071844-26-000768",
-    "filed_date": "2026-07-09",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/205007/000207184426000768/0002071844-26-000768-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/205007/000207184426000768/final485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/205007/000207184426000768/final485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SHORT-TERM INVESTMENTS TRUST\nETF Name: For purposes of a government money market fund\nStrategy: As permitted by Rule 2a-7 under the 1940 Act, the Fund seeks to maintain a stable price of $1.00 per share by using the amortized cost method to value portfolio securities and rounding the share value to the nearest cent The Fund\u2019s transactions in a particular type of security or use of a particular technique is subject to limitations imposed by the Fund\u2019s investment objective, policies and restrictions described in\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "SHORT-TERM INVESTMENTS TRUST",
-        "etf_name": "For purposes of a government money market fund",
-        "strategy": "As permitted by Rule 2a-7 under the 1940 Act, the Fund seeks to maintain a stable price of $1.00 per share by using the amortized cost method to value portfolio securities and rounding the share value to the nearest cent The Fund\u2019s transactions in a particular type of security or use of a particular technique is subject to limitations imposed by the Fund\u2019s investment objective, policies and restrictions described in",
         "is_alert_worthy": "LOW"
       }
     ],
