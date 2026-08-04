@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-04T12:20:52.415201+00:00",
+    "form_type": "485APOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-016880",
+    "filed_date": "2026-08-04",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126016880/0001999371-26-016880-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126016880/defiance-485apos_080426.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126016880/defiance-485apos_080426.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Defiance AI Infrastructure Bond ETF\nStrategy: Defiance AI Infrastructure Bond ETF (the \u201cFund\u201d) seeks to track the Overview The Fund uses a \u201cpassive\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "Defiance AI Infrastructure Bond ETF",
+        "strategy": "Defiance AI Infrastructure Bond ETF (the \u201cFund\u201d) seeks to track the Overview The Fund uses a \u201cpassive",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-04T10:07:02.763600+00:00",
     "form_type": "485BPOS",
     "cik": "0001976517",
@@ -14462,35 +14491,6 @@
         "filer": "SHORT-TERM INVESTMENTS TRUST",
         "etf_name": "For purposes of a government money market fund",
         "strategy": "As permitted by Rule 2a-7 under the 1940 Act, the Fund seeks to maintain a stable price of $1.00 per share by using the amortized cost method to value portfolio securities and rounding the share value to the nearest cent The Fund\u2019s transactions in a particular type of security or use of a particular technique is subject to limitations imposed by the Fund\u2019s investment objective, policies and restrictions described in",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-09T18:14:42.186318+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001924868",
-    "company_name": "Tidal Trust II",
-    "accession_number": "0001999371-26-014641",
-    "filed_date": "2026-07-09",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126014641/0001999371-26-014641-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126014641/defiance-485bpos_060926.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126014641/defiance-485bpos_060926.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Daily Target Short Taiwan ETF as two new series of the Trust\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust II",
-        "etf_name": "Daily Target Short Taiwan ETF as two new series of the Trust",
-        "strategy": "The Fund seeks daily investment results, before",
         "is_alert_worthy": "LOW"
       }
     ],
