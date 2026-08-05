@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-08-05T19:56:22.779111+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-017065",
+    "filed_date": "2026-08-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126017065/0001999371-26-017065-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126017065/gpuf-485bpos_080526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126017065/gpuf-485bpos_080526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: SUMMARY INFORMATION Defiance Compute ETF\nStrategy: The Defiance Compute ETF (the \u201cFund\u201d) seeks long term capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $ 83 $ 259 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "SUMMARY INFORMATION Defiance Compute ETF",
+        "strategy": "The Defiance Compute ETF (the \u201cFund\u201d) seeks long term capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $ 83 $ 259 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-05T19:56:28.600095+00:00",
+    "form_type": "485APOS",
+    "cik": "0001587982",
+    "company_name": "Investment Managers Series Trust II",
+    "accession_number": "0001213900-26-085504",
+    "filed_date": "2026-08-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026085504/0001213900-26-085504-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587982/000121390026085504/ea0300418-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026085504/ea0300418-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust II\nETF Name: Long FCEL Daily ETF\nStrategy: The Tradr 2X Long FCEL Daily ETF seeks d manage their investments in the Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Investment Managers Series Trust II",
+        "etf_name": "Long FCEL Daily ETF",
+        "strategy": "The Tradr 2X Long FCEL Daily ETF seeks d manage their investments in the Fund",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-05T19:56:33.489256+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001501825",
+    "company_name": "Hartford Funds Exchange-Traded Trust",
+    "accession_number": "0001193125-26-334267",
+    "filed_date": "2026-08-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1501825/000119312526334267/0001193125-26-334267-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1501825/000119312526334267/d22900d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1501825/000119312526334267/d22900d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Hartford Funds Exchange-Traded Trust\nETF Name: Unknown\nStrategy: and a similar principal investment strategy as the Predecessor Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Hartford Funds Exchange-Traded Trust",
+        "etf_name": "Unknown",
+        "strategy": "and a similar principal investment strategy as the Predecessor Fund",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-05T14:43:15.829289+00:00",
     "form_type": "485APOS",
     "cik": "0001405415",
@@ -14404,93 +14491,6 @@
         "filer": "WisdomTree Trust",
         "etf_name": "SmallCap Equity Fund",
         "strategy": "The Fund seeks to achieve its investment objective by investing its assets in accordance with both (i) a long/short U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-09T21:46:52.593772+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-032717",
-    "filed_date": "2026-07-09",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226032717/0001493152-26-032717-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226032717/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226032717/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: Long DTCR Daily ETF\nStrategy: The Fund seeks daily investment results, before The Fund is an actively managed exchange traded fund that attempts to replicate 2 times (200%) the daily percentage change the Underlying ETF by entering into financial instruments such as swaps and options on the Underlying ETF as well as directly purchasing the Underlying ETF\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "Long DTCR Daily ETF",
-        "strategy": "The Fund seeks daily investment results, before The Fund is an actively managed exchange traded fund that attempts to replicate 2 times (200%) the daily percentage change the Underlying ETF by entering into financial instruments such as swaps and options on the Underlying ETF as well as directly purchasing the Underlying ETF",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-09T21:46:55.841845+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-032709",
-    "filed_date": "2026-07-09",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226032709/0001493152-26-032709-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226032709/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226032709/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: Total Annual Fund\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "Total Annual Fund",
-        "strategy": "The Fund seeks daily investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-09T21:47:00.657004+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-032704",
-    "filed_date": "2026-07-09",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226032704/0001493152-26-032704-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226032704/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226032704/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: Long AIQ Daily ETF\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "Long AIQ Daily ETF",
-        "strategy": "The Fund seeks daily investment results, before",
         "is_alert_worthy": "LOW"
       }
     ],
