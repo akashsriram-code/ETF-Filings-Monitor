@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-05T12:17:36.777338+00:00",
+    "form_type": "485APOS",
+    "cik": "0000889284",
+    "company_name": "STERLING CAPITAL FUNDS",
+    "accession_number": "0001398344-26-013501",
+    "filed_date": "2026-08-04",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/889284/000139834426013501/0001398344-26-013501-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/889284/000139834426013501/fp0100219-1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/889284/000139834426013501/fp0100219-1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: STERLING CAPITAL FUNDS\nETF Name: Sterling Capital North Carolina Intermediate Tax-Free ETF\nStrategy: The Fund seeks maximum long-term total return, by investing primarily in equity securities of large companies 3 Summary Sterling Capital Large Cap Value Focused Factor ETF Strategy, Risks and\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "STERLING CAPITAL FUNDS",
+        "etf_name": "Sterling Capital North Carolina Intermediate Tax-Free ETF",
+        "strategy": "The Fund seeks maximum long-term total return, by investing primarily in equity securities of large companies 3 Summary Sterling Capital Large Cap Value Focused Factor ETF Strategy, Risks and",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-05T10:07:22.098633+00:00",
     "form_type": "485BPOS",
     "cik": "0001976517",
@@ -14462,35 +14491,6 @@
         "filer": "Tidal Trust I",
         "etf_name": "SUMMARY INFORMATION SUBVERSIVE ALL SEASON SPORTS ETF",
         "strategy": "The Subversive All Season Sports ETF (the \u201cFund,\u201d or the \u201cAll Season Sports ETF\u201d) seeks total return through exposure to a portfolio of CFTC-regulated event contracts 11 The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to provide capital appreciation through exposure to a portfolio of derivative instruments known as \u201cevent contracts\u201d across economic, regulatory, climate and global events themes",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-09T20:11:39.952564+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-007467",
-    "filed_date": "2026-07-09",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007467/0001829126-26-007467-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626007467/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007467/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Total Annual Fund\nStrategy: Investment Objective The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily inverse investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "Total Annual Fund",
-        "strategy": "Investment Objective The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily inverse investment results, before",
         "is_alert_worthy": "LOW"
       }
     ],
