@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-08-07T20:07:08.627330+00:00",
+    "form_type": "485APOS",
+    "cik": "0001137360",
+    "company_name": "VanEck ETF Trust",
+    "accession_number": "0001137360-26-000737",
+    "filed_date": "2026-08-07",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000737/0001137360-26-000737-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1137360/000113736026000737/vechemicalsetf485a82026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000737/vechemicalsetf485a82026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VanEck ETF Trust\nETF Name: None Annual Fund\nStrategy: 800.826.2333 | vaneck.com 3 The Fund is classified as a non-diversified fund under the Investment Company Act of 1940, as amended (the \u201cInvestment Company Act of 1940\u201d), and, therefore, may invest a greater percentage of its assets in a particular issuer The Fund may concentrate its investments in a particular industry or group of industries to the extent that the index concentrates in an industry or group of industr\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VanEck ETF Trust",
+        "etf_name": "None Annual Fund",
+        "strategy": "800.826.2333 | vaneck.com 3 The Fund is classified as a non-diversified fund under the Investment Company Act of 1940, as amended (the \u201cInvestment Company Act of 1940\u201d), and, therefore, may invest a greater percentage of its assets in a particular issuer The Fund may concentrate its investments in a particular industry or group of industries to the extent that the index concentrates in an industry or group of industr",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-07T20:07:12.442684+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001860434",
+    "company_name": "Harbor ETF Trust",
+    "accession_number": "0001193125-26-339745",
+    "filed_date": "2026-08-07",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1860434/000119312526339745/0001193125-26-339745-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1860434/000119312526339745/d158126d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1860434/000119312526339745/d158126d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Harbor ETF Trust\nETF Name: Inc. Anthropic AI Lab Ecosystem ETF Fund\nStrategy: The Fund seeks to provide exposure to the portfolio-eligible companies most directly linked to the Anthropic artificial intelligence ecosystem Although your actual costs may be higher or lower, under these assumptions, your costs would be: One Year Three Years $ 60 $ 189 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Harbor ETF Trust",
+        "etf_name": "Inc. Anthropic AI Lab Ecosystem ETF Fund",
+        "strategy": "The Fund seeks to provide exposure to the portfolio-eligible companies most directly linked to the Anthropic artificial intelligence ecosystem Although your actual costs may be higher or lower, under these assumptions, your costs would be: One Year Three Years $ 60 $ 189 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The Fund",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-07T19:18:56.339693+00:00",
     "form_type": "485BPOS",
     "cik": "0000906982",
@@ -14425,64 +14483,6 @@
     "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000072686526000594/0000726865-26-000594-index.html",
     "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000072686526000594/cik0001048606-20260710.htm",
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000072686526000594/cik0001048606-20260710.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: Investment Objective Fund\nStrategy: Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-        "etf_name": "Investment Objective Fund",
-        "strategy": "Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-10T19:13:26.785073+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001048606",
-    "company_name": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-    "accession_number": "0000726865-26-000593",
-    "filed_date": "2026-07-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000072686526000593/0000726865-26-000593-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000072686526000593/cik0001048606-20260710.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000072686526000593/cik0001048606-20260710.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: Investment Objective Fund\nStrategy: Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-        "etf_name": "Investment Objective Fund",
-        "strategy": "Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-10T19:13:28.746763+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001048606",
-    "company_name": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-    "accession_number": "0000726865-26-000592",
-    "filed_date": "2026-07-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000072686526000592/0000726865-26-000592-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000072686526000592/cik0001048606-20260710.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000072686526000592/cik0001048606-20260710.htm",
     "matched_keywords": [],
     "is_crypto": false,
     "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: Investment Objective Fund\nStrategy: Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
