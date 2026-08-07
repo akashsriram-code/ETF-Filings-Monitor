@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-07T03:24:51.895687+00:00",
+    "form_type": "485APOS",
+    "cik": "0001683471",
+    "company_name": "Listed Funds Trust",
+    "accession_number": "0000894189-26-021980",
+    "filed_date": "2026-08-06",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021980/0000894189-26-021980-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1683471/000089418926021980/xetfs485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926021980/xetfs485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Listed Funds Trust\nETF Name: None Annual Fund\nStrategy: The xETFs Hyundai Group ETF (the \u201cHyundai Fund\u201d or the \u201cFund\u201d) seeks long-term capital appreciation 11 xETFs HYUNDAI GROUP ETF - Investment Objective The xETFs Hyundai Group ETF (the \u201cHyundai Fund\u201d or the \u201cFund\u201d) seeks long-term capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Listed Funds Trust",
+        "etf_name": "None Annual Fund",
+        "strategy": "The xETFs Hyundai Group ETF (the \u201cHyundai Fund\u201d or the \u201cFund\u201d) seeks long-term capital appreciation 11 xETFs HYUNDAI GROUP ETF - Investment Objective The xETFs Hyundai Group ETF (the \u201cHyundai Fund\u201d or the \u201cFund\u201d) seeks long-term capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-05T22:34:29.761475+00:00",
     "form_type": "485BPOS",
     "cik": "0002081107",
@@ -14462,35 +14491,6 @@
         "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
         "etf_name": "Allocation Managed Risk Fund will be renamed LVIP BlackRock Growth ETF",
         "strategy": "Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-10T19:13:50.120244+00:00",
-    "form_type": "485APOS",
-    "cik": "0001137360",
-    "company_name": "VanEck ETF Trust",
-    "accession_number": "0001137360-26-000684",
-    "filed_date": "2026-07-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000684/0001137360-26-000684-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1137360/000113736026000684/veusequitybufferetfjan485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000684/veusequitybufferetfjan485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: VanEck ETF Trust\nETF Name: U.S. EQUITY BUFFER ETF\nStrategy: The investment objective of the VanEck U.S Equity Buffer ETF - January (the \u201cFund\u201d) is to seek to provide investors with returns (before The Fund is an actively managed exchange-traded fund that seeks to achieve its investment objective by investing, under normal circumstances, at least 80% of its total assets in investments that provide exposure to the Underlying ETF\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "VanEck ETF Trust",
-        "etf_name": "U.S. EQUITY BUFFER ETF",
-        "strategy": "The investment objective of the VanEck U.S Equity Buffer ETF - January (the \u201cFund\u201d) is to seek to provide investors with returns (before The Fund is an actively managed exchange-traded fund that seeks to achieve its investment objective by investing, under normal circumstances, at least 80% of its total assets in investments that provide exposure to the Underlying ETF",
         "is_alert_worthy": "LOW"
       }
     ],
