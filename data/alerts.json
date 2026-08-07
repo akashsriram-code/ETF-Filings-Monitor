@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-08-07T19:18:56.339693+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000906982",
+    "company_name": "NEW YORK LIFE INS & ANNUITY CORP VAR UNIV LIFE SEP ACC I",
+    "accession_number": "0001193125-26-339930",
+    "filed_date": "2026-08-07",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/906982/000119312526339930/0001193125-26-339930-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/906982/000119312526339930/d63312d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/906982/000119312526339930/d63312d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NEW YORK LIFE INS & ANNUITY CORP VAR UNIV LIFE SEP ACC I\nETF Name: Unknown\nStrategy: Not available.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NEW YORK LIFE INS & ANNUITY CORP VAR UNIV LIFE SEP ACC I",
+        "etf_name": "Unknown",
+        "strategy": "Not available.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-07T19:18:58.674844+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000934298",
+    "company_name": "NYLIAC VARIABLE ANNUITY SEPARATE ACCOUNT III",
+    "accession_number": "0001193125-26-339918",
+    "filed_date": "2026-08-07",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/934298/000119312526339918/0001193125-26-339918-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/934298/000119312526339918/d39848d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/934298/000119312526339918/d39848d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NYLIAC VARIABLE ANNUITY SEPARATE ACCOUNT III\nETF Name: Participation Agreement among Columbia Funds Variable Series Trust\nStrategy: (h)(14) Participation Agreement among Columbia Funds Variable Series Trust II, Columbia Management Investment Distributors, Inc. (h)(6) Participation Agreement among Dreyfus Investment Portfolios, The Dreyfus Corporation, Dreyfus Service Corporation and NYLIAC \u2014 Previously filed in accordance with Regulation S-T, 17 CFR 232.102(e) as Exhibit (9)(r) to Pre-Effective Amendment No.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NYLIAC VARIABLE ANNUITY SEPARATE ACCOUNT III",
+        "etf_name": "Participation Agreement among Columbia Funds Variable Series Trust",
+        "strategy": "(h)(14) Participation Agreement among Columbia Funds Variable Series Trust II, Columbia Management Investment Distributors, Inc. (h)(6) Participation Agreement among Dreyfus Investment Portfolios, The Dreyfus Corporation, Dreyfus Service Corporation and NYLIAC \u2014 Previously filed in accordance with Regulation S-T, 17 CFR 232.102(e) as Exhibit (9)(r) to Pre-Effective Amendment No.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-07T17:16:34.667346+00:00",
     "form_type": "485APOS",
     "cik": "0001137360",
@@ -14425,64 +14483,6 @@
     "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000072686526000592/0000726865-26-000592-index.html",
     "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000072686526000592/cik0001048606-20260710.htm",
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000072686526000592/cik0001048606-20260710.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: Investment Objective Fund\nStrategy: Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-        "etf_name": "Investment Objective Fund",
-        "strategy": "Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-10T19:13:30.760669+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001048606",
-    "company_name": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-    "accession_number": "0000726865-26-000591",
-    "filed_date": "2026-07-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000072686526000591/0000726865-26-000591-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000072686526000591/cik0001048606-20260710.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000072686526000591/cik0001048606-20260710.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: Investment Objective Fund\nStrategy: Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-        "etf_name": "Investment Objective Fund",
-        "strategy": "Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-10T19:13:32.537802+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001048606",
-    "company_name": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-    "accession_number": "0000726865-26-000590",
-    "filed_date": "2026-07-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000072686526000590/0000726865-26-000590-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000072686526000590/cik0001048606-20260710.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000072686526000590/cik0001048606-20260710.htm",
     "matched_keywords": [],
     "is_crypto": false,
     "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: Investment Objective Fund\nStrategy: Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
