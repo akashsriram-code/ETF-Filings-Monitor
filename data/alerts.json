@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-11T19:47:18.546000+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001667919",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+    "accession_number": "0001445546-26-005968",
+    "filed_date": "2026-08-11",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626005968/0001445546-26-005968-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1667919/000144554626005968/ft-20260811.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626005968/ft-20260811.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIRST TRUST EXCHANGE-TRADED FUND VIII\nETF Name: The Underlying ETF is an exchange-traded unit investment trust\nStrategy: The investment objective of the FT Vest U.S Under normal market conditions, the Fund will invest substantially all of its assets in FLexible EXchange \u00ae Options ( \u201cFLEX Options\u201d ) that reference the price performance of the State Street \u00ae SPDR \u00ae S&P 500 \u00ae ETF Trust (the \u201cUnderlying ETF\" ) The Underlying ETF is an exchange-traded unit investment trust that uses a replication strategy, meaning it invests in as many of t\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+        "etf_name": "The Underlying ETF is an exchange-traded unit investment trust",
+        "strategy": "The investment objective of the FT Vest U.S Under normal market conditions, the Fund will invest substantially all of its assets in FLexible EXchange \u00ae Options ( \u201cFLEX Options\u201d ) that reference the price performance of the State Street \u00ae SPDR \u00ae S&P 500 \u00ae ETF Trust (the \u201cUnderlying ETF\" ) The Underlying ETF is an exchange-traded unit investment trust that uses a replication strategy, meaning it invests in as many of t",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-11T14:36:42.855180+00:00",
     "form_type": "485BPOS",
     "cik": "0001540305",
@@ -14454,35 +14483,6 @@
     "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1093278/000072686526000617/0000726865-26-000617-index.html",
     "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1093278/000072686526000617/pea46.htm",
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1093278/000072686526000617/pea46.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES\nETF Name: Allocation Managed Risk Fund will be renamed LVIP BlackRock Growth ETF\nStrategy: Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
-        "etf_name": "Allocation Managed Risk Fund will be renamed LVIP BlackRock Growth ETF",
-        "strategy": "Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-10T19:12:48.792533+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001093278",
-    "company_name": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
-    "accession_number": "0000726865-26-000616",
-    "filed_date": "2026-07-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1093278/000072686526000616/0000726865-26-000616-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1093278/000072686526000616/pea60.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1093278/000072686526000616/pea60.htm",
     "matched_keywords": [],
     "is_crypto": false,
     "synopsis": "Synopsis 1\nFiler: LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES\nETF Name: Allocation Managed Risk Fund will be renamed LVIP BlackRock Growth ETF\nStrategy: Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
