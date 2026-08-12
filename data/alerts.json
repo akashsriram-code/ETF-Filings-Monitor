@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-08-12T19:53:54.084539+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-008694",
+    "filed_date": "2026-08-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626008694/0001829126-26-008694-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626008694/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626008694/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Fund\u2019s investment adviser will not attempt to position the Fund\u2019s portfolio to ensure that the Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200% or 2X) the daily of the Fund The Fund is an actively managed ETF that seeks to provide 2\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Unknown",
+        "strategy": "The Fund\u2019s investment adviser will not attempt to position the Fund\u2019s portfolio to ensure that the Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200% or 2X) the daily of the Fund The Fund is an actively managed ETF that seeks to provide 2",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-12T19:53:57.280594+00:00",
+    "form_type": "485APOS",
+    "cik": "0001635073",
+    "company_name": "Nushares ETF Trust",
+    "accession_number": "0001193125-26-346371",
+    "filed_date": "2026-08-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1635073/000119312526346371/0001193125-26-346371-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1635073/000119312526346371/d262891d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1635073/000119312526346371/d262891d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Nushares ETF Trust\nETF Name: Infrastructure Credit ETF\nStrategy: Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in credit and credit-related instruments of issuers in, or economically tied to, the technology or infrastructure sectors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Nushares ETF Trust",
+        "etf_name": "Infrastructure Credit ETF",
+        "strategy": "Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in credit and credit-related instruments of issuers in, or economically tied to, the technology or infrastructure sectors",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-12T19:54:00.968012+00:00",
+    "form_type": "485APOS",
+    "cik": "0000809064",
+    "company_name": "Nomura ETF Trust II",
+    "accession_number": "0002071844-26-001033",
+    "filed_date": "2026-08-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/809064/000207184426001033/0002071844-26-001033-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/809064/000207184426001033/netftii082026485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/809064/000207184426001033/netftii082026485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Nomura ETF Trust II\nETF Name: Nomura ETF Trust II Fund\nStrategy: NCRAM selects investments for its portion of the Fund based on NCRAM\u2019s own investment style and strategy Over time, the value of your investment in the Fund will increase and decrease according to changes in the value of the securities in the Fund\u2019s portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Nomura ETF Trust II",
+        "etf_name": "Nomura ETF Trust II Fund",
+        "strategy": "NCRAM selects investments for its portion of the Fund based on NCRAM\u2019s own investment style and strategy Over time, the value of your investment in the Fund will increase and decrease according to changes in the value of the securities in the Fund\u2019s portfolio",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-12T10:12:31.861935+00:00",
     "form_type": "485BPOS",
     "cik": "0001517936",
@@ -14404,93 +14491,6 @@
         "filer": "Themes ETF Trust",
         "etf_name": "Total Annual Fund",
         "strategy": "Investment Objective The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily inverse investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-10T19:12:37.966820+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001093278",
-    "company_name": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
-    "accession_number": "0000726865-26-000622",
-    "filed_date": "2026-07-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1093278/000072686526000622/0000726865-26-000622-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1093278/000072686526000622/pea23.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1093278/000072686526000622/pea23.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES\nETF Name: Investment Objective Fund\nStrategy: Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
-        "etf_name": "Investment Objective Fund",
-        "strategy": "Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-10T19:12:39.680557+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001093278",
-    "company_name": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
-    "accession_number": "0000726865-26-000621",
-    "filed_date": "2026-07-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1093278/000072686526000621/0000726865-26-000621-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1093278/000072686526000621/pea39.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1093278/000072686526000621/pea39.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES\nETF Name: Allocation Managed Risk Fund will be renamed LVIP BlackRock Growth ETF\nStrategy: Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
-        "etf_name": "Allocation Managed Risk Fund will be renamed LVIP BlackRock Growth ETF",
-        "strategy": "Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-10T19:12:41.584488+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001093278",
-    "company_name": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
-    "accession_number": "0000726865-26-000620",
-    "filed_date": "2026-07-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1093278/000072686526000620/0000726865-26-000620-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1093278/000072686526000620/pea53.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1093278/000072686526000620/pea53.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES\nETF Name: Allocation Managed Risk Fund will be renamed LVIP BlackRock Growth ETF\nStrategy: Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN NEW YORK ACCOUNT N FOR VARIABLE ANNUITIES",
-        "etf_name": "Allocation Managed Risk Fund will be renamed LVIP BlackRock Growth ETF",
-        "strategy": "Fund and Adviser/Sub-adviser Current Expenses Average Annual Total Returns (as of 12/31/2025) 1 Year 5 Year 10 Year To generate high income while providing reduced downside risk through exposure to the MerQube US Large-Cap Vol Advantage Autocallable VIP Index (the \u201cAutocallable Index\u201d)",
         "is_alert_worthy": "LOW"
       }
     ],
