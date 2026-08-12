@@ -1,5 +1,208 @@
 [
   {
+    "created_at": "2026-08-12T21:27:43.483284+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-003866",
+    "filed_date": "2026-08-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003866/0001592900-26-003866-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026003866/ck0001592900-20260812.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003866/ck0001592900-20260812.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Sequoia Select Large Core ETF Fund\nStrategy: The Sequoia Select Large Core ETF (the \u201cFund\u201d) seeks to provide income and capital appreciation 5 Sequoia Select Large Core ETF INVESTMENT OBJECTIVE The Sequoia Select Large Core ETF (the \u201cFund\u201d) seeks to provide income and capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "Sequoia Select Large Core ETF Fund",
+        "strategy": "The Sequoia Select Large Core ETF (the \u201cFund\u201d) seeks to provide income and capital appreciation 5 Sequoia Select Large Core ETF INVESTMENT OBJECTIVE The Sequoia Select Large Core ETF (the \u201cFund\u201d) seeks to provide income and capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-12T21:27:48.220479+00:00",
+    "form_type": "485APOS",
+    "cik": "0001884021",
+    "company_name": "Volatility Shares Trust",
+    "accession_number": "0001213900-26-088464",
+    "filed_date": "2026-08-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088464/0001213900-26-088464-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1884021/000121390026088464/ea0301672-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088464/ea0301672-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Volatility Shares Trust\nETF Name: Total Annual Fund\nStrategy: The Fund seeks daily investment results, before The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of Stripe for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Volatility Shares Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "The Fund seeks daily investment results, before The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of Stripe for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-12T21:27:51.226363+00:00",
+    "form_type": "485APOS",
+    "cik": "0001884021",
+    "company_name": "Volatility Shares Trust",
+    "accession_number": "0001213900-26-088462",
+    "filed_date": "2026-08-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088462/0001213900-26-088462-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1884021/000121390026088462/ea0301671-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088462/ea0301671-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Volatility Shares Trust\nETF Name: Total Annual Fund\nStrategy: The Fund seeks daily investment results, before The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of OpenAI for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Volatility Shares Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "The Fund seeks daily investment results, before The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of OpenAI for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-12T21:27:54.631097+00:00",
+    "form_type": "485APOS",
+    "cik": "0001884021",
+    "company_name": "Volatility Shares Trust",
+    "accession_number": "0001213900-26-088459",
+    "filed_date": "2026-08-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088459/0001213900-26-088459-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1884021/000121390026088459/ea0301670-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088459/ea0301670-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Volatility Shares Trust\nETF Name: Total Annual Fund\nStrategy: The Fund seeks daily investment results, before The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of Databricks for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Volatility Shares Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "The Fund seeks daily investment results, before The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of Databricks for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-12T21:27:58.745771+00:00",
+    "form_type": "485APOS",
+    "cik": "0001884021",
+    "company_name": "Volatility Shares Trust",
+    "accession_number": "0001213900-26-088458",
+    "filed_date": "2026-08-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088458/0001213900-26-088458-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1884021/000121390026088458/ea0301669-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088458/ea0301669-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Volatility Shares Trust\nETF Name: Total Annual Fund\nStrategy: The Fund seeks daily investment results, before The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of Anduril for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Volatility Shares Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "The Fund seeks daily investment results, before The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of Anduril for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-12T21:28:01.743713+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001060517",
+    "company_name": "UBS Series Funds",
+    "accession_number": "0001193125-26-347086",
+    "filed_date": "2026-08-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1060517/000119312526347086/0001193125-26-347086-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1060517/000119312526347086/d227900d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1060517/000119312526347086/d227900d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: UBS Series Funds\nETF Name: UBS Liquid Reserves Fund Fund\nStrategy: 2 UBS Liquid Reserves Fund Investment objective Maximum current income consistent with liquidity and the preservation of capital Additional information about investment strategies The fund seeks to achieve its investment objective by investing only in certain eligible reserve assets that payment stablecoin issuers are permitted to maintain under the GENIUS Act and any effective regulation adopted thereunder\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "UBS Series Funds",
+        "etf_name": "UBS Liquid Reserves Fund Fund",
+        "strategy": "2 UBS Liquid Reserves Fund Investment objective Maximum current income consistent with liquidity and the preservation of capital Additional information about investment strategies The fund seeks to achieve its investment objective by investing only in certain eligible reserve assets that payment stablecoin issuers are permitted to maintain under the GENIUS Act and any effective regulation adopted thereunder",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-12T21:28:04.938426+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976517",
+    "company_name": "Roundhill ETF Trust",
+    "accession_number": "0001398344-26-014222",
+    "filed_date": "2026-08-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426014222/0001398344-26-014222-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976517/000139834426014222/fp0100439-1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426014222/fp0100439-1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Roundhill ETF Trust\nETF Name: Total Annual Fund\nStrategy: The Fund\u2019s investments are subject to certain requirements imposed by law and regulation, as well as the Fund\u2019s investment strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Roundhill ETF Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "The Fund\u2019s investments are subject to certain requirements imposed by law and regulation, as well as the Fund\u2019s investment strategy",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-12T20:33:21.412961+00:00",
     "form_type": "486BPOS",
     "cik": "0001716885",
@@ -14288,209 +14491,6 @@
         "filer": "FIDELITY SALEM STREET TRUST",
         "etf_name": "SAI Small-Mid Cap Momentum Index Fund",
         "strategy": "an actively managed fund, which typically seeks to outperform a benchmark index The fund is managed with a passive investment strategy, attempting to track the performance of an unmanaged index of securities, regardless of the current or projected performance of the fund's index or of the actual securities included in the index",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-10T21:45:48.880393+00:00",
-    "form_type": "485APOS",
-    "cik": "0001423799",
-    "company_name": "Dreyfus Institutional Reserves Funds",
-    "accession_number": "0002071844-26-000789",
-    "filed_date": "2026-07-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1423799/000207184426000789/0002071844-26-000789-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1423799/000207184426000789/dryfsipgmmfund485a07102026.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1423799/000207184426000789/dryfsipgmmfund485a07102026.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Dreyfus Institutional Reserves Funds\nETF Name: Services for Fund\nStrategy: The fund pursues its investment objective by investing only in government securities (i.e., securities issued or guaranteed as to principal and interest by the U.S Under normal conditions, the fund will invest its assets so that at least 80% of its net assets (plus any borrowing for investment purposes) are invested in government securities and/or repurchase agreements that are collateralized fully by government secu\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Dreyfus Institutional Reserves Funds",
-        "etf_name": "Services for Fund",
-        "strategy": "The fund pursues its investment objective by investing only in government securities (i.e., securities issued or guaranteed as to principal and interest by the U.S Under normal conditions, the fund will invest its assets so that at least 80% of its net assets (plus any borrowing for investment purposes) are invested in government securities and/or repurchase agreements that are collateralized fully by government secu",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-10T21:45:53.213082+00:00",
-    "form_type": "485APOS",
-    "cik": "0002078265",
-    "company_name": "Corgi ETF Trust I",
-    "accession_number": "0002078265-26-000316",
-    "filed_date": "2026-07-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000316/0002078265-26-000316-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2078265/000207826526000316/485APOS_EM.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000316/485APOS_EM.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Corgi ETF Trust I\nETF Name: Unknown\nStrategy: The Fund is a passively managed exchange-traded fund (\"ETF\") that does not try to outperform the Index and does not seek temporary defensive positions when markets decline or appear overvalued The Adviser uses a representative sampling indexing strategy to manage the Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Corgi ETF Trust I",
-        "etf_name": "Unknown",
-        "strategy": "The Fund is a passively managed exchange-traded fund (\"ETF\") that does not try to outperform the Index and does not seek temporary defensive positions when markets decline or appear overvalued The Adviser uses a representative sampling indexing strategy to manage the Fund",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-10T21:45:59.933518+00:00",
-    "form_type": "485APOS",
-    "cik": "0000822977",
-    "company_name": "GOLDMAN SACHS TRUST",
-    "accession_number": "0001193125-26-301024",
-    "filed_date": "2026-07-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/822977/000119312526301024/0001193125-26-301024-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/822977/000119312526301024/d308160d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/822977/000119312526301024/d308160d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GOLDMAN SACHS TRUST\nETF Name: Goldman Sachs Hedged Alternative Risk Premia Fund\nStrategy: The Goldman Sachs Hedged Alternative Risk Premia Fund (the \u201cFund\u201d) seeks to provide long-term capital growth The Fund seeks to achieve its investment objective primarily through the Strategic Equity Allocation and Multi-Strategy Allocation \u201cBeta\u201d measures the sensitivity of a portfolio\u2019s returns relative to a market index; a beta of approximately 1.0 is intended to result in returns that are highly correlated with th\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GOLDMAN SACHS TRUST",
-        "etf_name": "Goldman Sachs Hedged Alternative Risk Premia Fund",
-        "strategy": "The Goldman Sachs Hedged Alternative Risk Premia Fund (the \u201cFund\u201d) seeks to provide long-term capital growth The Fund seeks to achieve its investment objective primarily through the Strategic Equity Allocation and Multi-Strategy Allocation \u201cBeta\u201d measures the sensitivity of a portfolio\u2019s returns relative to a market index; a beta of approximately 1.0 is intended to result in returns that are highly correlated with th",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-10T21:46:02.542340+00:00",
-    "form_type": "485APOS",
-    "cik": "0000919160",
-    "company_name": "GUINNESS ATKINSON FUNDS",
-    "accession_number": "0001213900-26-077251",
-    "filed_date": "2026-07-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/919160/000121390026077251/0001213900-26-077251-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/919160/000121390026077251/ea0297356-01_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/919160/000121390026077251/ea0297356-01_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GUINNESS ATKINSON FUNDS\nETF Name: This section further describes the risks of investing in the K-Beauty ETF\nStrategy: or that the value of the Fund\u2019s holdings will increase. The Korean peninsula remains subject to the ongoing risk of military conflict, and incidents involving North Korea, the imposition of sanctions, or other geopolitical events could have a sudden and severe adverse effect on the South Korean economy and securities markets and on the value of the Fund\u2019s investments.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GUINNESS ATKINSON FUNDS",
-        "etf_name": "This section further describes the risks of investing in the K-Beauty ETF",
-        "strategy": "or that the value of the Fund\u2019s holdings will increase. The Korean peninsula remains subject to the ongoing risk of military conflict, and incidents involving North Korea, the imposition of sanctions, or other geopolitical events could have a sudden and severe adverse effect on the South Korean economy and securities markets and on the value of the Fund\u2019s investments.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-10T21:46:05.109328+00:00",
-    "form_type": "485APOS",
-    "cik": "0001040674",
-    "company_name": "Yorkville America Investment Trust",
-    "accession_number": "0001040674-26-000033",
-    "filed_date": "2026-07-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1040674/000104067426000033/0001040674-26-000033-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1040674/000104067426000033/yorkvilleamericareindustric.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1040674/000104067426000033/yorkvilleamericareindustric.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Yorkville America Investment Trust\nETF Name: This prospectus describes the Yorkville America Reindustrialization Dividend Index ETF\nStrategy: by investing, under normal market conditions, at least 80% of its net assets (plus any borrowings for investment purposes) in the equity securities comprising the MarketVector\u2122 American Reindustrialization Index (the \"Underlying Index\") 3 The Fund employs a passive investment strategy designed to track, before The Fund seeks to achieve its investment objective by investing, under normal market conditions, at least 80\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Yorkville America Investment Trust",
-        "etf_name": "This prospectus describes the Yorkville America Reindustrialization Dividend Index ETF",
-        "strategy": "by investing, under normal market conditions, at least 80% of its net assets (plus any borrowings for investment purposes) in the equity securities comprising the MarketVector\u2122 American Reindustrialization Index (the \"Underlying Index\") 3 The Fund employs a passive investment strategy designed to track, before The Fund seeks to achieve its investment objective by investing, under normal market conditions, at least 80",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-10T21:46:07.569349+00:00",
-    "form_type": "485APOS",
-    "cik": "0000919160",
-    "company_name": "GUINNESS ATKINSON FUNDS",
-    "accession_number": "0001213900-26-077220",
-    "filed_date": "2026-07-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/919160/000121390026077220/0001213900-26-077220-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/919160/000121390026077220/ea0297355-01_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/919160/000121390026077220/ea0297355-01_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GUINNESS ATKINSON FUNDS\nETF Name: Principal Investment Strategies The AI Drug Discovery ETF is an index fund\nStrategy: The Guinness Atkinson\u2122 AI Drug Discovery ETF (the \u201cAI Drug Discovery ETF\u201d or the \u201cFund\u201d) seeks to track the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GUINNESS ATKINSON FUNDS",
-        "etf_name": "Principal Investment Strategies The AI Drug Discovery ETF is an index fund",
-        "strategy": "The Guinness Atkinson\u2122 AI Drug Discovery ETF (the \u201cAI Drug Discovery ETF\u201d or the \u201cFund\u201d) seeks to track the",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-10T20:46:47.661958+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001479026",
-    "company_name": "Goldman Sachs ETF Trust",
-    "accession_number": "0001193125-26-300911",
-    "filed_date": "2026-07-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1479026/000119312526300911/0001193125-26-300911-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1479026/000119312526300911/d129127d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1479026/000119312526300911/d129127d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Goldman Sachs ETF Trust\nETF Name: Investment Management Approach INVESTMENT OBJECTIVE The Goldman Sachs Core Plus Bond ETF\nStrategy: The Goldman Sachs Core Plus Bond ETF seeks a total return consisting of capital appreciation and income Each Fund\u2019s investment objective may be changed without shareholder approval upon sixty days\u2019 notice Goldman Sachs Core Plus Bond ETF The Fund invests, under normal circumstances, at least 80% of its Net Assets in bonds and other fixed income securities, including U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Goldman Sachs ETF Trust",
-        "etf_name": "Investment Management Approach INVESTMENT OBJECTIVE The Goldman Sachs Core Plus Bond ETF",
-        "strategy": "The Goldman Sachs Core Plus Bond ETF seeks a total return consisting of capital appreciation and income Each Fund\u2019s investment objective may be changed without shareholder approval upon sixty days\u2019 notice Goldman Sachs Core Plus Bond ETF The Fund invests, under normal circumstances, at least 80% of its Net Assets in bonds and other fixed income securities, including U.S",
         "is_alert_worthy": "LOW"
       }
     ],
