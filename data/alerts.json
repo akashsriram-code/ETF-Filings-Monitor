@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-12T20:33:21.412961+00:00",
+    "form_type": "486BPOS",
+    "cik": "0001716885",
+    "company_name": "Angel Oak Strategic Credit Fund",
+    "accession_number": "0000894189-26-022210",
+    "filed_date": "2026-08-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1716885/000089418926022210/0000894189-26-022210-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1716885/000089418926022210/ck0001716885-20260812.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1716885/000089418926022210/ck0001716885-20260812.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Angel Oak Strategic Credit Fund\nETF Name: ANGEL OAK STRATEGIC CREDIT FUND\nStrategy: In pursuing its investment objective, the Fund invests, under normal circumstances, at least 80% of its net assets, plus any borrowings for investment purposes, in credit-related instruments In pursuing its investment objective, the Fund invests, under normal circumstances, at least 80% of its net assets, plus any borrowings for investment purposes, in credit-related instruments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Angel Oak Strategic Credit Fund",
+        "etf_name": "ANGEL OAK STRATEGIC CREDIT FUND",
+        "strategy": "In pursuing its investment objective, the Fund invests, under normal circumstances, at least 80% of its net assets, plus any borrowings for investment purposes, in credit-related instruments In pursuing its investment objective, the Fund invests, under normal circumstances, at least 80% of its net assets, plus any borrowings for investment purposes, in credit-related instruments",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-12T19:53:54.084539+00:00",
     "form_type": "485APOS",
     "cik": "0001976322",
@@ -14462,35 +14491,6 @@
         "filer": "Goldman Sachs ETF Trust",
         "etf_name": "Investment Management Approach INVESTMENT OBJECTIVE The Goldman Sachs Core Plus Bond ETF",
         "strategy": "The Goldman Sachs Core Plus Bond ETF seeks a total return consisting of capital appreciation and income Each Fund\u2019s investment objective may be changed without shareholder approval upon sixty days\u2019 notice Goldman Sachs Core Plus Bond ETF The Fund invests, under normal circumstances, at least 80% of its Net Assets in bonds and other fixed income securities, including U.S",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-10T20:46:52.513039+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-007504",
-    "filed_date": "2026-07-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007504/0001829126-26-007504-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626007504/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007504/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Total Annual Fund\nStrategy: Investment Objective The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily inverse investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "Total Annual Fund",
-        "strategy": "Investment Objective The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily inverse investment results, before",
         "is_alert_worthy": "LOW"
       }
     ],
