@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-08-14T22:01:42.205139+00:00",
+    "form_type": "485APOS",
+    "cik": "0001884021",
+    "company_name": "Volatility Shares Trust",
+    "accession_number": "0001213900-26-090260",
+    "filed_date": "2026-08-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026090260/0001213900-26-090260-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1884021/000121390026090260/ea0302107-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026090260/ea0302107-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Volatility Shares Trust\nETF Name: Total Annual Fund\nStrategy: Principal Investment Strategies The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through investments in futures contracts on the CME FSPI NHL Anaheim Ducks Index, which is a non-investable index (the \u201cDucks Index\u201d) Principal Investment Strategies The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through investments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Volatility Shares Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "Principal Investment Strategies The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through investments in futures contracts on the CME FSPI NHL Anaheim Ducks Index, which is a non-investable index (the \u201cDucks Index\u201d) Principal Investment Strategies The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through investments",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-14T22:01:44.803330+00:00",
+    "form_type": "485APOS",
+    "cik": "0001888997",
+    "company_name": "SEI Exchange Traded Funds",
+    "accession_number": "0001104659-26-097333",
+    "filed_date": "2026-08-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1888997/000110465926097333/0001104659-26-097333-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1888997/000110465926097333/tm2622764d1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1888997/000110465926097333/tm2622764d1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SEI Exchange Traded Funds\nETF Name: Large Cap Value ETF\nStrategy: Unavailability of the Underlying Index could affect adversely the ability of the Fund to achieve its investment objective The risks of owning shares of an ETF generally reflect the risks of owning the underlying securities the ETF is designed to track, although lack of liquidity in an ETF could result in its value being more volatile than the underlying portfolio securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SEI Exchange Traded Funds",
+        "etf_name": "Large Cap Value ETF",
+        "strategy": "Unavailability of the Underlying Index could affect adversely the ability of the Fund to achieve its investment objective The risks of owning shares of an ETF generally reflect the risks of owning the underlying securities the ETF is designed to track, although lack of liquidity in an ETF could result in its value being more volatile than the underlying portfolio securities",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-14T18:00:37.528998+00:00",
     "form_type": "485APOS",
     "cik": "0001432353",
@@ -14433,64 +14491,6 @@
         "filer": "WASATCH FUNDS TRUST",
         "etf_name": "Mid Cap ETF",
         "strategy": "and/or strategy or it may lose value even when the overall stock market is not in general decline These events, and any other future events, may adversely affect the prices and liquidity of the Fund\u2019s portfolio investments and could result in disruptions in the trading markets",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-15T14:08:00.542057+00:00",
-    "form_type": "485APOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-033291",
-    "filed_date": "2026-07-15",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226033291/0001493152-26-033291-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226033291/form485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226033291/form485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: Long Holtec Nuclear Daily ETF\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "Long Holtec Nuclear Daily ETF",
-        "strategy": "The Fund seeks daily investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-14T22:13:43.093164+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001761055",
-    "company_name": "BlackRock ETF Trust",
-    "accession_number": "0001193125-26-303384",
-    "filed_date": "2026-07-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526303384/0001193125-26-303384-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1761055/000119312526303384/d143216d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526303384/d143216d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BlackRock ETF Trust\nETF Name: Advisors and its affiliates. i iSHARES ENHANCED LARGE CAP VALUE ACTIVE ETF\nStrategy: The iShares Enhanced Large Cap Value Active ETF (the \u201cFund\u201d) seeks long-term capital growth The Fund is actively managed and seeks to pursue its investment objective while seeking to maintain a low tracking error to the Russell 1000 \u00ae Value Index (the \u201cRussell 1000 Value Index\u201d) Principal Investment Strategies The Fund is actively managed and seeks to pursue its investment objective while seeking to maintain a low tr\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BlackRock ETF Trust",
-        "etf_name": "Advisors and its affiliates. i iSHARES ENHANCED LARGE CAP VALUE ACTIVE ETF",
-        "strategy": "The iShares Enhanced Large Cap Value Active ETF (the \u201cFund\u201d) seeks long-term capital growth The Fund is actively managed and seeks to pursue its investment objective while seeking to maintain a low tracking error to the Russell 1000 \u00ae Value Index (the \u201cRussell 1000 Value Index\u201d) Principal Investment Strategies The Fund is actively managed and seeks to pursue its investment objective while seeking to maintain a low tr",
         "is_alert_worthy": "LOW"
       }
     ],
