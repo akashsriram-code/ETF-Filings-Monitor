@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-14T02:13:52.274139+00:00",
+    "form_type": "485APOS",
+    "cik": "0001761055",
+    "company_name": "BlackRock ETF Trust",
+    "accession_number": "0001193125-26-349571",
+    "filed_date": "2026-08-13",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526349571/0001193125-26-349571-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1761055/000119312526349571/d143070d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526349571/d143070d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BlackRock ETF Trust\nETF Name: Investment Objective The iShares Enhanced Large Cap Growth Active ETF\nStrategy: The iShares Enhanced Large Cap Growth Active ETF seeks to outperform the Russell 1000 \u00ae Growth Index S-1 The Fund is actively managed and seeks to pursue its investment objective while seeking to maintain a low tracking error to the Russell 1000 \u00ae Growth Index (\u201cthe Russell 1000 Growth Index\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BlackRock ETF Trust",
+        "etf_name": "Investment Objective The iShares Enhanced Large Cap Growth Active ETF",
+        "strategy": "The iShares Enhanced Large Cap Growth Active ETF seeks to outperform the Russell 1000 \u00ae Growth Index S-1 The Fund is actively managed and seeks to pursue its investment objective while seeking to maintain a low tracking error to the Russell 1000 \u00ae Growth Index (\u201cthe Russell 1000 Growth Index\u201d)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-13T23:11:38.941229+00:00",
     "form_type": "485APOS",
     "cik": "0001976322",
@@ -14462,35 +14491,6 @@
         "filer": "Exchange Listed Funds Trust",
         "etf_name": "ARIA Opportunities ETF Investment Objective The ARIA Opportunities ETF",
         "strategy": "The ARIA Opportunities ETF (the \u201cFund\u201d) seeks to provide total return 1 Information 12 Additional Principal Risk Information 12 Portfolio Holdings 20 Fund",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-13T22:04:14.314220+00:00",
-    "form_type": "485APOS",
-    "cik": "0001432353",
-    "company_name": "Global X Funds",
-    "accession_number": "0001432353-26-000612",
-    "filed_date": "2026-07-13",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000612/0001432353-26-000612-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1432353/000143235326000612/asiasemiconductoretf-485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000612/asiasemiconductoretf-485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Global X Funds\nETF Name: Unknown\nStrategy: The Fund invests at least 80% of its net assets, plus borrowings for investment purposes (if any), in the securities of the Underlying Index The Underlying Index is owned and was developed by Global X\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Global X Funds",
-        "etf_name": "Unknown",
-        "strategy": "The Fund invests at least 80% of its net assets, plus borrowings for investment purposes (if any), in the securities of the Underlying Index The Underlying Index is owned and was developed by Global X",
         "is_alert_worthy": "LOW"
       }
     ],
