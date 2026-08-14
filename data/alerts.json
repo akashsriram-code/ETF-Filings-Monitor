@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-08-14T18:00:37.528998+00:00",
+    "form_type": "485APOS",
+    "cik": "0001432353",
+    "company_name": "Global X Funds",
+    "accession_number": "0001432353-26-000641",
+    "filed_date": "2026-08-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000641/0001432353-26-000641-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1432353/000143235326000641/a485a-globalxmagnificentsi.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000641/a485a-globalxmagnificentsi.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Global X Funds\nETF Name: Unknown\nStrategy: The Fund will concentrate its investments (i.e., hold 25% or more of its total assets) in the industries comprising the information technology and communication services sectors, rally expects to rebalance the portfolio on a quarterly basis\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Global X Funds",
+        "etf_name": "Unknown",
+        "strategy": "The Fund will concentrate its investments (i.e., hold 25% or more of its total assets) in the industries comprising the information technology and communication services sectors, rally expects to rebalance the portfolio on a quarterly basis",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-14T18:00:41.747302+00:00",
+    "form_type": "485APOS",
+    "cik": "0001587982",
+    "company_name": "Investment Managers Series Trust II",
+    "accession_number": "0001213900-26-089792",
+    "filed_date": "2026-08-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026089792/0001213900-26-089792-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587982/000121390026089792/ea0301879-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587982/000121390026089792/ea0301879-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust II\nETF Name: Long Memory Daily ETF\nStrategy: The Tradr Triple Threat 2X Long Memory Daily ETF seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Investment Managers Series Trust II",
+        "etf_name": "Long Memory Daily ETF",
+        "strategy": "The Tradr Triple Threat 2X Long Memory Daily ETF seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-14T17:02:42.587262+00:00",
     "form_type": "485BPOS",
     "cik": "0002038891",
@@ -14433,64 +14491,6 @@
         "filer": "BlackRock ETF Trust",
         "etf_name": "Advisors and its affiliates. i iSHARES ENHANCED LARGE CAP VALUE ACTIVE ETF",
         "strategy": "The iShares Enhanced Large Cap Value Active ETF (the \u201cFund\u201d) seeks long-term capital growth The Fund is actively managed and seeks to pursue its investment objective while seeking to maintain a low tracking error to the Russell 1000 \u00ae Value Index (the \u201cRussell 1000 Value Index\u201d) Principal Investment Strategies The Fund is actively managed and seeks to pursue its investment objective while seeking to maintain a low tr",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-14T21:11:11.282633+00:00",
-    "form_type": "485APOS",
-    "cik": "0001064641",
-    "company_name": "SELECT SECTOR SPDR TRUST",
-    "accession_number": "0001193125-26-303372",
-    "filed_date": "2026-07-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1064641/000119312526303372/0001193125-26-303372-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1064641/000119312526303372/d137905d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1064641/000119312526303372/d137905d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SELECT SECTOR SPDR TRUST\nETF Name: Consumer Discretionary Market Sector SPDR ETF\nStrategy: The State Street S&P 500 Consumer Staples Market Sector SPDR ETF (the \u201cFund\u201d) seeks to provide investment results that, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "SELECT SECTOR SPDR TRUST",
-        "etf_name": "Consumer Discretionary Market Sector SPDR ETF",
-        "strategy": "The State Street S&P 500 Consumer Staples Market Sector SPDR ETF (the \u201cFund\u201d) seeks to provide investment results that, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-14T21:11:16.273103+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001944285",
-    "company_name": "Tema ETF Trust",
-    "accession_number": "0001999371-26-014967",
-    "filed_date": "2026-07-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1944285/000199937126014967/0001999371-26-014967-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1944285/000199937126014967/hlth-485bpos_071426.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1944285/000199937126014967/hlth-485bpos_071426.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tema ETF Trust\nETF Name: TEMA HEALTHCARE AI ETF\nStrategy: TEMA HEALTHCARE AI ETF \u2013 Investment Objective Tema Healthcare AI ETF (the \u201cFund\u201d) seeks to provide long-term growth\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tema ETF Trust",
-        "etf_name": "TEMA HEALTHCARE AI ETF",
-        "strategy": "TEMA HEALTHCARE AI ETF \u2013 Investment Objective Tema Healthcare AI ETF (the \u201cFund\u201d) seeks to provide long-term growth",
         "is_alert_worthy": "LOW"
       }
     ],
