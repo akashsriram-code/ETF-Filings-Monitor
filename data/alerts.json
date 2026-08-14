@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-14T15:00:31.963121+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-038076",
+    "filed_date": "2026-08-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226038076/0001493152-26-038076-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226038076/form485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226038076/form485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares ETF Trust\nStrategy: The Fund\u2019s investment objective is to seek capital appreciation A Box Spread strategy combines a \u201csynthetic long\u201d position with an offsetting \u201csynthetic short\u201d position, through a grouping of option contracts on an equity security, index or ETF\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "GraniteShares ETF Trust",
+        "strategy": "The Fund\u2019s investment objective is to seek capital appreciation A Box Spread strategy combines a \u201csynthetic long\u201d position with an offsetting \u201csynthetic short\u201d position, through a grouping of option contracts on an equity security, index or ETF",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-14T02:13:52.274139+00:00",
     "form_type": "485APOS",
     "cik": "0001761055",
@@ -14462,35 +14491,6 @@
         "filer": "Tidal Trust IV",
         "etf_name": "Inverse US Growth Daily Target ETF",
         "strategy": "The Fund seeks daily inverse investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-14T10:13:34.407229+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001547950",
-    "company_name": "Exchange Listed Funds Trust",
-    "accession_number": "0001213900-26-077675",
-    "filed_date": "2026-07-13",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026077675/0001213900-26-077675-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547950/000121390026077675/ea0297509-01_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026077675/ea0297509-01_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Exchange Listed Funds Trust\nETF Name: ARIA Opportunities ETF Investment Objective The ARIA Opportunities ETF\nStrategy: The ARIA Opportunities ETF (the \u201cFund\u201d) seeks to provide total return 1 Information 12 Additional Principal Risk Information 12 Portfolio Holdings 20 Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Exchange Listed Funds Trust",
-        "etf_name": "ARIA Opportunities ETF Investment Objective The ARIA Opportunities ETF",
-        "strategy": "The ARIA Opportunities ETF (the \u201cFund\u201d) seeks to provide total return 1 Information 12 Additional Principal Risk Information 12 Portfolio Holdings 20 Fund",
         "is_alert_worthy": "LOW"
       }
     ],
