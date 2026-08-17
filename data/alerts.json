@@ -1,5 +1,152 @@
 [
   {
+    "created_at": "2026-08-17T23:56:14.263619+00:00",
+    "form_type": "S-1",
+    "cik": "0001793497",
+    "company_name": "1 - VS Trust",
+    "accession_number": "0001213900-26-090839",
+    "filed_date": "2026-08-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1793497/000121390026090839/0001213900-26-090839-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1793497/000121390026090839/ea0291255-s1_vstrust.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1793497/000121390026090839/ea0291255-s1_vstrust.htm",
+    "matched_keywords": [
+      "Bitcoin"
+    ],
+    "is_crypto": true,
+    "synopsis": "Synopsis 1\nFiler: 1 - VS Trust\nETF Name: Objective for a single day, not for any other period. A Fund\nStrategy: A Fund\u2019s returns for periods longer than a single day will very likely differ in amount, and possibly even direction, from its Investment Objective for the same period While a Fund has a daily Investment Objective, you may hold Shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Crypto-linked ETF disclosures can move market narrative and regulatory coverage.",
+    "synopsis_items": [
+      {
+        "filer": "1 - VS Trust",
+        "etf_name": "Objective for a single day, not for any other period. A Fund",
+        "strategy": "A Fund\u2019s returns for periods longer than a single day will very likely differ in amount, and possibly even direction, from its Investment Objective for the same period While a Fund has a daily Investment Objective, you may hold Shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Crypto-linked ETF disclosures can move market narrative and regulatory coverage."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-17T23:56:17.576718+00:00",
+    "form_type": "485APOS",
+    "cik": "0001174610",
+    "company_name": "PROSHARES TRUST",
+    "accession_number": "0001174610-26-000543",
+    "filed_date": "2026-08-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000543/0001174610-26-000543-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000543/f45920d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000543/f45920d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PROSHARES TRUST\nETF Name: Money Market ETF\nStrategy: Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as Vantage Data Centers when Vantage Data Centers rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PROSHARES TRUST",
+        "etf_name": "Money Market ETF",
+        "strategy": "Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as Vantage Data Centers when Vantage Data Centers rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-17T23:56:21.400867+00:00",
+    "form_type": "485APOS",
+    "cik": "0001174610",
+    "company_name": "PROSHARES TRUST",
+    "accession_number": "0001174610-26-000542",
+    "filed_date": "2026-08-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000542/0001174610-26-000542-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000542/f45919d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000542/f45919d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PROSHARES TRUST\nETF Name: Money Market ETF\nStrategy: Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as Solidigm when Solidigm rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PROSHARES TRUST",
+        "etf_name": "Money Market ETF",
+        "strategy": "Important Information About the Fund If the Fund is successful in meeting its investment objective, it should gain approximately two times as much as Solidigm when Solidigm rises on a given day While the Fund has a daily investment objective, you may hold Fund shares for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-17T23:56:25.104168+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-003915",
+    "filed_date": "2026-08-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003915/0001592900-26-003915-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026003915/ck0001592900-20260817.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003915/ck0001592900-20260817.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Unknown\nStrategy: PRINCIPAL INVESTMENT STRATEGIES The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective by investing directly or indirectly through ETFs (each, an \u201cUnderlying ETF\u201d) in publicly-traded stocks of companies located around the world PRINCIPAL INVESTMENT STRATEGIES The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "Unknown",
+        "strategy": "PRINCIPAL INVESTMENT STRATEGIES The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective by investing directly or indirectly through ETFs (each, an \u201cUnderlying ETF\u201d) in publicly-traded stocks of companies located around the world PRINCIPAL INVESTMENT STRATEGIES The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-17T23:56:30.629241+00:00",
+    "form_type": "485APOS",
+    "cik": "0001485894",
+    "company_name": "J.P. Morgan Exchange-Traded Fund Trust",
+    "accession_number": "0001193125-26-354057",
+    "filed_date": "2026-08-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1485894/000119312526354057/0001193125-26-354057-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1485894/000119312526354057/d166445d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1485894/000119312526354057/d166445d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: J.P. Morgan Exchange-Traded Fund Trust\nETF Name: Unknown\nStrategy: The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described in this prospectus, considered in light of all of the other investments in your portfolio, as well as your risk tolerance, financial goals and time horizons The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "J.P. Morgan Exchange-Traded Fund Trust",
+        "etf_name": "Unknown",
+        "strategy": "The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described in this prospectus, considered in light of all of the other investments in your portfolio, as well as your risk tolerance, financial goals and time horizons The suitability of an investment in the Fund should be considered based on the investment objective, strategies and risks described",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-17T20:03:23.593185+00:00",
     "form_type": "485BPOS",
     "cik": "0001484018",
@@ -14346,151 +14493,6 @@
         "filer": "Themes ETF Trust",
         "etf_name": "Unknown",
         "strategy": "The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) of the daily",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-17T19:16:54.413069+00:00",
-    "form_type": "485APOS",
-    "cik": "0000028540",
-    "company_name": "FIDELITY OXFORD STREET TRUST",
-    "accession_number": "0000028540-26-000019",
-    "filed_date": "2026-07-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/28540/000002854026000019/0000028540-26-000019-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/28540/000002854026000019/filing12593.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/28540/000002854026000019/filing12593.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FIDELITY OXFORD STREET TRUST\nETF Name: SAI Inflation-Focused Fund\nStrategy: Fidelity\u00ae SAI Inflation-Focused Fund seeks to provide investment returns that correspond to the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FIDELITY OXFORD STREET TRUST",
-        "etf_name": "SAI Inflation-Focused Fund",
-        "strategy": "Fidelity\u00ae SAI Inflation-Focused Fund seeks to provide investment returns that correspond to the",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-17T16:46:41.498891+00:00",
-    "form_type": "485APOS",
-    "cik": "0000768847",
-    "company_name": "VanEck Funds",
-    "accession_number": "0000768847-26-000112",
-    "filed_date": "2026-07-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/768847/000076884726000112/0000768847-26-000112-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/768847/000076884726000112/vaneckpivotaltrendsetfvef4.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/768847/000076884726000112/vaneckpivotaltrendsetfvef4.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: VanEck Funds\nETF Name: VanEck Pivotal Trends ETF\nStrategy: The VanEck Pivotal Trends ETF (the \u201cFund\u201d) seeks long-term capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "VanEck Funds",
-        "etf_name": "VanEck Pivotal Trends ETF",
-        "strategy": "The VanEck Pivotal Trends ETF (the \u201cFund\u201d) seeks long-term capital appreciation",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-17T16:46:44.872417+00:00",
-    "form_type": "485APOS",
-    "cik": "0000768847",
-    "company_name": "VanEck Funds",
-    "accession_number": "0000768847-26-000111",
-    "filed_date": "2026-07-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/768847/000076884726000111/0000768847-26-000111-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/768847/000076884726000111/vaneckwealthbuilderetf485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/768847/000076884726000111/vaneckwealthbuilderetf485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: VanEck Funds\nETF Name: VanEck Wealth Builder ETF\nStrategy: The VanEck Wealth Builder ETF (the \u201cFund\u201d) seeks long-term capital appreciation and current income\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "VanEck Funds",
-        "etf_name": "VanEck Wealth Builder ETF",
-        "strategy": "The VanEck Wealth Builder ETF (the \u201cFund\u201d) seeks long-term capital appreciation and current income",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-17T15:38:44.929164+00:00",
-    "form_type": "485APOS",
-    "cik": "0001096012",
-    "company_name": "AMERICAN BEACON SELECT FUNDS",
-    "accession_number": "0001133228-26-010500",
-    "filed_date": "2026-07-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1096012/000113322826010500/0001133228-26-010500-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1096012/000113322826010500/absietf-efp26234_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1096012/000113322826010500/absietf-efp26234_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AMERICAN BEACON SELECT FUNDS\nETF Name: Spreads on an underlying broad based securities market index or an ETF\nStrategy: The Fund may enter Box Spreads on an underlying broad based securities market index or an ETF that tracks a broad based securities market index Principal Risks There is no assurance that the Fund will achieve its investment objective, and you could lose part or all of your investment in the Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AMERICAN BEACON SELECT FUNDS",
-        "etf_name": "Spreads on an underlying broad based securities market index or an ETF",
-        "strategy": "The Fund may enter Box Spreads on an underlying broad based securities market index or an ETF that tracks a broad based securities market index Principal Risks There is no assurance that the Fund will achieve its investment objective, and you could lose part or all of your investment in the Fund",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-17T15:38:47.195803+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001081400",
-    "company_name": "ALLSPRING FUNDS TRUST",
-    "accession_number": "0001081400-26-000299",
-    "filed_date": "2026-07-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1081400/000108140026000299/0001081400-26-000299-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1081400/000108140026000299/allspring-20260720.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1081400/000108140026000299/allspring-20260720.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ALLSPRING FUNDS TRUST\nETF Name: Treasury Money Market Fund\nStrategy: may not produce expected returns, may cause the Fund\u2019s shares to lose value or may cause the Fund to underperform other funds with similar investment objectives. Government MoneyMarket Funds 3 Back to\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ALLSPRING FUNDS TRUST",
-        "etf_name": "Treasury Money Market Fund",
-        "strategy": "may not produce expected returns, may cause the Fund\u2019s shares to lose value or may cause the Fund to underperform other funds with similar investment objectives. Government MoneyMarket Funds 3 Back to",
         "is_alert_worthy": "LOW"
       }
     ],
