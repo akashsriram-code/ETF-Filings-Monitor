@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-08-18T21:37:10.157093+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-009024",
+    "filed_date": "2026-08-18",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626009024/0001829126-26-009024-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626009024/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626009024/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Unknown",
+        "strategy": "The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-18T21:37:15.142102+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000924727",
+    "company_name": "Investment Managers Series Trust III",
+    "accession_number": "0001213900-26-091233",
+    "filed_date": "2026-08-18",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/924727/000121390026091233/0001213900-26-091233-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/924727/000121390026091233/ea0302036-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/924727/000121390026091233/ea0302036-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust III\nETF Name: PROSPECTUS Mast HedgeIndex Corporate Arbitrage ETF\nStrategy: and to manage the closed -end fund portfolio; as well as the fluctuation in the net asset value of closed -end fund shares compared to changes in the value of underlying securities held by the closed -end fund The Fund is actively -managed and its The Fund is an actively managed exchange -traded fund (\u201cETF\u201d) that seeks diverse exposure to macro trading opportunities such as significant price trends, both up and down,\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Investment Managers Series Trust III",
+        "etf_name": "PROSPECTUS Mast HedgeIndex Corporate Arbitrage ETF",
+        "strategy": "and to manage the closed -end fund portfolio; as well as the fluctuation in the net asset value of closed -end fund shares compared to changes in the value of underlying securities held by the closed -end fund The Fund is actively -managed and its The Fund is an actively managed exchange -traded fund (\u201cETF\u201d) that seeks diverse exposure to macro trading opportunities such as significant price trends, both up and down,",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-18T20:41:50.724157+00:00",
     "form_type": "485APOS",
     "cik": "0000809064",
@@ -14435,64 +14493,6 @@
         "filer": "FIRST TRUST EXCHANGE-TRADED FUND II",
         "etf_name": "II Prospectus First Trust Indxx Quality Precious Metals Miners ETF",
         "strategy": "As such, the Fund\u2019s investment objective is to seek investment results that correspond generally to the price and yield (before the Fund\u2019s Under normal market conditions, the Fund will invest at least 80% of its net assets (plus any investment borrowings) in the securities that comprise the Index The Index Provider further categorizes Precious Metals Miners Companies into three sub-groups: (i) \u201cPure-Play Precious Met",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-17T21:12:45.297693+00:00",
-    "form_type": "485APOS",
-    "cik": "0002078265",
-    "company_name": "Corgi ETF Trust I",
-    "accession_number": "0002078265-26-000323",
-    "filed_date": "2026-07-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000323/0002078265-26-000323-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2078265/000207826526000323/485apos_anthropic.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000323/485apos_anthropic.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Corgi ETF Trust I\nETF Name: Unknown\nStrategy: over a period of time greater than one trading day. The Fund (i) presents different risks from other funds; (ii) has greater risks than funds that do not use leverage; and (iii) may be suitable only for knowledgeable investors who understand how the Fund operates\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Corgi ETF Trust I",
-        "etf_name": "Unknown",
-        "strategy": "over a period of time greater than one trading day. The Fund (i) presents different risks from other funds; (ii) has greater risks than funds that do not use leverage; and (iii) may be suitable only for knowledgeable investors who understand how the Fund operates",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-17T21:12:47.873645+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-001459",
-    "filed_date": "2026-07-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001459/0001771146-26-001459-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626001459/ck0001771146-20260717.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001459/ck0001771146-20260717.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Years Tuttle Capital Equity Plus Tail Risk ETF\nStrategy: and principal risks of the Tuttle Capital Equity Plus Tail Risk Subsidiary constitute principal investment strategies and\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Opportunities Trust",
-        "etf_name": "Years Tuttle Capital Equity Plus Tail Risk ETF",
-        "strategy": "and principal risks of the Tuttle Capital Equity Plus Tail Risk Subsidiary constitute principal investment strategies and",
         "is_alert_worthy": "LOW"
       }
     ],
