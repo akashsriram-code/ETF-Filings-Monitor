@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-18T19:50:40.583043+00:00",
+    "form_type": "485APOS",
+    "cik": "0001040674",
+    "company_name": "Yorkville America Investment Trust",
+    "accession_number": "0001040674-26-000061",
+    "filed_date": "2026-08-18",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1040674/000104067426000061/0001040674-26-000061-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1040674/000104067426000061/yorkvilleamericaquantummomd.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1040674/000104067426000061/yorkvilleamericaquantummomd.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Yorkville America Investment Trust\nETF Name: N-CSR once that report is available. Yorkville America Quantum Momentum Index ETF\nStrategy: by investing in the assets that comprise the YA Quantum Momentum Index (the \"Underlying Index\") The Fund employs a passive investment strategy designed to track, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Yorkville America Investment Trust",
+        "etf_name": "N-CSR once that report is available. Yorkville America Quantum Momentum Index ETF",
+        "strategy": "by investing in the assets that comprise the YA Quantum Momentum Index (the \"Underlying Index\") The Fund employs a passive investment strategy designed to track, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-18T19:21:31.507455+00:00",
     "form_type": "485APOS",
     "cik": "0000723258",
@@ -14464,35 +14493,6 @@
         "filer": "PROSHARES TRUST",
         "etf_name": "ProShares DJ Brookfield Global Infrastructure ETF",
         "strategy": "AND RELATED RISKS :: 517 PROSHARES.COM high a degree of correlation with its index as it would if the Fund only used swaps on the underlying index As a result, a Fund may be more or less exposed to leverage risk than if it had been properly rebalanced and may not achieve its investment objective",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-17T21:13:23.996845+00:00",
-    "form_type": "485APOS",
-    "cik": "0001479026",
-    "company_name": "Goldman Sachs ETF Trust",
-    "accession_number": "0001193125-26-307865",
-    "filed_date": "2026-07-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1479026/000119312526307865/0001193125-26-307865-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1479026/000119312526307865/d124537d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1479026/000119312526307865/d124537d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Goldman Sachs ETF Trust\nETF Name: Investment Management Approach INVESTMENT OBJECTIVE The Goldman Sachs Securitized Income ETF\nStrategy: are described in the Fund\u2019s Summary\u2014Principal Investment Strategies and Investment\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Goldman Sachs ETF Trust",
-        "etf_name": "Investment Management Approach INVESTMENT OBJECTIVE The Goldman Sachs Securitized Income ETF",
-        "strategy": "are described in the Fund\u2019s Summary\u2014Principal Investment Strategies and Investment",
         "is_alert_worthy": "LOW"
       }
     ],
