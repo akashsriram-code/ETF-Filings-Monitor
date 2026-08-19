@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-08-19T16:38:44.896825+00:00",
+    "form_type": "485APOS",
+    "cik": "0001478482",
+    "company_name": "John Hancock Exchange-Traded Fund Trust",
+    "accession_number": "0001193125-26-356487",
+    "filed_date": "2026-08-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1478482/000119312526356487/0001193125-26-356487-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1478482/000119312526356487/d123579d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1478482/000119312526356487/d123579d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: John Hancock Exchange-Traded Fund Trust\nETF Name: Valuation of fund\nStrategy: is to provide a high level of current income, with a secondary objective of capital appreciation The Board of Trustees can change the fund\u2019s investment objective and strategies without shareholder approval\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "John Hancock Exchange-Traded Fund Trust",
+        "etf_name": "Valuation of fund",
+        "strategy": "is to provide a high level of current income, with a secondary objective of capital appreciation The Board of Trustees can change the fund\u2019s investment objective and strategies without shareholder approval",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-19T16:38:47.746662+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001518042",
+    "company_name": "NORTHERN LIGHTS FUND TRUST II",
+    "accession_number": "0001580642-26-005429",
+    "filed_date": "2026-08-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1518042/000158064226005429/0001580642-26-005429-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1518042/000158064226005429/beacontactalt-485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1518042/000158064226005429/beacontactalt-485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NORTHERN LIGHTS FUND TRUST II\nETF Name: The Beacon Tactical Alternatives Risk ETF\nStrategy: Fund Investment Objective Beacon Tactical Alternatives Risk ETF Long-term capital appreciation The Fund\u2019s investment objective is non-fundamental and may be changed by the Board of Trustees upon 60 days\u2019 written notice to shareholders\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NORTHERN LIGHTS FUND TRUST II",
+        "etf_name": "The Beacon Tactical Alternatives Risk ETF",
+        "strategy": "Fund Investment Objective Beacon Tactical Alternatives Risk ETF Long-term capital appreciation The Fund\u2019s investment objective is non-fundamental and may be changed by the Board of Trustees upon 60 days\u2019 written notice to shareholders",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-19T15:57:22.435686+00:00",
     "form_type": "485APOS",
     "cik": "0001605941",
@@ -14435,64 +14493,6 @@
         "filer": "Corgi ETF Trust I",
         "etf_name": "In general, higher volatility and frequent directional reversals in the Underlying ETF",
         "strategy": "The Corgi Advanced Packaging 2x Daily ETF (the \u201cFund\u201d) seeks daily investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-17T22:11:20.135648+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-007646",
-    "filed_date": "2026-07-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007646/0001829126-26-007646-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626007646/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007646/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: of the Fund The Fund employs a \u201cpassive\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "Unknown",
-        "strategy": "of the Fund The Fund employs a \u201cpassive",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-17T22:11:23.736310+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001415726",
-    "company_name": "Innovator ETFs Trust",
-    "accession_number": "0001213900-26-079269",
-    "filed_date": "2026-07-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026079269/0001213900-26-079269-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1415726/000121390026079269/ea0297924-01_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026079269/ea0297924-01_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Innovator ETFs Trust\nETF Name: If the Underlying ETF\nStrategy: The Fund\u2019s investment strategy is designed to deliver the Outcomes described herein if Shares are held from the time the Fund enters into the FLEX Options and held until those FLEX Options expire at the end of the Outcome Period\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Innovator ETFs Trust",
-        "etf_name": "If the Underlying ETF",
-        "strategy": "The Fund\u2019s investment strategy is designed to deliver the Outcomes described herein if Shares are held from the time the Fund enters into the FLEX Options and held until those FLEX Options expire at the end of the Outcome Period",
         "is_alert_worthy": "LOW"
       }
     ],
