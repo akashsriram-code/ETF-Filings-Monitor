@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-19T15:57:22.435686+00:00",
+    "form_type": "485APOS",
+    "cik": "0001605941",
+    "company_name": "1290 Funds",
+    "accession_number": "0001193125-26-356419",
+    "filed_date": "2026-08-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1605941/000119312526356419/0001193125-26-356419-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1605941/000119312526356419/d170728d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1605941/000119312526356419/d170728d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Index. Annual Fund\nStrategy: The Fund seeks to achieve a total return before expenses that approximates the total return Under normal circumstances, the Fund invests at least 80% of its net assets, plus borrowings for investment purposes, in equity securities in the S&P 500 Index Derivative instruments that provide investment exposure to such investments or exposure to one or more market risk factors associated with such investments are included\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Unknown",
+        "etf_name": "Index. Annual Fund",
+        "strategy": "The Fund seeks to achieve a total return before expenses that approximates the total return Under normal circumstances, the Fund invests at least 80% of its net assets, plus borrowings for investment purposes, in equity securities in the S&P 500 Index Derivative instruments that provide investment exposure to such investments or exposure to one or more market risk factors associated with such investments are included",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-19T10:06:38.335332+00:00",
     "form_type": "485BPOS",
     "cik": "0001547950",
@@ -14456,35 +14485,6 @@
     "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026079269/0001213900-26-079269-index.html",
     "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1415726/000121390026079269/ea0297924-01_485bpos.htm",
     "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026079269/ea0297924-01_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Innovator ETFs Trust\nETF Name: If the Underlying ETF\nStrategy: The Fund\u2019s investment strategy is designed to deliver the Outcomes described herein if Shares are held from the time the Fund enters into the FLEX Options and held until those FLEX Options expire at the end of the Outcome Period\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Innovator ETFs Trust",
-        "etf_name": "If the Underlying ETF",
-        "strategy": "The Fund\u2019s investment strategy is designed to deliver the Outcomes described herein if Shares are held from the time the Fund enters into the FLEX Options and held until those FLEX Options expire at the end of the Outcome Period",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-17T22:11:27.015646+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001415726",
-    "company_name": "Innovator ETFs Trust",
-    "accession_number": "0001213900-26-079257",
-    "filed_date": "2026-07-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026079257/0001213900-26-079257-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1415726/000121390026079257/ea0297922-01_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1415726/000121390026079257/ea0297922-01_485bpos.htm",
     "matched_keywords": [],
     "is_crypto": false,
     "synopsis": "Synopsis 1\nFiler: Innovator ETFs Trust\nETF Name: If the Underlying ETF\nStrategy: The Fund\u2019s investment strategy is designed to deliver the Outcomes described herein if Shares are held from the time the Fund enters into the FLEX Options and held until those FLEX Options expire at the end of the Outcome Period\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
