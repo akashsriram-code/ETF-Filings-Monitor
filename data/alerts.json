@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-19T18:51:05.600200+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000895430",
+    "company_name": "Voya MUTUAL FUNDS",
+    "accession_number": "0000895430-26-000024",
+    "filed_date": "2026-08-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/895430/000089543026000024/0000895430-26-000024-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/895430/000089543026000024/f45890d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/895430/000089543026000024/f45890d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Voya MUTUAL FUNDS\nETF Name: Adviser, and additional transaction costs may be incurred by MM EME Fund\nStrategy: Each Fund\u2019s organizational structure and investment objective is described in the chart below\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Voya MUTUAL FUNDS",
+        "etf_name": "Adviser, and additional transaction costs may be incurred by MM EME Fund",
+        "strategy": "Each Fund\u2019s organizational structure and investment objective is described in the chart below",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-19T16:38:44.896825+00:00",
     "form_type": "485APOS",
     "cik": "0001478482",
@@ -14464,35 +14493,6 @@
         "filer": "Tidal Trust II",
         "etf_name": "Quantum Portfolio Option Income ETF",
         "strategy": "The Fund\u2019s primary investment objective is to seek current income The Fund\u2019s secondary objective is to seek capital appreciation via investments in a select portfolio of Quantum Companies and/or one or more Quantum ETFs (each defined below) The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks (i) to generate cash distributions, and (ii) capital appreciation",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-17T22:11:18.070089+00:00",
-    "form_type": "485APOS",
-    "cik": "0002078265",
-    "company_name": "Corgi ETF Trust I",
-    "accession_number": "0002078265-26-000324",
-    "filed_date": "2026-07-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000324/0002078265-26-000324-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2078265/000207826526000324/485apos_2xthematic.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000324/485apos_2xthematic.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Corgi ETF Trust I\nETF Name: In general, higher volatility and frequent directional reversals in the Underlying ETF\nStrategy: The Corgi Advanced Packaging 2x Daily ETF (the \u201cFund\u201d) seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Corgi ETF Trust I",
-        "etf_name": "In general, higher volatility and frequent directional reversals in the Underlying ETF",
-        "strategy": "The Corgi Advanced Packaging 2x Daily ETF (the \u201cFund\u201d) seeks daily investment results, before",
         "is_alert_worthy": "LOW"
       }
     ],
