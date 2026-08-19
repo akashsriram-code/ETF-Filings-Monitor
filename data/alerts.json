@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-19T10:06:38.335332+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001547950",
+    "company_name": "Exchange Listed Funds Trust",
+    "accession_number": "0001213900-26-091338",
+    "filed_date": "2026-08-18",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026091338/0001213900-26-091338-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547950/000121390026091338/ea0301589-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026091338/ea0301589-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Exchange Listed Funds Trust\nETF Name: Adviser and the oversight of the Board of Exchange Listed Funds Trust\nStrategy: The Fund is an actively managed ETF and does not seek to replicate the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Exchange Listed Funds Trust",
+        "etf_name": "Adviser and the oversight of the Board of Exchange Listed Funds Trust",
+        "strategy": "The Fund is an actively managed ETF and does not seek to replicate the",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-18T21:37:10.157093+00:00",
     "form_type": "485APOS",
     "cik": "0001976322",
@@ -14464,35 +14493,6 @@
         "filer": "Innovator ETFs Trust",
         "etf_name": "If the Underlying ETF",
         "strategy": "The Fund\u2019s investment strategy is designed to deliver the Outcomes described herein if Shares are held from the time the Fund enters into the FLEX Options and held until those FLEX Options expire at the end of the Outcome Period",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-17T21:12:43.020217+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001364608",
-    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND II",
-    "accession_number": "0001445546-26-005216",
-    "filed_date": "2026-07-17",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1364608/000144554626005216/0001445546-26-005216-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1364608/000144554626005216/ftetfii-20260717.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1364608/000144554626005216/ftetfii-20260717.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FIRST TRUST EXCHANGE-TRADED FUND II\nETF Name: II Prospectus First Trust Indxx Quality Precious Metals Miners ETF\nStrategy: As such, the Fund\u2019s investment objective is to seek investment results that correspond generally to the price and yield (before the Fund\u2019s Under normal market conditions, the Fund will invest at least 80% of its net assets (plus any investment borrowings) in the securities that comprise the Index The Index Provider further categorizes Precious Metals Miners Companies into three sub-groups: (i) \u201cPure-Play Precious Met\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FIRST TRUST EXCHANGE-TRADED FUND II",
-        "etf_name": "II Prospectus First Trust Indxx Quality Precious Metals Miners ETF",
-        "strategy": "As such, the Fund\u2019s investment objective is to seek investment results that correspond generally to the price and yield (before the Fund\u2019s Under normal market conditions, the Fund will invest at least 80% of its net assets (plus any investment borrowings) in the securities that comprise the Index The Index Provider further categorizes Precious Metals Miners Companies into three sub-groups: (i) \u201cPure-Play Precious Met",
         "is_alert_worthy": "LOW"
       }
     ],
