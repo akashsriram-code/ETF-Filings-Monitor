@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-08-20T21:21:29.121132+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001648403",
+    "company_name": "Virtus ETF Trust II",
+    "accession_number": "0002071844-26-001108",
+    "filed_date": "2026-08-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1648403/000207184426001108/0002071844-26-001108-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1648403/000207184426001108/virtusetfii485btaxopinn82026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1648403/000207184426001108/virtusetfii485btaxopinn82026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Virtus ETF Trust II\nETF Name: Virtus ETF Trust\nStrategy: (j) Amendment dated July 1, 2022 to the Sub-Advisory Agreement among Virtus ETF Trust II, on behalf of Virtus Seix Senior Loan ETF, Virtus ETF Advisers LLC and Seix Investment Advisors LLC, incorporated by reference to Registrant\u2019s Post-Effective Amendment No . (k) Transfer and Assumption Agreement dated as of January 1, 2025, among Virtus Investment Advisers, LLC, Virtus Advisers, LLC (formerly known as Virtus ETF A...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Virtus ETF Trust II",
+        "etf_name": "Virtus ETF Trust",
+        "strategy": "(j) Amendment dated July 1, 2022 to the Sub-Advisory Agreement among Virtus ETF Trust II, on behalf of Virtus Seix Senior Loan ETF, Virtus ETF Advisers LLC and Seix Investment Advisors LLC, incorporated by reference to Registrant\u2019s Post-Effective Amendment No . (k) Transfer and Assumption Agreement dated as of January 1, 2025, among Virtus Investment Advisers, LLC, Virtus Advisers, LLC (formerly known as Virtus ETF A...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-20T21:21:32.140408+00:00",
+    "form_type": "485APOS",
+    "cik": "0000890540",
+    "company_name": "Advisors' Inner Circle Fund II",
+    "accession_number": "0001398344-26-015124",
+    "filed_date": "2026-08-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/890540/000139834426015124/0001398344-26-015124-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/890540/000139834426015124/fp0100550-1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/890540/000139834426015124/fp0100550-1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Advisors' Inner Circle Fund II\nETF Name: Inner Circle Fund\nStrategy: Because the Fund has not commenced investment operations as of the date of this prospectus, it does not have portfolio turnover information to report PRINCIPAL INVESTMENT STRATEGIES Under normal circumstances, the Fund seeks to achieve its investment objective by investing at least 80% of its net assets, plus the amount of borrowings for investment purposes, in equity securities of foreign companies representing at l\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Advisors' Inner Circle Fund II",
+        "etf_name": "Inner Circle Fund",
+        "strategy": "Because the Fund has not commenced investment operations as of the date of this prospectus, it does not have portfolio turnover information to report PRINCIPAL INVESTMENT STRATEGIES Under normal circumstances, the Fund seeks to achieve its investment objective by investing at least 80% of its net assets, plus the amount of borrowings for investment purposes, in equity securities of foreign companies representing at l",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-20T19:10:39.085090+00:00",
     "form_type": "485APOS",
     "cik": "0001976322",
@@ -14432,64 +14490,6 @@
         "filer": "PRUDENTIAL INVESTMENT PORTFOLIOS 5",
         "etf_name": "To reduce Fund",
         "strategy": "To reduce Fund expenses, we may send or make available one annual shareholder report, one semi-annual shareholder report and one summary prospectus per household, unless you instruct us or your financial intermediary otherwise. To reduce Fund expenses, we may send or make available one annual shareholder report, one semi-annual shareholder report and one summary prospectus per household, unless you instruct us or you...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-21T22:07:01.545410+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-007716",
-    "filed_date": "2026-07-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007716/0001829126-26-007716-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626007716/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626007716/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) of the daily\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "Unknown",
-        "strategy": "The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) of the daily",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-21T22:07:12.875738+00:00",
-    "form_type": "485APOS",
-    "cik": "0001944285",
-    "company_name": "Tema ETF Trust",
-    "accession_number": "0001999371-26-015513",
-    "filed_date": "2026-07-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1944285/000199937126015513/0001999371-26-015513-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1944285/000199937126015513/tema-485apos_072126.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1944285/000199937126015513/tema-485apos_072126.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tema ETF Trust\nETF Name: TEMA PHYSICAL ACTUATOR ETF\nStrategy: TEMA MLCC ETF \u2013 Investment Objective Tema MLCC ETF (the \u201cFund\u201d) seeks to provide long-term growth\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tema ETF Trust",
-        "etf_name": "TEMA PHYSICAL ACTUATOR ETF",
-        "strategy": "TEMA MLCC ETF \u2013 Investment Objective Tema MLCC ETF (the \u201cFund\u201d) seeks to provide long-term growth",
         "is_alert_worthy": "LOW"
       }
     ],
