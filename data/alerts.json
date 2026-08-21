@@ -1,5 +1,208 @@
 [
   {
+    "created_at": "2026-08-21T21:31:57.371134+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976517",
+    "company_name": "Roundhill ETF Trust",
+    "accession_number": "0001398344-26-015283",
+    "filed_date": "2026-08-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426015283/0001398344-26-015283-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976517/000139834426015283/fp0100594-1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426015283/fp0100594-1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Roundhill ETF Trust\nETF Name: ETF Investment Objectives The Roundhill Boston Bruins ETF\nStrategy: The investment strategy of the Fund may cause the Fund to hold more than 25% of the Fund\u2019s total assets in investments in the Subsidiary the majority of the time\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Roundhill ETF Trust",
+        "etf_name": "ETF Investment Objectives The Roundhill Boston Bruins ETF",
+        "strategy": "The investment strategy of the Fund may cause the Fund to hold more than 25% of the Fund\u2019s total assets in investments in the Subsidiary the majority of the time",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-21T21:32:14.380257+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000930667",
+    "company_name": "iShares, Inc.",
+    "accession_number": "0001193125-26-361244",
+    "filed_date": "2026-08-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/930667/000119312526361244/0001193125-26-361244-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/930667/000119312526361244/d146002d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/930667/000119312526361244/d146002d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: NYSE Arca Investment Objective The iShares Emerging Markets Dividend ETF\nStrategy: The Fund seeks to track the investment results of the Dow Jones Emerging Markets Select Dividend Index (the \u201c Underlying Index \u201d ), which is provided by S&P Dow Jones Indices LLC (the \u201c Index Provider \u201d or \u201c SPDJI \u201d )\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Unknown",
+        "etf_name": "NYSE Arca Investment Objective The iShares Emerging Markets Dividend ETF",
+        "strategy": "The Fund seeks to track the investment results of the Dow Jones Emerging Markets Select Dividend Index (the \u201c Underlying Index \u201d ), which is provided by S&P Dow Jones Indices LLC (the \u201c Index Provider \u201d or \u201c SPDJI \u201d )",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-21T21:32:25.598389+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001100663",
+    "company_name": "iSHARES TRUST",
+    "accession_number": "0001193125-26-361232",
+    "filed_date": "2026-08-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526361232/0001193125-26-361232-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1100663/000119312526361232/d266733d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1100663/000119312526361232/d266733d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: Nasdaq Investment Objective The iShares Environmentally Aware Real Estate ETF\nStrategy: The Fund seeks to track the investment results of the FTSE EPRA Nareit Developed Green Target Index (the \u201c Underlying Index \u201d ), which was developed by FTSE International Limited (the \u201c Index Provider \u201d or \u201c FTSE \u201d )\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Unknown",
+        "etf_name": "Nasdaq Investment Objective The iShares Environmentally Aware Real Estate ETF",
+        "strategy": "The Fund seeks to track the investment results of the FTSE EPRA Nareit Developed Green Target Index (the \u201c Underlying Index \u201d ), which was developed by FTSE International Limited (the \u201c Index Provider \u201d or \u201c FTSE \u201d )",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-21T21:32:31.641853+00:00",
+    "form_type": "485APOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-018439",
+    "filed_date": "2026-08-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126018439/0001999371-26-018439-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126018439/hourlyreset_485apos-082126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126018439/hourlyreset_485apos-082126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: There is no assurance that any Fund\nStrategy: The Fund seeks investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "There is no assurance that any Fund",
+        "strategy": "The Fund seeks investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-21T21:32:35.293481+00:00",
+    "form_type": "485APOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-003940",
+    "filed_date": "2026-08-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003940/0001592900-26-003940-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026003940/ck0001592900-20260821.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003940/ck0001592900-20260821.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Total Annual Fund\nStrategy: AND PRINCIPAL INVESTMENT STRATEGIES The Fund\u2019s investment objective is a non-fundamental investment policy and may be changed without a vote of shareholders upon prior written notice to shareholders As a result of engaging in these temporary measures, the Fund may not achieve its investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "AND PRINCIPAL INVESTMENT STRATEGIES The Fund\u2019s investment objective is a non-fundamental investment policy and may be changed without a vote of shareholders upon prior written notice to shareholders As a result of engaging in these temporary measures, the Fund may not achieve its investment objective",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-21T21:32:38.435690+00:00",
+    "form_type": "485APOS",
+    "cik": "0001174610",
+    "company_name": "PROSHARES TRUST",
+    "accession_number": "0001174610-26-000548",
+    "filed_date": "2026-08-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000548/0001174610-26-000548-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000548/f45962d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000548/f45962d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PROSHARES TRUST\nETF Name: ProShares Bitcoin High Income ETF\nStrategy: The Fund seeks to remain fully invested at all times in financial instruments that, in combination, provide exposure consistent with the investment objective, without regard to market conditions, trends or direction The Fund may also invest in or gain exposure to only a representative sample of the securities in the Index or to securities not contained in the Index or in financial instruments, with the intent of obta\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PROSHARES TRUST",
+        "etf_name": "ProShares Bitcoin High Income ETF",
+        "strategy": "The Fund seeks to remain fully invested at all times in financial instruments that, in combination, provide exposure consistent with the investment objective, without regard to market conditions, trends or direction The Fund may also invest in or gain exposure to only a representative sample of the securities in the Index or to securities not contained in the Index or in financial instruments, with the intent of obta",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-21T21:32:42.159942+00:00",
+    "form_type": "485APOS",
+    "cik": "0000916620",
+    "company_name": "NORTHERN FUNDS",
+    "accession_number": "0001193125-26-361175",
+    "filed_date": "2026-08-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/916620/000119312526361175/0001193125-26-361175-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/916620/000119312526361175/d127591d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/916620/000119312526361175/d127591d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NORTHERN FUNDS\nETF Name: CRITICAL METALS ETF\nStrategy: Keep in mind, however, that no guarantee can be made that the Fund will meet its investment objective, and the Fund should not be relied upon as a complete investment program The Fund may determine to have the approximate value of its shares, known as the \u201cindicative optimized portfolio value\u201d (\u201cIOPV\u201d), disseminated every fifteen seconds throughout the trading day by the national securities exchange on which the Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NORTHERN FUNDS",
+        "etf_name": "CRITICAL METALS ETF",
+        "strategy": "Keep in mind, however, that no guarantee can be made that the Fund will meet its investment objective, and the Fund should not be relied upon as a complete investment program The Fund may determine to have the approximate value of its shares, known as the \u201cindicative optimized portfolio value\u201d (\u201cIOPV\u201d), disseminated every fifteen seconds throughout the trading day by the national securities exchange on which the Fund",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-21T19:39:31.429271+00:00",
     "form_type": "485APOS",
     "cik": "0001976322",
@@ -14287,209 +14490,6 @@
         "filer": "ALLSPRING FUNDS TRUST",
         "etf_name": "Strategy Benchmarks may be the same and, in some instances, a Fund",
         "strategy": "A Fund\u2019s Regulatory Benchmark is a broad-based index that represents the overall securities markets relative to the Fund\u2019s asset category while the Fund\u2019s Strategy Benchmark is most closely aligned with the Fund\u2019s investment universe based on its investment strategy 18 CoreBuilder Shares - Series EPI Summary Investment Objective The Fund seeks long-term total return, consisting of capital appreciation and current inc",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-23T16:10:07.617403+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001658229",
-    "company_name": "Invesco Unit Trusts Taxable Income Series 554",
-    "accession_number": "0001528621-26-000780",
-    "filed_date": "2026-07-23",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1658229/000152862126000780/0001528621-26-000780-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1658229/000152862126000780/tis554_485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1658229/000152862126000780/tis554_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts Taxable Income Series 554\nETF Name: INVESTMENT GRADE INCOME TRUST\nStrategy: This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of March 31, 2026, the Investment Grade Income Trust, 10-20 Year Series 61 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Invesco Unit Trusts Taxable Income Series 554",
-        "etf_name": "INVESTMENT GRADE INCOME TRUST",
-        "strategy": "This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of March 31, 2026, the Investment Grade Income Trust, 10-20 Year Series 61 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-23T16:10:11.988795+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001081400",
-    "company_name": "ALLSPRING FUNDS TRUST",
-    "accession_number": "0001081400-26-000307",
-    "filed_date": "2026-07-23",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1081400/000108140026000307/0001081400-26-000307-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1081400/000108140026000307/allspring-20260801.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1081400/000108140026000307/allspring-20260801.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ALLSPRING FUNDS TRUST\nETF Name: PART A ALLSPRING SPECIALTY FUNDS PROSPECTUS Specialty Funds FUND\nStrategy: ALLSPRING FUNDS TRUST PART A ALLSPRING SPECIALTY FUNDS PROSPECTUS Specialty Funds FUND/CLASS A C INSTITUTIONAL Allspring Innovation Fund WFSTX - WFTIX Allspring Precious Metals Fund EKWAX EKWCX EKWYX Allspring Utility and Telecommunications Fund EVUAX - EVUYX Prospectus August 1, 2026 The U.S. ALLSPRING FUNDS TRUST PART A ALLSPRING SPECIALTY FUNDS PROSPECTUS Specialty Funds FUND/CLASS A C INSTITUTIONAL Allspring Inno...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ALLSPRING FUNDS TRUST",
-        "etf_name": "PART A ALLSPRING SPECIALTY FUNDS PROSPECTUS Specialty Funds FUND",
-        "strategy": "ALLSPRING FUNDS TRUST PART A ALLSPRING SPECIALTY FUNDS PROSPECTUS Specialty Funds FUND/CLASS A C INSTITUTIONAL Allspring Innovation Fund WFSTX - WFTIX Allspring Precious Metals Fund EKWAX EKWCX EKWYX Allspring Utility and Telecommunications Fund EVUAX - EVUYX Prospectus August 1, 2026 The U.S. ALLSPRING FUNDS TRUST PART A ALLSPRING SPECIALTY FUNDS PROSPECTUS Specialty Funds FUND/CLASS A C INSTITUTIONAL Allspring Inno...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-23T16:10:14.396551+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001563116",
-    "company_name": "Invesco Unit Trusts Taxable Income Series 497",
-    "accession_number": "0001528621-26-000779",
-    "filed_date": "2026-07-23",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1563116/000152862126000779/0001528621-26-000779-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1563116/000152862126000779/tis497_485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1563116/000152862126000779/tis497_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts Taxable Income Series 497\nETF Name: New Jersey Transportation Trust Fund\nStrategy: In order to calculate estimated returns of a GNMA Income Portfolio and the estimated average life of the securities, an estimated prepayment rate for the remaining term of the Trust\u2019s mortgage pool must be determined The Sponsor\u2019s, Supervisor\u2019s, Evaluator\u2019s and Trustee\u2019s fees may be increased without approval of the Unitholders by amounts not exceeding proportionate increases under the category \u201cServices Less Rent of\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Invesco Unit Trusts Taxable Income Series 497",
-        "etf_name": "New Jersey Transportation Trust Fund",
-        "strategy": "In order to calculate estimated returns of a GNMA Income Portfolio and the estimated average life of the securities, an estimated prepayment rate for the remaining term of the Trust\u2019s mortgage pool must be determined The Sponsor\u2019s, Supervisor\u2019s, Evaluator\u2019s and Trustee\u2019s fees may be increased without approval of the Unitholders by amounts not exceeding proportionate increases under the category \u201cServices Less Rent of",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-23T16:10:16.711376+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001563146",
-    "company_name": "Invesco Unit Trusts Taxable Income Series 463",
-    "accession_number": "0001528621-26-000778",
-    "filed_date": "2026-07-23",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1563146/000152862126000778/0001528621-26-000778-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1563146/000152862126000778/tis463_485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1563146/000152862126000778/tis463_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts Taxable Income Series 463\nETF Name: INVESTMENT GRADE INCOME TRUST\nStrategy: This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of March 31, 2026, the Investment Grade Income Trust, 20+ Year Series 55 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Invesco Unit Trusts Taxable Income Series 463",
-        "etf_name": "INVESTMENT GRADE INCOME TRUST",
-        "strategy": "This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of March 31, 2026, the Investment Grade Income Trust, 20+ Year Series 55 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-23T16:10:19.070240+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001547629",
-    "company_name": "Invesco Unit Trusts Taxable Income Series 445",
-    "accession_number": "0001528621-26-000777",
-    "filed_date": "2026-07-23",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547629/000152862126000777/0001528621-26-000777-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547629/000152862126000777/tis445_485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547629/000152862126000777/tis445_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts Taxable Income Series 445\nETF Name: INVESTMENT GRADE INCOME TRUST\nStrategy: This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of March 31, 2026, the Investment Grade Income Trust, 20+ Year Series 47 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Invesco Unit Trusts Taxable Income Series 445",
-        "etf_name": "INVESTMENT GRADE INCOME TRUST",
-        "strategy": "This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of March 31, 2026, the Investment Grade Income Trust, 20+ Year Series 47 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-23T16:10:21.610490+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001547628",
-    "company_name": "Invesco Unit Trusts Taxable Income Series 444",
-    "accession_number": "0001528621-26-000776",
-    "filed_date": "2026-07-23",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547628/000152862126000776/0001528621-26-000776-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547628/000152862126000776/tis444_485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547628/000152862126000776/tis444_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts Taxable Income Series 444\nETF Name: INVESTMENT GRADE INCOME TRUST\nStrategy: This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of March 31, 2026, the Investment Grade Income Trust, 20+ Year Series 46 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Invesco Unit Trusts Taxable Income Series 444",
-        "etf_name": "INVESTMENT GRADE INCOME TRUST",
-        "strategy": "This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of March 31, 2026, the Investment Grade Income Trust, 20+ Year Series 46 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-23T16:10:23.972574+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001547595",
-    "company_name": "Invesco Unit Trusts Taxable Income Series 442",
-    "accession_number": "0001528621-26-000775",
-    "filed_date": "2026-07-23",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547595/000152862126000775/0001528621-26-000775-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547595/000152862126000775/tis442_485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547595/000152862126000775/tis442_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts Taxable Income Series 442\nETF Name: S.F. An investment in your Trust\nStrategy: The portfolio is divided by purpose of issue as follows: Airport, (1%); Corporate Bonds, (74%); General Obligation, (14%); General Purpose, (4%); Higher Education, (4%) and Utilities, (3%) In order to calculate estimated returns of a GNMA Income Portfolio and the estimated average life of the securities, an estimated prepayment rate for the remaining term of the Trust\u2019s mortgage pool must be determined\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Invesco Unit Trusts Taxable Income Series 442",
-        "etf_name": "S.F. An investment in your Trust",
-        "strategy": "The portfolio is divided by purpose of issue as follows: Airport, (1%); Corporate Bonds, (74%); General Obligation, (14%); General Purpose, (4%); Higher Education, (4%) and Utilities, (3%) In order to calculate estimated returns of a GNMA Income Portfolio and the estimated average life of the securities, an estimated prepayment rate for the remaining term of the Trust\u2019s mortgage pool must be determined",
         "is_alert_worthy": "LOW"
       }
     ],
