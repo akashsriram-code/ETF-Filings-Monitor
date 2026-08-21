@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-21T14:05:45.226109+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-018349",
+    "filed_date": "2026-08-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126018349/0001999371-26-018349-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126018349/xfunds-485bpos_082126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126018349/xfunds-485bpos_082126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: XFUNDS TM Growth Income ETF\nStrategy: Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $ 80 $ 249 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "XFUNDS TM Growth Income ETF",
+        "strategy": "Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $ 80 $ 249 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-21T11:51:10.809439+00:00",
     "form_type": "485BPOS",
     "cik": "0001924868",
@@ -14461,35 +14490,6 @@
         "filer": "FIDELITY INVESTMENT TRUST",
         "etf_name": "Total International Equity K6 Fund",
         "strategy": "Fidelity\u00ae Total International Equity K6 Fund seeks long-term growth of capital The Adviser normally invests the fund's assets primarily in non-U.S Derivative instruments that provide investment exposure to the investments above or exposure to one or more market risk factors associated with such investments are included in the fund's 80% policy, consistent with the fund's investment policies and limitations with respe",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-22T11:19:46.700986+00:00",
-    "form_type": "485APOS",
-    "cik": "0000890339",
-    "company_name": "TARGET PORTFOLIO TRUST",
-    "accession_number": "0000890339-26-000005",
-    "filed_date": "2026-07-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/890339/000089033926000005/0000890339-26-000005-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/890339/000089033926000005/f45777d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/890339/000089033926000005/f45777d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: TARGET PORTFOLIO TRUST\nETF Name: To reduce Fund\nStrategy: To reduce Fund expenses, we may send or make available one annual shareholder report, one semi-annual shareholder report and one summary prospectus per household, unless you instruct us or your financial intermediary otherwise. To reduce Fund expenses, we may send or make available one annual shareholder report, one semi-annual shareholder report and one summary prospectus per household, unless you instruct us or you...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "TARGET PORTFOLIO TRUST",
-        "etf_name": "To reduce Fund",
-        "strategy": "To reduce Fund expenses, we may send or make available one annual shareholder report, one semi-annual shareholder report and one summary prospectus per household, unless you instruct us or your financial intermediary otherwise. To reduce Fund expenses, we may send or make available one annual shareholder report, one semi-annual shareholder report and one summary prospectus per household, unless you instruct us or you...",
         "is_alert_worthy": "LOW"
       }
     ],
