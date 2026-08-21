@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-08-21T16:53:55.948314+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002043390",
+    "company_name": "Tidal Trust IV",
+    "accession_number": "0001999371-26-018371",
+    "filed_date": "2026-08-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126018371/0001999371-26-018371-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126018371/emag-485bpos_082126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126018371/emag-485bpos_082126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: SUMMARY INFORMATION EMERGING MARKETS MEMORY ETF\nStrategy: Emerging Markets Memory ETF seeks long-term capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $ 78 $ 243 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust IV",
+        "etf_name": "SUMMARY INFORMATION EMERGING MARKETS MEMORY ETF",
+        "strategy": "Emerging Markets Memory ETF seeks long-term capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $ 78 $ 243 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-21T16:53:59.350252+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-018367",
+    "filed_date": "2026-08-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126018367/0001999371-26-018367-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126018367/defiance-485bpos_082126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126018367/defiance-485bpos_082126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: SUMMARY INFORMATION DEFIANCE KOREA SEMICONDUCTOR ETF\nStrategy: Defiance Korea Semiconductor ETF (the \u201cFund\u201d) seeks to track the Overview The Fund uses a \"passive\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "SUMMARY INFORMATION DEFIANCE KOREA SEMICONDUCTOR ETF",
+        "strategy": "Defiance Korea Semiconductor ETF (the \u201cFund\u201d) seeks to track the Overview The Fund uses a \"passive",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-21T16:54:02.776911+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001517936",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND IV",
+    "accession_number": "0001445546-26-006315",
+    "filed_date": "2026-08-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626006315/0001445546-26-006315-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1517936/000144554626006315/ftetfiv-20260821.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626006315/ftetfiv-20260821.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIRST TRUST EXCHANGE-TRADED FUND IV\nETF Name: Target Income ETF\nStrategy: Under normal market conditions, the Fund will pursue its investment objectives by investing primarily in a portfolio of common stock and options contracts, including standardized listed options and/or FLexible EXchange options ( \u201cFLEX Options\u201d ) that utilize the common stock of Space Exploration Technologies Corp\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIRST TRUST EXCHANGE-TRADED FUND IV",
+        "etf_name": "Target Income ETF",
+        "strategy": "Under normal market conditions, the Fund will pursue its investment objectives by investing primarily in a portfolio of common stock and options contracts, including standardized listed options and/or FLexible EXchange options ( \u201cFLEX Options\u201d ) that utilize the common stock of Space Exploration Technologies Corp",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-21T14:05:45.226109+00:00",
     "form_type": "485BPOS",
     "cik": "0001924868",
@@ -14403,93 +14490,6 @@
         "filer": "BNY Mellon ETF Trust II",
         "etf_name": "Summary BNY Mellon Emerging Markets Debt ETF",
         "strategy": "The fund seeks high total return (consisting of income and capital appreciation) To pursue its goal, the fund normally invests at least 80% of its net assets, plus any borrowings for investment purposes, in fixed-income securities of emerging markets issuers Duration is an indication of an investment's \"interest rate risk,\" or how sensitive a bond or the fund's portfolio may be to changes in interest rates",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-22T16:44:19.838364+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001592900",
-    "company_name": "EA Series Trust",
-    "accession_number": "0001592900-26-003595",
-    "filed_date": "2026-07-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003595/0001592900-26-003595-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026003595/ck0001592900-20260722.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003595/ck0001592900-20260722.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Month Box ETF is an actively managed ETF\nStrategy: This Macro-Thesis determines a bias to focus the Fund\u2019s strategy on a more risk-on (bullish) posture or a more risk-averse (bearish) posture A fully invested portfolio consists of approximately 75% of Fund assets in passively managed index ETFs and approximately 20% invested in individual equities determined by the Sub-Adviser outlined in the process above\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "EA Series Trust",
-        "etf_name": "Month Box ETF is an actively managed ETF",
-        "strategy": "This Macro-Thesis determines a bias to focus the Fund\u2019s strategy on a more risk-on (bullish) posture or a more risk-averse (bearish) posture A fully invested portfolio consists of approximately 75% of Fund assets in passively managed index ETFs and approximately 20% invested in individual equities determined by the Sub-Adviser outlined in the process above",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-22T15:08:31.610811+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-001470",
-    "filed_date": "2026-07-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001470/0001771146-26-001470-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626001470/ck0001771146-20260722.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001470/ck0001771146-20260722.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Long ETF Each Fund\nStrategy: and the Fund\u2019s performance for periods greater than a trading day will be the result of each day's returns compounded over the period, which is very likely to differ from an underlying security\u2019s\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Opportunities Trust",
-        "etf_name": "Long ETF Each Fund",
-        "strategy": "and the Fund\u2019s performance for periods greater than a trading day will be the result of each day's returns compounded over the period, which is very likely to differ from an underlying security\u2019s",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-22T15:08:34.997842+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000744822",
-    "company_name": "FIDELITY INVESTMENT TRUST",
-    "accession_number": "0000744822-26-000070",
-    "filed_date": "2026-07-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/744822/000074482226000070/0000744822-26-000070-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/744822/000074482226000070/filing12837.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/744822/000074482226000070/filing12837.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FIDELITY INVESTMENT TRUST\nETF Name: Total International Equity K6 Fund\nStrategy: Fidelity\u00ae Total International Equity K6 Fund seeks long-term growth of capital The Adviser normally invests the fund's assets primarily in non-U.S Derivative instruments that provide investment exposure to the investments above or exposure to one or more market risk factors associated with such investments are included in the fund's 80% policy, consistent with the fund's investment policies and limitations with respe\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FIDELITY INVESTMENT TRUST",
-        "etf_name": "Total International Equity K6 Fund",
-        "strategy": "Fidelity\u00ae Total International Equity K6 Fund seeks long-term growth of capital The Adviser normally invests the fund's assets primarily in non-U.S Derivative instruments that provide investment exposure to the investments above or exposure to one or more market risk factors associated with such investments are included in the fund's 80% policy, consistent with the fund's investment policies and limitations with respe",
         "is_alert_worthy": "LOW"
       }
     ],
