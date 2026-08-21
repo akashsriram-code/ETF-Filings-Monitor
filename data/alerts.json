@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-21T19:39:31.429271+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-009221",
+    "filed_date": "2026-08-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626009221/0001829126-26-009221-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626009221/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626009221/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Unknown",
+        "strategy": "The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-21T18:23:19.894256+00:00",
     "form_type": "485APOS",
     "cik": "0001976322",
@@ -14461,35 +14490,6 @@
         "filer": "Invesco Unit Trusts Taxable Income Series 442",
         "etf_name": "S.F. An investment in your Trust",
         "strategy": "The portfolio is divided by purpose of issue as follows: Airport, (1%); Corporate Bonds, (74%); General Obligation, (14%); General Purpose, (4%); Higher Education, (4%) and Utilities, (3%) In order to calculate estimated returns of a GNMA Income Portfolio and the estimated average life of the securities, an estimated prepayment rate for the remaining term of the Trust\u2019s mortgage pool must be determined",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-23T16:10:26.381711+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001524283",
-    "company_name": "Van Kampen Unit Trusts Taxable Income Series 388",
-    "accession_number": "0001528621-26-000774",
-    "filed_date": "2026-07-23",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1524283/000152862126000774/0001528621-26-000774-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1524283/000152862126000774/tis388_485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1524283/000152862126000774/tis388_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Van Kampen Unit Trusts Taxable Income Series 388\nETF Name: INVESTMENT GRADE INCOME TRUST\nStrategy: This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of March 31, 2026, the Investment Grade Income Trust, 20+ Year Series 20 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Van Kampen Unit Trusts Taxable Income Series 388",
-        "etf_name": "INVESTMENT GRADE INCOME TRUST",
-        "strategy": "This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of March 31, 2026, the Investment Grade Income Trust, 20+ Year Series 20 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable",
         "is_alert_worthy": "LOW"
       }
     ],
