@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-21T11:51:10.809439+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-018332",
+    "filed_date": "2026-08-21",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126018332/0001999371-26-018332-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126018332/yram-485bpos_082126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126018332/yram-485bpos_082126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Storage Portfolio Option Income ETF\nStrategy: The Fund\u2019s primary investment objective is to seek current income The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks income and capital appreciation 1 Equity Strategy Tidal Investments LLC (the \u201cAdviser\u201d) selects Memory and Storage Device Companies in which the Fund will invest\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Storage Portfolio Option Income ETF",
+        "strategy": "The Fund\u2019s primary investment objective is to seek current income The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks income and capital appreciation 1 Equity Strategy Tidal Investments LLC (the \u201cAdviser\u201d) selects Memory and Storage Device Companies in which the Fund will invest",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-21T10:03:54.123561+00:00",
     "form_type": "485BPOS",
     "cik": "0001976517",
@@ -14461,35 +14490,6 @@
         "filer": "TARGET PORTFOLIO TRUST",
         "etf_name": "To reduce Fund",
         "strategy": "To reduce Fund expenses, we may send or make available one annual shareholder report, one semi-annual shareholder report and one summary prospectus per household, unless you instruct us or your financial intermediary otherwise. To reduce Fund expenses, we may send or make available one annual shareholder report, one semi-annual shareholder report and one summary prospectus per household, unless you instruct us or you...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-22T11:19:50.705409+00:00",
-    "form_type": "485APOS",
-    "cik": "0001099692",
-    "company_name": "PRUDENTIAL INVESTMENT PORTFOLIOS 2",
-    "accession_number": "0001099692-26-000008",
-    "filed_date": "2026-07-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1099692/000109969226000008/0001099692-26-000008-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1099692/000109969226000008/f45776d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1099692/000109969226000008/f45776d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PRUDENTIAL INVESTMENT PORTFOLIOS 2\nETF Name: Pay for Shares You Have Sold Under normal market conditions, each Fund\nStrategy: How the Funds Pay for Shares You Have Sold Under normal market conditions, each Fund expects to pay for shares that you have sold primarily by using cash or cash equivalents in its portfolio or selling portfolio assets to generate cash This preliminary filing is being made pursuant to Rule 485(a)(1) under the 1933 Act to facilitate the Staff\u2019s review of proposed changes to the Fund\u2019s investment strategy and related d\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PRUDENTIAL INVESTMENT PORTFOLIOS 2",
-        "etf_name": "Pay for Shares You Have Sold Under normal market conditions, each Fund",
-        "strategy": "How the Funds Pay for Shares You Have Sold Under normal market conditions, each Fund expects to pay for shares that you have sold primarily by using cash or cash equivalents in its portfolio or selling portfolio assets to generate cash This preliminary filing is being made pursuant to Rule 485(a)(1) under the 1933 Act to facilitate the Staff\u2019s review of proposed changes to the Fund\u2019s investment strategy and related d",
         "is_alert_worthy": "LOW"
       }
     ],
