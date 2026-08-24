@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-24T17:44:07.078513+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-018529",
+    "filed_date": "2026-08-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126018529/0001999371-26-018529-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126018529/ksm-485bpos_082426.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126018529/ksm-485bpos_082426.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Equal Weight ETF\nStrategy: The Defiance KSM Israel 120 ETF (the \u201cFund\u201d) seeks to track the The Fund is an exchange-traded fund (\u201cETF\u201d) that uses a passive\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "Equal Weight ETF",
+        "strategy": "The Defiance KSM Israel 120 ETF (the \u201cFund\u201d) seeks to track the The Fund is an exchange-traded fund (\u201cETF\u201d) that uses a passive",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-24T14:58:54.389268+00:00",
     "form_type": "485BPOS",
     "cik": "0001097519",
@@ -14461,35 +14490,6 @@
         "filer": "PROSHARES TRUST",
         "etf_name": "Unknown",
         "strategy": "by investing (directly or through the use of derivatives) all, or substantially all, of its assets in the components of the Index The Fund employs various investment techniques that ProShare Advisors believes should, in the aggregate, simulate the movement of the Index",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-23T20:16:25.561171+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001592900",
-    "company_name": "EA Series Trust",
-    "accession_number": "0001592900-26-003604",
-    "filed_date": "2026-07-23",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003604/0001592900-26-003604-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026003604/ck0001592900-20260723.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003604/ck0001592900-20260723.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Total Annual Fund\nStrategy: To identify portfolio investments, the Sub-Adviser has developed the following multi-step investment process: Step 1: First, the Sub-Adviser screens the list of all publicly traded stocks on the NYSE and Nasdaq to exclude non-U.S From time to time, the Fund may take temporary defensive positions that are inconsistent with its The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its inves\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "EA Series Trust",
-        "etf_name": "Total Annual Fund",
-        "strategy": "To identify portfolio investments, the Sub-Adviser has developed the following multi-step investment process: Step 1: First, the Sub-Adviser screens the list of all publicly traded stocks on the NYSE and Nasdaq to exclude non-U.S From time to time, the Fund may take temporary defensive positions that are inconsistent with its The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its inves",
         "is_alert_worthy": "LOW"
       }
     ],
