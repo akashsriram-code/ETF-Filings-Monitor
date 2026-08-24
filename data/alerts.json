@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-24T22:16:28.334519+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-001708",
+    "filed_date": "2026-08-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001708/0001771146-26-001708-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626001708/ck0001771146-20260824.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001708/ck0001771146-20260824.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Bitcoin Trust ETF\nStrategy: The Hedgeye Hedged Bitcoin ETF (the \u201cFund\u201d) seeks long-term capital appreciation The Fund will gain its exposure to the Reference Asset primarily through ETFs and exchange-traded products (\u201cETPs\u201d) that directly hold the Reference Asset while seeking to reduce volatility and manage downside risk through the use of options\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Opportunities Trust",
+        "etf_name": "Bitcoin Trust ETF",
+        "strategy": "The Hedgeye Hedged Bitcoin ETF (the \u201cFund\u201d) seeks long-term capital appreciation The Fund will gain its exposure to the Reference Asset primarily through ETFs and exchange-traded products (\u201cETPs\u201d) that directly hold the Reference Asset while seeking to reduce volatility and manage downside risk through the use of options",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-24T21:20:17.614961+00:00",
     "form_type": "485BPOS",
     "cik": "0001616668",
@@ -14461,35 +14490,6 @@
         "filer": "Tidal Trust II",
         "etf_name": "Peerless Option Income Wheel ETF",
         "strategy": "The Fund\u2019s investment objective is to seek current income The Fund\u2019s strategy consists of two main components: firstly, investing in a range of sector-specific ETFs and, in some instances, individual securities; and secondly, implementing an \u201coption wheel strategy.\u201d The option wheel strategy focuses on writing options on the Fund\u2019s holdings in these sector-based ETFs and individual securities",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-24T16:57:18.011393+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000026262",
-    "company_name": "JOHN HANCOCK CURRENT INTEREST",
-    "accession_number": "0001193125-26-315457",
-    "filed_date": "2026-07-24",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/26262/000119312526315457/0001193125-26-315457-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/26262/000119312526315457/d103583d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/26262/000119312526315457/d103583d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: JOHN HANCOCK CURRENT INTEREST\nETF Name: LLC Purchase and sale of fund\nStrategy: To seek the maximum current income that is consistent with maintaining liquidity and preserving capital The summary section is a concise look at the investment objective 5 Principal risks of investing 5 Who\u2019s who 9 Financial highlights 12 Your account How to place an order to buy, sell, or exchange shares, as well as information about the business policies and any distributions that may be paid\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "JOHN HANCOCK CURRENT INTEREST",
-        "etf_name": "LLC Purchase and sale of fund",
-        "strategy": "To seek the maximum current income that is consistent with maintaining liquidity and preserving capital The summary section is a concise look at the investment objective 5 Principal risks of investing 5 Who\u2019s who 9 Financial highlights 12 Your account How to place an order to buy, sell, or exchange shares, as well as information about the business policies and any distributions that may be paid",
         "is_alert_worthy": "LOW"
       }
     ],
