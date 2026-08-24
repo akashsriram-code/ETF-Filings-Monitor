@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-08-24T19:02:29.721494+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-018549",
+    "filed_date": "2026-08-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126018549/0001999371-26-018549-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126018549/defiance-485bpos_082426.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126018549/defiance-485bpos_082426.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Unknown\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Unknown",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-24T19:02:33.496353+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002025968",
+    "company_name": "BNY Mellon ETF Trust II",
+    "accession_number": "0000030146-26-000369",
+    "filed_date": "2026-08-24",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2025968/000003014626000369/0000030146-26-000369-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2025968/000003014626000369/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2025968/000003014626000369/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BNY Mellon ETF Trust II\nETF Name: Summary BNY Mellon Small Cap ETF\nStrategy: The fund seeks capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BNY Mellon ETF Trust II",
+        "etf_name": "Summary BNY Mellon Small Cap ETF",
+        "strategy": "The fund seeks capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-24T17:44:07.078513+00:00",
     "form_type": "485BPOS",
     "cik": "0002081107",
@@ -14432,64 +14490,6 @@
         "filer": "Themes ETF Trust",
         "etf_name": "SPCX Daily ETF",
         "strategy": "The Fund\u2019s investment objective has been adopted as a non-fundamental investment policy and may be changed by the Board of Trustees of Themes ETF Trust (the \u201cTrust\u201d) without a vote of shareholders upon written notice to shareholders If the Fund elects to change its investment objective or 80% Policy, shareholders will be given at least 60 days\u2019 notice prior to any such change",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-23T21:33:07.134655+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001081400",
-    "company_name": "ALLSPRING FUNDS TRUST",
-    "accession_number": "0001081400-26-000320",
-    "filed_date": "2026-07-23",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1081400/000108140026000320/0001081400-26-000320-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1081400/000108140026000320/allspring-20260801.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1081400/000108140026000320/allspring-20260801.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ALLSPRING FUNDS TRUST\nETF Name: Equity Funds FUND\nStrategy: The Fund seeks to replicate the total return of the S&P 500 Index, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ALLSPRING FUNDS TRUST",
-        "etf_name": "Equity Funds FUND",
-        "strategy": "The Fund seeks to replicate the total return of the S&P 500 Index, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-23T21:33:12.685321+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001174610",
-    "company_name": "PROSHARES TRUST",
-    "accession_number": "0001174610-26-000450",
-    "filed_date": "2026-07-23",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000450/0001174610-26-000450-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000450/f45801d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000450/f45801d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROSHARES TRUST\nETF Name: Unknown\nStrategy: by investing (directly or through the use of derivatives) all, or substantially all, of its assets in the components of the Index The Fund employs various investment techniques that ProShare Advisors believes should, in the aggregate, simulate the movement of the Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PROSHARES TRUST",
-        "etf_name": "Unknown",
-        "strategy": "by investing (directly or through the use of derivatives) all, or substantially all, of its assets in the components of the Index The Fund employs various investment techniques that ProShare Advisors believes should, in the aggregate, simulate the movement of the Index",
         "is_alert_worthy": "LOW"
       }
     ],
