@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-25T13:07:57.371547+00:00",
+    "form_type": "485APOS",
+    "cik": "0001127203",
+    "company_name": "NATIONWIDE LIFE INS CO",
+    "accession_number": "0001193125-26-364217",
+    "filed_date": "2026-08-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1127203/000119312526364217/0001193125-26-364217-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1127203/000119312526364217/d145730d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1127203/000119312526364217/d145730d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NATIONWIDE LIFE INS CO\nETF Name: Nationwide Fund\nStrategy: \u25cf Only the full Index Strategy Value can be locked-in (no partial lock-ins)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NATIONWIDE LIFE INS CO",
+        "etf_name": "Nationwide Fund",
+        "strategy": "\u25cf Only the full Index Strategy Value can be locked-in (no partial lock-ins)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-24T22:16:28.334519+00:00",
     "form_type": "485BPOS",
     "cik": "0001771146",
@@ -14461,35 +14490,6 @@
         "filer": "John Hancock Funds III",
         "etf_name": "Purchase and sale of fund",
         "strategy": "To seek long-term growth of capital with current income as a secondary objective The summary section is a concise look at the investment objective 5 Principal risks of investing 5 Who\u2019s who 10 Financial highlights 13 Your account How to place an order to buy, sell, or exchange shares, as well as information about the business policies and any distributions that may be paid",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-24T16:57:13.881460+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001924868",
-    "company_name": "Tidal Trust II",
-    "accession_number": "0001999371-26-015769",
-    "filed_date": "2026-07-24",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126015769/0001999371-26-015769-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126015769/weel-485bpos_072426.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126015769/weel-485bpos_072426.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Peerless Option Income Wheel ETF\nStrategy: The Fund\u2019s investment objective is to seek current income The Fund\u2019s strategy consists of two main components: firstly, investing in a range of sector-specific ETFs and, in some instances, individual securities; and secondly, implementing an \u201coption wheel strategy.\u201d The option wheel strategy focuses on writing options on the Fund\u2019s holdings in these sector-based ETFs and individual securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust II",
-        "etf_name": "Peerless Option Income Wheel ETF",
-        "strategy": "The Fund\u2019s investment objective is to seek current income The Fund\u2019s strategy consists of two main components: firstly, investing in a range of sector-specific ETFs and, in some instances, individual securities; and secondly, implementing an \u201coption wheel strategy.\u201d The option wheel strategy focuses on writing options on the Fund\u2019s holdings in these sector-based ETFs and individual securities",
         "is_alert_worthy": "LOW"
       }
     ],
