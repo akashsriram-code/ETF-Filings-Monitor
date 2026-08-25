@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-25T16:26:33.401579+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000834237",
+    "company_name": "BLACKROCK GLOBAL ALLOCATION FUND, INC.",
+    "accession_number": "0001193125-26-364550",
+    "filed_date": "2026-08-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/834237/000119312526364550/0001193125-26-364550-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/834237/000119312526364550/d163411d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/834237/000119312526364550/d163411d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BLACKROCK GLOBAL ALLOCATION FUND, INC\nETF Name: BlackRock Global Allocation Fund\nStrategy: is a fundamental policy of the Fund and may not be changed without approval of a majority of the Fund\u2019s outstanding voting securities, as defined in the Investment Company Act of 1940, as amended (the \u201cInvestment Company Act\u201d). In choosing investments, Fund management may look at various fundamental and systematic factors, such as the relative opportunity for equity or debt instruments to increase in value, capital r...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BLACKROCK GLOBAL ALLOCATION FUND, INC",
+        "etf_name": "BlackRock Global Allocation Fund",
+        "strategy": "is a fundamental policy of the Fund and may not be changed without approval of a majority of the Fund\u2019s outstanding voting securities, as defined in the Investment Company Act of 1940, as amended (the \u201cInvestment Company Act\u201d). In choosing investments, Fund management may look at various fundamental and systematic factors, such as the relative opportunity for equity or debt instruments to increase in value, capital r...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-25T15:53:39.485039+00:00",
     "form_type": "485BPOS",
     "cik": "0001314414",
@@ -14461,35 +14490,6 @@
         "filer": "BlackRock Advantage SMID Cap Fund, Inc",
         "etf_name": "Investment Objective The investment objective of BlackRock Advantage SMID Cap Fund",
         "strategy": "The Fund seeks to pursue its investment objective by investing in securities in a disciplined manner, by using proprietary return forecast models that incorporate quantitative analysis \u25fc Model Risk \u2014 The Fund seeks to pursue its investment objective by using proprietary models that incorporate quantitative analysis",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-24T21:09:47.332021+00:00",
-    "form_type": "485APOS",
-    "cik": "0000916620",
-    "company_name": "NORTHERN FUNDS",
-    "accession_number": "0001193125-26-316099",
-    "filed_date": "2026-07-24",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/916620/000119312526316099/0001193125-26-316099-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/916620/000119312526316099/d29455d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/916620/000119312526316099/d29455d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: NORTHERN FUNDS\nETF Name: PURCHASING AND SELLING SHARES THE TRUST\nStrategy: Keep in mind, however, that no guarantee can be made that the Fund will meet its investment objective, and no Fund should be relied upon as a complete investment program Future legislative, regulatory, or tax developments may affect the investments or investment strategies available to NTI in connection with managing the Fund, which may also adversely affect the Fund\u2019s return potential and ability of the Fund to achi\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "NORTHERN FUNDS",
-        "etf_name": "PURCHASING AND SELLING SHARES THE TRUST",
-        "strategy": "Keep in mind, however, that no guarantee can be made that the Fund will meet its investment objective, and no Fund should be relied upon as a complete investment program Future legislative, regulatory, or tax developments may affect the investments or investment strategies available to NTI in connection with managing the Fund, which may also adversely affect the Fund\u2019s return potential and ability of the Fund to achi",
         "is_alert_worthy": "LOW"
       }
     ],
