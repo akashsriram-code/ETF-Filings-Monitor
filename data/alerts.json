@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-08-25T20:17:46.035680+00:00",
+    "form_type": "485APOS",
+    "cik": "0001597389",
+    "company_name": "USCF ETF Trust",
+    "accession_number": "0002071876-26-000194",
+    "filed_date": "2026-08-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1597389/000207187626000194/0002071876-26-000194-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1597389/000207187626000194/i26352_etfzsb-485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1597389/000207187626000194/i26352_etfzsb-485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: USCF ETF Trust\nETF Name: USCF ETF TRUST\nStrategy: SUBJECT TO COMPLETION \u2013 PRELIMINARY PROSPECTUS DATED AUGUST 25, 2026 Prospectus USCF Electrification Metals Fund (formerly known as USCF Sustainable Battery Metals Strategy Fund) NYSE Arca: ZSB [ ], 2026 USCF ETF TRUST * Principal U.S SUBJECT TO COMPLETION \u2013 PRELIMINARY PROSPECTUS DATED AUGUST 25, 2026 Prospectus USCF Electrification Metals Fund (formerly known as USCF Sustainable Battery Metals Strategy Fund) NYSE A\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "USCF ETF Trust",
+        "etf_name": "USCF ETF TRUST",
+        "strategy": "SUBJECT TO COMPLETION \u2013 PRELIMINARY PROSPECTUS DATED AUGUST 25, 2026 Prospectus USCF Electrification Metals Fund (formerly known as USCF Sustainable Battery Metals Strategy Fund) NYSE Arca: ZSB [ ], 2026 USCF ETF TRUST * Principal U.S SUBJECT TO COMPLETION \u2013 PRELIMINARY PROSPECTUS DATED AUGUST 25, 2026 Prospectus USCF Electrification Metals Fund (formerly known as USCF Sustainable Battery Metals Strategy Fund) NYSE A",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-25T19:49:04.371938+00:00",
     "form_type": "485APOS",
     "cik": "0001552947",
@@ -14461,35 +14490,6 @@
         "filer": "Corgi ETF Trust I",
         "etf_name": "Unknown",
         "strategy": "Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover When the Fund buys and sells securities, it incurs trading costs such as brokerage commissions The Fund is a passively managed exchange-traded fund (\"ETF\") that does not try to outperform the Index and does not seek temporary defensive positions when markets decline or appear",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-24T21:09:09.956719+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000844779",
-    "company_name": "BLACKROCK FUNDS",
-    "accession_number": "0001193125-26-316204",
-    "filed_date": "2026-07-24",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/844779/000119312526316204/0001193125-26-316204-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/844779/000119312526316204/d162922d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/844779/000119312526316204/d162922d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BLACKROCK FUNDS\nETF Name: BlackRock Wealth Liquid Environmentally Aware Fund\nStrategy: Under normal conditions, the Fund will invest at least 80% of the value of its net assets, plus the amount of any borrowings for investment purposes, in securities whose issuer or guarantor, in the opinion of BlackRock, the Fund\u2019s investment manager, at the time of purchase, meets the Fund\u2019s environmental criteria BlackRock will consider the following as part of the Fund\u2019s environmental criteria: \u25fc The Fund will inve\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BLACKROCK FUNDS",
-        "etf_name": "BlackRock Wealth Liquid Environmentally Aware Fund",
-        "strategy": "Under normal conditions, the Fund will invest at least 80% of the value of its net assets, plus the amount of any borrowings for investment purposes, in securities whose issuer or guarantor, in the opinion of BlackRock, the Fund\u2019s investment manager, at the time of purchase, meets the Fund\u2019s environmental criteria BlackRock will consider the following as part of the Fund\u2019s environmental criteria: \u25fc The Fund will inve",
         "is_alert_worthy": "LOW"
       }
     ],
