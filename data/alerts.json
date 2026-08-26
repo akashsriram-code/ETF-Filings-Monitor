@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-08-26T10:13:17.871044+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001314414",
+    "company_name": "Northern Lights Fund Trust",
+    "accession_number": "0001580642-26-005649",
+    "filed_date": "2026-08-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1314414/000158064226005649/0001580642-26-005649-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1314414/000158064226005649/princetonadaptive_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1314414/000158064226005649/princetonadaptive_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust\nETF Name: Shares of Beneficial Interest Princeton Adaptive Premium Fund\nStrategy: The adviser has overall supervisory responsibilities for the general management and investment of the Fund\u2019s investment portfolio The Fund intends to utilize two AND RELATED RISKS Investment Objective: The Fund seeks capital appreciation and income\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Northern Lights Fund Trust",
+        "etf_name": "Shares of Beneficial Interest Princeton Adaptive Premium Fund",
+        "strategy": "The adviser has overall supervisory responsibilities for the general management and investment of the Fund\u2019s investment portfolio The Fund intends to utilize two AND RELATED RISKS Investment Objective: The Fund seeks capital appreciation and income",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-26T10:13:21.684706+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001314414",
+    "company_name": "Northern Lights Fund Trust",
+    "accession_number": "0001580642-26-005648",
+    "filed_date": "2026-08-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1314414/000158064226005648/0001580642-26-005648-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1314414/000158064226005648/eagle-fund_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1314414/000158064226005648/eagle-fund_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust\nETF Name: Shares of Beneficial Interest EAGLE ENERGY INFRASTRUCTURE FUND\nStrategy: The Fund seeks total return from income and capital appreciation The Fund\u2019s investment objective may be changed by the Board of Trustees (\u201cBoard\u201d) without shareholder approval upon 60 days written notice to shareholders The Fund seeks to achieve its objective by investing, under normal conditions, at least 80% of its assets (net assets plus borrowings for investment purposes) in energy infrastructure securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Northern Lights Fund Trust",
+        "etf_name": "Shares of Beneficial Interest EAGLE ENERGY INFRASTRUCTURE FUND",
+        "strategy": "The Fund seeks total return from income and capital appreciation The Fund\u2019s investment objective may be changed by the Board of Trustees (\u201cBoard\u201d) without shareholder approval upon 60 days written notice to shareholders The Fund seeks to achieve its objective by investing, under normal conditions, at least 80% of its assets (net assets plus borrowings for investment purposes) in energy infrastructure securities",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-25T22:55:30.708486+00:00",
     "form_type": "485BPOS",
     "cik": "0000831114",
@@ -14432,64 +14490,6 @@
         "filer": "Tidal Trust V",
         "etf_name": "Unknown",
         "strategy": "The Fund seeks daily investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-27T11:00:57.307842+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001633061",
-    "company_name": "Amplify ETF Trust",
-    "accession_number": "0001213900-26-081505",
-    "filed_date": "2026-07-24",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1633061/000121390026081505/0001213900-26-081505-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1633061/000121390026081505/ea0297901-01_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1633061/000121390026081505/ea0297901-01_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Amplify ETF Trust\nETF Name: Other Information Signatures Index to Exhibits Amplify ETF Trust\nStrategy: by actively managing exposure to bitcoin, adjusting allocations in response to market conditions using a tactical, systematic, technically driven investment approach Under normal market conditions, the Sub -Adviser selects investments in bitcoin -related instruments to achieve baseline bitcoin investment exposure of approximately 70% of the net assets of the Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Amplify ETF Trust",
-        "etf_name": "Other Information Signatures Index to Exhibits Amplify ETF Trust",
-        "strategy": "by actively managing exposure to bitcoin, adjusting allocations in response to market conditions using a tactical, systematic, technically driven investment approach Under normal market conditions, the Sub -Adviser selects investments in bitcoin -related instruments to achieve baseline bitcoin investment exposure of approximately 70% of the net assets of the Fund",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-27T11:01:00.614179+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001496608",
-    "company_name": "AB Active ETFs, Inc.",
-    "accession_number": "0000919574-26-004581",
-    "filed_date": "2026-07-24",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1496608/000091957426004581/0000919574-26-004581-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1496608/000091957426004581/d160380d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1496608/000091957426004581/d160380d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AB Active ETFs, Inc\nETF Name: Fund is subject to management risk because it is an actively-managed ETF\nStrategy: The Fund has the same investment objective, strategies, policies and portfolio management team as the Predecessor Fund ESG Integration The Adviser integrates material environmental, social and governance (\u201cESG\u201d) considerations into its research and investments analysis with the goal of maximizing return and considering risk within the Fund\u2019s investment objective and strategies\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AB Active ETFs, Inc",
-        "etf_name": "Fund is subject to management risk because it is an actively-managed ETF",
-        "strategy": "The Fund has the same investment objective, strategies, policies and portfolio management team as the Predecessor Fund ESG Integration The Adviser integrates material environmental, social and governance (\u201cESG\u201d) considerations into its research and investments analysis with the goal of maximizing return and considering risk within the Fund\u2019s investment objective and strategies",
         "is_alert_worthy": "LOW"
       }
     ],
