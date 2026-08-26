@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-08-26T14:12:33.424807+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000353101",
+    "company_name": "Federated Hermes Short-Intermediate Duration Municipal Trust",
+    "accession_number": "0001623632-26-001238",
+    "filed_date": "2026-08-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/353101/000162363226001238/0001623632-26-001238-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/353101/000162363226001238/fsidmt2667-form.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/353101/000162363226001238/fsidmt2667-form.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Federated Hermes Short-Intermediate Duration Municipal Trust\nETF Name: A Portfolio of Federated Hermes Short-Intermediate Duration Municipal Trust A mutual fund\nStrategy: The Fund\u2019s investment objective is to provide dividend income which is exempt from federal regular income tax\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Federated Hermes Short-Intermediate Duration Municipal Trust",
+        "etf_name": "A Portfolio of Federated Hermes Short-Intermediate Duration Municipal Trust A mutual fund",
+        "strategy": "The Fund\u2019s investment objective is to provide dividend income which is exempt from federal regular income tax",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-26T14:12:37.831593+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001081400",
+    "company_name": "ALLSPRING FUNDS TRUST",
+    "accession_number": "0001081400-26-000409",
+    "filed_date": "2026-08-26",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1081400/000108140026000409/0001081400-26-000409-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1081400/000108140026000409/atfif-efp27078_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1081400/000108140026000409/atfif-efp27078_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ALLSPRING FUNDS TRUST\nETF Name: Total Annual Fund\nStrategy: and substantially similar investment strategies, the following\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ALLSPRING FUNDS TRUST",
+        "etf_name": "Total Annual Fund",
+        "strategy": "and substantially similar investment strategies, the following",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-26T10:13:17.871044+00:00",
     "form_type": "485BPOS",
     "cik": "0001314414",
@@ -14432,64 +14490,6 @@
         "filer": "Tidal Trust I",
         "etf_name": "Global Shipping ETF",
         "strategy": "SonicShares TM Global Shipping ETF - 1 Additional Information About the Fund 8 Portfolio Holdings Information 12",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-27T13:44:49.320482+00:00",
-    "form_type": "485APOS",
-    "cik": "0001896670",
-    "company_name": "Thrivent ETF Trust",
-    "accession_number": "0001193125-26-317051",
-    "filed_date": "2026-07-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1896670/000119312526317051/0001193125-26-317051-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1896670/000119312526317051/d52024d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1896670/000119312526317051/d52024d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Thrivent ETF Trust\nETF Name: Thrivent Securitized Income ETF TSIE Investment Objective Thrivent Securitized Income ETF\nStrategy: The Fund is actively managed and the success of its investment strategy depends significantly on the skills of the Adviser in assessing the potential of the investments in which the Fund invests The Fund is actively managed and the success of its investment strategy depends significantly on the skills of the Adviser in assessing the potential of the investments in which the Fund invests\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Thrivent ETF Trust",
-        "etf_name": "Thrivent Securitized Income ETF TSIE Investment Objective Thrivent Securitized Income ETF",
-        "strategy": "The Fund is actively managed and the success of its investment strategy depends significantly on the skills of the Adviser in assessing the potential of the investments in which the Fund invests The Fund is actively managed and the success of its investment strategy depends significantly on the skills of the Adviser in assessing the potential of the investments in which the Fund invests",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-27T13:44:53.019413+00:00",
-    "form_type": "485APOS",
-    "cik": "0002081107",
-    "company_name": "Tidal Trust V",
-    "accession_number": "0001999371-26-015899",
-    "filed_date": "2026-07-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126015899/0001999371-26-015899-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126015899/pasqal-485apos_072726.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126015899/pasqal-485apos_072726.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Unknown\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust V",
-        "etf_name": "Unknown",
-        "strategy": "The Fund seeks daily investment results, before",
         "is_alert_worthy": "LOW"
       }
     ],
