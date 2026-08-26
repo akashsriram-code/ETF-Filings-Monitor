@@ -1,7 +1,7 @@
 {
-  "last_run": "2026-08-26T18:39:51.564979+00:00",
-  "last_error": "Failed to fetch filing content for 0001999371-26-018712: Server error '503 Service Unavailable' for url 'https://www.sec.gov/Archives/edgar/data/1742912/000199937126018712/0001999371-26-018712-index.html'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503",
-  "fetched_entries": 1474,
+  "last_run": "2026-08-26T21:14:42.530293+00:00",
+  "last_error": null,
+  "fetched_entries": 1366,
   "feed_entries": 2000,
   "feed_max_pages": 20,
   "catchup_entries": 0,
@@ -12,7 +12,7 @@
   "refreshed_synopsis": 0,
   "force_refresh_synopsis": false,
   "suppress_email": false,
-  "new_alerts": 13,
+  "new_alerts": 11,
   "total_alerts": 500,
   "mode": "github-pages-scheduled-poller"
 }
