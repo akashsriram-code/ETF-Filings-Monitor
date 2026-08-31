@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-08-31T18:05:02.509014+00:00",
+    "form_type": "485APOS",
+    "cik": "0001096012",
+    "company_name": "AMERICAN BEACON SELECT FUNDS",
+    "accession_number": "0001133228-26-011935",
+    "filed_date": "2026-08-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1096012/000113322826011935/0001133228-26-011935-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1096012/000113322826011935/abshie-efp27202_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1096012/000113322826011935/abshie-efp27202_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AMERICAN BEACON SELECT FUNDS\nETF Name: Advisory Agreement, to be used for the sale and distribution of Fund\nStrategy: The Fund seeks to maximize current income by investing in a diversified portfolio of debt securities that are generally rated below investment grade (such as Ba or lower by Moody\u2019s Investors Service, Inc\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AMERICAN BEACON SELECT FUNDS",
+        "etf_name": "Advisory Agreement, to be used for the sale and distribution of Fund",
+        "strategy": "The Fund seeks to maximize current income by investing in a diversified portfolio of debt securities that are generally rated below investment grade (such as Ba or lower by Moody\u2019s Investors Service, Inc",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-31T18:05:08.954886+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001553195",
+    "company_name": "AMERICAN FUNDS CORPORATE BOND FUND",
+    "accession_number": "0000051931-26-000876",
+    "filed_date": "2026-08-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1553195/000005193126000876/0000051931-26-000876-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1553195/000005193126000876/ck0001553195-20260831.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1553195/000005193126000876/ck0001553195-20260831.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AMERICAN FUNDS CORPORATE BOND FUND\nETF Name: TAYLOR SECRETARY American Funds Corporate Bond Fund\nStrategy: The fund\u2019s financial statements, including the investment portfolio and the report of the fund\u2019s independent registered public accounting firm contained in the fund\u2019s Form N-CSR, are included in this statement of additional information\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AMERICAN FUNDS CORPORATE BOND FUND",
+        "etf_name": "TAYLOR SECRETARY American Funds Corporate Bond Fund",
+        "strategy": "The fund\u2019s financial statements, including the investment portfolio and the report of the fund\u2019s independent registered public accounting firm contained in the fund\u2019s Form N-CSR, are included in this statement of additional information",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-08-31T18:05:12.903265+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000794458",
+    "company_name": "EMERGING MARKETS EQUITIES FUND INC",
+    "accession_number": "0000051931-26-000866",
+    "filed_date": "2026-08-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/794458/000005193126000866/0000051931-26-000866-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/794458/000005193126000866/ck0000794458-20260831.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/794458/000005193126000866/ck0000794458-20260831.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EMERGING MARKETS EQUITIES FUND INC\nETF Name: A The Growth Fund\nStrategy: The fund\u2019s financial statements, including the investment portfolio and the report of the fund\u2019s independent registered public accounting firm contained in the fund\u2019s Form N-CSR, are included in this statement of additional information The fund\u2019s financial statements, including the investment portfolio and the report of the fund\u2019s independent registered public accounting firm contained in the fund\u2019s Form N-CSR, are i\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EMERGING MARKETS EQUITIES FUND INC",
+        "etf_name": "A The Growth Fund",
+        "strategy": "The fund\u2019s financial statements, including the investment portfolio and the report of the fund\u2019s independent registered public accounting firm contained in the fund\u2019s Form N-CSR, are included in this statement of additional information The fund\u2019s financial statements, including the investment portfolio and the report of the fund\u2019s independent registered public accounting firm contained in the fund\u2019s Form N-CSR, are i",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-29T13:29:09.230972+00:00",
     "form_type": "485BPOS",
     "cik": "0002055464",
@@ -14403,93 +14490,6 @@
         "filer": "ARK ETF Trust",
         "etf_name": "SUMMARY INFORMATION ARK Active Autocallable Income ETF",
         "strategy": "of the Fund 17 Principal Investment Strategies 17 17 Principal Risks 20 Additional Risks 32 Portfolio Holdings 32",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-27T20:57:13.912169+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001756404",
-    "company_name": "Principal Real Asset Fund",
-    "accession_number": "0001756404-26-000030",
-    "filed_date": "2026-07-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1756404/000175640426000030/0001756404-26-000030-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1756404/000175640426000030/ck0001756404-20260727.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1756404/000175640426000030/ck0001756404-20260727.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Principal Real Asset Fund\nETF Name: A PDSRX Institutional Class PDSKX Class Y PDSYX Principal Real Asset Fund\nStrategy: is to seek to provide long-term total return (after Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Principal Real Asset Fund",
-        "etf_name": "A PDSRX Institutional Class PDSKX Class Y PDSYX Principal Real Asset Fund",
-        "strategy": "is to seek to provide long-term total return (after Fund",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-27T20:57:16.752626+00:00",
-    "form_type": "486BPOS",
-    "cik": "0002016900",
-    "company_name": "Principal Private Credit Fund",
-    "accession_number": "0002016900-26-000030",
-    "filed_date": "2026-07-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2016900/000201690026000030/0002016900-26-000030-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2016900/000201690026000030/ck0002016900-20260727.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2016900/000201690026000030/ck0002016900-20260727.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Principal Private Credit Fund\nETF Name: Unknown\nStrategy: The Fund\u2019s investment objective is to seek to maximize total return, consisting of current income and capital appreciation There can be no assurance that the Fund will achieve its investment objective, be able to structure its investments as anticipated, or that its returns will be positive over any period of time\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Principal Private Credit Fund",
-        "etf_name": "Unknown",
-        "strategy": "The Fund\u2019s investment objective is to seek to maximize total return, consisting of current income and capital appreciation There can be no assurance that the Fund will achieve its investment objective, be able to structure its investments as anticipated, or that its returns will be positive over any period of time",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-27T20:57:18.757805+00:00",
-    "form_type": "485APOS",
-    "cik": "0001537140",
-    "company_name": "NORTHERN LIGHTS FUND TRUST III",
-    "accession_number": "0001580642-26-004621",
-    "filed_date": "2026-07-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1537140/000158064226004621/0001580642-26-004621-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1537140/000158064226004621/hcmenterprise-etf_485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1537140/000158064226004621/hcmenterprise-etf_485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: NORTHERN LIGHTS FUND TRUST III\nETF Name: Total Annual Fund\nStrategy: may be changed by the Board of Trustees (the \u201cBoard\u201d) upon 60 days\u2019 written notice to shareholders AND RELATED RISKS INVESTMENT OBJECTIVE: The Fund seeks to provide income and long-term capital appreciation The Fund\u2019s investment objective may be changed by the Board of Trustees (the \u201cBoard\u201d) upon 60 days\u2019 written notice to shareholders\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "NORTHERN LIGHTS FUND TRUST III",
-        "etf_name": "Total Annual Fund",
-        "strategy": "may be changed by the Board of Trustees (the \u201cBoard\u201d) upon 60 days\u2019 written notice to shareholders AND RELATED RISKS INVESTMENT OBJECTIVE: The Fund seeks to provide income and long-term capital appreciation The Fund\u2019s investment objective may be changed by the Board of Trustees (the \u201cBoard\u201d) upon 60 days\u2019 written notice to shareholders",
         "is_alert_worthy": "LOW"
       }
     ],
