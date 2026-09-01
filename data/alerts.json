@@ -1,5 +1,152 @@
 [
   {
+    "created_at": "2026-09-01T06:44:28.105399+00:00",
+    "form_type": "S-1",
+    "cik": "0002080215",
+    "company_name": "1 - StableCoinX Inc.",
+    "accession_number": "0001213900-26-095808",
+    "filed_date": "2026-08-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2080215/000121390026095808/0001213900-26-095808-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2080215/000121390026095808/ea0303782-s1_stable.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2080215/000121390026095808/ea0303782-s1_stable.htm",
+    "matched_keywords": [
+      "Ethereum"
+    ],
+    "is_crypto": true,
+    "synopsis": "Synopsis 1\nFiler: 1 - StableCoinX Inc\nETF Name: Unknown\nStrategy: 104 INDEX TO FINANCIAL STATEMENTS Page StablecoinX Inc\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Crypto-linked ETF disclosures can move market narrative and regulatory coverage.",
+    "synopsis_items": [
+      {
+        "filer": "1 - StableCoinX Inc",
+        "etf_name": "Unknown",
+        "strategy": "104 INDEX TO FINANCIAL STATEMENTS Page StablecoinX Inc",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Crypto-linked ETF disclosures can move market narrative and regulatory coverage."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-01T06:44:31.114954+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001484018",
+    "company_name": "Spinnaker ETF Series",
+    "accession_number": "0001999371-26-019384",
+    "filed_date": "2026-08-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1484018/000199937126019384/0001999371-26-019384-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1484018/000199937126019384/genter-485bpos_083126.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1484018/000199937126019384/genter-485bpos_083126.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Spinnaker ETF Series\nETF Name: Fund URL Genter Capital Dividend Income ETF\nStrategy: Genter Capital International Dividend ETF \u2019s investment objective is to seek current income and long-term capital appreciation Under normal market conditions, the Fund will invest at least 80% of its assets plus borrowings for investment purposes in foreign equity securities that have records of paying dividends\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Spinnaker ETF Series",
+        "etf_name": "Fund URL Genter Capital Dividend Income ETF",
+        "strategy": "Genter Capital International Dividend ETF \u2019s investment objective is to seek current income and long-term capital appreciation Under normal market conditions, the Fund will invest at least 80% of its assets plus borrowings for investment purposes in foreign equity securities that have records of paying dividends",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-01T06:44:33.217585+00:00",
+    "form_type": "485APOS",
+    "cik": "0001928561",
+    "company_name": "Bitwise Funds Trust",
+    "accession_number": "0001213900-26-095786",
+    "filed_date": "2026-08-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026095786/0001213900-26-095786-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1928561/000121390026095786/ea0303908-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1928561/000121390026095786/ea0303908-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Bitwise Funds Trust\nETF Name: Total Annual Fund\nStrategy: 9 Additional Risks of Investing in the Fund 10\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Bitwise Funds Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "9 Additional Risks of Investing in the Fund 10",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-01T06:44:35.785399+00:00",
+    "form_type": "485APOS",
+    "cik": "0001810747",
+    "company_name": "Simplify Exchange Traded Funds",
+    "accession_number": "0001829126-26-009551",
+    "filed_date": "2026-08-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626009551/0001829126-26-009551-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1810747/000182912626009551/simplifyetf_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626009551/simplifyetf_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Simplify Exchange Traded Funds\nETF Name: Total Annual Fund\nStrategy: by using its \u201csmart leverage\u201d strategy to capture returns that it believes will generally correspond to 2x the price of Gold Futures over the long-term In effectuating the Fund\u2019s gold strategy, the Fund purchases call options and writes put options that may utilize gold, gold futures, a gold-linked Exchange Traded Product (\u201cGold ETP\u201d), an index of Gold ETPs, or US exchange-trade dment\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Simplify Exchange Traded Funds",
+        "etf_name": "Total Annual Fund",
+        "strategy": "by using its \u201csmart leverage\u201d strategy to capture returns that it believes will generally correspond to 2x the price of Gold Futures over the long-term In effectuating the Fund\u2019s gold strategy, the Fund purchases call options and writes put options that may utilize gold, gold futures, a gold-linked Exchange Traded Product (\u201cGold ETP\u201d), an index of Gold ETPs, or US exchange-trade dment",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-01T06:44:40.248351+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000831114",
+    "company_name": "RBB FUND, INC.",
+    "accession_number": "0001398344-26-016233",
+    "filed_date": "2026-08-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/831114/000139834426016233/0001398344-26-016233-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/831114/000139834426016233/fp0100682-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/831114/000139834426016233/fp0100682-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: RBB FUND, INC\nETF Name: ETF risk is the risk that the Adviser may select Underlying ETF\nStrategy: Emerald Growth Fund (the \u201cFund\u201d) seeks long-term growth through capital appreciation The Fund ha at will be allocated to the Life Sciences ETF, but generally the Adviser expects approximately 5% of the Fund\u2019s portfolio to be allocated to the Life Sciences ETF, calculated at the time of investment\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "RBB FUND, INC",
+        "etf_name": "ETF risk is the risk that the Adviser may select Underlying ETF",
+        "strategy": "Emerald Growth Fund (the \u201cFund\u201d) seeks long-term growth through capital appreciation The Fund ha at will be allocated to the Life Sciences ETF, but generally the Adviser expects approximately 5% of the Fund\u2019s portfolio to be allocated to the Life Sciences ETF, calculated at the time of investment",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-08-31T18:05:02.509014+00:00",
     "form_type": "485APOS",
     "cik": "0001096012",
@@ -14345,151 +14492,6 @@
         "filer": "ETF Series Solutions",
         "etf_name": "Total Annual Fund",
         "strategy": "In seeking to achieve DRAM\u2019s investment objective, Roundhill constructs DRAM\u2019s portfolio using its proprietary security selection methodology",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-27T20:56:57.543119+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000711080",
-    "company_name": "TOUCHSTONE STRATEGIC TRUST",
-    "accession_number": "0001193125-26-318217",
-    "filed_date": "2026-07-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/711080/000119312526318217/0001193125-26-318217-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/711080/000119312526318217/d117022d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/711080/000119312526318217/d117022d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: TOUCHSTONE STRATEGIC TRUST\nETF Name: The Touchstone Fund Complex consists of the Trust\nStrategy: Potential conflicts of interest may arise in connection with the portfolio managers\u2019 management of the Fund\u2019s investments and the management of the investments of \u201cother accounts.\u201d The other accounts may have the same or similar investment objectives and strategies as the Fund but may be subject to different management fee structures than the Fund Therefore, a potential conflict of interest may arise as a result of t\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "TOUCHSTONE STRATEGIC TRUST",
-        "etf_name": "The Touchstone Fund Complex consists of the Trust",
-        "strategy": "Potential conflicts of interest may arise in connection with the portfolio managers\u2019 management of the Fund\u2019s investments and the management of the investments of \u201cother accounts.\u201d The other accounts may have the same or similar investment objectives and strategies as the Fund but may be subject to different management fee structures than the Fund Therefore, a potential conflict of interest may arise as a result of t",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-27T20:57:01.361922+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000914243",
-    "company_name": "TOUCHSTONE FUNDS GROUP TRUST",
-    "accession_number": "0001193125-26-318211",
-    "filed_date": "2026-07-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/914243/000119312526318211/0001193125-26-318211-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/914243/000119312526318211/d118015d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/914243/000119312526318211/d118015d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: TOUCHSTONE FUNDS GROUP TRUST\nETF Name: Page Touchstone Small Cap Fund\nStrategy: The Bloomberg US 2000 Index and the Russell 2000 \u00ae Index show how the Fund\u2019s performance compares against the returns of indexes with similar investment objectives (2) The Fund changed its additional index to the Bloomberg US 2000 Index which has similar investment objectives to the Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "TOUCHSTONE FUNDS GROUP TRUST",
-        "etf_name": "Page Touchstone Small Cap Fund",
-        "strategy": "The Bloomberg US 2000 Index and the Russell 2000 \u00ae Index show how the Fund\u2019s performance compares against the returns of indexes with similar investment objectives (2) The Fund changed its additional index to the Bloomberg US 2000 Index which has similar investment objectives to the Fund",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-27T20:57:03.474385+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001511699",
-    "company_name": "Managed Portfolio Series",
-    "accession_number": "0000894189-26-021461",
-    "filed_date": "2026-07-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1511699/000089418926021461/0000894189-26-021461-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1511699/000089418926021461/ck0001511699-20260727.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1511699/000089418926021461/ck0001511699-20260727.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Managed Portfolio Series\nETF Name: Summary Section Port Street Quality Growth Fund\nStrategy: The Port Street Quality Growth Fund (the \u201cFund\u201d) seeks total return\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Managed Portfolio Series",
-        "etf_name": "Summary Section Port Street Quality Growth Fund",
-        "strategy": "The Port Street Quality Growth Fund (the \u201cFund\u201d) seeks total return",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-27T20:57:09.322559+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000714287",
-    "company_name": "DEUTSCHE DWS STATE TAX-FREE INCOME SERIES",
-    "accession_number": "0000088053-26-000559",
-    "filed_date": "2026-07-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/714287/000008805326000559/0000088053-26-000559-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/714287/000008805326000559/ddstfis-20260727.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/714287/000008805326000559/ddstfis-20260727.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: DEUTSCHE DWS STATE TAX-FREE INCOME SERIES\nETF Name: Class C, Institutional Class and Class S, respectively. DWS Massachusetts Tax-Free Fund\nStrategy: The fund seeks income that is exempt from Massachusetts personal and federal income taxes\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "DEUTSCHE DWS STATE TAX-FREE INCOME SERIES",
-        "etf_name": "Class C, Institutional Class and Class S, respectively. DWS Massachusetts Tax-Free Fund",
-        "strategy": "The fund seeks income that is exempt from Massachusetts personal and federal income taxes",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-27T20:57:11.593671+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001579982",
-    "company_name": "ARK ETF Trust",
-    "accession_number": "0001213900-26-081844",
-    "filed_date": "2026-07-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1579982/000121390026081844/0001213900-26-081844-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1579982/000121390026081844/ea0298975-01_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1579982/000121390026081844/ea0298975-01_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ARK ETF Trust\nETF Name: SUMMARY INFORMATION ARK Active Autocallable Income ETF\nStrategy: of the Fund 17 Principal Investment Strategies 17 17 Principal Risks 20 Additional Risks 32 Portfolio Holdings 32\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ARK ETF Trust",
-        "etf_name": "SUMMARY INFORMATION ARK Active Autocallable Income ETF",
-        "strategy": "of the Fund 17 Principal Investment Strategies 17 17 Principal Risks 20 Additional Risks 32 Portfolio Holdings 32",
         "is_alert_worthy": "LOW"
       }
     ],
