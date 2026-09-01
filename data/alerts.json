@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-09-01T12:08:23.771064+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-009562",
+    "filed_date": "2026-09-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626009562/0001829126-26-009562-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626009562/themesetftrust_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626009562/themesetftrust_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Short SK Hynix Daily ETF\nStrategy: (2) The pursuit of a daily investment objective means that the return of the Fund for a period longer than a full trading day will be the product of a series of daily returns for each trading day during the relevant period Further, the return for investors that invest for periods less than a full trading day will not be the product of the return of the Fund\u2019s stated daily inverse investment objective and the underlyi\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Short SK Hynix Daily ETF",
+        "strategy": "(2) The pursuit of a daily investment objective means that the return of the Fund for a period longer than a full trading day will be the product of a series of daily returns for each trading day during the relevant period Further, the return for investors that invest for periods less than a full trading day will not be the product of the return of the Fund\u2019s stated daily inverse investment objective and the underlyi",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-01T12:08:31.018634+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001727074",
+    "company_name": "PGIM ETF TRUST",
+    "accession_number": "0001727074-26-000127",
+    "filed_date": "2026-08-31",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1727074/000172707426000127/0001727074-26-000127-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1727074/000172707426000127/f45933d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1727074/000172707426000127/f45933d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PGIM ETF TRUST\nETF Name: The management agreement between PGIM ETF Trust\nStrategy: The subadviser seeks to generate long-term capital appreciation through investments in equity and equity-related securities by integrating insights from the subadviser\u2019s fundamental investment teams within a disciplined, risk-managed portfolio construction framework The subadviser applies a quantitative portfolio construction process that seeks to manage overall investment risk exposures and characteristics in order\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PGIM ETF TRUST",
+        "etf_name": "The management agreement between PGIM ETF Trust",
+        "strategy": "The subadviser seeks to generate long-term capital appreciation through investments in equity and equity-related securities by integrating insights from the subadviser\u2019s fundamental investment teams within a disciplined, risk-managed portfolio construction framework The subadviser applies a quantitative portfolio construction process that seeks to manage overall investment risk exposures and characteristics in order",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-09-01T06:44:28.105399+00:00",
     "form_type": "S-1",
     "cik": "0002080215",
@@ -14434,64 +14492,6 @@
         "filer": "CAZ GP Stakes Fund",
         "etf_name": "CAZ GP STAKES Fund",
         "strategy": "2 To maintain liquidity and to meet underlying capital calls, the Fund may also invest in certain liquid investments, including ETFs, derivatives (including futures contracts and option contracts), equity and fixed income securities, exchange -traded GP Stakes, business development companies (\u201cBDCs\u201d) and cash or cash equivalents During such periods, the Fund may not achieve its investment objective",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-27T20:56:52.009191+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000095603",
-    "company_name": "DEUTSCHE DWS MARKET TRUST",
-    "accession_number": "0000088053-26-000561",
-    "filed_date": "2026-07-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/95603/000008805326000561/0000088053-26-000561-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/95603/000008805326000561/ddmt-20260727.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/95603/000008805326000561/ddmt-20260727.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: DEUTSCHE DWS MARKET TRUST\nETF Name: DWS RREEF Real Assets Fund\nStrategy: The fund seeks total return in excess of inflation through capital growth and current income\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "DEUTSCHE DWS MARKET TRUST",
-        "etf_name": "DWS RREEF Real Assets Fund",
-        "strategy": "The fund seeks total return in excess of inflation through capital growth and current income",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-27T20:56:54.166373+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001540305",
-    "company_name": "ETF Series Solutions",
-    "accession_number": "0000894189-26-021464",
-    "filed_date": "2026-07-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926021464/0000894189-26-021464-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1540305/000089418926021464/ck0001540305-20260727.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926021464/ck0001540305-20260727.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Series Solutions\nETF Name: Total Annual Fund\nStrategy: In seeking to achieve DRAM\u2019s investment objective, Roundhill constructs DRAM\u2019s portfolio using its proprietary security selection methodology\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Series Solutions",
-        "etf_name": "Total Annual Fund",
-        "strategy": "In seeking to achieve DRAM\u2019s investment objective, Roundhill constructs DRAM\u2019s portfolio using its proprietary security selection methodology",
         "is_alert_worthy": "LOW"
       }
     ],
