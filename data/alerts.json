@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-09-01T22:05:45.088614+00:00",
+    "form_type": "485APOS",
+    "cik": "0001355064",
+    "company_name": "MUTUAL FUND SERIES TRUST",
+    "accession_number": "0001580642-26-005874",
+    "filed_date": "2026-09-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1355064/000158064226005874/0001580642-26-005874-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1355064/000158064226005874/mfst-catalyst_485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1355064/000158064226005874/mfst-catalyst_485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: MUTUAL FUND SERIES TRUST\nETF Name: CATALYST NASDAQ-100 HEDGED INCOME FUND\nStrategy: The Fund\u2019s investment objective is total return\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "MUTUAL FUND SERIES TRUST",
+        "etf_name": "CATALYST NASDAQ-100 HEDGED INCOME FUND",
+        "strategy": "The Fund\u2019s investment objective is total return",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-09-01T19:39:56.855839+00:00",
     "form_type": "485APOS",
     "cik": "0001592900",
@@ -14463,35 +14492,6 @@
         "filer": "SCHWAB STRATEGIC TRUST",
         "etf_name": "Schwab Crypto Thematic Natural Language Processing ETF",
         "strategy": "or invest in accordance with its investment strategy Thematic Investing Risk \u2014 The fund invests in a portfolio of securities that are based on a theme and its and the main risks associated with investing in the fund are summarized in the at the front of this prospectus",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-27T22:13:11.174127+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001877967",
-    "company_name": "Fairway Private Equity & Venture Capital Opportunities Fund",
-    "accession_number": "0001580642-26-004626",
-    "filed_date": "2026-07-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1877967/000158064226004626/0001580642-26-004626-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1877967/000158064226004626/fairway-pevc_486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1877967/000158064226004626/fairway-pevc_486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fairway Private Equity & Venture Capital Opportunities Fund\nETF Name: Managers of each Portfolio Fund\nStrategy: A portion of the amount of proceeds of the offering of Shares or any other available funds may be invested in short-term debt securities or money market funds pending investment pursuant to the Fund\u2019s investment objective and strategies The Fund may be prevented from achieving its objective during any period in which the Fund\u2019s assets are not substantially invested in accordance with its\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fairway Private Equity & Venture Capital Opportunities Fund",
-        "etf_name": "Managers of each Portfolio Fund",
-        "strategy": "A portion of the amount of proceeds of the offering of Shares or any other available funds may be invested in short-term debt securities or money market funds pending investment pursuant to the Fund\u2019s investment objective and strategies The Fund may be prevented from achieving its objective during any period in which the Fund\u2019s assets are not substantially invested in accordance with its",
         "is_alert_worthy": "LOW"
       }
     ],
