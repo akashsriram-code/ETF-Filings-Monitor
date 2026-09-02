@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-09-02T13:37:04.360614+00:00",
+    "form_type": "485APOS",
+    "cik": "0002055464",
+    "company_name": "Wedbush Series Trust",
+    "accession_number": "0001213900-26-096346",
+    "filed_date": "2026-09-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026096346/0001213900-26-096346-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2055464/000121390026096346/ea0304212-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026096346/ea0304212-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Wedbush Series Trust\nETF Name: Daily AI Revolution ETF\nStrategy: The Dan IVES Wedbush 2x Daily AI Revolution ETF (the \u201cFund\u201d) seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Wedbush Series Trust",
+        "etf_name": "Daily AI Revolution ETF",
+        "strategy": "The Dan IVES Wedbush 2x Daily AI Revolution ETF (the \u201cFund\u201d) seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-09-01T22:05:45.088614+00:00",
     "form_type": "485APOS",
     "cik": "0001355064",
@@ -14463,35 +14492,6 @@
         "filer": "SCHWAB CAPITAL TRUST",
         "etf_name": "An underlying fund",
         "strategy": "The fund seeks to provide capital appreciation and income consistent with its current asset allocation Expenses on a $10,000 Investment 1 Year 3 Years 5 Years 10 Years $ 8 $ 26 $ 45 $ 103 Portfolio Turnover The fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The fund seeks to achieve its investment objective by investing primarily in affiliated Schwa",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-28T11:30:48.081672+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001454889",
-    "company_name": "SCHWAB STRATEGIC TRUST",
-    "accession_number": "0000884546-26-000347",
-    "filed_date": "2026-07-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1454889/000088454626000347/0000884546-26-000347-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1454889/000088454626000347/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1454889/000088454626000347/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SCHWAB STRATEGIC TRUST\nETF Name: Schwab Crypto Thematic Natural Language Processing ETF\nStrategy: or invest in accordance with its investment strategy Thematic Investing Risk \u2014 The fund invests in a portfolio of securities that are based on a theme and its and the main risks associated with investing in the fund are summarized in the at the front of this prospectus\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "SCHWAB STRATEGIC TRUST",
-        "etf_name": "Schwab Crypto Thematic Natural Language Processing ETF",
-        "strategy": "or invest in accordance with its investment strategy Thematic Investing Risk \u2014 The fund invests in a portfolio of securities that are based on a theme and its and the main risks associated with investing in the fund are summarized in the at the front of this prospectus",
         "is_alert_worthy": "LOW"
       }
     ],
