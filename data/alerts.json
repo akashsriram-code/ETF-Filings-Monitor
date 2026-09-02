@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-09-02T17:27:32.248738+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-041189",
+    "filed_date": "2026-09-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226041189/0001493152-26-041189-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226041189/form485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226041189/form485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: Long OpenAI Daily ETF\nStrategy: that is a multiple inverse to the daily\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "Long OpenAI Daily ETF",
+        "strategy": "that is a multiple inverse to the daily",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-02T17:27:35.429192+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-041179",
+    "filed_date": "2026-09-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226041179/0001493152-26-041179-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226041179/form485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226041179/form485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: Long ANTHROPIC Daily ETF\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "Long ANTHROPIC Daily ETF",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-09-02T13:37:04.360614+00:00",
     "form_type": "485APOS",
     "cik": "0002055464",
@@ -14434,64 +14492,6 @@
         "filer": "John Hancock Exchange-Traded Fund Trust",
         "etf_name": "Valuation of fund",
         "strategy": "6 Additional investment strategies 6",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-28T11:30:40.963741+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000832545",
-    "company_name": "LAUDUS TRUST",
-    "accession_number": "0000884546-26-000351",
-    "filed_date": "2026-07-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/832545/000088454626000351/0000884546-26-000351-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/832545/000088454626000351/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/832545/000088454626000351/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LAUDUS TRUST\nETF Name: Schwab Large Cap Growth Opportunities Fund\nStrategy: For purposes of the Fund\u2019s 80% policy, large cap growth equity securities are equity securities that (i) have a market capitalization of at least $3 billion at the time of investment; and (ii) are included in the Russell 1000 \u00ae Growth Index, the fund\u2019s comparative index 4 Schwab Large Cap Growth Opportunities Fund | Fund Details There can be no assurance that the fund will achieve its investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LAUDUS TRUST",
-        "etf_name": "Schwab Large Cap Growth Opportunities Fund",
-        "strategy": "For purposes of the Fund\u2019s 80% policy, large cap growth equity securities are equity securities that (i) have a market capitalization of at least $3 billion at the time of investment; and (ii) are included in the Russell 1000 \u00ae Growth Index, the fund\u2019s comparative index 4 Schwab Large Cap Growth Opportunities Fund | Fund Details There can be no assurance that the fund will achieve its investment objective",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-28T11:30:45.152879+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000904333",
-    "company_name": "SCHWAB CAPITAL TRUST",
-    "accession_number": "0000884546-26-000349",
-    "filed_date": "2026-07-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/904333/000088454626000349/0000884546-26-000349-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/904333/000088454626000349/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/904333/000088454626000349/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SCHWAB CAPITAL TRUST\nETF Name: An underlying fund\nStrategy: The fund seeks to provide capital appreciation and income consistent with its current asset allocation Expenses on a $10,000 Investment 1 Year 3 Years 5 Years 10 Years $ 8 $ 26 $ 45 $ 103 Portfolio Turnover The fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The fund seeks to achieve its investment objective by investing primarily in affiliated Schwa\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "SCHWAB CAPITAL TRUST",
-        "etf_name": "An underlying fund",
-        "strategy": "The fund seeks to provide capital appreciation and income consistent with its current asset allocation Expenses on a $10,000 Investment 1 Year 3 Years 5 Years 10 Years $ 8 $ 26 $ 45 $ 103 Portfolio Turnover The fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) The fund seeks to achieve its investment objective by investing primarily in affiliated Schwa",
         "is_alert_worthy": "LOW"
       }
     ],
