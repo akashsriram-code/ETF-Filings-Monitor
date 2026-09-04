@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-09-04T09:33:31.875793+00:00",
+    "form_type": "485APOS",
+    "cik": "0001424958",
+    "company_name": "Direxion Shares ETF Trust",
+    "accession_number": "0001193125-26-381987",
+    "filed_date": "2026-09-03",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526381987/0001193125-26-381987-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1424958/000119312526381987/d514715d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526381987/d514715d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Direxion Shares ETF Trust\nETF Name: Direxion Shares ETF Trust\nStrategy: Index Correlation Risk \u2014 There is no guarantee that the Fund will achieve a high degree of correlation to the Index and, therefore, achieve its investment objective Index Correlation Risk \u2014 There is no guarantee that the Fund will achieve a high degree of correlation to the Index and, therefore, achieve its investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Direxion Shares ETF Trust",
+        "etf_name": "Direxion Shares ETF Trust",
+        "strategy": "Index Correlation Risk \u2014 There is no guarantee that the Fund will achieve a high degree of correlation to the Index and, therefore, achieve its investment objective Index Correlation Risk \u2014 There is no guarantee that the Fund will achieve a high degree of correlation to the Index and, therefore, achieve its investment objective",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-04T09:33:34.772909+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-009716",
+    "filed_date": "2026-09-03",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626009716/0001829126-26-009716-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626009716/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626009716/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Unknown",
+        "strategy": "The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-09-03T14:00:40.436932+00:00",
     "form_type": "485BPOS",
     "cik": "0001485894",
@@ -14434,64 +14492,6 @@
         "filer": "HarbourVest Private Investments Fund",
         "etf_name": "The Predecessor Fund",
         "strategy": "The Fund and the Adviser do not guarantee any level of return or risk on investments and there can be no assurance that the Fund\u2019s investment objective will be achieved",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-28T15:41:28.977393+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000779991",
-    "company_name": "Eaton Vance Investment Trust",
-    "accession_number": "0001133228-26-010801",
-    "filed_date": "2026-07-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/779991/000113322826010801/0001133228-26-010801-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/779991/000113322826010801/evit-efp26010_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/779991/000113322826010801/evit-efp26010_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Eaton Vance Investment Trust\nETF Name: Unknown\nStrategy: The success of the Fund\u2019s investment strategy depends on portfolio management\u2019s successful application of analytical skills and investment judgment The Fund is not a complete investment program and there is no guarantee that the Fund will achieve its investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Eaton Vance Investment Trust",
-        "etf_name": "Unknown",
-        "strategy": "The success of the Fund\u2019s investment strategy depends on portfolio management\u2019s successful application of analytical skills and investment judgment The Fund is not a complete investment program and there is no guarantee that the Fund will achieve its investment objective",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-28T15:41:40.195228+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000751656",
-    "company_name": "MFS MUNICIPAL SERIES TRUST",
-    "accession_number": "0000912938-26-000746",
-    "filed_date": "2026-07-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/751656/000091293826000746/0000912938-26-000746-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/751656/000091293826000746/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/751656/000091293826000746/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: MFS MUNICIPAL SERIES TRUST\nETF Name: Unknown\nStrategy: Not available.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "MFS MUNICIPAL SERIES TRUST",
-        "etf_name": "Unknown",
-        "strategy": "Not available.",
         "is_alert_worthy": "LOW"
       }
     ],
