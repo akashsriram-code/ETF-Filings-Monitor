@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-09-04T17:14:05.081430+00:00",
+    "form_type": "485APOS",
+    "cik": "0001710607",
+    "company_name": "AMERICAN CENTURY ETF TRUST",
+    "accession_number": "0001710607-26-000225",
+    "filed_date": "2026-09-04",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1710607/000171060726000225/0001710607-26-000225-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1710607/000171060726000225/avantismutualfunds485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1710607/000171060726000225/avantismutualfunds485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: AMERICAN CENTURY ETF TRUST\nETF Name: International Large Cap Value Fund\nStrategy: Investment Objective The fund seeks long-term capital appreciation Investment Objective The fund seeks long-term capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "AMERICAN CENTURY ETF TRUST",
+        "etf_name": "International Large Cap Value Fund",
+        "strategy": "Investment Objective The fund seeks long-term capital appreciation Investment Objective The fund seeks long-term capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-09-04T09:33:31.875793+00:00",
     "form_type": "485APOS",
     "cik": "0001424958",
@@ -14463,35 +14492,6 @@
         "filer": "Federated Hermes Adviser Series",
         "etf_name": "FRIEX Federated Hermes Emerging Markets Equity Fund",
         "strategy": "The Fund\u2019s investment objective is to provide long-term capital appreciation",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-28T15:41:21.154265+00:00",
-    "form_type": "486BPOS",
-    "cik": "0002020407",
-    "company_name": "HarbourVest Private Investments Fund",
-    "accession_number": "0001193125-26-319140",
-    "filed_date": "2026-07-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2020407/000119312526319140/0001193125-26-319140-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2020407/000119312526319140/d157609d486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2020407/000119312526319140/d157609d486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: HarbourVest Private Investments Fund\nETF Name: The Predecessor Fund\nStrategy: The Fund and the Adviser do not guarantee any level of return or risk on investments and there can be no assurance that the Fund\u2019s investment objective will be achieved\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "HarbourVest Private Investments Fund",
-        "etf_name": "The Predecessor Fund",
-        "strategy": "The Fund and the Adviser do not guarantee any level of return or risk on investments and there can be no assurance that the Fund\u2019s investment objective will be achieved",
         "is_alert_worthy": "LOW"
       }
     ],
