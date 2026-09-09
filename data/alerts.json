@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-09-09T16:14:51.879945+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001501825",
+    "company_name": "Hartford Funds Exchange-Traded Trust",
+    "accession_number": "0001193125-26-386151",
+    "filed_date": "2026-09-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1501825/000119312526386151/0001193125-26-386151-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1501825/000119312526386151/d84150d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1501825/000119312526386151/d84150d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Hartford Funds Exchange-Traded Trust\nETF Name: Credit Opportunities ETF\nStrategy: and principal investment strategy as the Predecessor Fund The Predecessor Fund changed its performance index on July 31, 2026 because the Investment Manager believes that the ICE BofA US All Capital Securities Index better reflects the Predecessor Fund\u2019s revised investment strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Hartford Funds Exchange-Traded Trust",
+        "etf_name": "Credit Opportunities ETF",
+        "strategy": "and principal investment strategy as the Predecessor Fund The Predecessor Fund changed its performance index on July 31, 2026 because the Investment Manager believes that the ICE BofA US All Capital Securities Index better reflects the Predecessor Fund\u2019s revised investment strategy",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-09T16:14:55.311321+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001722388",
+    "company_name": "Tidal Trust III",
+    "accession_number": "0001999371-26-020189",
+    "filed_date": "2026-09-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126020189/0001999371-26-020189-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1722388/000199937126020189/vistashares-485bpos_090926.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1722388/000199937126020189/vistashares-485bpos_090926.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust III\nETF Name: Unknown\nStrategy: The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective by delivering participation in the price return of a broad U.S market equity index, while seeking to provide a measure of downside protection through a flexible, options-based investment strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust III",
+        "etf_name": "Unknown",
+        "strategy": "The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective by delivering participation in the price return of a broad U.S market equity index, while seeking to provide a measure of downside protection through a flexible, options-based investment strategy",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-09T16:14:57.423710+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001976517",
+    "company_name": "Roundhill ETF Trust",
+    "accession_number": "0001398344-26-016799",
+    "filed_date": "2026-09-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426016799/0001398344-26-016799-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976517/000139834426016799/fp0100788-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426016799/fp0100788-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Roundhill ETF Trust\nETF Name: Roundhill Semicap ETF\nStrategy: The Fund\u2019s investments are subject to certain requirements imposed by law and regulation, as well as the Fund\u2019s investment strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Roundhill ETF Trust",
+        "etf_name": "Roundhill Semicap ETF",
+        "strategy": "The Fund\u2019s investments are subject to certain requirements imposed by law and regulation, as well as the Fund\u2019s investment strategy",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-09-08T21:33:19.760322+00:00",
     "form_type": "485APOS",
     "cik": "0000915802",
@@ -14405,93 +14492,6 @@
         "filer": "Lincoln Partners Group Royalty Fund",
         "etf_name": "Lincoln Partners Group Royalty Fund",
         "strategy": "The Fund seeks to achieve its investment objective primarily by investing in a globally varied portfolio of direct investments in royalties, royalties primary funds and royalties secondary funds (together, \u201cRoyalties Funds\u201d), and other income-oriented investments such as broadly syndicated loans (\u201cBSLs\u201d), listed royalties and credit instruments (whether senior or junior) backed by royalties The Fund seeks to achieve",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-28T21:35:32.931349+00:00",
-    "form_type": "485APOS",
-    "cik": "0001517936",
-    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND IV",
-    "accession_number": "0001445546-26-005530",
-    "filed_date": "2026-07-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626005530/0001445546-26-005530-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1517936/000144554626005530/etf4_485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626005530/etf4_485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FIRST TRUST EXCHANGE-TRADED FUND IV\nETF Name: Advisors serves as the Underlying ETF\nStrategy: For additional information on the Fund's portfolio holdings, including investment terms, investment functions and the expected target maturity for each component, see \"Additional Information on the Fund's Investment Objective and Strategies.\u201d The Fund is classified as \u201cnon-diversified\u201d under the Investment Company Act of 1940 (the \u201c1940 Act\u201d ) The Underlying ETF The Underlying ETF is an exchange-traded fund that seek\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FIRST TRUST EXCHANGE-TRADED FUND IV",
-        "etf_name": "Advisors serves as the Underlying ETF",
-        "strategy": "For additional information on the Fund's portfolio holdings, including investment terms, investment functions and the expected target maturity for each component, see \"Additional Information on the Fund's Investment Objective and Strategies.\u201d The Fund is classified as \u201cnon-diversified\u201d under the Investment Company Act of 1940 (the \u201c1940 Act\u201d ) The Underlying ETF The Underlying ETF is an exchange-traded fund that seek",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-28T21:35:35.295841+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001944664",
-    "company_name": "Nomura Alternative Income Fund",
-    "accession_number": "0001213900-26-082333",
-    "filed_date": "2026-07-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1944664/000121390026082333/0001213900-26-082333-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1944664/000121390026082333/ea0297607-02_486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1944664/000121390026082333/ea0297607-02_486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nomura Alternative Income Fund\nETF Name: Nomura Alternative Income Fund\nStrategy: The Fund may focus its investment strategy on, and its portfolio of investments may be focused in, a subset of one or more of these credit markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nomura Alternative Income Fund",
-        "etf_name": "Nomura Alternative Income Fund",
-        "strategy": "The Fund may focus its investment strategy on, and its portfolio of investments may be focused in, a subset of one or more of these credit markets",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-28T21:35:38.083269+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001518042",
-    "company_name": "NORTHERN LIGHTS FUND TRUST II",
-    "accession_number": "0001580642-26-004661",
-    "filed_date": "2026-07-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1518042/000158064226004661/0001580642-26-004661-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1518042/000158064226004661/hodges-485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1518042/000158064226004661/hodges-485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: NORTHERN LIGHTS FUND TRUST II\nETF Name: The investment objective of the Hodges Fund\nStrategy: (the \u201cAdviser\u201d) has contractually agreed to reduce its fees and pay the Hodges Fund\u2019s expenses (excluding taxes, interest expenses, interest on short positions, portfolio transaction expenses, acquired fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "NORTHERN LIGHTS FUND TRUST II",
-        "etf_name": "The investment objective of the Hodges Fund",
-        "strategy": "(the \u201cAdviser\u201d) has contractually agreed to reduce its fees and pay the Hodges Fund\u2019s expenses (excluding taxes, interest expenses, interest on short positions, portfolio transaction expenses, acquired fund",
         "is_alert_worthy": "LOW"
       }
     ],
