@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-09-10T11:52:20.933144+00:00",
+    "form_type": "485APOS",
+    "cik": "0000798290",
+    "company_name": "HSBC FUNDS",
+    "accession_number": "0001206774-26-000522",
+    "filed_date": "2026-09-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/798290/000120677426000522/0001206774-26-000522-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/798290/000120677426000522/hsbc4682781-485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/798290/000120677426000522/hsbc4682781-485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: HSBC FUNDS\nETF Name: More Information About Fund\nStrategy: or strategies of the Fund, shareholders should consider whether the Fund remains an appropriate investment in light of their current financial position and needs. Investment Risks of the Fund Investments in the Fund are subject to investment risks, including the possible loss of the principal amount invested.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "HSBC FUNDS",
+        "etf_name": "More Information About Fund",
+        "strategy": "or strategies of the Fund, shareholders should consider whether the Fund remains an appropriate investment in light of their current financial position and needs. Investment Risks of the Fund Investments in the Fund are subject to investment risks, including the possible loss of the principal amount invested.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-09-09T21:49:47.980889+00:00",
     "form_type": "485BPOS",
     "cik": "0001112996",
@@ -14463,35 +14492,6 @@
         "filer": "NUVEEN INVESTMENT FUNDS INC",
         "etf_name": "Redemption of Fund",
         "strategy": "Each series of shares represents a separate investment portfolio with its own investment objective(s) and policies (in essence, a separate investment company) If the Funds invest in taxable securities, they may not be able to achieve their investment objective",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-29T10:16:20.147559+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001020660",
-    "company_name": "NUVEEN MUNICIPAL TRUST/MA",
-    "accession_number": "0001193125-26-322012",
-    "filed_date": "2026-07-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1020660/000119312526322012/0001193125-26-322012-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1020660/000119312526322012/d113980d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1020660/000119312526322012/d113980d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: NUVEEN MUNICIPAL TRUST/MA\nETF Name: Redemption of Fund\nStrategy: If the Funds invest in taxable securities, they may not be able to achieve their investment objective Investment Process Nuveen Asset Management believes that a value-oriented investment strategy that seeks to identify underrated and undervalued securities and sectors is positioned to capture the opportunities inherent in the municipal securities market and potentially outperform the general municipal securities mark\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "NUVEEN MUNICIPAL TRUST/MA",
-        "etf_name": "Redemption of Fund",
-        "strategy": "If the Funds invest in taxable securities, they may not be able to achieve their investment objective Investment Process Nuveen Asset Management believes that a value-oriented investment strategy that seeks to identify underrated and undervalued securities and sectors is positioned to capture the opportunities inherent in the municipal securities market and potentially outperform the general municipal securities mark",
         "is_alert_worthy": "LOW"
       }
     ],
