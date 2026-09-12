@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-09-12T06:18:11.014811+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001845809",
+    "company_name": "Putnam ETF Trust",
+    "accession_number": "0001193125-26-389413",
+    "filed_date": "2026-09-11",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1845809/000119312526389413/0001193125-26-389413-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1845809/000119312526389413/d137531d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1845809/000119312526389413/d137531d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Putnam ETF Trust\nETF Name: Total annual fund\nStrategy: Research ETF $ 36 $ 112 Portfolio turnover The fund pays transaction-related costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) Prospectus 2 Investments, risks, and performance Principal investment strategies The fund invests mainly in equity securities (growth or value stocks or both) of large and midsize companies that the Investment Manager, as defined below, believes hav\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Putnam ETF Trust",
+        "etf_name": "Total annual fund",
+        "strategy": "Research ETF $ 36 $ 112 Portfolio turnover The fund pays transaction-related costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio) Prospectus 2 Investments, risks, and performance Principal investment strategies The fund invests mainly in equity securities (growth or value stocks or both) of large and midsize companies that the Investment Manager, as defined below, believes hav",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-12T06:18:14.921102+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002051630",
+    "company_name": "Lazard Active ETF Trust",
+    "accession_number": "0000930413-26-002871",
+    "filed_date": "2026-09-11",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2051630/000093041326002871/0000930413-26-002871-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2051630/000093041326002871/c116820_485bpos-ixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2051630/000093041326002871/c116820_485bpos-ixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Lazard Active ETF Trust\nETF Name: Lazard Active ETF Trust Summary Section Lazard Emerging Markets Opportunities ETF\nStrategy: The Portfolio seeks long-term capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Lazard Active ETF Trust",
+        "etf_name": "Lazard Active ETF Trust Summary Section Lazard Emerging Markets Opportunities ETF",
+        "strategy": "The Portfolio seeks long-term capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-09-11T21:16:20.957899+00:00",
     "form_type": "485BPOS",
     "cik": "0001771146",
@@ -14434,64 +14492,6 @@
         "filer": "Cliffwater Enhanced Lending Fund",
         "etf_name": "At the time of the conversion of the Predecessor Fund",
         "strategy": "Under normal market conditions, the Fund seeks to achieve its investment objectives by investing at least 80% of its assets (net assets, plus any borrowings for investment purposes) in lending to businesses, broadly defined as providing capital or assets to businesses or individuals in exchange for regular payments, the level of which is commensurate with the probability of loss for each investment or strategy The Pr",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-29T17:46:41.007991+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001937073",
-    "company_name": "Calamos Aksia Alternative Credit & Income Fund",
-    "accession_number": "0001104659-26-088027",
-    "filed_date": "2026-07-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1937073/000110465926088027/0001104659-26-088027-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1937073/000110465926088027/tm2619597d1_486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1937073/000110465926088027/tm2619597d1_486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Calamos Aksia Alternative Credit & Income Fund\nETF Name: Unknown\nStrategy: The Fund seeks to achieve its investment objectives by primarily investing across the private credit asset class (\u201cPrivate Credit\u201d), with the remainder of the Fund\u2019s assets invested in one or more liquid alternative investment strategies, which seek to outperform cash yields The Fund seeks to achieve its investment objectives by primarily investing across the private credit asset class (\u201cPrivate Credit\u201d), with the re\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Calamos Aksia Alternative Credit & Income Fund",
-        "etf_name": "Unknown",
-        "strategy": "The Fund seeks to achieve its investment objectives by primarily investing across the private credit asset class (\u201cPrivate Credit\u201d), with the remainder of the Fund\u2019s assets invested in one or more liquid alternative investment strategies, which seek to outperform cash yields The Fund seeks to achieve its investment objectives by primarily investing across the private credit asset class (\u201cPrivate Credit\u201d), with the re",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-29T17:46:44.325983+00:00",
-    "form_type": "486BPOS",
-    "cik": "0002063706",
-    "company_name": "Calamos Aksia Hedged Strategies Fund",
-    "accession_number": "0001104659-26-088026",
-    "filed_date": "2026-07-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2063706/000110465926088026/0001104659-26-088026-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2063706/000110465926088026/tm2619599d1_486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2063706/000110465926088026/tm2619599d1_486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Calamos Aksia Hedged Strategies Fund\nETF Name: Management Fee equal to the advisory fee payable to the Acquired Fund\nStrategy: The Fund expects to invest in Alternative Funds that invest or trade in a wide range of assets and pursue a variety of alternative investment strategies, such as relative value, multi- strategy, tactical trading, event driven and long/short equity For the purposes of the 80% policy, investments in public liquid alternative investment vehicles (including registered investment companies which may be affiliated or unaff\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Calamos Aksia Hedged Strategies Fund",
-        "etf_name": "Management Fee equal to the advisory fee payable to the Acquired Fund",
-        "strategy": "The Fund expects to invest in Alternative Funds that invest or trade in a wide range of assets and pursue a variety of alternative investment strategies, such as relative value, multi- strategy, tactical trading, event driven and long/short equity For the purposes of the 80% policy, investments in public liquid alternative investment vehicles (including registered investment companies which may be affiliated or unaff",
         "is_alert_worthy": "LOW"
       }
     ],
