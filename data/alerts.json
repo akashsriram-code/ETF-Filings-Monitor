@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-09-15T15:03:02.737968+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-020526",
+    "filed_date": "2026-09-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126020526/0001999371-26-020526-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126020526/mngy_485bpos-091526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126020526/mngy_485bpos-091526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Unknown\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Unknown",
+        "strategy": "The Fund seeks daily investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-15T15:03:06.690766+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-020507",
+    "filed_date": "2026-09-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126020507/0001999371-26-020507-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126020507/defiance-485bpos_091526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126020507/defiance-485bpos_091526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Legacy Software ETF\nStrategy: The Fund\u2019s long/short strategy expresses a single thematic view: increasing artificial intelligence (\u201cAI\u201d) workloads are driving a multi-year investment cycle in AI compute and infrastructure, while many traditional enterprise software companies are likely to experience margin compression and pricing pressure as AI automates workflows and disrupts traditional per-seat software business models\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "Legacy Software ETF",
+        "strategy": "The Fund\u2019s long/short strategy expresses a single thematic view: increasing artificial intelligence (\u201cAI\u201d) workloads are driving a multi-year investment cycle in AI compute and infrastructure, while many traditional enterprise software companies are likely to experience margin compression and pricing pressure as AI automates workflows and disrupts traditional per-seat software business models",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-09-14T22:00:07.959002+00:00",
     "form_type": "485APOS",
     "cik": "0001511699",
@@ -14434,64 +14492,6 @@
         "filer": "Pomona Investment Fund",
         "etf_name": "Diversifying commitments across Investment Funds at different stages of fund",
         "strategy": "Instead, committed amounts are drawn down by private equity funds and invested over time, as underlying investments or portfolio companies are identified",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-29T20:09:55.692108+00:00",
-    "form_type": "486BPOS",
-    "cik": "0002033620",
-    "company_name": "Coller Private Credit Secondaries",
-    "accession_number": "0001213900-26-082749",
-    "filed_date": "2026-07-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2033620/000121390026082749/0001213900-26-082749-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2033620/000121390026082749/ea0299456-01_486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2033620/000121390026082749/ea0299456-01_486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Coller Private Credit Secondaries\nETF Name: Unknown\nStrategy: In pursuing its investment objective, the Fund seeks to invests in a portfolio of Private Credit Investments that vary by characteristics such as geography, manager, vintage year, and industry sector In pursuing its investment objective, the Fund seeks to invests in a portfolio of Private Credit Investments that vary by characteristics such as geography, manager, vintage year, and industry sector\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Coller Private Credit Secondaries",
-        "etf_name": "Unknown",
-        "strategy": "In pursuing its investment objective, the Fund seeks to invests in a portfolio of Private Credit Investments that vary by characteristics such as geography, manager, vintage year, and industry sector In pursuing its investment objective, the Fund seeks to invests in a portfolio of Private Credit Investments that vary by characteristics such as geography, manager, vintage year, and industry sector",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-29T20:09:58.803055+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001777482",
-    "company_name": "Nuveen Enhanced High Yield Municipal Bond Fund",
-    "accession_number": "0001999371-26-016348",
-    "filed_date": "2026-07-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1777482/000199937126016348/0001999371-26-016348-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1777482/000199937126016348/ehym-486bpos_072926.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1777482/000199937126016348/ehym-486bpos_072926.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nuveen Enhanced High Yield Municipal Bond Fund\nETF Name: Unknown\nStrategy: The Fund seeks to achieve its investment objectives by investing, under normal circumstances, at least 80% of its Assets (as defined on page 4) in municipal securities and other related investments, the income from which is exempt from regular U.S The Fund seeks to achieve its investment objectives by investing, under normal circumstances, at least 80% of its Assets (as defined on page 4) in municipal securities and\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nuveen Enhanced High Yield Municipal Bond Fund",
-        "etf_name": "Unknown",
-        "strategy": "The Fund seeks to achieve its investment objectives by investing, under normal circumstances, at least 80% of its Assets (as defined on page 4) in municipal securities and other related investments, the income from which is exempt from regular U.S The Fund seeks to achieve its investment objectives by investing, under normal circumstances, at least 80% of its Assets (as defined on page 4) in municipal securities and",
         "is_alert_worthy": "LOW"
       }
     ],
