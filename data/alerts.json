@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-09-15T18:58:22.464891+00:00",
+    "form_type": "485APOS",
+    "cik": "0000872323",
+    "company_name": "HARRIS ASSOCIATES INVESTMENT TRUST",
+    "accession_number": "0001104659-26-107885",
+    "filed_date": "2026-09-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/872323/000110465926107885/0001104659-26-107885-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/872323/000110465926107885/tm2625131d1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/872323/000110465926107885/tm2625131d1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: HARRIS ASSOCIATES INVESTMENT TRUST\nETF Name: Investing with the Oakmark Funds Determining net asset value ETF\nStrategy: The Fund invests primarily in a diversified portfolio of bonds and other fixed-income securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "HARRIS ASSOCIATES INVESTMENT TRUST",
+        "etf_name": "Investing with the Oakmark Funds Determining net asset value ETF",
+        "strategy": "The Fund invests primarily in a diversified portfolio of bonds and other fixed-income securities",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-15T18:58:27.117736+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001137360",
+    "company_name": "VanEck ETF Trust",
+    "accession_number": "0001137360-26-000887",
+    "filed_date": "2026-09-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000887/0001137360-26-000887-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1137360/000113736026000887/ck0001137360-20260915.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1137360/000113736026000887/ck0001137360-20260915.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VanEck ETF Trust\nETF Name: Underlying Funds, the following applies to both VanEck CEF Muni Income ETF\nStrategy: VanEck Commodity Strategy ETF seeks to achieve its investment objective by investing, under normal circumstances, in instruments that derive their value from the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VanEck ETF Trust",
+        "etf_name": "Underlying Funds, the following applies to both VanEck CEF Muni Income ETF",
+        "strategy": "VanEck Commodity Strategy ETF seeks to achieve its investment objective by investing, under normal circumstances, in instruments that derive their value from the",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-09-15T15:03:02.737968+00:00",
     "form_type": "485BPOS",
     "cik": "0001924868",
@@ -14434,64 +14492,6 @@
         "filer": "Coller Secondaries Private Equity Opportunities Fund",
         "etf_name": "The Predecessor Fund",
         "strategy": "The Predecessor Fund maintained an investment objective, strategies and investment policies, guidelines and restrictions that are, in all material respects, equivalent to those of the Fund In pursuing its investment objective, C-SPEF intends to invest primarily in an actively managed portfolio of private equity assets",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-29T20:09:49.994953+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001587982",
-    "company_name": "Investment Managers Series Trust II",
-    "accession_number": "0001398344-26-013019",
-    "filed_date": "2026-07-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1587982/000139834426013019/0001398344-26-013019-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1587982/000139834426013019/fp0099632-1_485bposixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1587982/000139834426013019/fp0099632-1_485bposixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust II\nETF Name: Alternative Access First Priority CLO Bond ETF\nStrategy: will be achieved. The bar chart and table provide some indication of the risks of investing in the Fund by showing changes in the Fund\u2019s\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Investment Managers Series Trust II",
-        "etf_name": "Alternative Access First Priority CLO Bond ETF",
-        "strategy": "will be achieved. The bar chart and table provide some indication of the risks of investing in the Fund by showing changes in the Fund\u2019s",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-29T20:09:52.659623+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001616203",
-    "company_name": "Pomona Investment Fund",
-    "accession_number": "0001104659-26-088096",
-    "filed_date": "2026-07-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1616203/000110465926088096/0001104659-26-088096-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1616203/000110465926088096/tm2621227d1_486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1616203/000110465926088096/tm2621227d1_486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Pomona Investment Fund\nETF Name: Diversifying commitments across Investment Funds at different stages of fund\nStrategy: Instead, committed amounts are drawn down by private equity funds and invested over time, as underlying investments or portfolio companies are identified\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Pomona Investment Fund",
-        "etf_name": "Diversifying commitments across Investment Funds at different stages of fund",
-        "strategy": "Instead, committed amounts are drawn down by private equity funds and invested over time, as underlying investments or portfolio companies are identified",
         "is_alert_worthy": "LOW"
       }
     ],
