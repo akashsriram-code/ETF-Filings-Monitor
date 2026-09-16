@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-09-16T14:24:25.510286+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002068712",
+    "company_name": "VegaShares ETF Trust",
+    "accession_number": "0001213900-26-100382",
+    "filed_date": "2026-09-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2068712/000121390026100382/0001213900-26-100382-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2068712/000121390026100382/ea0305571-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2068712/000121390026100382/ea0305571-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VegaShares ETF Trust\nETF Name: VegaShares US Equity Autocallable Conservative Income ETF\nStrategy: If necessary, the adviser or the Fund's Board of Trustees may substitute an Underlying Reference Index or the Laddered Autocallable Index with another index that it chooses in its sole discretion and without advance notice to shareholders Unavailability of an index could affect adversely the ability of the Fund to achieve its investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VegaShares ETF Trust",
+        "etf_name": "VegaShares US Equity Autocallable Conservative Income ETF",
+        "strategy": "If necessary, the adviser or the Fund's Board of Trustees may substitute an Underlying Reference Index or the Laddered Autocallable Index with another index that it chooses in its sole discretion and without advance notice to shareholders Unavailability of an index could affect adversely the ability of the Fund to achieve its investment objective",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-09-16T00:12:28.158612+00:00",
     "form_type": "485APOS",
     "cik": "0001689873",
@@ -14463,35 +14492,6 @@
         "filer": "Mercer Funds",
         "etf_name": "Unknown",
         "strategy": "In addition, certain subadvisers may employ a quantitative investment process in seeking to achieve the Fund\u2019s investment objective",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-29T20:09:09.829186+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001912963",
-    "company_name": "First Trust Private Credit Fund",
-    "accession_number": "0001104659-26-088114",
-    "filed_date": "2026-07-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1912963/000110465926088114/0001104659-26-088114-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1912963/000110465926088114/tm2620519d1_486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1912963/000110465926088114/tm2620519d1_486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: First Trust Private Credit Fund\nETF Name: Unknown\nStrategy: 1 Under normal market conditions, the Fund seeks to achieve its investment objective by allocating at least 80% of its net assets, plus the amount of any borrowings for investment purposes, to a diverse portfolio of private credit instruments 1 Under normal market conditions, the Fund seeks to achieve its investment objective by allocating at least 80% of its net assets, plus the amount of any borrowings for investme\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "First Trust Private Credit Fund",
-        "etf_name": "Unknown",
-        "strategy": "1 Under normal market conditions, the Fund seeks to achieve its investment objective by allocating at least 80% of its net assets, plus the amount of any borrowings for investment purposes, to a diverse portfolio of private credit instruments 1 Under normal market conditions, the Fund seeks to achieve its investment objective by allocating at least 80% of its net assets, plus the amount of any borrowings for investme",
         "is_alert_worthy": "LOW"
       }
     ],
