@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-09-17T06:49:39.011034+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001516212",
+    "company_name": "SSGA Active Trust",
+    "accession_number": "0001193125-26-393265",
+    "filed_date": "2026-09-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1516212/000119312526393265/0001193125-26-393265-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1516212/000119312526393265/d185837d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1516212/000119312526393265/d185837d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SSGA Active Trust\nETF Name: My2036 Corporate Bond ETF\nStrategy: Under normal circumstances, SSGA Funds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SSGA Active Trust",
+        "etf_name": "My2036 Corporate Bond ETF",
+        "strategy": "Under normal circumstances, SSGA Funds",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-17T06:49:43.529628+00:00",
+    "form_type": "485APOS",
+    "cik": "0001976322",
+    "company_name": "Themes ETF Trust",
+    "accession_number": "0001829126-26-010151",
+    "filed_date": "2026-09-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626010151/0001829126-26-010151-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626010151/themesetftrust_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626010151/themesetftrust_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Long Stratolaunch Daily ETF\nStrategy: Investment Objective The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily levered investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Themes ETF Trust",
+        "etf_name": "Long Stratolaunch Daily ETF",
+        "strategy": "Investment Objective The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily levered investment results, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-09-16T14:24:25.510286+00:00",
     "form_type": "485BPOS",
     "cik": "0002068712",
@@ -14434,64 +14492,6 @@
         "filer": "First Trust Private Assets Fund",
         "etf_name": "Special Risks of Fund",
         "strategy": "The Fund cannot guarantee that its investment objective will be achieved or that its strategy of investing in the Private Investment Vehicles will be successful The Fund\u2019s investment objective is to generate capital appreciation over the medium- and long-term through investments in private assets globally",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-29T20:09:00.501697+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001810256",
-    "company_name": "Bow River Capital Evergreen Fund",
-    "accession_number": "0001213900-26-082773",
-    "filed_date": "2026-07-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1810256/000121390026082773/0001213900-26-082773-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1810256/000121390026082773/ea0298666-01_486bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1810256/000121390026082773/ea0298666-01_486bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Bow River Capital Evergreen Fund\nETF Name: Unknown\nStrategy: The Fund seeks to achieve its investment objective through broad exposure to private equity, private credit, and semi -liquid (investments with monthly or quarterly liquidity availability, such as evergreen private equity funds) or listed investments The Fund seeks to achieve its investment objective through broad exposure to private equity, private credit, and semi -liquid (investments with monthly or quarterly liqu\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Bow River Capital Evergreen Fund",
-        "etf_name": "Unknown",
-        "strategy": "The Fund seeks to achieve its investment objective through broad exposure to private equity, private credit, and semi -liquid (investments with monthly or quarterly liquidity availability, such as evergreen private equity funds) or listed investments The Fund seeks to achieve its investment objective through broad exposure to private equity, private credit, and semi -liquid (investments with monthly or quarterly liqu",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-29T20:09:07.401730+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001320615",
-    "company_name": "Mercer Funds",
-    "accession_number": "0000930413-26-002221",
-    "filed_date": "2026-07-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1320615/000093041326002221/0000930413-26-002221-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1320615/000093041326002221/c117170_485bpos-ixbrl.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1320615/000093041326002221/c117170_485bpos-ixbrl.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Mercer Funds\nETF Name: Unknown\nStrategy: In addition, certain subadvisers may employ a quantitative investment process in seeking to achieve the Fund\u2019s investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Mercer Funds",
-        "etf_name": "Unknown",
-        "strategy": "In addition, certain subadvisers may employ a quantitative investment process in seeking to achieve the Fund\u2019s investment objective",
         "is_alert_worthy": "LOW"
       }
     ],
