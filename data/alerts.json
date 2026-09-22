@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-09-22T15:37:06.821878+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001742912",
+    "company_name": "Tidal Trust I",
+    "accession_number": "0001999371-26-021011",
+    "filed_date": "2026-09-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126021011/0001999371-26-021011-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1742912/000199937126021011/fmkt_485bpos-092226.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126021011/fmkt_485bpos-092226.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust I\nETF Name: The Free Markets ETF\nStrategy: The Free Markets ETF (the \u201cFund\u201d) seeks to provide long-term total returns Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years 5 Years 10 Years $ 78 $ 243 $ 422 $ 942 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust I",
+        "etf_name": "The Free Markets ETF",
+        "strategy": "The Free Markets ETF (the \u201cFund\u201d) seeks to provide long-term total returns Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years 5 Years 10 Years $ 78 $ 243 $ 422 $ 942 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-09-22T05:59:19.117039+00:00",
     "form_type": "485BPOS",
     "cik": "0001547576",
@@ -14463,35 +14492,6 @@
         "filer": "GPS Funds II",
         "etf_name": "EMERGING MARKETS FUND",
         "strategy": "GuideMark \u00ae World ex-US Fund (the \u201cFund\u201d) seeks capital appreciation over the long term The funds in which the Fund may invest are referred to herein as the \u201cUnderlying Funds.\u201d The Advisor believes that investing in Underlying Funds provides the Fund with an efficient means of creating a portfolio that provides investors with indirect exposure to a broad range of securities",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-07-29T21:14:48.613413+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000809593",
-    "company_name": "AMERICAN BEACON FUNDS",
-    "accession_number": "0001133228-26-010961",
-    "filed_date": "2026-07-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/809593/000113322826010961/0001133228-26-010961-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/809593/000113322826010961/abf-efp26491_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/809593/000113322826010961/abf-efp26491_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AMERICAN BEACON FUNDS\nETF Name: Risk. An ETF\nStrategy: To the extent the Fund invests in other investment companies that invest in equity securities, fixed-income securities and/or foreign securities, or that track an index, the Fund is subject to the risks associated with the underlying investments held by the investment company or the index fluctuations to which the investment company is subject An ETF that tracks an index may not precisely replicate the returns of tha\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AMERICAN BEACON FUNDS",
-        "etf_name": "Risk. An ETF",
-        "strategy": "To the extent the Fund invests in other investment companies that invest in equity securities, fixed-income securities and/or foreign securities, or that track an index, the Fund is subject to the risks associated with the underlying investments held by the investment company or the index fluctuations to which the investment company is subject An ETF that tracks an index may not precisely replicate the returns of tha",
         "is_alert_worthy": "LOW"
       }
     ],
