@@ -1,5 +1,788 @@
 [
   {
+    "created_at": "2026-09-29T06:04:02.075733+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001464413",
+    "company_name": "Starboard Investment Trust",
+    "accession_number": "0001999371-26-021458",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1464413/000199937126021458/0001999371-26-021458-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1464413/000199937126021458/adaptive-485bpos_092826.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1464413/000199937126021458/adaptive-485bpos_092826.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Starboard Investment Trust\nETF Name: PRINCIPAL INVESTMENT STRATEGIES As an actively managed exchange-traded fund\nStrategy: As an actively managed exchange-traded fund (\u201cETF\u201d), the Fund will not seek to replicate the performance of an index In addition to its indirect investments, the Fund may also invest directly in equity securities and fixed income securities, as well as put and call options, and cash and cash equivalents as part of its risk\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Starboard Investment Trust",
+        "etf_name": "PRINCIPAL INVESTMENT STRATEGIES As an actively managed exchange-traded fund",
+        "strategy": "As an actively managed exchange-traded fund (\u201cETF\u201d), the Fund will not seek to replicate the performance of an index In addition to its indirect investments, the Fund may also invest directly in equity securities and fixed income securities, as well as put and call options, and cash and cash equivalents as part of its risk",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:04:05.914302+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001511699",
+    "company_name": "Managed Portfolio Series",
+    "accession_number": "0000894189-26-028404",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1511699/000089418926028404/0000894189-26-028404-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1511699/000089418926028404/ck0001511699-20260928.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1511699/000089418926028404/ck0001511699-20260928.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Managed Portfolio Series\nETF Name: Reinhart Mid Cap PMV Fund\nStrategy: The Reinhart Genesis PMV Fund (the \u201cFund\u201d or the \u201cGenesis Fund\u201d) seeks long-term capital appreciation Although your actual costs may be higher or lower, based on these assumptions, your costs would be: One Year Three Years Five Years Ten Years Investor Class $ 122 $ 404 $ 708 $ 1,569 Advisor Class $ 97 $ 326 $ 574 $ 1,284 Institutional Class $ 82 $ 279 $ 493 $ 1,109 7 Portfolio Turnover The Fund pays transaction cost\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Managed Portfolio Series",
+        "etf_name": "Reinhart Mid Cap PMV Fund",
+        "strategy": "The Reinhart Genesis PMV Fund (the \u201cFund\u201d or the \u201cGenesis Fund\u201d) seeks long-term capital appreciation Although your actual costs may be higher or lower, based on these assumptions, your costs would be: One Year Three Years Five Years Ten Years Investor Class $ 122 $ 404 $ 708 $ 1,569 Advisor Class $ 97 $ 326 $ 574 $ 1,284 Institutional Class $ 82 $ 279 $ 493 $ 1,109 7 Portfolio Turnover The Fund pays transaction cost",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:04:12.350294+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001782952",
+    "company_name": "Kurv ETF Trust",
+    "accession_number": "0001999371-26-021457",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126021457/0001999371-26-021457-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1782952/000199937126021457/kurv-485bpos_092826.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1782952/000199937126021457/kurv-485bpos_092826.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Kurv ETF Trust\nETF Name: ETF, a former series of NEOS ETF Trust\nStrategy: Non-Diversification Risk : The YP Amazon Fund\u2019s portfolio may focus on a limited number of investments and will be subject to the potential for more volatility than a diversified fund Short Exposure Risk: the risk of entering into short sales or other short positions, including the potential loss of more money than the actual cost of the investment, and the risk that the third party to the short sale or other short p\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Kurv ETF Trust",
+        "etf_name": "ETF, a former series of NEOS ETF Trust",
+        "strategy": "Non-Diversification Risk : The YP Amazon Fund\u2019s portfolio may focus on a limited number of investments and will be subject to the potential for more volatility than a diversified fund Short Exposure Risk: the risk of entering into short sales or other short positions, including the potential loss of more money than the actual cost of the investment, and the risk that the third party to the short sale or other short p",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:04:15.948526+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001506980",
+    "company_name": "Clark Fork Trust",
+    "accession_number": "0001162044-26-000827",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1506980/000116204426000827/0001162044-26-000827-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1506980/000116204426000827/cfttarkio485bpos2026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1506980/000116204426000827/cfttarkio485bpos2026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Clark Fork Trust\nETF Name: Summary Section Investment Objective The Tarkio Fund\nStrategy: The Tarkio Fund\u2019s investment objective is long term growth of capital The Fund\u2019s investment objective is fundamental and may not be changed without shareholder approval\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Clark Fork Trust",
+        "etf_name": "Summary Section Investment Objective The Tarkio Fund",
+        "strategy": "The Tarkio Fund\u2019s investment objective is long term growth of capital The Fund\u2019s investment objective is fundamental and may not be changed without shareholder approval",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:04:19.329287+00:00",
+    "form_type": "486BPOS",
+    "cik": "0001737936",
+    "company_name": "City National Rochdale Strategic Credit Fund",
+    "accession_number": "0001398344-26-017480",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1737936/000139834426017480/0001398344-26-017480-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1737936/000139834426017480/fp0100464-1_486bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1737936/000139834426017480/fp0100464-1_486bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: City National Rochdale Strategic Credit Fund\nETF Name: Unknown\nStrategy: There can be no assurance that the Fund will achieve its investment objectives. The Fund pursues its investment objectives by investing, under normal circumstances, at least 80% of its net assets (plus the amount of any borrowings for investment purposes) in debt securities and other credit-related investments.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "City National Rochdale Strategic Credit Fund",
+        "etf_name": "Unknown",
+        "strategy": "There can be no assurance that the Fund will achieve its investment objectives. The Fund pursues its investment objectives by investing, under normal circumstances, at least 80% of its net assets (plus the amount of any borrowings for investment purposes) in debt securities and other credit-related investments.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:04:22.403338+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-004422",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026004422/0001592900-26-004422-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026004422/ck0001592900-20260928.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026004422/ck0001592900-20260928.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: SPARKLINE INTERNATIONAL INTANGIBLE VALUE ETF Fund\nStrategy: 6 SPARKLINE INTERNATIONAL INTANGIBLE VALUE ETF INVESTMENT OBJECTIVE The Sparkline International Intangible Value ETF (the \u201cFund\u201d) seeks to achieve capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "SPARKLINE INTERNATIONAL INTANGIBLE VALUE ETF Fund",
+        "strategy": "6 SPARKLINE INTERNATIONAL INTANGIBLE VALUE ETF INVESTMENT OBJECTIVE The Sparkline International Intangible Value ETF (the \u201cFund\u201d) seeks to achieve capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:04:29.027864+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000719423",
+    "company_name": "VALIC Co I",
+    "accession_number": "0001193125-26-405535",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/719423/000119312526405535/0001193125-26-405535-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/719423/000119312526405535/d118106d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/719423/000119312526405535/d118106d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VALIC Co I\nETF Name: Fund of-funds is a term used to describe a mutual fund\nStrategy: As a fund-of-funds, the Fund\u2019s principal investment strategy is to allocate assets among a combination of mutual funds (\u201cUnderlying Funds\u201d) that, in turn, invest directly in a wide range of portfolio securities (like stocks and bonds)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VALIC Co I",
+        "etf_name": "Fund of-funds is a term used to describe a mutual fund",
+        "strategy": "As a fund-of-funds, the Fund\u2019s principal investment strategy is to allocate assets among a combination of mutual funds (\u201cUnderlying Funds\u201d) that, in turn, invest directly in a wide range of portfolio securities (like stocks and bonds)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:04:44.195471+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001667919",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+    "accession_number": "0001445546-26-007158",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007158/0001445546-26-007158-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1667919/000144554626007158/ft-20260531.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007158/ft-20260531.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIRST TRUST EXCHANGE-TRADED FUND VIII\nETF Name: Unknown\nStrategy: There can be no guarantee that the Fund will be successful in its strategy to buffer against Underlying ETF losses if the Underlying ETF decreases over the Target Outcome Period by more than -2.5% to The Fund\u2019s strategy seeks to deliver returns (before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+        "etf_name": "Unknown",
+        "strategy": "There can be no guarantee that the Fund will be successful in its strategy to buffer against Underlying ETF losses if the Underlying ETF decreases over the Target Outcome Period by more than -2.5% to The Fund\u2019s strategy seeks to deliver returns (before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:05:00.863824+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001667919",
+    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+    "accession_number": "0001445546-26-007157",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007157/0001445546-26-007157-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1667919/000144554626007157/ft-20260531.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626007157/ft-20260531.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIRST TRUST EXCHANGE-TRADED FUND VIII\nETF Name: An investor that holds Fund\nStrategy: Decisions by market makers or authorized participants to reduce their role or step away from these activities in times of market stress could inhibit the effectiveness of the arbitrage process in maintaining the relationship between the underlying values of the Fund\u2019s portfolio securities and the Fund\u2019s market price There can be no guarantee that the Fund will be successful in its strategy to buffer against Underlyin\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
+        "etf_name": "An investor that holds Fund",
+        "strategy": "Decisions by market makers or authorized participants to reduce their role or step away from these activities in times of market stress could inhibit the effectiveness of the arbitrage process in maintaining the relationship between the underlying values of the Fund\u2019s portfolio securities and the Fund\u2019s market price There can be no guarantee that the Fund will be successful in its strategy to buffer against Underlyin",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:05:04.127441+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002069687",
+    "company_name": "FIS Trust",
+    "accession_number": "0001999371-26-021453",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2069687/000199937126021453/0001999371-26-021453-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2069687/000199937126021453/fistrust_485bpos-092826.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2069687/000199937126021453/fistrust_485bpos-092826.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIS Trust\nETF Name: FIS Christian Stock Fund\nStrategy: FIS Christian Stock Fund (the \u201cFund\u201d) seeks long-term growth of capital and income of the Fund The Fund is an actively managed exchange traded fund (\u201cETF\u201d) To achieve its objective, the Fund seeks to outperform the MSCI ACWI Index (the \u201cBenchmark\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIS Trust",
+        "etf_name": "FIS Christian Stock Fund",
+        "strategy": "FIS Christian Stock Fund (the \u201cFund\u201d) seeks long-term growth of capital and income of the Fund The Fund is an actively managed exchange traded fund (\u201cETF\u201d) To achieve its objective, the Fund seeks to outperform the MSCI ACWI Index (the \u201cBenchmark\u201d)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:05:07.213991+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-001883",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001883/0001771146-26-001883-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626001883/ck0001771146-20260928.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001883/ck0001771146-20260928.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: REX AI EQUITY PREMIUM INCOME ETF\nStrategy: Although your actual costs may be higher or lower, based on these assumptions your costs would be: Name of Fund 1 Year 3 Years 5 Years 10 Years REX AI Equity Premium Income ETF $ 66 $ 208 $ 362 $ 810 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Opportunities Trust",
+        "etf_name": "REX AI EQUITY PREMIUM INCOME ETF",
+        "strategy": "Although your actual costs may be higher or lower, based on these assumptions your costs would be: Name of Fund 1 Year 3 Years 5 Years 10 Years REX AI Equity Premium Income ETF $ 66 $ 208 $ 362 $ 810 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:05:09.400683+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000067590",
+    "company_name": "Prudential Government Money Market Fund, Inc.",
+    "accession_number": "0000067590-26-000012",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/67590/000006759026000012/0000067590-26-000012-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/67590/000006759026000012/f46282d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/67590/000006759026000012/f46282d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Prudential Government Money Market Fund, Inc\nETF Name: Total annual Fund\nStrategy: Although the Fund seeks to preserve the value of your investment at $1.00 per share, it cannot guarantee it will do so The Fund seeks to maintain a stable nt under the Securities Act of 1933 and Amendment No.79 to the Registrant\u2019s Registration Statement under the Investment Company Act of 1940 (the Amendment) only relates to the PGIM Government Money Market Fund, a series of the Registrant\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Prudential Government Money Market Fund, Inc",
+        "etf_name": "Total annual Fund",
+        "strategy": "Although the Fund seeks to preserve the value of your investment at $1.00 per share, it cannot guarantee it will do so The Fund seeks to maintain a stable nt under the Securities Act of 1933 and Amendment No.79 to the Registrant\u2019s Registration Statement under the Investment Company Act of 1940 (the Amendment) only relates to the PGIM Government Money Market Fund, a series of the Registrant",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:05:13.911171+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001078195",
+    "company_name": "Community Capital Trust",
+    "accession_number": "0001398344-26-017474",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1078195/000139834426017474/0001398344-26-017474-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1078195/000139834426017474/fp0100814-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1078195/000139834426017474/fp0100814-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Community Capital Trust\nETF Name: Community Capital Trust\nStrategy: and could reduce the Fund\u2019s return and affect its Under normal circumstances, the Fund will invest at least 80% of its net assets, plus borrowings for investment purposes, in Community Impact Bonds (the \u201c80% Policy\u201d) The Fund may utilize from time to time one or more of the investment practices described below to assist it in reaching its investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Community Capital Trust",
+        "etf_name": "Community Capital Trust",
+        "strategy": "and could reduce the Fund\u2019s return and affect its Under normal circumstances, the Fund will invest at least 80% of its net assets, plus borrowings for investment purposes, in Community Impact Bonds (the \u201c80% Policy\u201d) The Fund may utilize from time to time one or more of the investment practices described below to assist it in reaching its investment objective",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:05:18.310982+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000205007",
+    "company_name": "SHORT-TERM INVESTMENTS TRUST",
+    "accession_number": "0001104659-26-111404",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/205007/000110465926111404/0001104659-26-111404-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/205007/000110465926111404/tm2626183d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/205007/000110465926111404/tm2626183d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SHORT-TERM INVESTMENTS TRUST\nETF Name: Unknown\nStrategy: The Fund maintains a dollar-weighted average portfolio maturity of no more than 60 calendar days, and a dollar-weighted average life to maturity as determined without exceptions regarding certain interest rate adjustments under Rule 2a-7 of no more than 120 calendar days If the Fund\u2019s portfolio managers do so, different factors could affect the Fund\u2019s\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SHORT-TERM INVESTMENTS TRUST",
+        "etf_name": "Unknown",
+        "strategy": "The Fund maintains a dollar-weighted average portfolio maturity of no more than 60 calendar days, and a dollar-weighted average life to maturity as determined without exceptions regarding certain interest rate adjustments under Rule 2a-7 of no more than 120 calendar days If the Fund\u2019s portfolio managers do so, different factors could affect the Fund\u2019s",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:05:23.421071+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000939934",
+    "company_name": "SEI INSTITUTIONAL INVESTMENTS TRUST",
+    "accession_number": "0001104659-26-111401",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/939934/000110465926111401/0001104659-26-111401-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/939934/000110465926111401/tm2622727d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/939934/000110465926111401/tm2622727d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: SEI INSTITUTIONAL INVESTMENTS TRUST\nETF Name: PROSPECTUS SEI INSTITUTIONAL INVESTMENTS TRUST About This Prospectus Fund\nStrategy: The Large Cap Index Fund invests substantially all of its assets (at least 80%) in securities listed in the Russell 1000 Index The Fund\u2019s investment performance will depend on the Fund\u2019s tracking of the Index and the performance of the Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "SEI INSTITUTIONAL INVESTMENTS TRUST",
+        "etf_name": "PROSPECTUS SEI INSTITUTIONAL INVESTMENTS TRUST About This Prospectus Fund",
+        "strategy": "The Large Cap Index Fund invests substantially all of its assets (at least 80%) in securities listed in the Russell 1000 Index The Fund\u2019s investment performance will depend on the Fund\u2019s tracking of the Index and the performance of the Index",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:05:28.691875+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001018972",
+    "company_name": "NUVEEN MULTISTATE TRUST I",
+    "accession_number": "0001193125-26-405446",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1018972/000119312526405446/0001193125-26-405446-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1018972/000119312526405446/d66291d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1018972/000119312526405446/d66291d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NUVEEN MULTISTATE TRUST I\nETF Name: Risks Are Risk is inherent in all investing. Investing in a Fund\nStrategy: Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in municipal bonds that pay interest that is exempt from regular federal and Arizona personal income tax The Fund will generally maintain, under normal market conditions, an investment portfolio with an overall weighted average maturity in excess of 10 years\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NUVEEN MULTISTATE TRUST I",
+        "etf_name": "Risks Are Risk is inherent in all investing. Investing in a Fund",
+        "strategy": "Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in municipal bonds that pay interest that is exempt from regular federal and Arizona personal income tax The Fund will generally maintain, under normal market conditions, an investment portfolio with an overall weighted average maturity in excess of 10 years",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:05:32.488604+00:00",
+    "form_type": "485APOS",
+    "cik": "0001484018",
+    "company_name": "Spinnaker ETF Series",
+    "accession_number": "0001999371-26-021449",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1484018/000199937126021449/0001999371-26-021449-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1484018/000199937126021449/wcap-485apos_092826.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1484018/000199937126021449/wcap-485apos_092826.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Spinnaker ETF Series\nETF Name: As an actively managed ETF\nStrategy: The Portfolio Funds each have their own unique investment objective, strategies, and risks There is no guarantee that the Portfolio Funds will achieve their investment objectives and the Fund has exposure to the investment risks of the Portfolio Funds in direct proportion to the allocation of assets among the Portfolio Funds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Spinnaker ETF Series",
+        "etf_name": "As an actively managed ETF",
+        "strategy": "The Portfolio Funds each have their own unique investment objective, strategies, and risks There is no guarantee that the Portfolio Funds will achieve their investment objectives and the Fund has exposure to the investment risks of the Portfolio Funds in direct proportion to the allocation of assets among the Portfolio Funds",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:05:36.200993+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000924727",
+    "company_name": "Investment Managers Series Trust III",
+    "accession_number": "0001104659-26-111394",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/924727/000110465926111394/0001104659-26-111394-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/924727/000110465926111394/tm2625834d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/924727/000110465926111394/tm2625834d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust III\nETF Name: FPA Queens Road Small Cap Value Fund\nStrategy: The Fund\u2019s sub-adviser, Bragg Financial Advisors, Inc., invests the Fund\u2019s assets by pursuing a value-oriented strategy without limitation on issuer capitalization 811\u201108544 FPA Queens Road Value Fund PROSPECTUS (QRVLX) The FPA Queens Road Value Fund (the \u201cFund\u201d), a series of Investment Managers Series Trust III (the \u201cTrust\u201d), is an open end, diversified fund having the primary investment objective of seeking long-te\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Investment Managers Series Trust III",
+        "etf_name": "FPA Queens Road Small Cap Value Fund",
+        "strategy": "The Fund\u2019s sub-adviser, Bragg Financial Advisors, Inc., invests the Fund\u2019s assets by pursuing a value-oriented strategy without limitation on issuer capitalization 811\u201108544 FPA Queens Road Value Fund PROSPECTUS (QRVLX) The FPA Queens Road Value Fund (the \u201cFund\u201d), a series of Investment Managers Series Trust III (the \u201cTrust\u201d), is an open end, diversified fund having the primary investment objective of seeking long-te",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:05:39.291318+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001518042",
+    "company_name": "NORTHERN LIGHTS FUND TRUST II",
+    "accession_number": "0001580642-26-006549",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1518042/000158064226006549/0001580642-26-006549-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1518042/000158064226006549/longboard-485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1518042/000158064226006549/longboard-485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NORTHERN LIGHTS FUND TRUST II\nETF Name: The Trust The Longboard Fund\nStrategy: of the Fund is to seek long-term capital appreciation The investment objective of the Fund and the descriptions of the Fund\u2019s\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NORTHERN LIGHTS FUND TRUST II",
+        "etf_name": "The Trust The Longboard Fund",
+        "strategy": "of the Fund is to seek long-term capital appreciation The investment objective of the Fund and the descriptions of the Fund\u2019s",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:05:42.192360+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000924727",
+    "company_name": "Investment Managers Series Trust III",
+    "accession_number": "0001104659-26-111375",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/924727/000110465926111375/0001104659-26-111375-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/924727/000110465926111375/tm2625838d1_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/924727/000110465926111375/tm2625838d1_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust III\nETF Name: Page Fund\nStrategy: The FPA Queens Road Value ETF (the \u201cFund\u201d) seeks long-term capital growth and Risks 12 Management of the Fund 20 Buying and Selling Fund Shares 21 Dividends, Distributions and Taxes 23 Distributor 26 Fund Service Providers 26 Additional Information 27 Financial Highlights 28 1 INVESTMENT OBJECTIVE The FPA Queens Road Value ETF (the \u201cFund\u201d) seeks long-term capital growth PRINCIPAL INVESTMENT STRATEGIES The Fund seeks\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Investment Managers Series Trust III",
+        "etf_name": "Page Fund",
+        "strategy": "The FPA Queens Road Value ETF (the \u201cFund\u201d) seeks long-term capital growth and Risks 12 Management of the Fund 20 Buying and Selling Fund Shares 21 Dividends, Distributions and Taxes 23 Distributor 26 Fund Service Providers 26 Additional Information 27 Financial Highlights 28 1 INVESTMENT OBJECTIVE The FPA Queens Road Value ETF (the \u201cFund\u201d) seeks long-term capital growth PRINCIPAL INVESTMENT STRATEGIES The Fund seeks",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:05:49.016145+00:00",
+    "form_type": "485APOS",
+    "cik": "0001579881",
+    "company_name": "Calamos ETF Trust",
+    "accession_number": "0001104659-26-111341",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1579881/000110465926111341/0001104659-26-111341-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1579881/000110465926111341/tm2625622d1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1579881/000110465926111341/tm2625622d1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Calamos ETF Trust\nETF Name: Calamos Bitcoin Structured Alt Protection ETF\nStrategy: differs from the Fund's investment objective or if you are not willing to accept the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Calamos ETF Trust",
+        "etf_name": "Calamos Bitcoin Structured Alt Protection ETF",
+        "strategy": "differs from the Fund's investment objective or if you are not willing to accept the",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:05:53.043424+00:00",
+    "form_type": "485APOS",
+    "cik": "0001579881",
+    "company_name": "Calamos ETF Trust",
+    "accession_number": "0001104659-26-111336",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1579881/000110465926111336/0001104659-26-111336-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1579881/000110465926111336/tm2625623d1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1579881/000110465926111336/tm2625623d1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Calamos ETF Trust\nETF Name: Fund Name Ticker Exchange Calamos Laddered Bitcoin Structured Alt Protection ETF\nStrategy: Calamos Laddered Bitcoin Structured Alt Protection ETF \u00ae (the \"Fund\") seeks to provide exposure to the price of bitcoin\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Calamos ETF Trust",
+        "etf_name": "Fund Name Ticker Exchange Calamos Laddered Bitcoin Structured Alt Protection ETF",
+        "strategy": "Calamos Laddered Bitcoin Structured Alt Protection ETF \u00ae (the \"Fund\") seeks to provide exposure to the price of bitcoin",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:05:55.885226+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001810747",
+    "company_name": "Simplify Exchange Traded Funds",
+    "accession_number": "0001829126-26-010481",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626010481/0001829126-26-010481-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1810747/000182912626010481/simplifyetf_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626010481/simplifyetf_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Simplify Exchange Traded Funds\nETF Name: Total Annual Fund\nStrategy: by investing globally across a wide range of asset classes. Brookwood Investment Group LLC 10845 Griffith Peak Drive 2/F 3930 East Ray Road, Suite 155 Las Vegas, NV 89135 Phoenix, AZ 85044 www.simplify.us/etfs phone: 1 (855) 772-8488 This Prospectus provides important information about the Fund that you should know before investing\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Simplify Exchange Traded Funds",
+        "etf_name": "Total Annual Fund",
+        "strategy": "by investing globally across a wide range of asset classes. Brookwood Investment Group LLC 10845 Griffith Peak Drive 2/F 3930 East Ray Road, Suite 155 Las Vegas, NV 89135 Phoenix, AZ 85044 www.simplify.us/etfs phone: 1 (855) 772-8488 This Prospectus provides important information about the Fund that you should know before investing",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:06:00.222327+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000820892",
+    "company_name": "NUVEEN INVESTMENT FUNDS INC",
+    "accession_number": "0001193125-26-405217",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/820892/000119312526405217/0001193125-26-405217-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/820892/000119312526405217/d67895d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/820892/000119312526405217/d67895d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NUVEEN INVESTMENT FUNDS INC\nETF Name: Nuveen Minnesota Intermediate Municipal Bond Fund\nStrategy: Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in municipal bonds that pay interest that is exempt from regular federal and Minnesota personal income tax The table below shows the variability of the Fund\u2019s average annual returns and how they compare over the time periods indicated with those of broad measures of marke\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NUVEEN INVESTMENT FUNDS INC",
+        "etf_name": "Nuveen Minnesota Intermediate Municipal Bond Fund",
+        "strategy": "Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in municipal bonds that pay interest that is exempt from regular federal and Minnesota personal income tax The table below shows the variability of the Fund\u2019s average annual returns and how they compare over the time periods indicated with those of broad measures of marke",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:06:03.778278+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001018973",
+    "company_name": "NUVEEN MULTISTATE TRUST IV",
+    "accession_number": "0001193125-26-405215",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1018973/000119312526405215/0001193125-26-405215-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1018973/000119312526405215/d67155d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1018973/000119312526405215/d67155d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NUVEEN MULTISTATE TRUST IV\nETF Name: Risks Are Risk is inherent in all investing. Investing in a Fund\nStrategy: Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in municipal bonds that pay interest that is exempt from regular federal and Kansas personal income tax The Fund will generally maintain, under normal market conditions, an investment portfolio with an overall weighted average maturity in excess of 10 years\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NUVEEN MULTISTATE TRUST IV",
+        "etf_name": "Risks Are Risk is inherent in all investing. Investing in a Fund",
+        "strategy": "Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in municipal bonds that pay interest that is exempt from regular federal and Kansas personal income tax The Fund will generally maintain, under normal market conditions, an investment portfolio with an overall weighted average maturity in excess of 10 years",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:06:07.603505+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001020661",
+    "company_name": "NUVEEN MULTISTATE TRUST III",
+    "accession_number": "0001193125-26-405213",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1020661/000119312526405213/0001193125-26-405213-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1020661/000119312526405213/d66051d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1020661/000119312526405213/d66051d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NUVEEN MULTISTATE TRUST III\nETF Name: Risks Are Risk is inherent in all investing. Investing in a Fund\nStrategy: Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in municipal bonds that pay interest that is exempt from regular federal and Georgia personal income tax The Fund will generally maintain, under normal market conditions, an investment portfolio with an overall weighted average maturity in excess of 10 years\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NUVEEN MULTISTATE TRUST III",
+        "etf_name": "Risks Are Risk is inherent in all investing. Investing in a Fund",
+        "strategy": "Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in municipal bonds that pay interest that is exempt from regular federal and Georgia personal income tax The Fund will generally maintain, under normal market conditions, an investment portfolio with an overall weighted average maturity in excess of 10 years",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-09-29T06:06:11.873337+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000088525",
+    "company_name": "GUGGENHEIM FUNDS TRUST",
+    "accession_number": "0001193125-26-405198",
+    "filed_date": "2026-09-28",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/88525/000119312526405198/0001193125-26-405198-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/88525/000119312526405198/d138790d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/88525/000119312526405198/d138790d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GUGGENHEIM FUNDS TRUST\nETF Name: Guggenheim ETFs Prospectus Ticker Symbol Fund\nStrategy: by investing, under normal circumstances, at least 80% of its assets (net assets, plus the amount of any borrowings for investment purposes) in securitized securities/investments and in derivatives and other instruments that have economic characteristics and provide investment exposure similar to securitized securities/investments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GUGGENHEIM FUNDS TRUST",
+        "etf_name": "Guggenheim ETFs Prospectus Ticker Symbol Fund",
+        "strategy": "by investing, under normal circumstances, at least 80% of its assets (net assets, plus the amount of any borrowings for investment purposes) in securitized securities/investments and in derivatives and other instruments that have economic characteristics and provide investment exposure similar to securitized securities/investments",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-09-26T18:39:54.925614+00:00",
     "form_type": "485APOS",
     "cik": "0001884021",
@@ -13709,789 +14492,6 @@
         "filer": "ADVISORS SERIES TRUST",
         "etf_name": "INVESTMENT STRATEGIES AND RELATED RISKS Investment Objective The Davidson Intermediate Taxable ETF",
         "strategy": "The Davidson Intermediate Taxable ETF seeks current income, preservation of principal value and total return The Fund\u2019s investment objective is non-fundamental and may be changed without shareholder approval upon 60 days\u2019 written notice to shareholders",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-14T17:02:53.460491+00:00",
-    "form_type": "485BPOS",
-    "cik": "0002042513",
-    "company_name": "Russell Investments Exchange Traded Funds",
-    "accession_number": "0001193125-26-351303",
-    "filed_date": "2026-08-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2042513/000119312526351303/0001193125-26-351303-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2042513/000119312526351303/d15381d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2042513/000119312526351303/d15381d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Russell Investments Exchange Traded Funds\nETF Name: Russell Investments Multisector Bond ETF\nStrategy: and Investment Strategies \u201d section in the Fund's Prospectus for further information of the Fund The Fund has a non-fundamental policy to invest, under normal circumstances, at least 80% of the value of its net assets plus borrowings for investment purposes in bonds\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Russell Investments Exchange Traded Funds",
-        "etf_name": "Russell Investments Multisector Bond ETF",
-        "strategy": "and Investment Strategies \u201d section in the Fund's Prospectus for further information of the Fund The Fund has a non-fundamental policy to invest, under normal circumstances, at least 80% of the value of its net assets plus borrowings for investment purposes in bonds",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-14T15:59:04.512493+00:00",
-    "form_type": "485APOS",
-    "cik": "0001742912",
-    "company_name": "Tidal Trust I",
-    "accession_number": "0001999371-26-017936",
-    "filed_date": "2026-08-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126017936/0001999371-26-017936-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1742912/000199937126017936/finq-485apos_081426.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126017936/finq-485apos_081426.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust I\nETF Name: Large Cap AI-Managed Equity ETF\nStrategy: 1 AI-Managed Ranking System The Fund\u2019s investments are determined by the Model which, at its core, is an adaptive relative ranking system that, on a daily basis, continuously ranks all 500 stocks comprising the Index from \u201c1\u201d (being most relatively attractive as determined by the Model) to \u201c500\u201d (being the least relatively attractive) Large Cap AI-Managed Equity ETF \u2013 1 Additional Information About the Fund 7 Portfol\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust I",
-        "etf_name": "Large Cap AI-Managed Equity ETF",
-        "strategy": "1 AI-Managed Ranking System The Fund\u2019s investments are determined by the Model which, at its core, is an adaptive relative ranking system that, on a daily basis, continuously ranks all 500 stocks comprising the Index from \u201c1\u201d (being most relatively attractive as determined by the Model) to \u201c500\u201d (being the least relatively attractive) Large Cap AI-Managed Equity ETF \u2013 1 Additional Information About the Fund 7 Portfol",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-14T15:00:31.963121+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-038076",
-    "filed_date": "2026-08-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226038076/0001493152-26-038076-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226038076/form485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226038076/form485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: GraniteShares ETF Trust\nStrategy: The Fund\u2019s investment objective is to seek capital appreciation A Box Spread strategy combines a \u201csynthetic long\u201d position with an offsetting \u201csynthetic short\u201d position, through a grouping of option contracts on an equity security, index or ETF\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "GraniteShares ETF Trust",
-        "strategy": "The Fund\u2019s investment objective is to seek capital appreciation A Box Spread strategy combines a \u201csynthetic long\u201d position with an offsetting \u201csynthetic short\u201d position, through a grouping of option contracts on an equity security, index or ETF",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-14T02:13:52.274139+00:00",
-    "form_type": "485APOS",
-    "cik": "0001761055",
-    "company_name": "BlackRock ETF Trust",
-    "accession_number": "0001193125-26-349571",
-    "filed_date": "2026-08-13",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526349571/0001193125-26-349571-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1761055/000119312526349571/d143070d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526349571/d143070d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BlackRock ETF Trust\nETF Name: Investment Objective The iShares Enhanced Large Cap Growth Active ETF\nStrategy: The iShares Enhanced Large Cap Growth Active ETF seeks to outperform the Russell 1000 \u00ae Growth Index S-1 The Fund is actively managed and seeks to pursue its investment objective while seeking to maintain a low tracking error to the Russell 1000 \u00ae Growth Index (\u201cthe Russell 1000 Growth Index\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BlackRock ETF Trust",
-        "etf_name": "Investment Objective The iShares Enhanced Large Cap Growth Active ETF",
-        "strategy": "The iShares Enhanced Large Cap Growth Active ETF seeks to outperform the Russell 1000 \u00ae Growth Index S-1 The Fund is actively managed and seeks to pursue its investment objective while seeking to maintain a low tracking error to the Russell 1000 \u00ae Growth Index (\u201cthe Russell 1000 Growth Index\u201d)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-13T23:11:38.941229+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-008776",
-    "filed_date": "2026-08-13",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626008776/0001829126-26-008776-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626008776/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626008776/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: Under normal circumstances, the Fund invests at least 80% of its net assets (plus borrowings for investment purposes) in publicly listed equity securities (or corresponding American Depositary Receipts (\u201cADRs\u201d) or Global Depositary Receipts (\u201cGDRs\u201d)) and financial instruments (such as swap agreements, options contracts, or U.S In seeking to achieve the Fund\u2019s investment objective, the Fund\u2019s investment adviser, Theme\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "Unknown",
-        "strategy": "Under normal circumstances, the Fund invests at least 80% of its net assets (plus borrowings for investment purposes) in publicly listed equity securities (or corresponding American Depositary Receipts (\u201cADRs\u201d) or Global Depositary Receipts (\u201cGDRs\u201d)) and financial instruments (such as swap agreements, options contracts, or U.S In seeking to achieve the Fund\u2019s investment objective, the Fund\u2019s investment adviser, Theme",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-13T23:11:42.480336+00:00",
-    "form_type": "485APOS",
-    "cik": "0001174610",
-    "company_name": "PROSHARES TRUST",
-    "accession_number": "0001174610-26-000538",
-    "filed_date": "2026-08-13",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000538/0001174610-26-000538-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1174610/000117461026000538/f45911d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1174610/000117461026000538/f45911d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PROSHARES TRUST\nETF Name: Unknown\nStrategy: In seeking to achieve the Fund\u2019s investment objective, ProShare Advisors follows a passive approach to investing that is designed to track the performance of the Index The Fund attempts to achieve its investment objective by investing (directly or through the use of derivatives) all, or substantially all, of its assets in the components of the Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PROSHARES TRUST",
-        "etf_name": "Unknown",
-        "strategy": "In seeking to achieve the Fund\u2019s investment objective, ProShare Advisors follows a passive approach to investing that is designed to track the performance of the Index The Fund attempts to achieve its investment objective by investing (directly or through the use of derivatives) all, or substantially all, of its assets in the components of the Index",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-13T18:46:08.390050+00:00",
-    "form_type": "485APOS",
-    "cik": "0002043390",
-    "company_name": "Tidal Trust IV",
-    "accession_number": "0001999371-26-017822",
-    "filed_date": "2026-08-13",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126017822/0001999371-26-017822-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126017822/silvia-485apos_081326.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126017822/silvia-485apos_081326.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: SUMMARY INFORMATION SILVIA BEST IDEAS ETF- FUND\nStrategy: Silvia Best Ideas ETF seeks long-term capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust IV",
-        "etf_name": "SUMMARY INFORMATION SILVIA BEST IDEAS ETF- FUND",
-        "strategy": "Silvia Best Ideas ETF seeks long-term capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-13T16:44:06.287499+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-008749",
-    "filed_date": "2026-08-13",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626008749/0001829126-26-008749-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626008749/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626008749/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily levered investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "Unknown",
-        "strategy": "The Fund is an exchange traded fund (\u201cETF\u201d) that seeks daily levered investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-12T21:27:43.483284+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001592900",
-    "company_name": "EA Series Trust",
-    "accession_number": "0001592900-26-003866",
-    "filed_date": "2026-08-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003866/0001592900-26-003866-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026003866/ck0001592900-20260812.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026003866/ck0001592900-20260812.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Sequoia Select Large Core ETF Fund\nStrategy: The Sequoia Select Large Core ETF (the \u201cFund\u201d) seeks to provide income and capital appreciation 5 Sequoia Select Large Core ETF INVESTMENT OBJECTIVE The Sequoia Select Large Core ETF (the \u201cFund\u201d) seeks to provide income and capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "EA Series Trust",
-        "etf_name": "Sequoia Select Large Core ETF Fund",
-        "strategy": "The Sequoia Select Large Core ETF (the \u201cFund\u201d) seeks to provide income and capital appreciation 5 Sequoia Select Large Core ETF INVESTMENT OBJECTIVE The Sequoia Select Large Core ETF (the \u201cFund\u201d) seeks to provide income and capital appreciation",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-12T21:27:48.220479+00:00",
-    "form_type": "485APOS",
-    "cik": "0001884021",
-    "company_name": "Volatility Shares Trust",
-    "accession_number": "0001213900-26-088464",
-    "filed_date": "2026-08-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088464/0001213900-26-088464-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1884021/000121390026088464/ea0301672-01_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088464/ea0301672-01_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Volatility Shares Trust\nETF Name: Total Annual Fund\nStrategy: The Fund seeks daily investment results, before The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of Stripe for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Volatility Shares Trust",
-        "etf_name": "Total Annual Fund",
-        "strategy": "The Fund seeks daily investment results, before The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of Stripe for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-12T21:27:51.226363+00:00",
-    "form_type": "485APOS",
-    "cik": "0001884021",
-    "company_name": "Volatility Shares Trust",
-    "accession_number": "0001213900-26-088462",
-    "filed_date": "2026-08-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088462/0001213900-26-088462-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1884021/000121390026088462/ea0301671-01_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088462/ea0301671-01_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Volatility Shares Trust\nETF Name: Total Annual Fund\nStrategy: The Fund seeks daily investment results, before The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of OpenAI for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Volatility Shares Trust",
-        "etf_name": "Total Annual Fund",
-        "strategy": "The Fund seeks daily investment results, before The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of OpenAI for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-12T21:27:54.631097+00:00",
-    "form_type": "485APOS",
-    "cik": "0001884021",
-    "company_name": "Volatility Shares Trust",
-    "accession_number": "0001213900-26-088459",
-    "filed_date": "2026-08-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088459/0001213900-26-088459-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1884021/000121390026088459/ea0301670-01_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088459/ea0301670-01_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Volatility Shares Trust\nETF Name: Total Annual Fund\nStrategy: The Fund seeks daily investment results, before The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of Databricks for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Volatility Shares Trust",
-        "etf_name": "Total Annual Fund",
-        "strategy": "The Fund seeks daily investment results, before The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of Databricks for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-12T21:27:58.745771+00:00",
-    "form_type": "485APOS",
-    "cik": "0001884021",
-    "company_name": "Volatility Shares Trust",
-    "accession_number": "0001213900-26-088458",
-    "filed_date": "2026-08-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088458/0001213900-26-088458-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1884021/000121390026088458/ea0301669-01_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026088458/ea0301669-01_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Volatility Shares Trust\nETF Name: Total Annual Fund\nStrategy: The Fund seeks daily investment results, before The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of Anduril for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Volatility Shares Trust",
-        "etf_name": "Total Annual Fund",
-        "strategy": "The Fund seeks daily investment results, before The Fund is an exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of Anduril for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-12T21:28:01.743713+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001060517",
-    "company_name": "UBS Series Funds",
-    "accession_number": "0001193125-26-347086",
-    "filed_date": "2026-08-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1060517/000119312526347086/0001193125-26-347086-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1060517/000119312526347086/d227900d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1060517/000119312526347086/d227900d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: UBS Series Funds\nETF Name: UBS Liquid Reserves Fund Fund\nStrategy: 2 UBS Liquid Reserves Fund Investment objective Maximum current income consistent with liquidity and the preservation of capital Additional information about investment strategies The fund seeks to achieve its investment objective by investing only in certain eligible reserve assets that payment stablecoin issuers are permitted to maintain under the GENIUS Act and any effective regulation adopted thereunder\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "UBS Series Funds",
-        "etf_name": "UBS Liquid Reserves Fund Fund",
-        "strategy": "2 UBS Liquid Reserves Fund Investment objective Maximum current income consistent with liquidity and the preservation of capital Additional information about investment strategies The fund seeks to achieve its investment objective by investing only in certain eligible reserve assets that payment stablecoin issuers are permitted to maintain under the GENIUS Act and any effective regulation adopted thereunder",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-12T21:28:04.938426+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976517",
-    "company_name": "Roundhill ETF Trust",
-    "accession_number": "0001398344-26-014222",
-    "filed_date": "2026-08-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426014222/0001398344-26-014222-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976517/000139834426014222/fp0100439-1_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426014222/fp0100439-1_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Roundhill ETF Trust\nETF Name: Total Annual Fund\nStrategy: The Fund\u2019s investments are subject to certain requirements imposed by law and regulation, as well as the Fund\u2019s investment strategy\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Roundhill ETF Trust",
-        "etf_name": "Total Annual Fund",
-        "strategy": "The Fund\u2019s investments are subject to certain requirements imposed by law and regulation, as well as the Fund\u2019s investment strategy",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-12T20:33:21.412961+00:00",
-    "form_type": "486BPOS",
-    "cik": "0001716885",
-    "company_name": "Angel Oak Strategic Credit Fund",
-    "accession_number": "0000894189-26-022210",
-    "filed_date": "2026-08-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1716885/000089418926022210/0000894189-26-022210-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1716885/000089418926022210/ck0001716885-20260812.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1716885/000089418926022210/ck0001716885-20260812.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Angel Oak Strategic Credit Fund\nETF Name: ANGEL OAK STRATEGIC CREDIT FUND\nStrategy: In pursuing its investment objective, the Fund invests, under normal circumstances, at least 80% of its net assets, plus any borrowings for investment purposes, in credit-related instruments In pursuing its investment objective, the Fund invests, under normal circumstances, at least 80% of its net assets, plus any borrowings for investment purposes, in credit-related instruments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Angel Oak Strategic Credit Fund",
-        "etf_name": "ANGEL OAK STRATEGIC CREDIT FUND",
-        "strategy": "In pursuing its investment objective, the Fund invests, under normal circumstances, at least 80% of its net assets, plus any borrowings for investment purposes, in credit-related instruments In pursuing its investment objective, the Fund invests, under normal circumstances, at least 80% of its net assets, plus any borrowings for investment purposes, in credit-related instruments",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-12T19:53:54.084539+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-008694",
-    "filed_date": "2026-08-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626008694/0001829126-26-008694-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626008694/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626008694/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Fund\u2019s investment adviser will not attempt to position the Fund\u2019s portfolio to ensure that the Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200% or 2X) the daily of the Fund The Fund is an actively managed ETF that seeks to provide 2\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "Unknown",
-        "strategy": "The Fund\u2019s investment adviser will not attempt to position the Fund\u2019s portfolio to ensure that the Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200% or 2X) the daily of the Fund The Fund is an actively managed ETF that seeks to provide 2",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-12T19:53:57.280594+00:00",
-    "form_type": "485APOS",
-    "cik": "0001635073",
-    "company_name": "Nushares ETF Trust",
-    "accession_number": "0001193125-26-346371",
-    "filed_date": "2026-08-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1635073/000119312526346371/0001193125-26-346371-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1635073/000119312526346371/d262891d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1635073/000119312526346371/d262891d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nushares ETF Trust\nETF Name: Infrastructure Credit ETF\nStrategy: Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in credit and credit-related instruments of issuers in, or economically tied to, the technology or infrastructure sectors\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nushares ETF Trust",
-        "etf_name": "Infrastructure Credit ETF",
-        "strategy": "Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in credit and credit-related instruments of issuers in, or economically tied to, the technology or infrastructure sectors",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-12T19:54:00.968012+00:00",
-    "form_type": "485APOS",
-    "cik": "0000809064",
-    "company_name": "Nomura ETF Trust II",
-    "accession_number": "0002071844-26-001033",
-    "filed_date": "2026-08-12",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/809064/000207184426001033/0002071844-26-001033-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/809064/000207184426001033/netftii082026485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/809064/000207184426001033/netftii082026485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Nomura ETF Trust II\nETF Name: Nomura ETF Trust II Fund\nStrategy: NCRAM selects investments for its portion of the Fund based on NCRAM\u2019s own investment style and strategy Over time, the value of your investment in the Fund will increase and decrease according to changes in the value of the securities in the Fund\u2019s portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Nomura ETF Trust II",
-        "etf_name": "Nomura ETF Trust II Fund",
-        "strategy": "NCRAM selects investments for its portion of the Fund based on NCRAM\u2019s own investment style and strategy Over time, the value of your investment in the Fund will increase and decrease according to changes in the value of the securities in the Fund\u2019s portfolio",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-12T10:12:31.861935+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001517936",
-    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND IV",
-    "accession_number": "0001445546-26-005982",
-    "filed_date": "2026-08-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626005982/0001445546-26-005982-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1517936/000144554626005982/ftetfiv-20260812.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626005982/ftetfiv-20260812.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FIRST TRUST EXCHANGE-TRADED FUND IV\nETF Name: Target Income ETF\nStrategy: Under normal market conditions, the Fund will pursue its investment objectives by investing primarily in a portfolio of common stock and options contracts, including standardized listed options and/or FLexible EXchange options ( \u201cFLEX Options\u201d ) that utilize the common stock of Tesla, Inc\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FIRST TRUST EXCHANGE-TRADED FUND IV",
-        "etf_name": "Target Income ETF",
-        "strategy": "Under normal market conditions, the Fund will pursue its investment objectives by investing primarily in a portfolio of common stock and options contracts, including standardized listed options and/or FLexible EXchange options ( \u201cFLEX Options\u201d ) that utilize the common stock of Tesla, Inc",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-12T10:12:34.532733+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001517936",
-    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND IV",
-    "accession_number": "0001445546-26-005980",
-    "filed_date": "2026-08-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626005980/0001445546-26-005980-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1517936/000144554626005980/ftetfiv-20260812.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626005980/ftetfiv-20260812.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FIRST TRUST EXCHANGE-TRADED FUND IV\nETF Name: Target Income ETF\nStrategy: Under normal market conditions, the Fund will pursue its investment objectives by investing primarily in a portfolio of common stock and options contracts, including standardized listed options and/or FLexible EXchange options ( \u201cFLEX Options\u201d ) that utilize the common stock of NVIDIA Corporation as the reference asset (the \u201cUnderlying Security\u201d )\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FIRST TRUST EXCHANGE-TRADED FUND IV",
-        "etf_name": "Target Income ETF",
-        "strategy": "Under normal market conditions, the Fund will pursue its investment objectives by investing primarily in a portfolio of common stock and options contracts, including standardized listed options and/or FLexible EXchange options ( \u201cFLEX Options\u201d ) that utilize the common stock of NVIDIA Corporation as the reference asset (the \u201cUnderlying Security\u201d )",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-12T10:12:39.030691+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001517936",
-    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND IV",
-    "accession_number": "0001445546-26-005978",
-    "filed_date": "2026-08-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626005978/0001445546-26-005978-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1517936/000144554626005978/ftetfiv-20260812.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1517936/000144554626005978/ftetfiv-20260812.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FIRST TRUST EXCHANGE-TRADED FUND IV\nETF Name: Target Income ETF\nStrategy: Under normal market conditions, the Fund will pursue its investment objectives by investing primarily in a portfolio of common stock and options contracts, including standardized listed options and/or FLexible EXchange options ( \u201cFLEX Options\u201d ) that utilize the common stock of Apple Inc\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FIRST TRUST EXCHANGE-TRADED FUND IV",
-        "etf_name": "Target Income ETF",
-        "strategy": "Under normal market conditions, the Fund will pursue its investment objectives by investing primarily in a portfolio of common stock and options contracts, including standardized listed options and/or FLexible EXchange options ( \u201cFLEX Options\u201d ) that utilize the common stock of Apple Inc",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-11T19:47:18.546000+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001667919",
-    "company_name": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
-    "accession_number": "0001445546-26-005968",
-    "filed_date": "2026-08-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626005968/0001445546-26-005968-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1667919/000144554626005968/ft-20260811.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1667919/000144554626005968/ft-20260811.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FIRST TRUST EXCHANGE-TRADED FUND VIII\nETF Name: The Underlying ETF is an exchange-traded unit investment trust\nStrategy: The investment objective of the FT Vest U.S Under normal market conditions, the Fund will invest substantially all of its assets in FLexible EXchange \u00ae Options ( \u201cFLEX Options\u201d ) that reference the price performance of the State Street \u00ae SPDR \u00ae S&P 500 \u00ae ETF Trust (the \u201cUnderlying ETF\" ) The Underlying ETF is an exchange-traded unit investment trust that uses a replication strategy, meaning it invests in as many of t\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FIRST TRUST EXCHANGE-TRADED FUND VIII",
-        "etf_name": "The Underlying ETF is an exchange-traded unit investment trust",
-        "strategy": "The investment objective of the FT Vest U.S Under normal market conditions, the Fund will invest substantially all of its assets in FLexible EXchange \u00ae Options ( \u201cFLEX Options\u201d ) that reference the price performance of the State Street \u00ae SPDR \u00ae S&P 500 \u00ae ETF Trust (the \u201cUnderlying ETF\" ) The Underlying ETF is an exchange-traded unit investment trust that uses a replication strategy, meaning it invests in as many of t",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-11T14:36:42.855180+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001540305",
-    "company_name": "ETF Series Solutions",
-    "accession_number": "0000894189-26-022106",
-    "filed_date": "2026-08-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926022106/0000894189-26-022106-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1540305/000089418926022106/ck0001540305-20260811.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926022106/ck0001540305-20260811.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Series Solutions\nETF Name: Unknown\nStrategy: However, the Fund may use a \u201creplication\u201d strategy to achieve its investment objective, meaning it may invest in all of the component securities of the Index in approximately the same proportion as in the Index The Fund will generally use a representative sampling strategy to achieve its investment objective, when the Fund\u2019s Sub-Adviser believes it is in the best interest of the Fund, which generally can be expected\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Series Solutions",
-        "etf_name": "Unknown",
-        "strategy": "However, the Fund may use a \u201creplication\u201d strategy to achieve its investment objective, meaning it may invest in all of the component securities of the Index in approximately the same proportion as in the Index The Fund will generally use a representative sampling strategy to achieve its investment objective, when the Fund\u2019s Sub-Adviser believes it is in the best interest of the Fund, which generally can be expected",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-11T14:36:45.583064+00:00",
-    "form_type": "485BPOS",
-    "cik": "0002043390",
-    "company_name": "Tidal Trust IV",
-    "accession_number": "0001999371-26-017558",
-    "filed_date": "2026-08-11",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126017558/0001999371-26-017558-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126017558/emiq-485bpos_081126.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126017558/emiq-485bpos_081126.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: Page Emerging Markets AI ETF\nStrategy: Emerging Markets AI ETF seeks long term capital appreciation Under normal circumstances, the Fund invests at least 80% of its net assets, plus borrowings for investment purposes, in equity securities and derivative instruments of companies that are located in emerging market countries or are economically tied to emerging market countries and that derive significant revenues, profits, or assets from AI-related activit\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust IV",
-        "etf_name": "Page Emerging Markets AI ETF",
-        "strategy": "Emerging Markets AI ETF seeks long term capital appreciation Under normal circumstances, the Fund invests at least 80% of its net assets, plus borrowings for investment purposes, in equity securities and derivative instruments of companies that are located in emerging market countries or are economically tied to emerging market countries and that derive significant revenues, profits, or assets from AI-related activit",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-10T23:23:13.402261+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001683471",
-    "company_name": "Listed Funds Trust",
-    "accession_number": "0000894189-26-022081",
-    "filed_date": "2026-08-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926022081/0000894189-26-022081-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1683471/000089418926022081/ck0001683471-20260810.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1683471/000089418926022081/ck0001683471-20260810.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Listed Funds Trust\nETF Name: LONG DAILY KOREA AI SEMICONDUCTOR ETF\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Listed Funds Trust",
-        "etf_name": "LONG DAILY KOREA AI SEMICONDUCTOR ETF",
-        "strategy": "The Fund seeks daily investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-10T22:43:44.107034+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001540305",
-    "company_name": "ETF Series Solutions",
-    "accession_number": "0000894189-26-022099",
-    "filed_date": "2026-08-10",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926022099/0000894189-26-022099-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1540305/000089418926022099/ck0001540305-20260810.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926022099/ck0001540305-20260810.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Series Solutions\nETF Name: Total Annual Fund\nStrategy: has been adopted as a non-fundamental investment policy and may be changed without shareholder approval upon written notice to shareholders. Principal Investment Risks This section provides additional information regarding the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Series Solutions",
-        "etf_name": "Total Annual Fund",
-        "strategy": "has been adopted as a non-fundamental investment policy and may be changed without shareholder approval upon written notice to shareholders. Principal Investment Risks This section provides additional information regarding the",
         "is_alert_worthy": "LOW"
       }
     ],
