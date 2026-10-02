@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-10-02T00:18:55.185858+00:00",
+    "form_type": "485APOS",
+    "cik": "0000890540",
+    "company_name": "Advisors' Inner Circle Fund II",
+    "accession_number": "0001398344-26-017776",
+    "filed_date": "2026-10-01",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/890540/000139834426017776/0001398344-26-017776-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/890540/000139834426017776/fp0100992-1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/890540/000139834426017776/fp0100992-1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Advisors' Inner Circle Fund II\nETF Name: Inner Circle Fund\nStrategy: AND STRATEGIES The investment objective of the Fund is to generate total return by actively managing a laddered portfolio of autocallable instruments designed to target a range of returns The investment objective of the Fund is not a fundamental policy and may be changed by the Board of Trustees (the \u201cBoard\u201d) of The Advisors\u2019 Inner Circle Fund II (the \u201cTrust\u201d) without shareholder approval\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Advisors' Inner Circle Fund II",
+        "etf_name": "Inner Circle Fund",
+        "strategy": "AND STRATEGIES The investment objective of the Fund is to generate total return by actively managing a laddered portfolio of autocallable instruments designed to target a range of returns The investment objective of the Fund is not a fundamental policy and may be changed by the Board of Trustees (the \u201cBoard\u201d) of The Advisors\u2019 Inner Circle Fund II (the \u201cTrust\u201d) without shareholder approval",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-10-01T20:38:03.569823+00:00",
     "form_type": "485APOS",
     "cik": "0000835620",
@@ -14461,35 +14490,6 @@
         "filer": "Tidal Trust II",
         "etf_name": "DEFIANCE AI CAPACITORS LEADERS ETF",
         "strategy": "The Defiance AI Capacitors Leaders ETF (the \u201cFund\u201d) seeks to track the The Fund is an exchange-traded fund (\u201cETF\u201d) that uses a \u201cpassive",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-19T21:16:08.508868+00:00",
-    "form_type": "485APOS",
-    "cik": "0001771146",
-    "company_name": "ETF Opportunities Trust",
-    "accession_number": "0001771146-26-001683",
-    "filed_date": "2026-08-19",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001683/0001771146-26-001683-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626001683/etfot-curassetcapitalmgmtrd.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626001683/etfot-curassetcapitalmgmtrd.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Years Curasset Capital Management Reverse Mortgage ETF\nStrategy: by investing primarily in residential and commercial mortgage-related investments, including investments that provide direct or indirect exposure to the reverse mortgage market through mortgage-related securities, structured credit investments, financial institutions, mortgage originators and servicers, and other issuers participating in the reverse mortgage ecosystem, as well as other structured credit investments T\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ETF Opportunities Trust",
-        "etf_name": "Years Curasset Capital Management Reverse Mortgage ETF",
-        "strategy": "by investing primarily in residential and commercial mortgage-related investments, including investments that provide direct or indirect exposure to the reverse mortgage market through mortgage-related securities, structured credit investments, financial institutions, mortgage originators and servicers, and other issuers participating in the reverse mortgage ecosystem, as well as other structured credit investments T",
         "is_alert_worthy": "LOW"
       }
     ],
