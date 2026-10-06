@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-10-06T00:11:02.503656+00:00",
+    "form_type": "485APOS",
+    "cik": "0001040674",
+    "company_name": "Yorkville America Investment Trust",
+    "accession_number": "0001040674-26-000152",
+    "filed_date": "2026-10-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1040674/000104067426000152/0001040674-26-000152-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1040674/000104067426000152/yorkvilleamerica2xlonginved.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1040674/000104067426000152/yorkvilleamerica2xlonginved.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Yorkville America Investment Trust\nETF Name: Long ETF Each Fund\nStrategy: and the Fund\u2019s performance for periods greater than a trading day will be the result of each day's returns compounded over the period, which is very likely to differ from an underlying security\u2019s\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Yorkville America Investment Trust",
+        "etf_name": "Long ETF Each Fund",
+        "strategy": "and the Fund\u2019s performance for periods greater than a trading day will be the result of each day's returns compounded over the period, which is very likely to differ from an underlying security\u2019s",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-06T00:11:09.401153+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001350487",
+    "company_name": "WisdomTree Trust",
+    "accession_number": "0001214659-26-012559",
+    "filed_date": "2026-10-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1350487/000121465926012559/0001214659-26-012559-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1350487/000121465926012559/pea100792926485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1350487/000121465926012559/pea100792926485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: WisdomTree Trust\nETF Name: SmallCap Equity Fund\nStrategy: by investing its assets in accordance with both (i) a long/short U.S. Active Management Risk The Fund is actively managed using proprietary investment strategies and processes.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "WisdomTree Trust",
+        "etf_name": "SmallCap Equity Fund",
+        "strategy": "by investing its assets in accordance with both (i) a long/short U.S. Active Management Risk The Fund is actively managed using proprietary investment strategies and processes.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-10-05T18:15:23.340860+00:00",
     "form_type": "485APOS",
     "cik": "0001924868",
@@ -14432,64 +14490,6 @@
         "filer": "GraniteShares ETF Trust",
         "etf_name": "GraniteShares ETF Trust",
         "strategy": "The Fund\u2019s primary investment objective is to generate income while providing limited downside protection by getting exposure to autocallables that reference the price of shares of the Roundhill Memory ETF (CBOE: DRAM) (the \u201cUnderlying Asset\u201d) There is no assurance that any Fund will achieve its investment objective and an investment in a Fund could lose money",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-21T17:21:01.181542+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001689873",
-    "company_name": "GraniteShares ETF Trust",
-    "accession_number": "0001493152-26-039605",
-    "filed_date": "2026-08-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226039605/0001493152-26-039605-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226039605/form485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226039605/form485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: Long CBRS Daily ETF\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GraniteShares ETF Trust",
-        "etf_name": "Long CBRS Daily ETF",
-        "strategy": "The Fund seeks daily investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-21T17:21:04.969455+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000916620",
-    "company_name": "NORTHERN FUNDS",
-    "accession_number": "0001193125-26-360582",
-    "filed_date": "2026-08-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/916620/000119312526360582/0001193125-26-360582-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/916620/000119312526360582/d55471d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/916620/000119312526360582/d55471d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: NORTHERN FUNDS\nETF Name: EXEMPT BOND ETF TXNY The Nasdaq Stock Market LLC NORTHERN TRUST\nStrategy: The Fund seeks investment results that correspond generally to the price and yield\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "NORTHERN FUNDS",
-        "etf_name": "EXEMPT BOND ETF TXNY The Nasdaq Stock Market LLC NORTHERN TRUST",
-        "strategy": "The Fund seeks investment results that correspond generally to the price and yield",
         "is_alert_worthy": "LOW"
       }
     ],
