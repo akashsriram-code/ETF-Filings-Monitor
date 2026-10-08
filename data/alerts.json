@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-10-08T20:14:40.116984+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001432353",
+    "company_name": "Global X Funds",
+    "accession_number": "0001432353-26-000765",
+    "filed_date": "2026-10-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000765/0001432353-26-000765-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1432353/000143235326000765/ck0001432353-20261008.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000765/ck0001432353-20261008.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Global X Funds\nETF Name: Unknown\nStrategy: The Fund invests at least 80% of its net assets, plus borrowings for investment purposes (if any), in the securities of the Underlying Index The Underlying Index is owned and was developed by Global X\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Global X Funds",
+        "etf_name": "Unknown",
+        "strategy": "The Fund invests at least 80% of its net assets, plus borrowings for investment purposes (if any), in the securities of the Underlying Index The Underlying Index is owned and was developed by Global X",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-08T20:14:44.022624+00:00",
+    "form_type": "485APOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-004627",
+    "filed_date": "2026-10-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026004627/0001592900-26-004627-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026004627/afcm485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026004627/afcm485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Total Annual Fund\nStrategy: The Fund uses a \u201cpassive management\u201d (or indexing) approach to track the performance of the Index The Africa Critical Minerals Index The Index is constructed using an objective, rules-based methodology developed and owned by New Africa Capital Indices LLC (the \u201cIndex Provider\u201d) and calculated and maintained by Indxx, LLC (the \u201cIndex Calculation Agent\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "The Fund uses a \u201cpassive management\u201d (or indexing) approach to track the performance of the Index The Africa Critical Minerals Index The Index is constructed using an objective, rules-based methodology developed and owned by New Africa Capital Indices LLC (the \u201cIndex Provider\u201d) and calculated and maintained by Indxx, LLC (the \u201cIndex Calculation Agent\u201d)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-08T20:14:47.903594+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-022446",
+    "filed_date": "2026-10-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126022446/0001999371-26-022446-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126022446/yskh_485bpos-100826.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126022446/yskh_485bpos-100826.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: SKHY Option Income Strategy ETF as a new series of the Trust\nStrategy: The Fund\u2019s primary investment objective is to seek current income The Fund\u2019s secondary investment objective is to seek exposure to the share price of the American Depositary Receipts (\u201cADRs\u201d) of SK Hynix, Inc\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "SKHY Option Income Strategy ETF as a new series of the Trust",
+        "strategy": "The Fund\u2019s primary investment objective is to seek current income The Fund\u2019s secondary investment objective is to seek exposure to the share price of the American Depositary Receipts (\u201cADRs\u201d) of SK Hynix, Inc",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-10-08T07:20:50.419672+00:00",
     "form_type": "485BPOS",
     "cik": "0001511699",
@@ -14405,93 +14492,6 @@
         "filer": "Managed Portfolio Series",
         "etf_name": "Summary Section Reinhart Genesis PMV Fund",
         "strategy": "Cash will fluctuate based upon the ratio of public prices to private values of securities, and defensive positioning of the Fund is made through stock selection and sector weightings, which may result in the Fund not achieving its investment objective Taking a temporary defensive position may result in the Fund not achieving its investment objective",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-21T21:56:30.519685+00:00",
-    "form_type": "485APOS",
-    "cik": "0001516212",
-    "company_name": "SSGA Active Trust",
-    "accession_number": "0001193125-26-361042",
-    "filed_date": "2026-08-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1516212/000119312526361042/0001193125-26-361042-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1516212/000119312526361042/d147449d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1516212/000119312526361042/d147449d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: SSGA Active Trust\nETF Name: Blackstone Senior Loan ETF\nStrategy: The State Street Fixed Income Sector Rotation ETF (the \u201c Fund \u201d ) seeks to maximize risk-adjusted return and provide current income The Fund's In pursuing its investment objective, the Fund seeks to outperform the Morningstar LSTA US Leveraged Loan Index (the \u201c Index \u201d ) by normally investing at least 80% of its net assets (plus any borrowings for investment purposes) in Senior Loans\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "SSGA Active Trust",
-        "etf_name": "Blackstone Senior Loan ETF",
-        "strategy": "The State Street Fixed Income Sector Rotation ETF (the \u201c Fund \u201d ) seeks to maximize risk-adjusted return and provide current income The Fund's In pursuing its investment objective, the Fund seeks to outperform the Morningstar LSTA US Leveraged Loan Index (the \u201c Index \u201d ) by normally investing at least 80% of its net assets (plus any borrowings for investment purposes) in Senior Loans",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-21T21:31:57.371134+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976517",
-    "company_name": "Roundhill ETF Trust",
-    "accession_number": "0001398344-26-015283",
-    "filed_date": "2026-08-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426015283/0001398344-26-015283-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976517/000139834426015283/fp0100594-1_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426015283/fp0100594-1_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Roundhill ETF Trust\nETF Name: ETF Investment Objectives The Roundhill Boston Bruins ETF\nStrategy: The investment strategy of the Fund may cause the Fund to hold more than 25% of the Fund\u2019s total assets in investments in the Subsidiary the majority of the time\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Roundhill ETF Trust",
-        "etf_name": "ETF Investment Objectives The Roundhill Boston Bruins ETF",
-        "strategy": "The investment strategy of the Fund may cause the Fund to hold more than 25% of the Fund\u2019s total assets in investments in the Subsidiary the majority of the time",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-21T21:32:14.380257+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000930667",
-    "company_name": "iShares, Inc.",
-    "accession_number": "0001193125-26-361244",
-    "filed_date": "2026-08-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/930667/000119312526361244/0001193125-26-361244-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/930667/000119312526361244/d146002d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/930667/000119312526361244/d146002d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Unknown\nETF Name: NYSE Arca Investment Objective The iShares Emerging Markets Dividend ETF\nStrategy: The Fund seeks to track the investment results of the Dow Jones Emerging Markets Select Dividend Index (the \u201c Underlying Index \u201d ), which is provided by S&P Dow Jones Indices LLC (the \u201c Index Provider \u201d or \u201c SPDJI \u201d )\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Unknown",
-        "etf_name": "NYSE Arca Investment Objective The iShares Emerging Markets Dividend ETF",
-        "strategy": "The Fund seeks to track the investment results of the Dow Jones Emerging Markets Select Dividend Index (the \u201c Underlying Index \u201d ), which is provided by S&P Dow Jones Indices LLC (the \u201c Index Provider \u201d or \u201c SPDJI \u201d )",
         "is_alert_worthy": "LOW"
       }
     ],
