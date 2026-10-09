@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-10-09T00:29:56.907231+00:00",
+    "form_type": "485APOS",
+    "cik": "0000831114",
+    "company_name": "RBB FUND, INC.",
+    "accession_number": "0001398344-26-018044",
+    "filed_date": "2026-10-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/831114/000139834426018044/0001398344-26-018044-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/831114/000139834426018044/fp0101258-1_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/831114/000139834426018044/fp0101258-1_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: RBB FUND, INC\nETF Name: Premium Income ETF\nStrategy: The Motley Fool 100 Premium Income ETF (the \u201cPremium Income Fund\u201d) seeks to provide a high level of current income while maintaining exposure to the long-term appreciation potential of companies associated with the Motley Fool 100 Index (the \u201cFool 100 Index\u201d)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "RBB FUND, INC",
+        "etf_name": "Premium Income ETF",
+        "strategy": "The Motley Fool 100 Premium Income ETF (the \u201cPremium Income Fund\u201d) seeks to provide a high level of current income while maintaining exposure to the long-term appreciation potential of companies associated with the Motley Fool 100 Index (the \u201cFool 100 Index\u201d)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-09T00:30:00.500813+00:00",
+    "form_type": "485APOS",
+    "cik": "0001547950",
+    "company_name": "Exchange Listed Funds Trust",
+    "accession_number": "0001213900-26-108001",
+    "filed_date": "2026-10-08",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026108001/0001213900-26-108001-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547950/000121390026108001/ea0308115-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026108001/ea0308115-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Exchange Listed Funds Trust\nETF Name: Summary Investment Objective The SameSide Tactical Thematic ETF\nStrategy: The SameSide Tactical Thematic ETF (the \u201cFund\u201d) seeks long-term capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Exchange Listed Funds Trust",
+        "etf_name": "Summary Investment Objective The SameSide Tactical Thematic ETF",
+        "strategy": "The SameSide Tactical Thematic ETF (the \u201cFund\u201d) seeks long-term capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-10-08T20:14:40.116984+00:00",
     "form_type": "485BPOS",
     "cik": "0001432353",
@@ -14434,64 +14492,6 @@
         "filer": "BlackRock ETF Trust",
         "etf_name": "Prospectus BlackRock ETF Trust",
         "strategy": "The iShares Systematic Alternatives Active ETF (the \u201cFund\u201d) seeks total return over the long term",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-21T21:56:21.814359+00:00",
-    "form_type": "485APOS",
-    "cik": "0000916620",
-    "company_name": "NORTHERN FUNDS",
-    "accession_number": "0001193125-26-361148",
-    "filed_date": "2026-08-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/916620/000119312526361148/0001193125-26-361148-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/916620/000119312526361148/d72117d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/916620/000119312526361148/d72117d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: NORTHERN FUNDS\nETF Name: NORTHERN FUNDS PROSPECTUS FUND TICKER STOCK EXCHANGE NORTHERN TRUST US GIGAWATT ETF\nStrategy: Keep in mind, however, that no guarantee can be made that the Fund will meet its investment objective, and the Fund should not be relied upon as a complete investment program The Fund may determine to have the approximate value of its shares, known as the \u201cindicative optimized portfolio value\u201d (\u201cIOPV\u201d), disseminated every fifteen seconds throughout the trading day by the national securities exchange on which the Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "NORTHERN FUNDS",
-        "etf_name": "NORTHERN FUNDS PROSPECTUS FUND TICKER STOCK EXCHANGE NORTHERN TRUST US GIGAWATT ETF",
-        "strategy": "Keep in mind, however, that no guarantee can be made that the Fund will meet its investment objective, and the Fund should not be relied upon as a complete investment program The Fund may determine to have the approximate value of its shares, known as the \u201cindicative optimized portfolio value\u201d (\u201cIOPV\u201d), disseminated every fifteen seconds throughout the trading day by the national securities exchange on which the Fund",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-21T21:56:24.946354+00:00",
-    "form_type": "485APOS",
-    "cik": "0001511699",
-    "company_name": "Managed Portfolio Series",
-    "accession_number": "0000894189-26-022722",
-    "filed_date": "2026-08-21",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1511699/000089418926022722/0000894189-26-022722-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1511699/000089418926022722/ck0001511699-20260821.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1511699/000089418926022722/ck0001511699-20260821.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Managed Portfolio Series\nETF Name: Summary Section Reinhart Genesis PMV Fund\nStrategy: Cash will fluctuate based upon the ratio of public prices to private values of securities, and defensive positioning of the Fund is made through stock selection and sector weightings, which may result in the Fund not achieving its investment objective Taking a temporary defensive position may result in the Fund not achieving its investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Managed Portfolio Series",
-        "etf_name": "Summary Section Reinhart Genesis PMV Fund",
-        "strategy": "Cash will fluctuate based upon the ratio of public prices to private values of securities, and defensive positioning of the Fund is made through stock selection and sector weightings, which may result in the Fund not achieving its investment objective Taking a temporary defensive position may result in the Fund not achieving its investment objective",
         "is_alert_worthy": "LOW"
       }
     ],
