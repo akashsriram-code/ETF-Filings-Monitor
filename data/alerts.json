@@ -1,5 +1,121 @@
 [
   {
+    "created_at": "2026-10-14T19:01:24.093699+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000768847",
+    "company_name": "VanEck Funds",
+    "accession_number": "0000768847-26-000163",
+    "filed_date": "2026-10-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/768847/000076884726000163/0000768847-26-000163-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/768847/000076884726000163/ck0000768847-20261014.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/768847/000076884726000163/ck0000768847-20261014.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VanEck Funds\nETF Name: VanEck Wealth Builder ETF\nStrategy: The VanEck Wealth Builder ETF (the \u201cFund\u201d) seeks long-term capital appreciation and current income\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VanEck Funds",
+        "etf_name": "VanEck Wealth Builder ETF",
+        "strategy": "The VanEck Wealth Builder ETF (the \u201cFund\u201d) seeks long-term capital appreciation and current income",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-14T19:01:31.866395+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001081400",
+    "company_name": "ALLSPRING FUNDS TRUST",
+    "accession_number": "0001081400-26-000500",
+    "filed_date": "2026-10-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1081400/000108140026000500/0001081400-26-000500-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1081400/000108140026000500/allspring-20261019.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1081400/000108140026000500/allspring-20261019.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ALLSPRING FUNDS TRUST\nETF Name: This prospectus describes only the ETF\nStrategy: The Fund seeks high current income exempt from federal income tax, and capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ALLSPRING FUNDS TRUST",
+        "etf_name": "This prospectus describes only the ETF",
+        "strategy": "The Fund seeks high current income exempt from federal income tax, and capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-14T19:01:36.441149+00:00",
+    "form_type": "485APOS",
+    "cik": "0001602508",
+    "company_name": "FundX Investment Trust",
+    "accession_number": "0000894189-26-029331",
+    "filed_date": "2026-10-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1602508/000089418926029331/0000894189-26-029331-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1602508/000089418926029331/fundx-thefuturefundlongshoe.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1602508/000089418926029331/fundx-thefuturefundlongshoe.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FundX Investment Trust\nETF Name: The Future Fund\nStrategy: of the Future Fund Long/Short ETF (the \u201cFund\u201d) is to seek to provide capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FundX Investment Trust",
+        "etf_name": "The Future Fund",
+        "strategy": "of the Future Fund Long/Short ETF (the \u201cFund\u201d) is to seek to provide capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-14T19:01:40.588292+00:00",
+    "form_type": "485APOS",
+    "cik": "0001655589",
+    "company_name": "Franklin Templeton ETF Trust",
+    "accession_number": "0001655589-26-001347",
+    "filed_date": "2026-10-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1655589/000165558926001347/0001655589-26-001347-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1655589/000165558926001347/c485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1655589/000165558926001347/c485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Franklin Templeton ETF Trust\nETF Name: FRANKLIN PAYDAY CORE ENHANCED EQUITY INCOME ETF FUND\nStrategy: Under normal market conditions, the Fund will pursue an enhanced equity income strategy by (1) investing primarily in equity securities and (2) \u201cenhancing\u201d income through the employment of an options overlay by writing (selling) U.S (Advisers), the Fund\u2019s investment manager, provides the day-to-day portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Franklin Templeton ETF Trust",
+        "etf_name": "FRANKLIN PAYDAY CORE ENHANCED EQUITY INCOME ETF FUND",
+        "strategy": "Under normal market conditions, the Fund will pursue an enhanced equity income strategy by (1) investing primarily in equity securities and (2) \u201cenhancing\u201d income through the employment of an options overlay by writing (selling) U.S (Advisers), the Fund\u2019s investment manager, provides the day-to-day portfolio",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-10-14T14:43:30.295971+00:00",
     "form_type": "485APOS",
     "cik": "0001810747",
@@ -14376,122 +14492,6 @@
         "filer": "FORUM FUNDS",
         "etf_name": "Unknown",
         "strategy": "by investing primarily in a portfolio of domestic equity securities, which primarily consist of common and preferred stocks and securities convertible into common stocks, of companies of any market capitalization",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-25T22:55:44.818077+00:00",
-    "form_type": "485APOS",
-    "cik": "0001122649",
-    "company_name": "HILLMAN CAPITAL MANAGEMENT INVESTMENT TRUST",
-    "accession_number": "0001999371-26-018661",
-    "filed_date": "2026-08-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1122649/000199937126018661/0001999371-26-018661-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1122649/000199937126018661/leagueshare2x-485apos_082526.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1122649/000199937126018661/leagueshare2x-485apos_082526.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: HILLMAN CAPITAL MANAGEMENT INVESTMENT TRUST\nETF Name: Unknown\nStrategy: primarily by seeking daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "HILLMAN CAPITAL MANAGEMENT INVESTMENT TRUST",
-        "etf_name": "Unknown",
-        "strategy": "primarily by seeking daily investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-25T22:55:49.321426+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000844779",
-    "company_name": "BLACKROCK FUNDS",
-    "accession_number": "0001193125-26-365233",
-    "filed_date": "2026-08-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/844779/000119312526365233/0001193125-26-365233-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/844779/000119312526365233/d30852d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/844779/000119312526365233/d30852d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BLACKROCK FUNDS\nETF Name: Circle Reserve Fund\nStrategy: The investment objective of the Fund is to seek current income as is consistent with liquidity and stability of principal This investment objective is a non-fundamental policy of the Fund but may not be changed without 30 days\u2019 prior notice to shareholders\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BLACKROCK FUNDS",
-        "etf_name": "Circle Reserve Fund",
-        "strategy": "The investment objective of the Fund is to seek current income as is consistent with liquidity and stability of principal This investment objective is a non-fundamental policy of the Fund but may not be changed without 30 days\u2019 prior notice to shareholders",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-25T22:55:59.196034+00:00",
-    "form_type": "485APOS",
-    "cik": "0001122649",
-    "company_name": "HILLMAN CAPITAL MANAGEMENT INVESTMENT TRUST",
-    "accession_number": "0001999371-26-018659",
-    "filed_date": "2026-08-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1122649/000199937126018659/0001999371-26-018659-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1122649/000199937126018659/leagueshare1x-485apos_082526.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1122649/000199937126018659/leagueshare1x-485apos_082526.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: HILLMAN CAPITAL MANAGEMENT INVESTMENT TRUST\nETF Name: None Annual Fund\nStrategy: 16 LEAGUESHARES BOSTON BRUINS \u00ae ETF \u2013 Investment Objective The LeagueShares Boston Bruins \u00ae ETF (the \u201cFund\u201d) seeks total return\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "HILLMAN CAPITAL MANAGEMENT INVESTMENT TRUST",
-        "etf_name": "None Annual Fund",
-        "strategy": "16 LEAGUESHARES BOSTON BRUINS \u00ae ETF \u2013 Investment Objective The LeagueShares Boston Bruins \u00ae ETF (the \u201cFund\u201d) seeks total return",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-25T20:17:46.035680+00:00",
-    "form_type": "485APOS",
-    "cik": "0001597389",
-    "company_name": "USCF ETF Trust",
-    "accession_number": "0002071876-26-000194",
-    "filed_date": "2026-08-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1597389/000207187626000194/0002071876-26-000194-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1597389/000207187626000194/i26352_etfzsb-485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1597389/000207187626000194/i26352_etfzsb-485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: USCF ETF Trust\nETF Name: USCF ETF TRUST\nStrategy: SUBJECT TO COMPLETION \u2013 PRELIMINARY PROSPECTUS DATED AUGUST 25, 2026 Prospectus USCF Electrification Metals Fund (formerly known as USCF Sustainable Battery Metals Strategy Fund) NYSE Arca: ZSB [ ], 2026 USCF ETF TRUST * Principal U.S SUBJECT TO COMPLETION \u2013 PRELIMINARY PROSPECTUS DATED AUGUST 25, 2026 Prospectus USCF Electrification Metals Fund (formerly known as USCF Sustainable Battery Metals Strategy Fund) NYSE A\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "USCF ETF Trust",
-        "etf_name": "USCF ETF TRUST",
-        "strategy": "SUBJECT TO COMPLETION \u2013 PRELIMINARY PROSPECTUS DATED AUGUST 25, 2026 Prospectus USCF Electrification Metals Fund (formerly known as USCF Sustainable Battery Metals Strategy Fund) NYSE Arca: ZSB [ ], 2026 USCF ETF TRUST * Principal U.S SUBJECT TO COMPLETION \u2013 PRELIMINARY PROSPECTUS DATED AUGUST 25, 2026 Prospectus USCF Electrification Metals Fund (formerly known as USCF Sustainable Battery Metals Strategy Fund) NYSE A",
         "is_alert_worthy": "LOW"
       }
     ],
