@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-10-15T14:48:29.759180+00:00",
+    "form_type": "485APOS",
+    "cik": "0001742912",
+    "company_name": "Tidal Trust I",
+    "accession_number": "0001999371-26-022809",
+    "filed_date": "2026-10-15",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126022809/0001999371-26-022809-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1742912/000199937126022809/jstc-485apos_101526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126022809/jstc-485apos_101526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust I\nETF Name: Page Adasina Social Justice All Cap Global ETF\nStrategy: The Adasina Social Justice All Cap Global ETF (the \u201cFund\u201d) seeks capital appreciation and income Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years 5 Years 10 Years $[ ] $[ ] $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust I",
+        "etf_name": "Page Adasina Social Justice All Cap Global ETF",
+        "strategy": "The Adasina Social Justice All Cap Global ETF (the \u201cFund\u201d) seeks capital appreciation and income Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years 5 Years 10 Years $[ ] $[ ] $[ ] $[ ] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-15T14:48:33.382388+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001896670",
+    "company_name": "Thrivent ETF Trust",
+    "accession_number": "0001193125-26-421877",
+    "filed_date": "2026-10-14",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1896670/000119312526421877/0001193125-26-421877-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1896670/000119312526421877/d100427d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1896670/000119312526421877/d100427d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Thrivent ETF Trust\nETF Name: Thrivent Securitized Income ETF TSIE Investment Objective Thrivent Securitized Income ETF\nStrategy: The Fund is actively managed and the success of its investment strategy depends significantly on the skills of the Adviser in assessing the potential of the investments in which the Fund invests The Fund is actively managed and the success of its investment strategy depends significantly on the skills of the Adviser in assessing the potential of the investments in which the Fund invests\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Thrivent ETF Trust",
+        "etf_name": "Thrivent Securitized Income ETF TSIE Investment Objective Thrivent Securitized Income ETF",
+        "strategy": "The Fund is actively managed and the success of its investment strategy depends significantly on the skills of the Adviser in assessing the potential of the investments in which the Fund invests The Fund is actively managed and the success of its investment strategy depends significantly on the skills of the Adviser in assessing the potential of the investments in which the Fund invests",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-10-14T22:13:24.262557+00:00",
     "form_type": "485BPOS",
     "cik": "0001761055",
@@ -14434,64 +14492,6 @@
         "filer": "Invesco Unit Trusts Taxable Income Series 449",
         "etf_name": "INVESTMENT GRADE INCOME TRUST",
         "strategy": "This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of April 30, 2026, the Investment Grade Income Trust, 20+ Year Series 48 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-26T18:39:46.572934+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001547627",
-    "company_name": "Invesco Unit Trusts Taxable Income Series 443",
-    "accession_number": "0001528621-26-000896",
-    "filed_date": "2026-08-26",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547627/000152862126000896/0001528621-26-000896-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547627/000152862126000896/tis443_485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547627/000152862126000896/tis443_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts Taxable Income Series 443\nETF Name: An investment in your Trust\nStrategy: This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of April 30, 2026, the Investment Grade Income Trust, 10-20 Year Series 40 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Invesco Unit Trusts Taxable Income Series 443",
-        "etf_name": "An investment in your Trust",
-        "strategy": "This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of April 30, 2026, the Investment Grade Income Trust, 10-20 Year Series 40 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-26T18:39:49.043925+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001524289",
-    "company_name": "Van Kampen Unit Trusts Taxable Income Series 394",
-    "accession_number": "0001528621-26-000895",
-    "filed_date": "2026-08-26",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1524289/000152862126000895/0001528621-26-000895-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1524289/000152862126000895/tis394_485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1524289/000152862126000895/tis394_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Van Kampen Unit Trusts Taxable Income Series 394\nETF Name: INVESTMENT GRADE INCOME TRUST\nStrategy: This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of April 30, 2026, the Investment Grade Income Trust, 20+ Year Series 22 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Van Kampen Unit Trusts Taxable Income Series 394",
-        "etf_name": "INVESTMENT GRADE INCOME TRUST",
-        "strategy": "This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of April 30, 2026, the Investment Grade Income Trust, 20+ Year Series 22 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable",
         "is_alert_worthy": "LOW"
       }
     ],
