@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-10-16T14:07:52.223038+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001676326",
+    "company_name": "Morgan Stanley ETF Trust",
+    "accession_number": "0001133228-26-013315",
+    "filed_date": "2026-10-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1676326/000113322826013315/0001133228-26-013315-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1676326/000113322826013315/mset-efp28098_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1676326/000113322826013315/mset-efp28098_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Morgan Stanley ETF Trust\nETF Name: II Eaton Vance High Yield Municipal Income ETF\nStrategy: Eaton Vance Short Duration Municipal Income ETF is an existing series of the Acquiring Fund Trust and has substantially the same investment objective and substantially similar strategies due to the limited differences described herein, as Eaton Vance National Limited Maturity Municipal Income Fund Eaton Vance Short Duration Municipal Income ETF is an existing series of the Acquiring Fund Trust and has substantially t\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Morgan Stanley ETF Trust",
+        "etf_name": "II Eaton Vance High Yield Municipal Income ETF",
+        "strategy": "Eaton Vance Short Duration Municipal Income ETF is an existing series of the Acquiring Fund Trust and has substantially the same investment objective and substantially similar strategies due to the limited differences described herein, as Eaton Vance National Limited Maturity Municipal Income Fund Eaton Vance Short Duration Municipal Income ETF is an existing series of the Acquiring Fund Trust and has substantially t",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-10-15T21:56:24.526488+00:00",
     "form_type": "485BPOS",
     "cik": "0001580353",
@@ -14463,35 +14492,6 @@
         "filer": "Northern Lights Fund Trust",
         "etf_name": "ETF Underlying Fund",
         "strategy": "The Fund\u2019s adviser may engage in active and frequent trading of the Fund\u2019s portfolio securities achieve the Fund\u2019s investment objective The Fund\u2019s adviser may engage in active and frequent trading of the Fund\u2019s portfolio securities achieve the Fund\u2019s investment objective",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-26T18:39:12.213105+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001761055",
-    "company_name": "BlackRock ETF Trust",
-    "accession_number": "0001193125-26-366655",
-    "filed_date": "2026-08-26",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526366655/0001193125-26-366655-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1761055/000119312526366655/d46574d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1761055/000119312526366655/d46574d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BlackRock ETF Trust\nETF Name: Advisors and its affiliates. INNOVATION AND TECH ACTIVE ETF\nStrategy: The iShares A.I. As described in the \u201cManagement\u201d section of the Fund\u2019s prospectus beginning on page 16, BFA has contractually agreed to waive a portion of its management fees in an amount equal to the aggregate Acquired Fund\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BlackRock ETF Trust",
-        "etf_name": "Advisors and its affiliates. INNOVATION AND TECH ACTIVE ETF",
-        "strategy": "The iShares A.I. As described in the \u201cManagement\u201d section of the Fund\u2019s prospectus beginning on page 16, BFA has contractually agreed to waive a portion of its management fees in an amount equal to the aggregate Acquired Fund",
         "is_alert_worthy": "LOW"
       }
     ],
