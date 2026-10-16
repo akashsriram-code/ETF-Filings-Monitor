@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-10-16T23:32:36.747692+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001618627",
+    "company_name": "RBB Fund Trust",
+    "accession_number": "0001999371-26-022986",
+    "filed_date": "2026-10-16",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126022986/0001999371-26-022986-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1618627/000199937126022986/pfdm-485bpos_101626.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126022986/pfdm-485bpos_101626.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: RBB Fund Trust\nETF Name: Pathfinder Disciplined Midcap Equity ETF\nStrategy: The investment objective of the Pathfinder Disciplined Midcap Equity ETF (the \u201cFund\u201d) is to seek long-term capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "RBB Fund Trust",
+        "etf_name": "Pathfinder Disciplined Midcap Equity ETF",
+        "strategy": "The investment objective of the Pathfinder Disciplined Midcap Equity ETF (the \u201cFund\u201d) is to seek long-term capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-10-16T21:04:01.221874+00:00",
     "form_type": "485BPOS",
     "cik": "0001040674",
@@ -14463,35 +14492,6 @@
         "filer": "New York Life Investments Active ETF Trust",
         "etf_name": "Summary Information NYLIM MacKay Core Plus Bond ETF",
         "strategy": "The NYLIM MacKay Core Plus Bond ETF (the \u201cFund\u201d) seeks total return",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-26T21:13:49.438354+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001415995",
-    "company_name": "New York Life Investments ETF Trust",
-    "accession_number": "0001999371-26-018786",
-    "filed_date": "2026-08-26",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1415995/000199937126018786/0001999371-26-018786-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1415995/000199937126018786/nylim-485bpos_082626.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1415995/000199937126018786/nylim-485bpos_082626.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: New York Life Investments ETF Trust\nETF Name: Summary Information NYLIM Merger Arbitrage ETF\nStrategy: The Fund seeks investment results that correspond (before The Fund employs a \u201cpassive management\u201d \u2014 or indexing \u2014 investment approach designed to track the performance of the Underlying Index The Underlying Index seeks to employ a systematic investment process designed to identify opportunities in companies whose equity securities trade in developed markets, including the U.S., and which are involved in announced mer\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "New York Life Investments ETF Trust",
-        "etf_name": "Summary Information NYLIM Merger Arbitrage ETF",
-        "strategy": "The Fund seeks investment results that correspond (before The Fund employs a \u201cpassive management\u201d \u2014 or indexing \u2014 investment approach designed to track the performance of the Underlying Index The Underlying Index seeks to employ a systematic investment process designed to identify opportunities in companies whose equity securities trade in developed markets, including the U.S., and which are involved in announced mer",
         "is_alert_worthy": "LOW"
       }
     ],
