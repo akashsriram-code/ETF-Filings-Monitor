@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-10-19T17:05:34.610977+00:00",
+    "form_type": "485APOS",
+    "cik": "0001650149",
+    "company_name": "Series Portfolios Trust",
+    "accession_number": "0000894189-26-029444",
+    "filed_date": "2026-10-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926029444/0000894189-26-029444-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1650149/000089418926029444/genevasmidcapgrowthfund-48.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1650149/000089418926029444/genevasmidcapgrowthfund-48.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Series Portfolios Trust\nETF Name: Total Annual Fund\nStrategy: Prior The Fund invests, under normal market conditions, in common stocks of publicly traded companies that the Adviser believes demonstrate, at the time of a stock\u2019s purchase, strong growth characteristics such as a leadership position in the relevant industry, a sustainable advantage, strong earnings growth potential and experienced\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Series Portfolios Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "Prior The Fund invests, under normal market conditions, in common stocks of publicly traded companies that the Adviser believes demonstrate, at the time of a stock\u2019s purchase, strong growth characteristics such as a leadership position in the relevant industry, a sustainable advantage, strong earnings growth potential and experienced",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-19T17:05:37.510229+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924447",
+    "company_name": "THOR Financial Technologies Trust",
+    "accession_number": "0001580642-26-006967",
+    "filed_date": "2026-10-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924447/000158064226006967/0001580642-26-006967-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924447/000158064226006967/thorconservativerisk485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924447/000158064226006967/thorconservativerisk485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: THOR Financial Technologies Trust\nETF Name: Unknown\nStrategy: by employing a multi-strategy approach where the investment sub-adviser, Ai Alpha LLC (the \u201cSub-Adviser\u201d) allocates the Fund\u2019s assets among different strategies The Fund may have indirect exposure to cryptocurrency (bitcoin and Ethereum) through exchange-traded products, subject to the applicable regulatory requirements\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "THOR Financial Technologies Trust",
+        "etf_name": "Unknown",
+        "strategy": "by employing a multi-strategy approach where the investment sub-adviser, Ai Alpha LLC (the \u201cSub-Adviser\u201d) allocates the Fund\u2019s assets among different strategies The Fund may have indirect exposure to cryptocurrency (bitcoin and Ethereum) through exchange-traded products, subject to the applicable regulatory requirements",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-19T17:05:40.758089+00:00",
+    "form_type": "485APOS",
+    "cik": "0000277751",
+    "company_name": "JANUS INVESTMENT FUND",
+    "accession_number": "0001193125-26-424640",
+    "filed_date": "2026-10-19",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/277751/000119312526424640/0001193125-26-424640-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/277751/000119312526424640/d71943d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/277751/000119312526424640/d71943d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: JANUS INVESTMENT FUND\nETF Name: Janus Investment Fund\nStrategy: If there is a material change to the Fund\u2019s investment objective or without a shareholder vote If there is a material change to the Fund\u2019s investment objective or principal investment strategies, you should consider whether the Fund remains an appropriate investment for you\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "JANUS INVESTMENT FUND",
+        "etf_name": "Janus Investment Fund",
+        "strategy": "If there is a material change to the Fund\u2019s investment objective or without a shareholder vote If there is a material change to the Fund\u2019s investment objective or principal investment strategies, you should consider whether the Fund remains an appropriate investment for you",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-10-16T23:32:36.747692+00:00",
     "form_type": "485BPOS",
     "cik": "0001618627",
@@ -14405,93 +14492,6 @@
         "filer": "Themes ETF Trust",
         "etf_name": "Unknown",
         "strategy": "The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-27T10:45:45.888629+00:00",
-    "form_type": "485APOS",
-    "cik": "0001976322",
-    "company_name": "Themes ETF Trust",
-    "accession_number": "0001829126-26-009378",
-    "filed_date": "2026-08-27",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626009378/0001829126-26-009378-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976322/000182912626009378/themesetftrust_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976322/000182912626009378/themesetftrust_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Themes ETF Trust\nETF Name: Unknown\nStrategy: The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Themes ETF Trust",
-        "etf_name": "Unknown",
-        "strategy": "The Funds\u2019 investment adviser will not attempt to position each Fund\u2019s portfolio to ensure that a Fund does not gain or lose more than a maximum percentage of its net asset value on a given trading day As a result, the Fund may be riskier than alternatives that do not use leverage because the Fund\u2019s objective is to magnify (200%) the daily",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-27T10:45:48.708561+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001027596",
-    "company_name": "ADVISORS SERIES TRUST",
-    "accession_number": "0000894189-26-023920",
-    "filed_date": "2026-08-26",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1027596/000089418926023920/0000894189-26-023920-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1027596/000089418926023920/ck0001027596-20250826.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1027596/000089418926023920/ck0001027596-20250826.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ADVISORS SERIES TRUST\nETF Name: Unknown\nStrategy: These negative developments could have significant negative impact on the value of your investment and the Fund\u2019s portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ADVISORS SERIES TRUST",
-        "etf_name": "Unknown",
-        "strategy": "These negative developments could have significant negative impact on the value of your investment and the Fund\u2019s portfolio",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-27T10:45:53.983878+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001426439",
-    "company_name": "New York Life Investments Active ETF Trust",
-    "accession_number": "0001999371-26-018791",
-    "filed_date": "2026-08-26",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1426439/000199937126018791/0001999371-26-018791-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1426439/000199937126018791/nyliactive-485bpos_082626.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1426439/000199937126018791/nyliactive-485bpos_082626.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: New York Life Investments Active ETF Trust\nETF Name: Summary Information NYLIM MacKay Core Plus Bond ETF\nStrategy: The NYLIM MacKay Core Plus Bond ETF (the \u201cFund\u201d) seeks total return\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "New York Life Investments Active ETF Trust",
-        "etf_name": "Summary Information NYLIM MacKay Core Plus Bond ETF",
-        "strategy": "The NYLIM MacKay Core Plus Bond ETF (the \u201cFund\u201d) seeks total return",
         "is_alert_worthy": "LOW"
       }
     ],
