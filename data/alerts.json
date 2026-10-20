@@ -1,5 +1,121 @@
 [
   {
+    "created_at": "2026-10-20T19:18:17.647564+00:00",
+    "form_type": "485APOS",
+    "cik": "0001432353",
+    "company_name": "Global X Funds",
+    "accession_number": "0001432353-26-000809",
+    "filed_date": "2026-10-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000809/0001432353-26-000809-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1432353/000143235326000809/allualuminumminersetf-485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000809/allualuminumminersetf-485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Global X Funds\nETF Name: Unknown\nStrategy: The Fund invests at least 80% of its net assets, plus borrowings for investment purposes (if any), in the securities of the Underlying Index The Underlying Index is owned and was developed by Global X\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Global X Funds",
+        "etf_name": "Unknown",
+        "strategy": "The Fund invests at least 80% of its net assets, plus borrowings for investment purposes (if any), in the securities of the Underlying Index The Underlying Index is owned and was developed by Global X",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-20T19:18:22.030408+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000351601",
+    "company_name": "RUSSELL INVESTMENT CO",
+    "accession_number": "0001193125-26-426213",
+    "filed_date": "2026-10-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/351601/000119312526426213/0001193125-26-426213-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/351601/000119312526426213/d175135d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/351601/000119312526426213/d175135d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: RUSSELL INVESTMENT CO\nETF Name: Esq. Annual Fund\nStrategy: by employing a \u201cmulti-strategy and multi-manager\u201d approach whereby Russell Investment Management, LLC (\u201cRIM\u201d) allocates the Fund\u2019s assets to a diverse range of alternative investment strategies and utilizes multiple money managers to pursue those strategies Investments, Risks and of the Fund The Fund seeks to achieve its investment objective by employing a \u201cmulti-strategy and multi-manager\u201d approach whereby Russell I\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "RUSSELL INVESTMENT CO",
+        "etf_name": "Esq. Annual Fund",
+        "strategy": "by employing a \u201cmulti-strategy and multi-manager\u201d approach whereby Russell Investment Management, LLC (\u201cRIM\u201d) allocates the Fund\u2019s assets to a diverse range of alternative investment strategies and utilizes multiple money managers to pursue those strategies Investments, Risks and of the Fund The Fund seeks to achieve its investment objective by employing a \u201cmulti-strategy and multi-manager\u201d approach whereby Russell I",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-20T19:18:27.158656+00:00",
+    "form_type": "485APOS",
+    "cik": "0001314414",
+    "company_name": "Northern Lights Fund Trust",
+    "accession_number": "0001580642-26-006989",
+    "filed_date": "2026-10-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1314414/000158064226006989/0001580642-26-006989-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1314414/000158064226006989/gpcoreincome-etf_485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1314414/000158064226006989/gpcoreincome-etf_485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust\nETF Name: Unknown\nStrategy: The Fund is an actively-managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objectives by pursuing diversified investment opportunities across multiple foreign and domestic markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Northern Lights Fund Trust",
+        "etf_name": "Unknown",
+        "strategy": "The Fund is an actively-managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objectives by pursuing diversified investment opportunities across multiple foreign and domestic markets",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-20T19:18:33.062786+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002081107",
+    "company_name": "Tidal Trust V",
+    "accession_number": "0001999371-26-023122",
+    "filed_date": "2026-10-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126023122/0001999371-26-023122-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126023122/chqt-485bpos_102026.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126023122/chqt-485bpos_102026.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Defiance China Quantum ETF\nStrategy: Defiance China Quantum ETF (the \u201cFund\u201d) seeks to track the Overview The Fund uses a \u201cpassive\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust V",
+        "etf_name": "Defiance China Quantum ETF",
+        "strategy": "Defiance China Quantum ETF (the \u201cFund\u201d) seeks to track the Overview The Fund uses a \u201cpassive",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-10-20T10:16:36.289839+00:00",
     "form_type": "485APOS",
     "cik": "0001100663",
@@ -14376,122 +14492,6 @@
         "filer": "Grandeur Peak Global Trust",
         "etf_name": "SUMMARY SECTION Grandeur Peak Global Contrarian Fund",
         "strategy": "7 SUMMARY SECTION Grandeur Peak Global Contrarian Fund (THE \u201cFUND\u201d) INVESTMENT OBJECTIVE The Fund\u2019s investment objective is long-term growth of capital 7 SUMMARY SECTION Grandeur Peak Global Contrarian Fund (THE \u201cFUND\u201d) INVESTMENT OBJECTIVE The Fund\u2019s investment objective is long-term growth of capital",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-29T13:29:30.392363+00:00",
-    "form_type": "485APOS",
-    "cik": "0001592900",
-    "company_name": "EA Series Trust",
-    "accession_number": "0001592900-26-004201",
-    "filed_date": "2026-08-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026004201/0001592900-26-004201-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026004201/newlantern485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026004201/newlantern485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Unknown\nStrategy: AND PRINCIPAL INVESTMENT STRATEGIES The Fund\u2019s investment objective is a non-fundamental investment policy and may be changed without a vote of shareholders upon prior written notice to shareholders For purposes of the Fund\u2019s 80% investment policy, the Fund defines \u201cequity\u201d securities as including common stock, depositary receipts, rights, warrants, preferred stocks, real estate investment trusts, and ETFs that, in t\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "EA Series Trust",
-        "etf_name": "Unknown",
-        "strategy": "AND PRINCIPAL INVESTMENT STRATEGIES The Fund\u2019s investment objective is a non-fundamental investment policy and may be changed without a vote of shareholders upon prior written notice to shareholders For purposes of the Fund\u2019s 80% investment policy, the Fund defines \u201cequity\u201d securities as including common stock, depositary receipts, rights, warrants, preferred stocks, real estate investment trusts, and ETFs that, in t",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-29T13:29:32.788038+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001719812",
-    "company_name": "Collaborative Investment Series Trust",
-    "accession_number": "0001999371-26-019219",
-    "filed_date": "2026-08-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1719812/000199937126019219/0001999371-26-019219-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1719812/000199937126019219/hoid-485bpos_082826.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1719812/000199937126019219/hoid-485bpos_082826.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Collaborative Investment Series Trust\nETF Name: RAREVIEW HUMANOID ROBOTICS ETF\nStrategy: Rareview Humanoid Robotics ETF The Fund seeks to provide capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Collaborative Investment Series Trust",
-        "etf_name": "RAREVIEW HUMANOID ROBOTICS ETF",
-        "strategy": "Rareview Humanoid Robotics ETF The Fund seeks to provide capital appreciation",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-29T13:29:38.228917+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000355437",
-    "company_name": "DFA INVESTMENT DIMENSIONS GROUP INC",
-    "accession_number": "0000355437-26-000228",
-    "filed_date": "2026-08-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/355437/000035543726000228/0000355437-26-000228-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/355437/000035543726000228/c485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/355437/000035543726000228/c485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: DFA INVESTMENT DIMENSIONS GROUP INC\nETF Name: DFA Short-Term Municipal Bond Portfolio ETF\nStrategy: 8 DFA Short-Term Municipal Bond Portfolio ETF Class Shares Investment Objective The investment objective of the DFA Short-Term Municipal Bond Portfolio (the \u201cShort-Term Municipal Bond Portfolio\u201d or the \u201cPortfolio\u201d) is to provide current income that is exempt from federal personal income taxes and to preserve investors\u2019 principal Principal Investment Strategies The Short-Term Municipal Bond Portfolio seeks its investm\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "DFA INVESTMENT DIMENSIONS GROUP INC",
-        "etf_name": "DFA Short-Term Municipal Bond Portfolio ETF",
-        "strategy": "8 DFA Short-Term Municipal Bond Portfolio ETF Class Shares Investment Objective The investment objective of the DFA Short-Term Municipal Bond Portfolio (the \u201cShort-Term Municipal Bond Portfolio\u201d or the \u201cPortfolio\u201d) is to provide current income that is exempt from federal personal income taxes and to preserve investors\u2019 principal Principal Investment Strategies The Short-Term Municipal Bond Portfolio seeks its investm",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-08-29T13:29:46.428480+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000844779",
-    "company_name": "BLACKROCK FUNDS",
-    "accession_number": "0001193125-26-374594",
-    "filed_date": "2026-08-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/844779/000119312526374594/0001193125-26-374594-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/844779/000119312526374594/d128111d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/844779/000119312526374594/d128111d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BLACKROCK FUNDS\nETF Name: BlackRock Tactical Opportunities Fund\nStrategy: 6 \u25fc Allocation Risk \u2014 The Fund\u2019s ability to achieve its investment objective depends upon BlackRock\u2019s skill in determining the Fund\u2019s strategic asset class allocation and in selecting the best mix of underlying funds and direct investments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BLACKROCK FUNDS",
-        "etf_name": "BlackRock Tactical Opportunities Fund",
-        "strategy": "6 \u25fc Allocation Risk \u2014 The Fund\u2019s ability to achieve its investment objective depends upon BlackRock\u2019s skill in determining the Fund\u2019s strategic asset class allocation and in selecting the best mix of underlying funds and direct investments",
         "is_alert_worthy": "LOW"
       }
     ],
