@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-10-22T23:25:18.451440+00:00",
+    "form_type": "485APOS",
+    "cik": "0001860434",
+    "company_name": "Harbor ETF Trust",
+    "accession_number": "0001193125-26-429066",
+    "filed_date": "2026-10-22",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1860434/000119312526429066/0001193125-26-429066-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1860434/000119312526429066/d86325d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1860434/000119312526429066/d86325d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Harbor ETF Trust\nETF Name: Inc. Hyperscalers ETF Fund\nStrategy: 6 Principal Investment Strategies and Risks 6 Portfolio Holdings Disclosure Policy 12 The Advisor Harbor Capital Advisors, Inc Hyperscalers ETF Investment Objective The Fund seeks to provide investment exposure to U.S\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Harbor ETF Trust",
+        "etf_name": "Inc. Hyperscalers ETF Fund",
+        "strategy": "6 Principal Investment Strategies and Risks 6 Portfolio Holdings Disclosure Policy 12 The Advisor Harbor Capital Advisors, Inc Hyperscalers ETF Investment Objective The Fund seeks to provide investment exposure to U.S",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-10-22T20:07:19.733401+00:00",
     "form_type": "485BPOS",
     "cik": "0001081400",
@@ -14461,35 +14490,6 @@
         "filer": "Tidal Trust II",
         "etf_name": "Defiance MANGOS ETF",
         "strategy": "The Defiance MANGOS ETF (the \u201cFund\u201d) seeks long-term capital appreciation 1 The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks capital appreciation by investing, directly or indirectly, in a portfolio of companies that are widely recognized as leaders in artificial intelligence (\u201cAI\u201d), cloud computing, digital advertising, consumer technology, and next-generation innovation, commonly referred to",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-04T21:53:07.469637+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001924868",
-    "company_name": "Tidal Trust II",
-    "accession_number": "0001999371-26-019981",
-    "filed_date": "2026-09-04",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126019981/0001999371-26-019981-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126019981/xex-485bpos_090426.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126019981/xex-485bpos_090426.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Unknown\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust II",
-        "etf_name": "Unknown",
-        "strategy": "The Fund seeks daily investment results, before",
         "is_alert_worthy": "LOW"
       }
     ],
