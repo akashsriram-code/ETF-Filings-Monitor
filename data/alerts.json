@@ -1,5 +1,237 @@
 [
   {
+    "created_at": "2026-10-29T21:04:51.351792+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002055464",
+    "company_name": "Wedbush Series Trust",
+    "accession_number": "0001213900-26-113894",
+    "filed_date": "2026-10-29",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026113894/0001213900-26-113894-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2055464/000121390026113894/ea0308040-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2055464/000121390026113894/ea0308040-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Wedbush Series Trust\nETF Name: Total Annual Fund\nStrategy: The Fund, under normal market conditions, will invest at least 80% of its net assets (plus any borrowings for investment purposes) in financial instruments that provide exposure to the Autocallable Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Wedbush Series Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "The Fund, under normal market conditions, will invest at least 80% of its net assets (plus any borrowings for investment purposes) in financial instruments that provide exposure to the Autocallable Index",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-29T21:04:56.040476+00:00",
+    "form_type": "485APOS",
+    "cik": "0001540305",
+    "company_name": "ETF Series Solutions",
+    "accession_number": "0000894189-26-029956",
+    "filed_date": "2026-10-29",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926029956/0000894189-26-029956-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1540305/000089418926029956/defiancedevelopedexuspower.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1540305/000089418926029956/defiancedevelopedexuspower.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Series Solutions\nETF Name: Total Annual Fund\nStrategy: The Fund is an exchange traded fund (\u201cETF\u201d) that uses a \u201cpassive\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Series Solutions",
+        "etf_name": "Total Annual Fund",
+        "strategy": "The Fund is an exchange traded fund (\u201cETF\u201d) that uses a \u201cpassive",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-29T21:05:00.983243+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000803191",
+    "company_name": "PRUDENTIAL INVESTMENT PORTFOLIOS 7",
+    "accession_number": "0000803191-26-000005",
+    "filed_date": "2026-10-29",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/803191/000080319126000005/0000803191-26-000005-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/803191/000080319126000005/f46474d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/803191/000080319126000005/f46474d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PRUDENTIAL INVESTMENT PORTFOLIOS 7\nETF Name: To reduce Fund\nStrategy: PGIM Jennison Value Fund PROSPECTUS \u2014 October 30, 2026 INVESTMENT OBJECTIVE Capital appreciation PGIM JENNISON VALUE FUND A: PBEAX C: PEICX R: JDVRX Z: PEIZX R6: PJVQX The Securities and Exchange Commission (\u201cSEC\u201d) has not approved or disapproved the Fund's shares, nor has the SEC determined that this prospectus is complete or accurate\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PRUDENTIAL INVESTMENT PORTFOLIOS 7",
+        "etf_name": "To reduce Fund",
+        "strategy": "PGIM Jennison Value Fund PROSPECTUS \u2014 October 30, 2026 INVESTMENT OBJECTIVE Capital appreciation PGIM JENNISON VALUE FUND A: PBEAX C: PEICX R: JDVRX Z: PEIZX R6: PJVQX The Securities and Exchange Commission (\u201cSEC\u201d) has not approved or disapproved the Fund's shares, nor has the SEC determined that this prospectus is complete or accurate",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-29T21:05:05.253259+00:00",
+    "form_type": "485APOS",
+    "cik": "0000806633",
+    "company_name": "WASATCH FUNDS TRUST",
+    "accession_number": "0001193125-26-437704",
+    "filed_date": "2026-10-29",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/806633/000119312526437704/0001193125-26-437704-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/806633/000119312526437704/d832679d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/806633/000119312526437704/d832679d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: WASATCH FUNDS TRUST\nETF Name: Wasatch International Value ETF\nStrategy: and/or strategy or it may lose value even when the overall stock market is not in general decline These events, and any other future events, may adversely affect the prices and liquidity of the Fund\u2019s portfolio investments and could result in disruptions in the trading markets\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "WASATCH FUNDS TRUST",
+        "etf_name": "Wasatch International Value ETF",
+        "strategy": "and/or strategy or it may lose value even when the overall stock market is not in general decline These events, and any other future events, may adversely affect the prices and liquidity of the Fund\u2019s portfolio investments and could result in disruptions in the trading markets",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-29T21:05:08.328089+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001022624",
+    "company_name": "PRUDENTIAL JENNISON MID-CAP GROWTH FUND, INC.",
+    "accession_number": "0001022624-26-000006",
+    "filed_date": "2026-10-29",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1022624/000102262426000006/0001022624-26-000006-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1022624/000102262426000006/f46475d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1022624/000102262426000006/f46475d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PRUDENTIAL JENNISON MID-CAP GROWTH FUND, INC\nETF Name: To reduce Fund\nStrategy: 1 PGIM Jennison Mid-Cap Growth Fund PROSPECTUS \u2014 October 30, 2026 INVESTMENT OBJECTIVE Long-term capital appreciation PGIM JENNISON MID-CAP GROWTH FUND A: PEEAX C: PEGCX R: JDERX Z: PEGZX R2: PEGEX R4: PEGGX R6: PJGQX The Securities and Exchange Commission (\u201cSEC\u201d) has not approved or disapproved the Fund's shares, nor has the SEC determined that this prospectus is complete or accurate\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PRUDENTIAL JENNISON MID-CAP GROWTH FUND, INC",
+        "etf_name": "To reduce Fund",
+        "strategy": "1 PGIM Jennison Mid-Cap Growth Fund PROSPECTUS \u2014 October 30, 2026 INVESTMENT OBJECTIVE Long-term capital appreciation PGIM JENNISON MID-CAP GROWTH FUND A: PEEAX C: PEGCX R: JDERX Z: PEGZX R2: PEGEX R4: PEGGX R6: PJGQX The Securities and Exchange Commission (\u201cSEC\u201d) has not approved or disapproved the Fund's shares, nor has the SEC determined that this prospectus is complete or accurate",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-29T21:05:12.286859+00:00",
+    "form_type": "485APOS",
+    "cik": "0001437249",
+    "company_name": "VALUED ADVISERS TRUST",
+    "accession_number": "0001580642-26-007245",
+    "filed_date": "2026-10-29",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1437249/000158064226007245/0001580642-26-007245-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1437249/000158064226007245/vat-scge_485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1437249/000158064226007245/vat-scge_485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VALUED ADVISERS TRUST\nETF Name: SECTION Investment Objective The investment objective of the Slow Capital Growth ETF\nStrategy: The investment objective of the Slow Capital Growth ETF (the \u201cFund\u201d) is to provide long-term capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VALUED ADVISERS TRUST",
+        "etf_name": "SECTION Investment Objective The investment objective of the Slow Capital Growth ETF",
+        "strategy": "The investment objective of the Slow Capital Growth ETF (the \u201cFund\u201d) is to provide long-term capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-29T21:05:15.076644+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000356683",
+    "company_name": "PRUDENTIAL JENNISON BLEND FUND, INC.",
+    "accession_number": "0000356683-26-000005",
+    "filed_date": "2026-10-29",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/356683/000035668326000005/0000356683-26-000005-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/356683/000035668326000005/f46476d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/356683/000035668326000005/f46476d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PRUDENTIAL JENNISON BLEND FUND, INC\nETF Name: To reduce Fund\nStrategy: PGIM Jennison Blend Fund PROSPECTUS \u2014 October 30, 2026 INVESTMENT OBJECTIVE Long-term growth of capital PGIM JENNISON BLEND FUND A: PBQAX C: PRECX Z: PEQZX R6: PBQQX The Securities and Exchange Commission (\u201cSEC\u201d) has not approved or disapproved the Fund's shares, nor has the SEC determined that this prospectus is complete or accurate\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PRUDENTIAL JENNISON BLEND FUND, INC",
+        "etf_name": "To reduce Fund",
+        "strategy": "PGIM Jennison Blend Fund PROSPECTUS \u2014 October 30, 2026 INVESTMENT OBJECTIVE Long-term growth of capital PGIM JENNISON BLEND FUND A: PBQAX C: PRECX Z: PEQZX R6: PBQQX The Securities and Exchange Commission (\u201cSEC\u201d) has not approved or disapproved the Fund's shares, nor has the SEC determined that this prospectus is complete or accurate",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-29T21:05:17.780756+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000746518",
+    "company_name": "PRUDENTIAL INVESTMENT PORTFOLIOS 6",
+    "accession_number": "0000746518-26-000006",
+    "filed_date": "2026-10-29",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/746518/000074651826000006/0000746518-26-000006-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/746518/000074651826000006/f46473d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/746518/000074651826000006/f46473d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PRUDENTIAL INVESTMENT PORTFOLIOS 6\nETF Name: To reduce Fund\nStrategy: PGIM California Muni Income Fund PROSPECTUS \u2014 October 30, 2026 INVESTMENT OBJECTIVE Maximize current income that is exempt from California state and federal income taxes, consistent with the preservation of capital\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PRUDENTIAL INVESTMENT PORTFOLIOS 6",
+        "etf_name": "To reduce Fund",
+        "strategy": "PGIM California Muni Income Fund PROSPECTUS \u2014 October 30, 2026 INVESTMENT OBJECTIVE Maximize current income that is exempt from California state and federal income taxes, consistent with the preservation of capital",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-10-29T16:07:47.233163+00:00",
     "form_type": "485APOS",
     "cik": "0001540305",
@@ -14258,238 +14490,6 @@
         "filer": "Tidal Trust V",
         "etf_name": "Unknown",
         "strategy": "When the Fund invests in depositary receipts as a substitute for an investment directly in the Underlying Shares, the Fund is exposed to the risk that the depositary receipts may not provide a return that corresponds precisely with that of the Underlying Shares Holding a relatively focused portfolio may increase the risk that the value of the Fund could go down because of the poor",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-25T15:37:58.624206+00:00",
-    "form_type": "485APOS",
-    "cik": "0000877232",
-    "company_name": "GREEN CENTURY FUNDS",
-    "accession_number": "0001193125-26-401496",
-    "filed_date": "2026-09-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/877232/000119312526401496/0001193125-26-401496-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/877232/000119312526401496/d130615d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/877232/000119312526401496/d130615d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GREEN CENTURY FUNDS\nETF Name: GREEN CENTURY INTERNATIONAL FUND\nStrategy: The Fund seeks to avoid investing in securities of issuers in industries that, the Fund\u2019s investment adviser, Green Century believes are environmentally harmful, including companies or industries that primarily, in the view of, the Fund\u2019s Subadviser, Northern Trust Investments, Inc The Fund seeks to avoid investing in securities of issuers in industries that, the Fund\u2019s investment adviser, Green Century believes are\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GREEN CENTURY FUNDS",
-        "etf_name": "GREEN CENTURY INTERNATIONAL FUND",
-        "strategy": "The Fund seeks to avoid investing in securities of issuers in industries that, the Fund\u2019s investment adviser, Green Century believes are environmentally harmful, including companies or industries that primarily, in the view of, the Fund\u2019s Subadviser, Northern Trust Investments, Inc The Fund seeks to avoid investing in securities of issuers in industries that, the Fund\u2019s investment adviser, Green Century believes are",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-25T05:35:22.377268+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001105877",
-    "company_name": "ALLIED ASSET ADVISORS FUNDS",
-    "accession_number": "0000894189-26-025501",
-    "filed_date": "2026-09-24",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1105877/000089418926025501/0000894189-26-025501-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1105877/000089418926025501/ck0001105877-20260924.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1105877/000089418926025501/ck0001105877-20260924.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ALLIED ASSET ADVISORS FUNDS\nETF Name: Unknown\nStrategy: and Strategies 7 Management of the Fund 10 Calculating Share Price 12 How to Purchase Shares 13 How to Sell Shares 16 Distributions and Taxes 20 Shareholder Reports and Confirmations 21 Index Description 21 Financial Highlights 23 Privacy Notice Inside Back Cover Summary Section Investment Objective The Fund seeks growth of capital while adhering to Islamic principles 1 The Fund seeks to achieve its investment object\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ALLIED ASSET ADVISORS FUNDS",
-        "etf_name": "Unknown",
-        "strategy": "and Strategies 7 Management of the Fund 10 Calculating Share Price 12 How to Purchase Shares 13 How to Sell Shares 16 Distributions and Taxes 20 Shareholder Reports and Confirmations 21 Index Description 21 Financial Highlights 23 Privacy Notice Inside Back Cover Summary Section Investment Objective The Fund seeks growth of capital while adhering to Islamic principles 1 The Fund seeks to achieve its investment object",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-25T05:35:26.293516+00:00",
-    "form_type": "485APOS",
-    "cik": "0001611331",
-    "company_name": "ALLSPRING EXCHANGE-TRADED FUNDS TRUST",
-    "accession_number": "0001611331-26-000028",
-    "filed_date": "2026-09-24",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1611331/000161133126000028/0001611331-26-000028-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1611331/000161133126000028/etfwrapper.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1611331/000161133126000028/etfwrapper.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ALLSPRING EXCHANGE-TRADED FUNDS TRUST\nETF Name: REGULATORY BENCHMARK STRATEGY BENCHMARK AI Infrastructure Bond ETF\nStrategy: The Fund seeks total return, consisting of a high level of current income and capital appreciation Although your actual costs may be higher or lower, based on these assumptions, your costs would be: [Table(s) to be added.] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ALLSPRING EXCHANGE-TRADED FUNDS TRUST",
-        "etf_name": "REGULATORY BENCHMARK STRATEGY BENCHMARK AI Infrastructure Bond ETF",
-        "strategy": "The Fund seeks total return, consisting of a high level of current income and capital appreciation Although your actual costs may be higher or lower, based on these assumptions, your costs would be: [Table(s) to be added.] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-25T05:35:35.950439+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000045288",
-    "company_name": "JOHN HANCOCK SOVEREIGN BOND FUND",
-    "accession_number": "0001193125-26-401027",
-    "filed_date": "2026-09-24",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/45288/000119312526401027/0001193125-26-401027-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/45288/000119312526401027/d123878d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/45288/000119312526401027/d123878d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: JOHN HANCOCK SOVEREIGN BOND FUND\nETF Name: Ticker John Hancock Bond Trust John Hancock High Yield Fund\nStrategy: A fund that invests in fixed-income securities is subject to varying degrees of risk that the issuers of the securities will have their credit ratings downgraded or will default, potentially reducing the fund\u2019s share price and income level Although your actual costs may be higher or lower, based on these assumptions, your costs would be: Expenses ($) NAV 1 year 35 3 years 112 5 years 196 10 years 442 Portfolio turnov\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "JOHN HANCOCK SOVEREIGN BOND FUND",
-        "etf_name": "Ticker John Hancock Bond Trust John Hancock High Yield Fund",
-        "strategy": "A fund that invests in fixed-income securities is subject to varying degrees of risk that the issuers of the securities will have their credit ratings downgraded or will default, potentially reducing the fund\u2019s share price and income level Although your actual costs may be higher or lower, based on these assumptions, your costs would be: Expenses ($) NAV 1 year 35 3 years 112 5 years 196 10 years 442 Portfolio turnov",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-25T05:35:43.929624+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000857769",
-    "company_name": "JOHN HANCOCK MUNICIPAL SECURITIES TRUST",
-    "accession_number": "0001193125-26-401015",
-    "filed_date": "2026-09-24",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/857769/000119312526401015/0001193125-26-401015-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/857769/000119312526401015/d156091d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/857769/000119312526401015/d156091d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: JOHN HANCOCK MUNICIPAL SECURITIES TRUST\nETF Name: Total annual fund\nStrategy: Not available.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "JOHN HANCOCK MUNICIPAL SECURITIES TRUST",
-        "etf_name": "Total annual fund",
-        "strategy": "Not available.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-24T22:38:08.021220+00:00",
-    "form_type": "485APOS",
-    "cik": "0002043954",
-    "company_name": "REX ETF Trust",
-    "accession_number": "0001999371-26-021276",
-    "filed_date": "2026-09-24",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043954/000199937126021276/0001999371-26-021276-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043954/000199937126021276/rex-485apos_092426.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043954/000199937126021276/rex-485apos_092426.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: REX ETF Trust\nETF Name: Unknown\nStrategy: by tracking the price and yield\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "REX ETF Trust",
-        "etf_name": "Unknown",
-        "strategy": "by tracking the price and yield",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-24T22:38:12.087410+00:00",
-    "form_type": "485APOS",
-    "cik": "0002043954",
-    "company_name": "REX ETF Trust",
-    "accession_number": "0001999371-26-021274",
-    "filed_date": "2026-09-24",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043954/000199937126021274/0001999371-26-021274-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043954/000199937126021274/rex-485apos_092426.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043954/000199937126021274/rex-485apos_092426.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: REX ETF Trust\nETF Name: Unknown\nStrategy: by tracking the price and yield\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "REX ETF Trust",
-        "etf_name": "Unknown",
-        "strategy": "by tracking the price and yield",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-24T22:38:30.008315+00:00",
-    "form_type": "485APOS",
-    "cik": "0002081107",
-    "company_name": "Tidal Trust V",
-    "accession_number": "0001999371-26-021265",
-    "filed_date": "2026-09-24",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126021265/0001999371-26-021265-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126021265/defiance-485apos_092426.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126021265/defiance-485apos_092426.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Unknown\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust V",
-        "etf_name": "Unknown",
-        "strategy": "The Fund seeks daily investment results, before",
         "is_alert_worthy": "LOW"
       }
     ],
