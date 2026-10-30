@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-10-30T00:53:08.809732+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001976517",
+    "company_name": "Roundhill ETF Trust",
+    "accession_number": "0001398344-26-019093",
+    "filed_date": "2026-10-29",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426019093/0001398344-26-019093-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1976517/000139834426019093/fp0101437-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1976517/000139834426019093/fp0101437-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Roundhill ETF Trust\nETF Name: Defensive Income ETF\nStrategy: is to track the total return performance, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Roundhill ETF Trust",
+        "etf_name": "Defensive Income ETF",
+        "strategy": "is to track the total return performance, before",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-10-30T00:53:12.470266+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001508033",
+    "company_name": "Staysail Series Trust",
+    "accession_number": "0001999371-26-023886",
+    "filed_date": "2026-10-29",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1508033/000199937126023886/0001999371-26-023886-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1508033/000199937126023886/staysail-485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1508033/000199937126023886/staysail-485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Staysail Series Trust\nETF Name: Fees None Acquired Fund\nStrategy: Core Strategy The Fund, an actively-managed exchange-traded fund (\u201cETF\u201d), seeks to achieve its investment objective by providing broad-based exposure to equity securities of large-cap U.S The Fund obtains this exposure primarily through investments in other ETFs, rather than through direct investments in individual equity securities\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Staysail Series Trust",
+        "etf_name": "Fees None Acquired Fund",
+        "strategy": "Core Strategy The Fund, an actively-managed exchange-traded fund (\u201cETF\u201d), seeks to achieve its investment objective by providing broad-based exposure to equity securities of large-cap U.S The Fund obtains this exposure primarily through investments in other ETFs, rather than through direct investments in individual equity securities",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-10-29T21:04:51.351792+00:00",
     "form_type": "485BPOS",
     "cik": "0002055464",
@@ -14432,64 +14490,6 @@
         "filer": "Tidal Trust IV",
         "etf_name": "Page Silvercrest Large Cap Core Equity ETF",
         "strategy": "The Silvercrest Large Cap Core Equity ETF seeks capital appreciation The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective by investing in U.S The Fund uses the Index as a benchmark for portfolio construction and performance evaluation, but is not designed to track or replicate the Index",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-25T15:37:53.268451+00:00",
-    "form_type": "485APOS",
-    "cik": "0001898391",
-    "company_name": "Fidelity Greenwood Street Trust",
-    "accession_number": "0001898391-26-000149",
-    "filed_date": "2026-09-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1898391/000189839126000149/0001898391-26-000149-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1898391/000189839126000149/main.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1898391/000189839126000149/main.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Fidelity Greenwood Street Trust\nETF Name: Yield Enhanced Gold ETF\nStrategy: Shareholder Notice The following is subject to change only upon 60 days' prior notice to shareholders: Fidelity\u00ae Yield Enhanced Gold ETF normally invests at least 80% of its net assets in investments that provide exposure to gold In response to market, economic, political, or other conditions, a fund may temporarily use a different investment strategy for defensive purposes\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Fidelity Greenwood Street Trust",
-        "etf_name": "Yield Enhanced Gold ETF",
-        "strategy": "Shareholder Notice The following is subject to change only upon 60 days' prior notice to shareholders: Fidelity\u00ae Yield Enhanced Gold ETF normally invests at least 80% of its net assets in investments that provide exposure to gold In response to market, economic, political, or other conditions, a fund may temporarily use a different investment strategy for defensive purposes",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-25T15:37:55.771387+00:00",
-    "form_type": "485BPOS",
-    "cik": "0002081107",
-    "company_name": "Tidal Trust V",
-    "accession_number": "0001999371-26-021292",
-    "filed_date": "2026-09-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126021292/0001999371-26-021292-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126021292/heli-485bpos_092526.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126021292/heli-485bpos_092526.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Unknown\nStrategy: When the Fund invests in depositary receipts as a substitute for an investment directly in the Underlying Shares, the Fund is exposed to the risk that the depositary receipts may not provide a return that corresponds precisely with that of the Underlying Shares Holding a relatively focused portfolio may increase the risk that the value of the Fund could go down because of the poor\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust V",
-        "etf_name": "Unknown",
-        "strategy": "When the Fund invests in depositary receipts as a substitute for an investment directly in the Underlying Shares, the Fund is exposed to the risk that the depositary receipts may not provide a return that corresponds precisely with that of the Underlying Shares Holding a relatively focused portfolio may increase the risk that the value of the Fund could go down because of the poor",
         "is_alert_worthy": "LOW"
       }
     ],
