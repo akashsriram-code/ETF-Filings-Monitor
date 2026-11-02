@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-11-02T19:32:52.356424+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001478482",
+    "company_name": "John Hancock Exchange-Traded Fund Trust",
+    "accession_number": "0001193125-26-443312",
+    "filed_date": "2026-11-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1478482/000119312526443312/0001193125-26-443312-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1478482/000119312526443312/d129470d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1478482/000119312526443312/d129470d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: John Hancock Exchange-Traded Fund Trust\nETF Name: Valuation of fund\nStrategy: is to provide a high level of current income, with a secondary objective of capital appreciation The Board of Trustees can change the fund\u2019s investment objective and strategies without shareholder approval\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "John Hancock Exchange-Traded Fund Trust",
+        "etf_name": "Valuation of fund",
+        "strategy": "is to provide a high level of current income, with a secondary objective of capital appreciation The Board of Trustees can change the fund\u2019s investment objective and strategies without shareholder approval",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-02T19:32:57.040624+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002025968",
+    "company_name": "BNY Mellon ETF Trust II",
+    "accession_number": "0000030146-26-000470",
+    "filed_date": "2026-11-02",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2025968/000003014626000470/0000030146-26-000470-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2025968/000003014626000470/c485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2025968/000003014626000470/c485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: BNY Mellon ETF Trust II\nETF Name: Total annual fund\nStrategy: The fund seeks long-term capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "BNY Mellon ETF Trust II",
+        "etf_name": "Total annual fund",
+        "strategy": "The fund seeks long-term capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-10-30T22:56:44.378186+00:00",
     "form_type": "485BPOS",
     "cik": "0001484018",
@@ -14432,64 +14490,6 @@
         "filer": "TRUST FOR PROFESSIONAL MANAGERS",
         "etf_name": "Global Quality Growth Fund",
         "strategy": "The objective of the Jensen Global Quality Growth Fund (the \u201cGlobal Quality Growth Fund\u201d or the \u201cFund\u201d) is long-term capital appreciation and Principal Risks Investment Objective - Both Funds Each Fund\u2019s investment objective is long-term capital appreciation Each Fund\u2019s investment objective is not a fundamental policy and may be changed upon approval by the Board of Trustees (the \u201cBoard\u201d or the \u201cBoard of Trustees\u201d) w",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-26T15:06:37.553939+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000887215",
-    "company_name": "Jensen Quality Growth Fund Inc",
-    "accession_number": "0000894189-26-026367",
-    "filed_date": "2026-09-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/887215/000089418926026367/0000894189-26-026367-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/887215/000089418926026367/ck0000887215-20260925.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/887215/000089418926026367/ck0000887215-20260925.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Jensen Quality Growth Fund Inc\nETF Name: Summary Section Investment Objective The objective of The Jensen Quality Growth Fund\nStrategy: The objective of The Jensen Quality Growth Fund Inc Under normal circumstances, the Fund invests at least 80% of its net assets (plus borrowings for investment purposes) in equity securities of companies meeting the criteria for quality and growth as determined by the Fund\u2019s investment adviser, Jensen Investment\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Jensen Quality Growth Fund Inc",
-        "etf_name": "Summary Section Investment Objective The objective of The Jensen Quality Growth Fund",
-        "strategy": "The objective of The Jensen Quality Growth Fund Inc Under normal circumstances, the Fund invests at least 80% of its net assets (plus borrowings for investment purposes) in equity securities of companies meeting the criteria for quality and growth as determined by the Fund\u2019s investment adviser, Jensen Investment",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-26T15:06:44.634525+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001105076",
-    "company_name": "ARBITRAGE FUNDS",
-    "accession_number": "0001104659-26-111015",
-    "filed_date": "2026-09-25",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1105076/000110465926111015/0001104659-26-111015-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1105076/000110465926111015/tm2622701d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1105076/000110465926111015/tm2622701d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ARBITRAGE FUNDS\nETF Name: Because the Merger Arbitrage ETF\nStrategy: Concentration Risk: Because the Merger Arbitrage ETF\u2019s assets are expected to be concentrated in an industry or group of industries to the extent that the Underlying Index concentrates in a particular industry or group of industries, the Fund is subject to loss due to adverse occurrences that may affect that industry or group of industries or sector The Adviser generally engages in active and frequent trading of port\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ARBITRAGE FUNDS",
-        "etf_name": "Because the Merger Arbitrage ETF",
-        "strategy": "Concentration Risk: Because the Merger Arbitrage ETF\u2019s assets are expected to be concentrated in an industry or group of industries to the extent that the Underlying Index concentrates in a particular industry or group of industries, the Fund is subject to loss due to adverse occurrences that may affect that industry or group of industries or sector The Adviser generally engages in active and frequent trading of port",
         "is_alert_worthy": "LOW"
       }
     ],
