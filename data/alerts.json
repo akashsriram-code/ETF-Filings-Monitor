@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-11-04T02:14:27.508902+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000890540",
+    "company_name": "Advisors' Inner Circle Fund II",
+    "accession_number": "0001398344-26-019500",
+    "filed_date": "2026-11-03",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/890540/000139834426019500/0001398344-26-019500-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/890540/000139834426019500/fp0101425-1_485bposixbrl.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/890540/000139834426019500/fp0101425-1_485bposixbrl.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Advisors' Inner Circle Fund II\nETF Name: INNER CIRCLE FUND\nStrategy: The Adviser seeks to diversify the Fund\u2019s investments around the world and within markets in an effort to minimize specific country and currency risks\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Advisors' Inner Circle Fund II",
+        "etf_name": "INNER CIRCLE FUND",
+        "strategy": "The Adviser seeks to diversify the Fund\u2019s investments around the world and within markets in an effort to minimize specific country and currency risks",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-04T02:14:30.151424+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002013853",
+    "company_name": "New Age Alpha Funds Trust",
+    "accession_number": "0001580642-26-007417",
+    "filed_date": "2026-11-03",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2013853/000158064226007417/0001580642-26-007417-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2013853/000158064226007417/naa-allocationetf_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2013853/000158064226007417/naa-allocationetf_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: New Age Alpha Funds Trust\nETF Name: NAA ALLOCATION ETF INVESTMENT OBJECTIVE The NAA Allocation ETF\nStrategy: The NAA Allocation ETF (the \u201cFund\u201d) seeks long-term capital growth The Fund\u2019s asset allocation strategy diversifies equity securities and fixed-income investments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "New Age Alpha Funds Trust",
+        "etf_name": "NAA ALLOCATION ETF INVESTMENT OBJECTIVE The NAA Allocation ETF",
+        "strategy": "The NAA Allocation ETF (the \u201cFund\u201d) seeks long-term capital growth The Fund\u2019s asset allocation strategy diversifies equity securities and fixed-income investments",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-11-03T16:44:00.846689+00:00",
     "form_type": "485APOS",
     "cik": "0002068712",
@@ -14432,64 +14490,6 @@
         "filer": "NUVEEN MULTISTATE TRUST IV",
         "etf_name": "Risks Are Risk is inherent in all investing. Investing in a Fund",
         "strategy": "Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in municipal bonds that pay interest that is exempt from regular federal and Kansas personal income tax The Fund will generally maintain, under normal market conditions, an investment portfolio with an overall weighted average maturity in excess of 10 years",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-29T06:06:07.603505+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001020661",
-    "company_name": "NUVEEN MULTISTATE TRUST III",
-    "accession_number": "0001193125-26-405213",
-    "filed_date": "2026-09-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1020661/000119312526405213/0001193125-26-405213-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1020661/000119312526405213/d66051d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1020661/000119312526405213/d66051d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: NUVEEN MULTISTATE TRUST III\nETF Name: Risks Are Risk is inherent in all investing. Investing in a Fund\nStrategy: Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in municipal bonds that pay interest that is exempt from regular federal and Georgia personal income tax The Fund will generally maintain, under normal market conditions, an investment portfolio with an overall weighted average maturity in excess of 10 years\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "NUVEEN MULTISTATE TRUST III",
-        "etf_name": "Risks Are Risk is inherent in all investing. Investing in a Fund",
-        "strategy": "Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in municipal bonds that pay interest that is exempt from regular federal and Georgia personal income tax The Fund will generally maintain, under normal market conditions, an investment portfolio with an overall weighted average maturity in excess of 10 years",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-29T06:06:11.873337+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000088525",
-    "company_name": "GUGGENHEIM FUNDS TRUST",
-    "accession_number": "0001193125-26-405198",
-    "filed_date": "2026-09-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/88525/000119312526405198/0001193125-26-405198-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/88525/000119312526405198/d138790d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/88525/000119312526405198/d138790d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GUGGENHEIM FUNDS TRUST\nETF Name: Guggenheim ETFs Prospectus Ticker Symbol Fund\nStrategy: by investing, under normal circumstances, at least 80% of its assets (net assets, plus the amount of any borrowings for investment purposes) in securitized securities/investments and in derivatives and other instruments that have economic characteristics and provide investment exposure similar to securitized securities/investments\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GUGGENHEIM FUNDS TRUST",
-        "etf_name": "Guggenheim ETFs Prospectus Ticker Symbol Fund",
-        "strategy": "by investing, under normal circumstances, at least 80% of its assets (net assets, plus the amount of any borrowings for investment purposes) in securitized securities/investments and in derivatives and other instruments that have economic characteristics and provide investment exposure similar to securitized securities/investments",
         "is_alert_worthy": "LOW"
       }
     ],
