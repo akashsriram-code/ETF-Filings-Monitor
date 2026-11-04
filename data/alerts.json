@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-11-04T17:21:05.249249+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000809064",
+    "company_name": "Nomura ETF Trust II",
+    "accession_number": "0001133228-26-013892",
+    "filed_date": "2026-11-04",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/809064/000113322826013892/0001133228-26-013892-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/809064/000113322826013892/njeeff-efp28277_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/809064/000113322826013892/njeeff-efp28277_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Nomura ETF Trust II\nETF Name: The risk that the securities selected by a fund\nStrategy: The Fund is an actively managed ETF that seeks to achieve its investment objective by investing in a portfolio of Japanese equity securities selected by an investment approach combining quantitative discipline and fundamental research expertise The Fund is an actively managed ETF that seeks to achieve its investment objective by investing in a portfolio of Japanese equity securities selected by an investment approach\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Nomura ETF Trust II",
+        "etf_name": "The risk that the securities selected by a fund",
+        "strategy": "The Fund is an actively managed ETF that seeks to achieve its investment objective by investing in a portfolio of Japanese equity securities selected by an investment approach combining quantitative discipline and fundamental research expertise The Fund is an actively managed ETF that seeks to achieve its investment objective by investing in a portfolio of Japanese equity securities selected by an investment approach",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-04T17:21:09.132500+00:00",
+    "form_type": "485APOS",
+    "cik": "0002077057",
+    "company_name": "Founder Funds Trust",
+    "accession_number": "0001171520-26-000326",
+    "filed_date": "2026-11-03",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2077057/000117152026000326/0001171520-26-000326-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2077057/000117152026000326/eps12922_fffe.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2077057/000117152026000326/eps12922_fffe.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Founder Funds Trust\nETF Name: Monaghan Founder Funds Trust\nStrategy: The Fund does not impose a separate percentage limit on private investments; all investments are subject to applicable law, the Fund\u2019s investment restrictions and its liquidity risk management program The Fund is an actively managed broad-market exchange-traded fund (\u201cETF\u201d) that seeks to achi\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Founder Funds Trust",
+        "etf_name": "Monaghan Founder Funds Trust",
+        "strategy": "The Fund does not impose a separate percentage limit on private investments; all investments are subject to applicable law, the Fund\u2019s investment restrictions and its liquidity risk management program The Fund is an actively managed broad-market exchange-traded fund (\u201cETF\u201d) that seeks to achi",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-11-04T02:14:27.508902+00:00",
     "form_type": "485BPOS",
     "cik": "0000890540",
@@ -14432,64 +14490,6 @@
         "filer": "Simplify Exchange Traded Funds",
         "etf_name": "Total Annual Fund",
         "strategy": "by investing globally across a wide range of asset classes. Brookwood Investment Group LLC 10845 Griffith Peak Drive 2/F 3930 East Ray Road, Suite 155 Las Vegas, NV 89135 Phoenix, AZ 85044 www.simplify.us/etfs phone: 1 (855) 772-8488 This Prospectus provides important information about the Fund that you should know before investing",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-29T06:06:00.222327+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000820892",
-    "company_name": "NUVEEN INVESTMENT FUNDS INC",
-    "accession_number": "0001193125-26-405217",
-    "filed_date": "2026-09-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/820892/000119312526405217/0001193125-26-405217-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/820892/000119312526405217/d67895d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/820892/000119312526405217/d67895d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: NUVEEN INVESTMENT FUNDS INC\nETF Name: Nuveen Minnesota Intermediate Municipal Bond Fund\nStrategy: Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in municipal bonds that pay interest that is exempt from regular federal and Minnesota personal income tax The table below shows the variability of the Fund\u2019s average annual returns and how they compare over the time periods indicated with those of broad measures of marke\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "NUVEEN INVESTMENT FUNDS INC",
-        "etf_name": "Nuveen Minnesota Intermediate Municipal Bond Fund",
-        "strategy": "Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in municipal bonds that pay interest that is exempt from regular federal and Minnesota personal income tax The table below shows the variability of the Fund\u2019s average annual returns and how they compare over the time periods indicated with those of broad measures of marke",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-29T06:06:03.778278+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001018973",
-    "company_name": "NUVEEN MULTISTATE TRUST IV",
-    "accession_number": "0001193125-26-405215",
-    "filed_date": "2026-09-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1018973/000119312526405215/0001193125-26-405215-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1018973/000119312526405215/d67155d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1018973/000119312526405215/d67155d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: NUVEEN MULTISTATE TRUST IV\nETF Name: Risks Are Risk is inherent in all investing. Investing in a Fund\nStrategy: Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in municipal bonds that pay interest that is exempt from regular federal and Kansas personal income tax The Fund will generally maintain, under normal market conditions, an investment portfolio with an overall weighted average maturity in excess of 10 years\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "NUVEEN MULTISTATE TRUST IV",
-        "etf_name": "Risks Are Risk is inherent in all investing. Investing in a Fund",
-        "strategy": "Under normal market conditions, the Fund invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in municipal bonds that pay interest that is exempt from regular federal and Kansas personal income tax The Fund will generally maintain, under normal market conditions, an investment portfolio with an overall weighted average maturity in excess of 10 years",
         "is_alert_worthy": "LOW"
       }
     ],
