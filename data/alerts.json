@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-11-04T22:44:58.496782+00:00",
+    "form_type": "485APOS",
+    "cik": "0001771146",
+    "company_name": "ETF Opportunities Trust",
+    "accession_number": "0001771146-26-002205",
+    "filed_date": "2026-11-04",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626002205/0001771146-26-002205-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1771146/000177114626002205/rex2xlonginverse30newetfs4.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1771146/000177114626002205/rex2xlonginverse30newetfs4.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: ETF Opportunities Trust\nETF Name: Long ETF Each Fund\nStrategy: and the Fund\u2019s performance for periods greater than a trading day will be the result of each day's returns compounded over the period, which is very likely to differ from an underlying security\u2019s\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "ETF Opportunities Trust",
+        "etf_name": "Long ETF Each Fund",
+        "strategy": "and the Fund\u2019s performance for periods greater than a trading day will be the result of each day's returns compounded over the period, which is very likely to differ from an underlying security\u2019s",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-04T22:45:02.950688+00:00",
+    "form_type": "485APOS",
+    "cik": "0002043390",
+    "company_name": "Tidal Trust IV",
+    "accession_number": "0001999371-26-024462",
+    "filed_date": "2026-11-04",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126024462/0001999371-26-024462-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126024462/cio-485apos_110426.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126024462/cio-485apos_110426.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: Core Equity ETF\nStrategy: CIO Group Enhanced Yield ETF (\u201cEnhanced Yield ETF\u201d or the \u201cFund\u201d) seeks current income The Fund\u2019s secondary investment objective is to seek capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust IV",
+        "etf_name": "Core Equity ETF",
+        "strategy": "CIO Group Enhanced Yield ETF (\u201cEnhanced Yield ETF\u201d or the \u201cFund\u201d) seeks current income The Fund\u2019s secondary investment objective is to seek capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-11-04T17:21:05.249249+00:00",
     "form_type": "485BPOS",
     "cik": "0000809064",
@@ -14432,64 +14490,6 @@
         "filer": "Calamos ETF Trust",
         "etf_name": "Calamos Bitcoin Structured Alt Protection ETF",
         "strategy": "differs from the Fund's investment objective or if you are not willing to accept the",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-29T06:05:53.043424+00:00",
-    "form_type": "485APOS",
-    "cik": "0001579881",
-    "company_name": "Calamos ETF Trust",
-    "accession_number": "0001104659-26-111336",
-    "filed_date": "2026-09-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1579881/000110465926111336/0001104659-26-111336-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1579881/000110465926111336/tm2625623d1_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1579881/000110465926111336/tm2625623d1_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Calamos ETF Trust\nETF Name: Fund Name Ticker Exchange Calamos Laddered Bitcoin Structured Alt Protection ETF\nStrategy: Calamos Laddered Bitcoin Structured Alt Protection ETF \u00ae (the \"Fund\") seeks to provide exposure to the price of bitcoin\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Calamos ETF Trust",
-        "etf_name": "Fund Name Ticker Exchange Calamos Laddered Bitcoin Structured Alt Protection ETF",
-        "strategy": "Calamos Laddered Bitcoin Structured Alt Protection ETF \u00ae (the \"Fund\") seeks to provide exposure to the price of bitcoin",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-29T06:05:55.885226+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001810747",
-    "company_name": "Simplify Exchange Traded Funds",
-    "accession_number": "0001829126-26-010481",
-    "filed_date": "2026-09-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626010481/0001829126-26-010481-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1810747/000182912626010481/simplifyetf_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626010481/simplifyetf_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Simplify Exchange Traded Funds\nETF Name: Total Annual Fund\nStrategy: by investing globally across a wide range of asset classes. Brookwood Investment Group LLC 10845 Griffith Peak Drive 2/F 3930 East Ray Road, Suite 155 Las Vegas, NV 89135 Phoenix, AZ 85044 www.simplify.us/etfs phone: 1 (855) 772-8488 This Prospectus provides important information about the Fund that you should know before investing\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Simplify Exchange Traded Funds",
-        "etf_name": "Total Annual Fund",
-        "strategy": "by investing globally across a wide range of asset classes. Brookwood Investment Group LLC 10845 Griffith Peak Drive 2/F 3930 East Ray Road, Suite 155 Las Vegas, NV 89135 Phoenix, AZ 85044 www.simplify.us/etfs phone: 1 (855) 772-8488 This Prospectus provides important information about the Fund that you should know before investing",
         "is_alert_worthy": "LOW"
       }
     ],
