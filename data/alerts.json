@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-11-05T18:18:41.473726+00:00",
+    "form_type": "485APOS",
+    "cik": "0001936157",
+    "company_name": "Elevation Series Trust",
+    "accession_number": "0001999371-26-024556",
+    "filed_date": "2026-11-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1936157/000199937126024556/0001999371-26-024556-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1936157/000199937126024556/est-485apos_110526.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1936157/000199937126024556/est-485apos_110526.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Elevation Series Trust\nETF Name: TrueShares Two-Year Treasury Futures ETF\nStrategy: The investment objective of the [TrueShares Two-Year Treasury Futures ETF] (the \u201cFund\u201d) is capital appreciation and income generation Page 1 Additional Information About the Fund 6 Portfolio Holdings Information 11\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Elevation Series Trust",
+        "etf_name": "TrueShares Two-Year Treasury Futures ETF",
+        "strategy": "The investment objective of the [TrueShares Two-Year Treasury Futures ETF] (the \u201cFund\u201d) is capital appreciation and income generation Page 1 Additional Information About the Fund 6 Portfolio Holdings Information 11",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-05T18:18:45.256846+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-050100",
+    "filed_date": "2026-11-05",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226050100/0001493152-26-050100-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226050100/form485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226050100/form485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: Long Anthropic Daily ETF\nStrategy: that is a multiple inverse to the daily\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "Long Anthropic Daily ETF",
+        "strategy": "that is a multiple inverse to the daily",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-11-04T22:44:58.496782+00:00",
     "form_type": "485APOS",
     "cik": "0001771146",
@@ -14432,64 +14490,6 @@
         "filer": "NORTHERN LIGHTS FUND TRUST II",
         "etf_name": "The Trust The Longboard Fund",
         "strategy": "of the Fund is to seek long-term capital appreciation The investment objective of the Fund and the descriptions of the Fund\u2019s",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-29T06:05:42.192360+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000924727",
-    "company_name": "Investment Managers Series Trust III",
-    "accession_number": "0001104659-26-111375",
-    "filed_date": "2026-09-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/924727/000110465926111375/0001104659-26-111375-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/924727/000110465926111375/tm2625838d1_485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/924727/000110465926111375/tm2625838d1_485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Investment Managers Series Trust III\nETF Name: Page Fund\nStrategy: The FPA Queens Road Value ETF (the \u201cFund\u201d) seeks long-term capital growth and Risks 12 Management of the Fund 20 Buying and Selling Fund Shares 21 Dividends, Distributions and Taxes 23 Distributor 26 Fund Service Providers 26 Additional Information 27 Financial Highlights 28 1 INVESTMENT OBJECTIVE The FPA Queens Road Value ETF (the \u201cFund\u201d) seeks long-term capital growth PRINCIPAL INVESTMENT STRATEGIES The Fund seeks\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Investment Managers Series Trust III",
-        "etf_name": "Page Fund",
-        "strategy": "The FPA Queens Road Value ETF (the \u201cFund\u201d) seeks long-term capital growth and Risks 12 Management of the Fund 20 Buying and Selling Fund Shares 21 Dividends, Distributions and Taxes 23 Distributor 26 Fund Service Providers 26 Additional Information 27 Financial Highlights 28 1 INVESTMENT OBJECTIVE The FPA Queens Road Value ETF (the \u201cFund\u201d) seeks long-term capital growth PRINCIPAL INVESTMENT STRATEGIES The Fund seeks",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-29T06:05:49.016145+00:00",
-    "form_type": "485APOS",
-    "cik": "0001579881",
-    "company_name": "Calamos ETF Trust",
-    "accession_number": "0001104659-26-111341",
-    "filed_date": "2026-09-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1579881/000110465926111341/0001104659-26-111341-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1579881/000110465926111341/tm2625622d1_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1579881/000110465926111341/tm2625622d1_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Calamos ETF Trust\nETF Name: Calamos Bitcoin Structured Alt Protection ETF\nStrategy: differs from the Fund's investment objective or if you are not willing to accept the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Calamos ETF Trust",
-        "etf_name": "Calamos Bitcoin Structured Alt Protection ETF",
-        "strategy": "differs from the Fund's investment objective or if you are not willing to accept the",
         "is_alert_worthy": "LOW"
       }
     ],
