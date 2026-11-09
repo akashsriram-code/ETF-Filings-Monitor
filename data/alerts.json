@@ -1,5 +1,92 @@
 [
   {
+    "created_at": "2026-11-09T16:42:49.583531+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001635073",
+    "company_name": "Nushares ETF Trust",
+    "accession_number": "0001193125-26-452927",
+    "filed_date": "2026-11-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1635073/000119312526452927/0001193125-26-452927-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1635073/000119312526452927/d42514d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1635073/000119312526452927/d42514d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Nushares ETF Trust\nETF Name: Infrastructure Credit ETF\nStrategy: Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year $ 49 3 Years $ 154 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Nushares ETF Trust",
+        "etf_name": "Infrastructure Credit ETF",
+        "strategy": "Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year $ 49 3 Years $ 154 Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-09T16:42:53.093765+00:00",
+    "form_type": "485APOS",
+    "cik": "0000865177",
+    "company_name": "PUTNAM SUSTAINABLE LEADERS FUND",
+    "accession_number": "0001193125-26-452915",
+    "filed_date": "2026-11-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/865177/000119312526452915/0001193125-26-452915-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/865177/000119312526452915/d185010d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/865177/000119312526452915/d185010d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: PUTNAM SUSTAINABLE LEADERS FUND\nETF Name: Shareholders purchasing fund\nStrategy: On [ ], 2027 the fund materially changed its investment strategy and may have achieved materially different performance results than it achieved under the investment strategies in effect before that date On [ ], 2027 the fund materially changed its investment strategy and may have achieved materially different performance results than it achieved under the investment strategies in effect before that date\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "PUTNAM SUSTAINABLE LEADERS FUND",
+        "etf_name": "Shareholders purchasing fund",
+        "strategy": "On [ ], 2027 the fund materially changed its investment strategy and may have achieved materially different performance results than it achieved under the investment strategies in effect before that date On [ ], 2027 the fund materially changed its investment strategy and may have achieved materially different performance results than it achieved under the investment strategies in effect before that date",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-09T16:42:55.607663+00:00",
+    "form_type": "485APOS",
+    "cik": "0001141819",
+    "company_name": "TRUST FOR PROFESSIONAL MANAGERS",
+    "accession_number": "0000894189-26-030230",
+    "filed_date": "2026-11-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1141819/000089418926030230/0000894189-26-030230-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1141819/000089418926030230/ptamlongtermbond485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1141819/000089418926030230/ptamlongtermbond485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: TRUST FOR PROFESSIONAL MANAGERS\nETF Name: Unknown\nStrategy: PT Asset Management, LLC (DBA: PTAM) (the \u201cAdviser\u201d), the Fund\u2019s investment adviser, uses a value-oriented strategy to select investments that the Adviser believes have superior risk-reward characteristics with respect to criteria such as price, interest rate sensitivity and credit quality As discussed further below, the Adviser will manage the Fund\u2019s investment portfolio with a dollar-weighted average portfolio matu\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "TRUST FOR PROFESSIONAL MANAGERS",
+        "etf_name": "Unknown",
+        "strategy": "PT Asset Management, LLC (DBA: PTAM) (the \u201cAdviser\u201d), the Fund\u2019s investment adviser, uses a value-oriented strategy to select investments that the Adviser believes have superior risk-reward characteristics with respect to criteria such as price, interest rate sensitivity and credit quality As discussed further below, the Adviser will manage the Fund\u2019s investment portfolio with a dollar-weighted average portfolio matu",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-11-06T23:30:14.280600+00:00",
     "form_type": "485BPOS",
     "cik": "0001936157",
@@ -14402,93 +14489,6 @@
       {
         "filer": "BLACKROCK MUNICIPAL SERIES TRUST",
         "etf_name": "BlackRock Strategic Municipal Opportunities Active ETF",
-        "strategy": "The Fund and ETF Class are subject to certain risks, including the principal risks noted below, any of which may adversely affect the Fund\u2019s and/or ETF Class\u2019s net asset value per share (\u201cNAV\u201d), trading price, yield, total return and ability to meet its investment objective",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-29T12:49:08.353569+00:00",
-    "form_type": "485APOS",
-    "cik": "0000765199",
-    "company_name": "BLACKROCK CALIFORNIA MUNICIPAL SERIES TRUST",
-    "accession_number": "0001193125-26-405758",
-    "filed_date": "2026-09-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/765199/000119312526405758/0001193125-26-405758-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/765199/000119312526405758/d185813d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/765199/000119312526405758/d185813d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BLACKROCK CALIFORNIA MUNICIPAL SERIES TRUST\nETF Name: BlackRock California Municipal Opportunities Active ETF\nStrategy: and may invest without limitation in short-term tax exempt or taxable money market obligations\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BLACKROCK CALIFORNIA MUNICIPAL SERIES TRUST",
-        "etf_name": "BlackRock California Municipal Opportunities Active ETF",
-        "strategy": "and may invest without limitation in short-term tax exempt or taxable money market obligations",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-29T12:49:17.554642+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001090155",
-    "company_name": "PRUDENTIAL INVESTMENT PORTFOLIOS 5",
-    "accession_number": "0001090155-26-000039",
-    "filed_date": "2026-09-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1090155/000109015526000039/0001090155-26-000039-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1090155/000109015526000039/f46281d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1090155/000109015526000039/f46281d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PRUDENTIAL INVESTMENT PORTFOLIOS 5\nETF Name: To reduce Fund\nStrategy: To reduce Fund expenses, we may send or make available one annual shareholder report, one semi-annual shareholder report and one summary prospectus per household, unless you instruct us or your financial intermediary otherwise. To reduce Fund expenses, we may send or make available one annual shareholder report, one semi-annual shareholder report and one summary prospectus per household, unless you instruct us or you...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PRUDENTIAL INVESTMENT PORTFOLIOS 5",
-        "etf_name": "To reduce Fund",
-        "strategy": "To reduce Fund expenses, we may send or make available one annual shareholder report, one semi-annual shareholder report and one summary prospectus per household, unless you instruct us or your financial intermediary otherwise. To reduce Fund expenses, we may send or make available one annual shareholder report, one semi-annual shareholder report and one summary prospectus per household, unless you instruct us or you...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-29T12:49:21.958721+00:00",
-    "form_type": "485APOS",
-    "cik": "0000774013",
-    "company_name": "BLACKROCK MULTI STATE MUNICIPAL SERIES TRUST",
-    "accession_number": "0001193125-26-405742",
-    "filed_date": "2026-09-28",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/774013/000119312526405742/0001193125-26-405742-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/774013/000119312526405742/d181843d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/774013/000119312526405742/d181843d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: BLACKROCK MULTI STATE MUNICIPAL SERIES TRUST\nETF Name: BlackRock New York Municipal Opportunities Active ETF\nStrategy: The Fund and ETF Class are subject to certain risks, including the principal risks noted below, any of which may adversely affect the Fund\u2019s and/or ETF Class\u2019s net asset value per share (\u201cNAV\u201d), trading price, yield, total return and ability to meet its investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "BLACKROCK MULTI STATE MUNICIPAL SERIES TRUST",
-        "etf_name": "BlackRock New York Municipal Opportunities Active ETF",
         "strategy": "The Fund and ETF Class are subject to certain risks, including the principal risks noted below, any of which may adversely affect the Fund\u2019s and/or ETF Class\u2019s net asset value per share (\u201cNAV\u201d), trading price, yield, total return and ability to meet its investment objective",
         "is_alert_worthy": "LOW"
       }
