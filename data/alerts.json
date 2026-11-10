@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-11-10T15:53:44.263948+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000836906",
+    "company_name": "VANGUARD MALVERN FUNDS",
+    "accession_number": "0000836906-26-000557",
+    "filed_date": "2026-11-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/836906/000083690626000557/0000836906-26-000557-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/836906/000083690626000557/f46597d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/836906/000083690626000557/f46597d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VANGUARD MALVERN FUNDS\nETF Name: Investing in Vanguard ETF\nStrategy: The funds may share an investment objective and certain elements of their 10 More on Fund Risks 16 Other Investment Policies 24 Portfolio Holdings 25\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VANGUARD MALVERN FUNDS",
+        "etf_name": "Investing in Vanguard ETF",
+        "strategy": "The funds may share an investment objective and certain elements of their 10 More on Fund Risks 16 Other Investment Policies 24 Portfolio Holdings 25",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-10T15:53:47.186717+00:00",
+    "form_type": "485APOS",
+    "cik": "0001511699",
+    "company_name": "Managed Portfolio Series",
+    "accession_number": "0000894189-26-030238",
+    "filed_date": "2026-11-09",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1511699/000089418926030238/0000894189-26-030238-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1511699/000089418926030238/portstreetqualityetf.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1511699/000089418926030238/portstreetqualityetf.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Managed Portfolio Series\nETF Name: Total Annual Fund\nStrategy: or may underperform the market or other mutual funds with similar strategies if the Adviser and Sub-Adviser cannot successfully implement the Fund\u2019s investment strategies. A substantial cash/cash equivalent position can adversely impact Fund The Fund\u2019s approach to investing focuses on those companies that can be purchased at market prices below their fair value with a record of consistent, above average profit growth...\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Managed Portfolio Series",
+        "etf_name": "Total Annual Fund",
+        "strategy": "or may underperform the market or other mutual funds with similar strategies if the Adviser and Sub-Adviser cannot successfully implement the Fund\u2019s investment strategies. A substantial cash/cash equivalent position can adversely impact Fund The Fund\u2019s approach to investing focuses on those companies that can be purchased at market prices below their fair value with a record of consistent, above average profit growth...",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-11-10T00:32:08.624013+00:00",
     "form_type": "485BPOS",
     "cik": "0001589756",
@@ -14432,64 +14490,6 @@
         "filer": "PRUDENTIAL INVESTMENT PORTFOLIOS 2",
         "etf_name": "Each business day, each Fund",
         "strategy": "Each business day, each Fund\u2019s current NAV per share is made available at www.pgim.com/investments/mutual-funds/prices. Each business day, each Fund\u2019s current NAV per share is made available at www.pgim.com/investments/mutual-funds/prices.",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-29T18:24:51.455546+00:00",
-    "form_type": "485APOS",
-    "cik": "0001545440",
-    "company_name": "Ultimus Managers Trust",
-    "accession_number": "0001580642-26-006561",
-    "filed_date": "2026-09-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1545440/000158064226006561/0001580642-26-006561-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1545440/000158064226006561/wwspy-qqq_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1545440/000158064226006561/wwspy-qqq_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Ultimus Managers Trust\nETF Name: Defined Volatility Rate and, conversely, will decrease exposure to the Underlying ETF\nStrategy: by investing, under normal market conditions, at least 80% of its net assets (including borrowings for investment purposes) in financial instruments that achieve the investment results of the Index The Index is a rules-based strategy that seeks to track the\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Ultimus Managers Trust",
-        "etf_name": "Defined Volatility Rate and, conversely, will decrease exposure to the Underlying ETF",
-        "strategy": "by investing, under normal market conditions, at least 80% of its net assets (including borrowings for investment purposes) in financial instruments that achieve the investment results of the Index The Index is a rules-based strategy that seeks to track the",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-29T18:24:55.266948+00:00",
-    "form_type": "485APOS",
-    "cik": "0001870117",
-    "company_name": "Capital Group Fixed Income ETF Trust",
-    "accession_number": "0000051931-26-000952",
-    "filed_date": "2026-09-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1870117/000005193126000952/0000051931-26-000952-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1870117/000005193126000952/cgfit485a.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1870117/000005193126000952/cgfit485a.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Capital Group Fixed Income ETF Trust\nETF Name: Capital Group Fixed Income ETF Trust\nStrategy: The fund\u2019s investment objective is to provide a high level of current income exempt from regular federal and California state income tax Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 year 3 years $[xx] $[xx] Portfolio turnover The fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Capital Group Fixed Income ETF Trust",
-        "etf_name": "Capital Group Fixed Income ETF Trust",
-        "strategy": "The fund\u2019s investment objective is to provide a high level of current income exempt from regular federal and California state income tax Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 year 3 years $[xx] $[xx] Portfolio turnover The fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
         "is_alert_worthy": "LOW"
       }
     ],
