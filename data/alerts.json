@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-11-10T21:33:21.786229+00:00",
+    "form_type": "485APOS",
+    "cik": "0001644419",
+    "company_name": "Northern Lights Fund Trust IV",
+    "accession_number": "0001580642-26-007631",
+    "filed_date": "2026-11-10",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1644419/000158064226007631/0001580642-26-007631-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1644419/000158064226007631/fm-oppequityetf_485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1644419/000158064226007631/fm-oppequityetf_485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust IV\nETF Name: FM Opportunistic Equity ETF\nStrategy: The Fund seeks long-term capital appreciation The Fund adheres to the investment objective during normal market conditions\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Northern Lights Fund Trust IV",
+        "etf_name": "FM Opportunistic Equity ETF",
+        "strategy": "The Fund seeks long-term capital appreciation The Fund adheres to the investment objective during normal market conditions",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-11-10T15:53:44.263948+00:00",
     "form_type": "485BPOS",
     "cik": "0000836906",
@@ -14461,35 +14490,6 @@
         "filer": "Prospect Enhanced Yield Fund",
         "etf_name": "Prospectus Prospect Enhanced Yield Fund",
         "strategy": "by investing, under normal circumstances, at least 80% of our net assets plus borrowings for investment purposes, in non-mortgage related asset-backed structured credit instruments. See \u201cShare Repurchase Program\u201d and \u201cRisk Factors - Risks Related to an Investment in Our Shares.\u201d Before making your investment decision, please consult with your financial advisor regarding your account type and the classes of shares you...",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-29T22:31:05.958962+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001099692",
-    "company_name": "PRUDENTIAL INVESTMENT PORTFOLIOS 2",
-    "accession_number": "0001099692-26-000026",
-    "filed_date": "2026-09-29",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1099692/000109969226000026/0001099692-26-000026-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1099692/000109969226000026/f46283d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1099692/000109969226000026/f46283d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: PRUDENTIAL INVESTMENT PORTFOLIOS 2\nETF Name: Each business day, each Fund\nStrategy: Each business day, each Fund\u2019s current NAV per share is made available at www.pgim.com/investments/mutual-funds/prices. Each business day, each Fund\u2019s current NAV per share is made available at www.pgim.com/investments/mutual-funds/prices.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "PRUDENTIAL INVESTMENT PORTFOLIOS 2",
-        "etf_name": "Each business day, each Fund",
-        "strategy": "Each business day, each Fund\u2019s current NAV per share is made available at www.pgim.com/investments/mutual-funds/prices. Each business day, each Fund\u2019s current NAV per share is made available at www.pgim.com/investments/mutual-funds/prices.",
         "is_alert_worthy": "LOW"
       }
     ],
