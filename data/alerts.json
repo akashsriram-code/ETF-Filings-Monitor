@@ -1,5 +1,63 @@
 [
   {
+    "created_at": "2026-11-13T15:34:25.896565+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001547950",
+    "company_name": "Exchange Listed Funds Trust",
+    "accession_number": "0001213900-26-119090",
+    "filed_date": "2026-11-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026119090/0001213900-26-119090-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1547950/000121390026119090/ea0310860-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1547950/000121390026119090/ea0310860-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Exchange Listed Funds Trust\nETF Name: KICK CPU Index ETF\nStrategy: by investing in securities that provide exposure to the Index Under normal circumstances, the Fund invests at least 80% of its net assets (plus the amount of any borrowings for investment purposes) in securities comprising the Index and financial instruments that provide exposure to the Index\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Exchange Listed Funds Trust",
+        "etf_name": "KICK CPU Index ETF",
+        "strategy": "by investing in securities that provide exposure to the Index Under normal circumstances, the Fund invests at least 80% of its net assets (plus the amount of any borrowings for investment purposes) in securities comprising the Index and financial instruments that provide exposure to the Index",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-13T15:34:28.607900+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001884021",
+    "company_name": "Volatility Shares Trust",
+    "accession_number": "0001213900-26-119086",
+    "filed_date": "2026-11-12",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026119086/0001213900-26-119086-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1884021/000121390026119086/ea0311932-01_485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1884021/000121390026119086/ea0311932-01_485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Volatility Shares Trust\nETF Name: Total Annual Fund\nStrategy: The Fund seeks daily investment results, before The Fund is an exchange -traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of Anthropic for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Volatility Shares Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "The Fund seeks daily investment results, before The Fund is an exchange -traded fund (\u201cETF\u201d) that seeks to achieve its investment objective primarily through managed exposure to the share price of Anthropic for a single day While the Fund has a daily investment objective, you may hold shares of the Fund (\u201cShares\u201d) for longer than one day if you believe doing so is consistent with your goals and risk tolerance",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-11-13T00:37:57.629862+00:00",
     "form_type": "485BPOS",
     "cik": "0001771146",
@@ -14432,64 +14490,6 @@
         "filer": "ETF Series Solutions",
         "etf_name": "Liquidity Providers Concentration Risk. Annual Fund",
         "strategy": "To the extent the Fund invests more heavily in one sector or sub-sector of the market, it thereby presents a more concentrated risk and its",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-30T18:58:38.239671+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001496999",
-    "company_name": "AMERICAN FUNDS TAX-EXEMPT FUND OF NEW YORK",
-    "accession_number": "0000051931-26-000981",
-    "filed_date": "2026-09-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1496999/000005193126000981/0000051931-26-000981-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1496999/000005193126000981/ck0001496999-20260930.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1496999/000005193126000981/ck0001496999-20260930.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AMERICAN FUNDS TAX-EXEMPT FUND OF NEW YORK\nETF Name: Unknown\nStrategy: The fund\u2019s financial statements, including the investment portfolio and the reports of the fund\u2019s independent registered public accounting firms contained in the fund\u2019s Form N-CSR, are included in t s, holdings information and investment results (annual report only) The fund\u2019s financial statements, including the investment portfolio and the reports of the fund\u2019s independent registered public accounting firms containe\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AMERICAN FUNDS TAX-EXEMPT FUND OF NEW YORK",
-        "etf_name": "Unknown",
-        "strategy": "The fund\u2019s financial statements, including the investment portfolio and the reports of the fund\u2019s independent registered public accounting firms contained in the fund\u2019s Form N-CSR, are included in t s, holdings information and investment results (annual report only) The fund\u2019s financial statements, including the investment portfolio and the reports of the fund\u2019s independent registered public accounting firms containe",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-09-30T18:58:54.780915+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000794389",
-    "company_name": "AMERICAN FUNDS TAX EXEMPT SERIES II / CA",
-    "accession_number": "0000051931-26-000977",
-    "filed_date": "2026-09-30",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/794389/000005193126000977/0000051931-26-000977-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/794389/000005193126000977/ck0000794389-20260930.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/794389/000005193126000977/ck0000794389-20260930.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: AMERICAN FUNDS TAX EXEMPT SERIES II / CA\nETF Name: Unknown\nStrategy: The fund\u2019s financial statements, including the investment portfolio and the reports of the fund\u2019s independent registered public accounting firms contained in the fund\u2019s Form N-CSR, are included in t s, holdings information and investment results (annual report only) The fund\u2019s financial statements, including the investment portfolio and the reports of the fund\u2019s independent registered public accounting firms containe\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "AMERICAN FUNDS TAX EXEMPT SERIES II / CA",
-        "etf_name": "Unknown",
-        "strategy": "The fund\u2019s financial statements, including the investment portfolio and the reports of the fund\u2019s independent registered public accounting firms contained in the fund\u2019s Form N-CSR, are included in t s, holdings information and investment results (annual report only) The fund\u2019s financial statements, including the investment portfolio and the reports of the fund\u2019s independent registered public accounting firms containe",
         "is_alert_worthy": "LOW"
       }
     ],
