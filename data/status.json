@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-11-15T11:02:45.725649+00:00",
-  "last_error": "Server error '503 Service Unavailable' for url 'https://www.sec.gov/Archives/edgar/daily-index/2026/QTR4/master.20261115.idx'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/503",
+  "last_run": "2026-11-15T17:41:18.322181+00:00",
+  "last_error": "The read operation timed out",
   "fetched_entries": 0,
-  "feed_entries": 2000,
+  "feed_entries": 0,
   "feed_max_pages": 20,
   "catchup_entries": 0,
   "catchup_days": 1,
