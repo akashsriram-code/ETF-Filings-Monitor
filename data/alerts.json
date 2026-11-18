@@ -1,5 +1,65 @@
 [
   {
+    "created_at": "2026-11-18T02:16:35.116217+00:00",
+    "form_type": "S-1",
+    "cik": "0002152975",
+    "company_name": "1 - Bitwise Zcash ETF",
+    "accession_number": "0001193125-26-465692",
+    "filed_date": "2026-11-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2152975/000119312526465692/0001193125-26-465692-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2152975/000119312526465692/ck0002152975-20261117.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2152975/000119312526465692/ck0002152975-20261117.htm",
+    "matched_keywords": [
+      "Coinbase Custody"
+    ],
+    "is_crypto": true,
+    "synopsis": "Synopsis 1\nFiler: 1 - Bitwise Zcash ETF\nETF Name: PROSPECTUS Shares Bitwise Zcash ETF The Bitwise Zcash ETF\nStrategy: In seeking to achieve its investment objective, the Trust will hold Zcash and establish its net asset value (\u201cNAV\u201d) by reference to the CF Zcash-Dollar US Settlement Price (the \u201cPricing Benchmark\u201d) In seeking to achieve its investment objective, the Trust will hold Zcash and establish its net asset value (\u201cNAV\u201d) by reference to the CF Zcash-Dollar US Settlement Price (the \u201cPricing Benchmark\u201d)\nIS ALERT WORTHY: MEDIUM\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Crypto-linked ETF disclosures can move market narrative and regulatory coverage.",
+    "synopsis_items": [
+      {
+        "filer": "1 - Bitwise Zcash ETF",
+        "etf_name": "PROSPECTUS Shares Bitwise Zcash ETF The Bitwise Zcash ETF",
+        "strategy": "In seeking to achieve its investment objective, the Trust will hold Zcash and establish its net asset value (\u201cNAV\u201d) by reference to the CF Zcash-Dollar US Settlement Price (the \u201cPricing Benchmark\u201d) In seeking to achieve its investment objective, the Trust will hold Zcash and establish its net asset value (\u201cNAV\u201d) by reference to the CF Zcash-Dollar US Settlement Price (the \u201cPricing Benchmark\u201d)",
+        "is_alert_worthy": "MEDIUM"
+      }
+    ],
+    "wire_recommendation": "MEDIUM",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Crypto-linked ETF disclosures can move market narrative and regulatory coverage."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-18T02:16:43.014243+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001424958",
+    "company_name": "Direxion Shares ETF Trust",
+    "accession_number": "0001193125-26-465649",
+    "filed_date": "2026-11-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526465649/0001193125-26-465649-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1424958/000119312526465649/d181800d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526465649/d181800d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Direxion Shares ETF Trust\nETF Name: Unknown\nStrategy: and there is a risk that invests at least 80% of its net assets (plus any borrowings for investment purposes) in the securities that comprise the Index or investments with economic characteristics similar to the securities included in the Index ( i.e ., derivative instruments, including swap agreements or futures contracts) Index Correlation Risk \u2014 There is no guarantee that the Fund will achieve a high degree of cor\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Direxion Shares ETF Trust",
+        "etf_name": "Unknown",
+        "strategy": "and there is a risk that invests at least 80% of its net assets (plus any borrowings for investment purposes) in the securities that comprise the Index or investments with economic characteristics similar to the securities included in the Index ( i.e ., derivative instruments, including swap agreements or futures contracts) Index Correlation Risk \u2014 There is no guarantee that the Fund will achieve a high degree of cor",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-11-17T19:56:30.229970+00:00",
     "form_type": "485BPOS",
     "cik": "0001592900",
@@ -14432,64 +14492,6 @@
         "filer": "Tidal Trust II",
         "etf_name": "Managed Futures ETF",
         "strategy": "Return Stacked \u00ae Gold & Managed Futures ETF (the \u201cFund\u201d) seeks long-term capital appreciation The Fund is an actively-managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective by investing in two complementary investment strategies, a Gold strategy and a Managed Futures strategy 1 In particular, the term \u201cexposure\u201d refers to the degree to which the Fund\u2019s investment is influenced by fluctuat",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-02T17:57:36.448860+00:00",
-    "form_type": "485BPOS",
-    "cik": "0002081107",
-    "company_name": "Tidal Trust V",
-    "accession_number": "0001999371-26-021938",
-    "filed_date": "2026-10-02",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126021938/0001999371-26-021938-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2081107/000199937126021938/defiance-485bpos_100226.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2081107/000199937126021938/defiance-485bpos_100226.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust V\nETF Name: Unknown\nStrategy: The Fund seeks daily investment results, before\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust V",
-        "etf_name": "Unknown",
-        "strategy": "The Fund seeks daily investment results, before",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-02T17:57:40.863262+00:00",
-    "form_type": "485APOS",
-    "cik": "0002043390",
-    "company_name": "Tidal Trust IV",
-    "accession_number": "0001999371-26-021925",
-    "filed_date": "2026-10-02",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126021925/0001999371-26-021925-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126021925/time_485apos-100226.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126021925/time_485apos-100226.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: Active ETF to the Trust\nStrategy: The Fund\u2019s primary investment objective is to seek long-term capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[] $[] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust IV",
-        "etf_name": "Active ETF to the Trust",
-        "strategy": "The Fund\u2019s primary investment objective is to seek long-term capital appreciation Although your actual costs may be higher or lower, based on these assumptions your costs would be: 1 Year 3 Years $[] $[] Portfolio Turnover The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
         "is_alert_worthy": "LOW"
       }
     ],
