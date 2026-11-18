@@ -1,5 +1,121 @@
 [
   {
+    "created_at": "2026-11-18T18:58:12.460367+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-005052",
+    "filed_date": "2026-11-18",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026005052/0001592900-26-005052-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026005052/ck0001592900-20261118.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026005052/ck0001592900-20261118.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: Total Annual Fund\nStrategy: Defined Duration 10 ETF (the \u201cFund\u201d) seeks long-term growth of capital\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "Defined Duration 10 ETF (the \u201cFund\u201d) seeks long-term growth of capital",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-18T18:58:14.853400+00:00",
+    "form_type": "485APOS",
+    "cik": "0000315774",
+    "company_name": "FORUM FUNDS",
+    "accession_number": "0001213900-26-121640",
+    "filed_date": "2026-11-18",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/315774/000121390026121640/0001213900-26-121640-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/315774/000121390026121640/ea0312545-01_485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/315774/000121390026121640/ea0312545-01_485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FORUM FUNDS\nETF Name: Pursuit Target-Yield Fixed Income ETF\nStrategy: The Fund\u2019s secondary investment objective is capital preservation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FORUM FUNDS",
+        "etf_name": "Pursuit Target-Yield Fixed Income ETF",
+        "strategy": "The Fund\u2019s secondary investment objective is capital preservation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-18T18:58:19.998221+00:00",
+    "form_type": "485APOS",
+    "cik": "0002043390",
+    "company_name": "Tidal Trust IV",
+    "accession_number": "0001999371-26-025677",
+    "filed_date": "2026-11-18",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126025677/0001999371-26-025677-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126025677/shape_485apos-111826.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126025677/shape_485apos-111826.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: Income ETF- Fund\nStrategy: The SHAPE Iron Butterfly S&P 500 \u00ae Income ETF (the \u201cFund\u201d) seeks current income The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to generate income through an options strategy referencing the S&P 500 \u00ae Index (the \u201cIndex\u201d) and/or an options strategy referencing ETFs that seek to track the Index (\u201cIndex ETFs\u201d) Under normal circumstances, the Fund will invest at least 80% of its net assets, plus a\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust IV",
+        "etf_name": "Income ETF- Fund",
+        "strategy": "The SHAPE Iron Butterfly S&P 500 \u00ae Income ETF (the \u201cFund\u201d) seeks current income The Fund is an actively managed exchange-traded fund (\u201cETF\u201d) that seeks to generate income through an options strategy referencing the S&P 500 \u00ae Index (the \u201cIndex\u201d) and/or an options strategy referencing ETFs that seek to track the Index (\u201cIndex ETFs\u201d) Under normal circumstances, the Fund will invest at least 80% of its net assets, plus a",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-18T18:58:24.435236+00:00",
+    "form_type": "485BPOS",
+    "cik": "0002043390",
+    "company_name": "Tidal Trust IV",
+    "accession_number": "0001999371-26-025660",
+    "filed_date": "2026-11-17",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126025660/0001999371-26-025660-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2043390/000199937126025660/suncoast-485bpos_111826.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2043390/000199937126025660/suncoast-485bpos_111826.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust IV\nETF Name: Unknown\nStrategy: The Fund seeks to achieve its investment objective by investing in shares of other investment companies, including ETFs (\u201cUnderlying Funds\u201d), other securities, and in derivative instruments, including swaps and options on such Underlying Funds, to obtain both long and short exposure to the major U.S The Fund seeks to achieve its investment objective by investing in shares of other investment companies, including ETFs\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust IV",
+        "etf_name": "Unknown",
+        "strategy": "The Fund seeks to achieve its investment objective by investing in shares of other investment companies, including ETFs (\u201cUnderlying Funds\u201d), other securities, and in derivative instruments, including swaps and options on such Underlying Funds, to obtain both long and short exposure to the major U.S The Fund seeks to achieve its investment objective by investing in shares of other investment companies, including ETFs",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-11-18T02:16:35.116217+00:00",
     "form_type": "S-1",
     "cik": "0002152975",
@@ -14376,122 +14492,6 @@
         "filer": "Aristotle Funds Series Trust",
         "etf_name": "FUND TICKER SYMBOL Aristotle Dividend Equity ETF",
         "strategy": "and Principal Risks section are listed alphabetically for reader ease and not by importance of the risk to the Fund as they are in the section. \u2022 Active",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-02T17:57:19.693157+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001048606",
-    "company_name": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-    "accession_number": "0000726865-26-000971",
-    "filed_date": "2026-10-02",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1048606/000072686526000971/0000726865-26-000971-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1048606/000072686526000971/cik0001048606-20261002.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1048606/000072686526000971/cik0001048606-20261002.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N\nETF Name: Investment Management LLC, the investment manager of Putnam VT Sustainable Leaders Fund\nStrategy: o i4LIFE\u00ae Advantage Select Guaranteed Income Benefit On or after May 21, 2018 and prior to May 18, 2020 The LVIP ClearBridge Appreciation Fund, LVIP ClearBridge Dividend Strategy Fund, and LVIP ClearBridge Large Cap Value Fund will be added to list of funds eligible for 100% allocation of Contract Value or Account Value o i4LIFE\u00ae Advantage Guaranteed Income Benefit (version 4) On or after February 8, 2016 and prior t\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "LINCOLN LIFE VARIABLE ANNUITY ACCOUNT N",
-        "etf_name": "Investment Management LLC, the investment manager of Putnam VT Sustainable Leaders Fund",
-        "strategy": "o i4LIFE\u00ae Advantage Select Guaranteed Income Benefit On or after May 21, 2018 and prior to May 18, 2020 The LVIP ClearBridge Appreciation Fund, LVIP ClearBridge Dividend Strategy Fund, and LVIP ClearBridge Large Cap Value Fund will be added to list of funds eligible for 100% allocation of Contract Value or Account Value o i4LIFE\u00ae Advantage Guaranteed Income Benefit (version 4) On or after February 8, 2016 and prior t",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-02T17:57:24.181171+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001903606",
-    "company_name": "CANTOR SELECT PORTFOLIOS TRUST",
-    "accession_number": "0001580642-26-006695",
-    "filed_date": "2026-10-02",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1903606/000158064226006695/0001580642-26-006695-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1903606/000158064226006695/cantorselect_485b.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1903606/000158064226006695/cantorselect_485b.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: CANTOR SELECT PORTFOLIOS TRUST\nETF Name: Cantor Select Portfolios Trust Fund\nStrategy: The Fund invests in equity securities that can be characterized as \u201cgrowth\u201d (companies with an above average earnings growth rate) or \u201cvalue\u201d (companies with a below average price-to-earnings ratio), as both kinds of companies may have characteristics that make the investment attractive The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "CANTOR SELECT PORTFOLIOS TRUST",
-        "etf_name": "Cantor Select Portfolios Trust Fund",
-        "strategy": "The Fund invests in equity securities that can be characterized as \u201cgrowth\u201d (companies with an above average earnings growth rate) or \u201cvalue\u201d (companies with a below average price-to-earnings ratio), as both kinds of companies may have characteristics that make the investment attractive The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-02T17:57:27.879532+00:00",
-    "form_type": "485APOS",
-    "cik": "0000814679",
-    "company_name": "ADVANCED SERIES TRUST",
-    "accession_number": "0000814679-26-000088",
-    "filed_date": "2026-10-02",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/814679/000081467926000088/0000814679-26-000088-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/814679/000081467926000088/f46224d1.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/814679/000081467926000088/f46224d1.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ADVANCED SERIES TRUST\nETF Name: Unknown\nStrategy: As a new and relatively small fund, the Portfolio's\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ADVANCED SERIES TRUST",
-        "etf_name": "Unknown",
-        "strategy": "As a new and relatively small fund, the Portfolio's",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-02T17:57:31.303175+00:00",
-    "form_type": "485APOS",
-    "cik": "0001924868",
-    "company_name": "Tidal Trust II",
-    "accession_number": "0001999371-26-021956",
-    "filed_date": "2026-10-02",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126021956/0001999371-26-021956-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126021956/rsgt-485apos_100226.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126021956/rsgt-485apos_100226.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Managed Futures ETF\nStrategy: Return Stacked \u00ae Gold & Managed Futures ETF (the \u201cFund\u201d) seeks long-term capital appreciation The Fund is an actively-managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective by investing in two complementary investment strategies, a Gold strategy and a Managed Futures strategy 1 In particular, the term \u201cexposure\u201d refers to the degree to which the Fund\u2019s investment is influenced by fluctuat\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Tidal Trust II",
-        "etf_name": "Managed Futures ETF",
-        "strategy": "Return Stacked \u00ae Gold & Managed Futures ETF (the \u201cFund\u201d) seeks long-term capital appreciation The Fund is an actively-managed exchange-traded fund (\u201cETF\u201d) that seeks to achieve its investment objective by investing in two complementary investment strategies, a Gold strategy and a Managed Futures strategy 1 In particular, the term \u201cexposure\u201d refers to the degree to which the Fund\u2019s investment is influenced by fluctuat",
         "is_alert_worthy": "LOW"
       }
     ],
