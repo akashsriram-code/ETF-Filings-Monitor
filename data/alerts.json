@@ -1,5 +1,121 @@
 [
   {
+    "created_at": "2026-11-20T15:43:44.451118+00:00",
+    "form_type": "485APOS",
+    "cik": "0001432353",
+    "company_name": "Global X Funds",
+    "accession_number": "0001432353-26-000857",
+    "filed_date": "2026-11-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000857/0001432353-26-000857-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1432353/000143235326000857/tungstenmetalminersetf-485a.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1432353/000143235326000857/tungstenmetalminersetf-485a.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Global X Funds\nETF Name: Unknown\nStrategy: The Fund invests at least 80% of its net assets, plus borrowings for investment purposes (if any), in the securities of the Underlying Index The Underlying Index is sponsored by the Index Provider, which is an organization that is independent of, and unaffiliated with, the Fund and Global X\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Global X Funds",
+        "etf_name": "Unknown",
+        "strategy": "The Fund invests at least 80% of its net assets, plus borrowings for investment purposes (if any), in the securities of the Underlying Index The Underlying Index is sponsored by the Index Provider, which is an organization that is independent of, and unaffiliated with, the Fund and Global X",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-20T15:43:47.657125+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001606378",
+    "company_name": "Eubel Brady & Suttman Mutual Fund Trust",
+    "accession_number": "0001580642-26-007812",
+    "filed_date": "2026-11-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1606378/000158064226007812/0001580642-26-007812-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1606378/000158064226007812/ebs-mft_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1606378/000158064226007812/ebs-mft_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Eubel Brady & Suttman Mutual Fund Trust\nETF Name: The Board of Trustees has reserved the right to change each Fund\nStrategy: The investment objective of the EBS Income Fund is to seek to preserve capital, produce income and maximize total return The Board of Trustees has reserved the right to change each Fund\u2019s investment objective without shareholder approval\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Eubel Brady & Suttman Mutual Fund Trust",
+        "etf_name": "The Board of Trustees has reserved the right to change each Fund",
+        "strategy": "The investment objective of the EBS Income Fund is to seek to preserve capital, produce income and maximize total return The Board of Trustees has reserved the right to change each Fund\u2019s investment objective without shareholder approval",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-20T15:43:52.978121+00:00",
+    "form_type": "485APOS",
+    "cik": "0000277751",
+    "company_name": "JANUS INVESTMENT FUND",
+    "accession_number": "0001193125-26-469471",
+    "filed_date": "2026-11-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/277751/000119312526469471/0001193125-26-469471-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/277751/000119312526469471/d118786d485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/277751/000119312526469471/d118786d485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: JANUS INVESTMENT FUND\nETF Name: Janus Investment Fund\nStrategy: 10 \u00bd Janus Investment Fund ADDITIONAL INVESTMENT STRATEGIES AND GENERAL PORTFOLIO POLICIES [To be updated by amendment] The Fund\u2019s Board of Trustees (\u201cTrustees\u201d) may change the Fund\u2019s investment objective or non-fundamental\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "JANUS INVESTMENT FUND",
+        "etf_name": "Janus Investment Fund",
+        "strategy": "10 \u00bd Janus Investment Fund ADDITIONAL INVESTMENT STRATEGIES AND GENERAL PORTFOLIO POLICIES [To be updated by amendment] The Fund\u2019s Board of Trustees (\u201cTrustees\u201d) may change the Fund\u2019s investment objective or non-fundamental",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-20T15:43:56.389608+00:00",
+    "form_type": "485APOS",
+    "cik": "0000105544",
+    "company_name": "VANGUARD WELLESLEY INCOME FUND",
+    "accession_number": "0000105544-26-000487",
+    "filed_date": "2026-11-20",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/105544/000010554426000487/0000105544-26-000487-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/105544/000010554426000487/f46710d1.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/105544/000010554426000487/f46710d1.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: VANGUARD WELLESLEY INCOME FUND\nETF Name: International Core Active ETF Exchange-traded fund\nStrategy: Vanguard Wellington International Core Active ETF (the \u201cFund\u201d) seeks to provide long-term capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "VANGUARD WELLESLEY INCOME FUND",
+        "etf_name": "International Core Active ETF Exchange-traded fund",
+        "strategy": "Vanguard Wellington International Core Active ETF (the \u201cFund\u201d) seeks to provide long-term capital appreciation",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-11-19T23:59:25.145611+00:00",
     "form_type": "485APOS",
     "cik": "0001924868",
@@ -14372,122 +14488,6 @@
     "synopsis_items": [
       {
         "filer": "GUARDIAN SEPARATE ACCOUNT R",
-        "etf_name": "NOTICE OF FUND",
-        "strategy": "NOTICE OF FUND REORGANIZATION On or about December 4, 2026 (the \u201cReorganization Date\u201d), subject to shareholder approval, the following \u201cTarget Funds\u201d in which investment divisions (\u201csubaccounts\u201d) of the Separate Account currently may invest will be reorganized into and with the corresponding \u201cAcquiring Funds\u201d (the \u201cReorganization\u201d) Large Cap Core Portfolio (Class 3) Guardian Balanced Allocation VIP Fund SA Index Allo",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-09T19:11:21.901861+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001266055",
-    "company_name": "GUARDIAN SEPARATE ACCOUNT R",
-    "accession_number": "0001193125-26-418821",
-    "filed_date": "2026-10-09",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1266055/000119312526418821/0001193125-26-418821-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1266055/000119312526418821/d139745d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1266055/000119312526418821/d139745d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GUARDIAN SEPARATE ACCOUNT R\nETF Name: NOTICE OF FUND\nStrategy: NOTICE OF FUND REORGANIZATION On or about December 4, 2026 (the \u201cReorganization Date\u201d), subject to shareholder approval, the following \u201cTarget Funds\u201d in which investment divisions (\u201csubaccounts\u201d) of the Separate Account currently may invest will be reorganized into and with the corresponding \u201cAcquiring Funds\u201d (the \u201cReorganization\u201d) Large Cap Core Portfolio (Class 3) Guardian Balanced Allocation VIP Fund SA Index Allo\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GUARDIAN SEPARATE ACCOUNT R",
-        "etf_name": "NOTICE OF FUND",
-        "strategy": "NOTICE OF FUND REORGANIZATION On or about December 4, 2026 (the \u201cReorganization Date\u201d), subject to shareholder approval, the following \u201cTarget Funds\u201d in which investment divisions (\u201csubaccounts\u201d) of the Separate Account currently may invest will be reorganized into and with the corresponding \u201cAcquiring Funds\u201d (the \u201cReorganization\u201d) Large Cap Core Portfolio (Class 3) Guardian Balanced Allocation VIP Fund SA Index Allo",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-09T19:11:24.073510+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001266055",
-    "company_name": "GUARDIAN SEPARATE ACCOUNT R",
-    "accession_number": "0001193125-26-418817",
-    "filed_date": "2026-10-09",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1266055/000119312526418817/0001193125-26-418817-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1266055/000119312526418817/d138765d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1266055/000119312526418817/d138765d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GUARDIAN SEPARATE ACCOUNT R\nETF Name: NOTICE OF FUND\nStrategy: NOTICE OF FUND REORGANIZATION On or about December 4, 2026 (the \u201cReorganization Date\u201d), subject to shareholder approval, the following \u201cTarget Funds\u201d in which investment divisions (\u201csubaccounts\u201d) of the Separate Account currently may invest will be reorganized into and with the corresponding \u201cAcquiring Funds\u201d (the \u201cReorganization\u201d) Large Cap Core Portfolio (Class 3) Guardian Balanced Allocation VIP Fund SA Index Allo\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GUARDIAN SEPARATE ACCOUNT R",
-        "etf_name": "NOTICE OF FUND",
-        "strategy": "NOTICE OF FUND REORGANIZATION On or about December 4, 2026 (the \u201cReorganization Date\u201d), subject to shareholder approval, the following \u201cTarget Funds\u201d in which investment divisions (\u201csubaccounts\u201d) of the Separate Account currently may invest will be reorganized into and with the corresponding \u201cAcquiring Funds\u201d (the \u201cReorganization\u201d) Large Cap Core Portfolio (Class 3) Guardian Balanced Allocation VIP Fund SA Index Allo",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-09T19:11:26.036469+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001266055",
-    "company_name": "GUARDIAN SEPARATE ACCOUNT R",
-    "accession_number": "0001193125-26-418815",
-    "filed_date": "2026-10-09",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1266055/000119312526418815/0001193125-26-418815-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1266055/000119312526418815/d131701d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1266055/000119312526418815/d131701d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GUARDIAN SEPARATE ACCOUNT R\nETF Name: NOTICE OF FUND\nStrategy: NOTICE OF FUND REORGANIZATION On or about December 4, 2026 (the \u201cReorganization Date\u201d), subject to shareholder approval, the following \u201cTarget Funds\u201d in which investment divisions (\u201csubaccounts\u201d) of the Separate Account currently may invest will be reorganized into and with the corresponding \u201cAcquiring Funds\u201d (the \u201cReorganization\u201d) Large Cap Core Portfolio (Class 3) Guardian Balanced Allocation VIP Fund SA Index Allo\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GUARDIAN SEPARATE ACCOUNT R",
-        "etf_name": "NOTICE OF FUND",
-        "strategy": "NOTICE OF FUND REORGANIZATION On or about December 4, 2026 (the \u201cReorganization Date\u201d), subject to shareholder approval, the following \u201cTarget Funds\u201d in which investment divisions (\u201csubaccounts\u201d) of the Separate Account currently may invest will be reorganized into and with the corresponding \u201cAcquiring Funds\u201d (the \u201cReorganization\u201d) Large Cap Core Portfolio (Class 3) Guardian Balanced Allocation VIP Fund SA Index Allo",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-09T19:11:28.023274+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000856943",
-    "company_name": "GUARDIAN SEPARATE ACCOUNT D",
-    "accession_number": "0001193125-26-418813",
-    "filed_date": "2026-10-09",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/856943/000119312526418813/0001193125-26-418813-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/856943/000119312526418813/d145104d485bpos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/856943/000119312526418813/d145104d485bpos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: GUARDIAN SEPARATE ACCOUNT D\nETF Name: NOTICE OF FUND\nStrategy: NOTICE OF FUND REORGANIZATION On or about December 4, 2026 (the \u201cReorganization Date\u201d), subject to shareholder approval, the following \u201cTarget Funds\u201d in which investment divisions (\u201csubaccounts\u201d) of the Separate Account currently may invest will be reorganized into and with the corresponding \u201cAcquiring Funds\u201d (the \u201cReorganization\u201d) Large Cap Core Portfolio (Class 3) Guardian Balanced Allocation VIP Fund SA Index Allo\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "GUARDIAN SEPARATE ACCOUNT D",
         "etf_name": "NOTICE OF FUND",
         "strategy": "NOTICE OF FUND REORGANIZATION On or about December 4, 2026 (the \u201cReorganization Date\u201d), subject to shareholder approval, the following \u201cTarget Funds\u201d in which investment divisions (\u201csubaccounts\u201d) of the Separate Account currently may invest will be reorganized into and with the corresponding \u201cAcquiring Funds\u201d (the \u201cReorganization\u201d) Large Cap Core Portfolio (Class 3) Guardian Balanced Allocation VIP Fund SA Index Allo",
         "is_alert_worthy": "LOW"
