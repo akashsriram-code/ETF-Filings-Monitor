@@ -1,5 +1,266 @@
 [
   {
+    "created_at": "2026-11-23T20:11:40.198445+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001924868",
+    "company_name": "Tidal Trust II",
+    "accession_number": "0001999371-26-026066",
+    "filed_date": "2026-11-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126026066/0001999371-26-026066-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1924868/000199937126026066/carbon-485bpos_112326.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1924868/000199937126026066/carbon-485bpos_112326.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust II\nETF Name: Investment Objective Carbon Collective Short Duration Green Bond ETF\nStrategy: Carbon Collective Short Duration Green Bond ETF (the \u201cFund\u201d) seeks maximum total return, consistent with preservation of capital and prudent investment management An investment objective is fundamental if it cannot be changed without the consent of the holders of a majority of the outstanding Shares\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust II",
+        "etf_name": "Investment Objective Carbon Collective Short Duration Green Bond ETF",
+        "strategy": "Carbon Collective Short Duration Green Bond ETF (the \u201cFund\u201d) seeks maximum total return, consistent with preservation of capital and prudent investment management An investment objective is fundamental if it cannot be changed without the consent of the holders of a majority of the outstanding Shares",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-23T20:11:44.138296+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000225322",
+    "company_name": "FIDELITY SUMMER STREET TRUST",
+    "accession_number": "0000225322-26-000297",
+    "filed_date": "2026-11-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/225322/000022532226000297/0000225322-26-000297-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/225322/000022532226000297/filing13584.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/225322/000022532226000297/filing13584.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIDELITY SUMMER STREET TRUST\nETF Name: Series Floating Rate High Income Fund\nStrategy: Fidelity\u00ae Series Floating Rate High Income Fund seeks a high level of current income\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIDELITY SUMMER STREET TRUST",
+        "etf_name": "Series Floating Rate High Income Fund",
+        "strategy": "Fidelity\u00ae Series Floating Rate High Income Fund seeks a high level of current income",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-23T20:11:59.889887+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000354046",
+    "company_name": "FIDELITY CHARLES STREET TRUST",
+    "accession_number": "0000354046-26-000073",
+    "filed_date": "2026-11-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/354046/000035404626000073/0000354046-26-000073-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/354046/000035404626000073/filing13588.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/354046/000035404626000073/filing13588.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIDELITY CHARLES STREET TRUST\nETF Name: Health Savings Index Fund\nStrategy: Investing in Fidelity's Central funds (specialized investment vehicles used by Fidelity \u00ae funds to invest in particular security types or investment disciplines) and Fidelity's exchange-traded funds consistent with the asset classes discussed above\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIDELITY CHARLES STREET TRUST",
+        "etf_name": "Health Savings Index Fund",
+        "strategy": "Investing in Fidelity's Central funds (specialized investment vehicles used by Fidelity \u00ae funds to invest in particular security types or investment disciplines) and Fidelity's exchange-traded funds consistent with the asset classes discussed above",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-23T20:12:07.626742+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000275309",
+    "company_name": "FIDELITY CAPITAL TRUST",
+    "accession_number": "0000275309-26-000057",
+    "filed_date": "2026-11-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/275309/000027530926000057/0000275309-26-000057-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/275309/000027530926000057/filing13582.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/275309/000027530926000057/filing13582.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIDELITY CAPITAL TRUST\nETF Name: Stock Selector Fund\nStrategy: Fidelity\u00ae Stock Selector Fund seeks capital growth\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIDELITY CAPITAL TRUST",
+        "etf_name": "Stock Selector Fund",
+        "strategy": "Fidelity\u00ae Stock Selector Fund seeks capital growth",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-23T20:12:14.971837+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000035315",
+    "company_name": "FIDELITY SALEM STREET TRUST",
+    "accession_number": "0000035315-26-000879",
+    "filed_date": "2026-11-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/35315/000003531526000879/0000035315-26-000879-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/35315/000003531526000879/filing13580.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/35315/000003531526000879/filing13580.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIDELITY SALEM STREET TRUST\nETF Name: Strategic Real Return Fund\nStrategy: A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when fund shares are held in a taxable account For every $10,000 you invested, here's how much you would pay in total expenses if you sell all of your shares at the end of each time period indicated: 1 year $ 72 3 years $ 233 5 years $ 410 10 years $ 924 Portfolio Turnover The fund pays transaction costs, such as com\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIDELITY SALEM STREET TRUST",
+        "etf_name": "Strategic Real Return Fund",
+        "strategy": "A higher portfolio turnover rate may indicate higher transaction costs and may result in higher taxes when fund shares are held in a taxable account For every $10,000 you invested, here's how much you would pay in total expenses if you sell all of your shares at the end of each time period indicated: 1 year $ 72 3 years $ 233 5 years $ 410 10 years $ 924 Portfolio Turnover The fund pays transaction costs, such as com",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-23T20:12:22.392274+00:00",
+    "form_type": "485BPOS",
+    "cik": "0000035331",
+    "company_name": "FIDELITY DESTINY PORTFOLIOS",
+    "accession_number": "0000035331-26-000026",
+    "filed_date": "2026-11-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/35331/000003533126000026/0000035331-26-000026-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/35331/000003533126000026/filing13590.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/35331/000003533126000026/filing13590.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: FIDELITY DESTINY PORTFOLIOS\nETF Name: Diversified Stock Fund\nStrategy: For every $10,000 you invested, here's how much you would pay in total expenses if you sell all of your shares at the end of each time period indicated: 1 year $ 42 3 years $ 132 5 years $ 230 10 years $ 518 Portfolio Turnover The fund pays transaction costs, such as commissions, when it buys and sells securities (or \"turns over\" its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "FIDELITY DESTINY PORTFOLIOS",
+        "etf_name": "Diversified Stock Fund",
+        "strategy": "For every $10,000 you invested, here's how much you would pay in total expenses if you sell all of your shares at the end of each time period indicated: 1 year $ 42 3 years $ 132 5 years $ 230 10 years $ 518 Portfolio Turnover The fund pays transaction costs, such as commissions, when it buys and sells securities (or \"turns over\" its portfolio)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-23T20:12:25.648939+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001742912",
+    "company_name": "Tidal Trust I",
+    "accession_number": "0001999371-26-026062",
+    "filed_date": "2026-11-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126026062/0001999371-26-026062-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1742912/000199937126026062/vetz-485bpos_112326.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1742912/000199937126026062/vetz-485bpos_112326.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Tidal Trust I\nETF Name: Page Academy Veteran Bond ETF\nStrategy: The Academy Veteran Bond ETF (the \u201cFund\u201d) seeks to generate current income\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Tidal Trust I",
+        "etf_name": "Page Academy Veteran Bond ETF",
+        "strategy": "The Academy Veteran Bond ETF (the \u201cFund\u201d) seeks to generate current income",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-23T20:12:30.120938+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001314414",
+    "company_name": "Northern Lights Fund Trust",
+    "accession_number": "0001580642-26-007849",
+    "filed_date": "2026-11-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1314414/000158064226007849/0001580642-26-007849-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1314414/000158064226007849/changing-parameters_485b.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1314414/000158064226007849/changing-parameters_485b.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Northern Lights Fund Trust\nETF Name: Unknown\nStrategy: Although your actual costs may be higher or lower, based upon these assumptions your costs would be: 1 Year 3 Years 5 Years 10 Years $ 244 $ 751 $ 1,285 $ 2,746 Portfolio Turnover: The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Northern Lights Fund Trust",
+        "etf_name": "Unknown",
+        "strategy": "Although your actual costs may be higher or lower, based upon these assumptions your costs would be: 1 Year 3 Years 5 Years 10 Years $ 244 $ 751 $ 1,285 $ 2,746 Portfolio Turnover: The Fund pays transaction costs, such as commissions, when it buys and sells securities (or \u201cturns over\u201d its portfolio)",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-23T20:12:35.284250+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001592900",
+    "company_name": "EA Series Trust",
+    "accession_number": "0001592900-26-005080",
+    "filed_date": "2026-11-23",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026005080/0001592900-26-005080-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1592900/000159290026005080/ck0001592900-20261123.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1592900/000159290026005080/ck0001592900-20261123.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: EA Series Trust\nETF Name: PRINCIPAL INVESTMENT STRATEGIES The Altrius Global Dividend ETF\nStrategy: If the Fund is selling investments or experiencing net subscriptions during those periods, the Fund could have a significant cash position, which could adversely impact the Fund\u2019s The Fund\u2019s investment objective is a non-fundamental investment policy and may be changed without a vote of shareholders upon prior written notice to shareholders Investments in securities and instruments traded in developing or emerging ma\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "EA Series Trust",
+        "etf_name": "PRINCIPAL INVESTMENT STRATEGIES The Altrius Global Dividend ETF",
+        "strategy": "If the Fund is selling investments or experiencing net subscriptions during those periods, the Fund could have a significant cash position, which could adversely impact the Fund\u2019s The Fund\u2019s investment objective is a non-fundamental investment policy and may be changed without a vote of shareholders upon prior written notice to shareholders Investments in securities and instruments traded in developing or emerging ma",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-11-20T22:24:45.052028+00:00",
     "form_type": "485APOS",
     "cik": "0001100663",
@@ -14229,267 +14490,6 @@
         "filer": "BlackRock ETF Trust",
         "etf_name": "Advisors and its affiliates. i iSHARES MACRO ALPHABETA ACTIVE ETF",
         "strategy": "The investment objective of iShares Macro AlphaBeta Active ETF (the \u201cFund\u201d) is to seek total return As described in the \u201cManagement \u201d section of the Fund\u2019s prospectus beginning on page 27, BFA has contractually agreed to waive a portion of its management fees in an amount equal to the aggregate Acquired Fund The Fund seeks to achieve its investment objective of seeking total return by combining two sources of returns",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-14T22:13:39.891737+00:00",
-    "form_type": "485APOS",
-    "cik": "0001424958",
-    "company_name": "Direxion Shares ETF Trust",
-    "accession_number": "0001193125-26-421622",
-    "filed_date": "2026-10-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526421622/0001193125-26-421622-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1424958/000119312526421622/d155017d485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1424958/000119312526421622/d155017d485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Direxion Shares ETF Trust\nETF Name: Unknown\nStrategy: Index Correlation Risk \u2014 There is no guarantee that the Fund will achieve a high degree of correlation to the Index and, therefore, achieve its investment objective Activities surrounding Index reconstitutions and other Index rebalancing events may hinder the Fund\u2019s ability to meet its investment objective\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Direxion Shares ETF Trust",
-        "etf_name": "Unknown",
-        "strategy": "Index Correlation Risk \u2014 There is no guarantee that the Fund will achieve a high degree of correlation to the Index and, therefore, achieve its investment objective Activities surrounding Index reconstitutions and other Index rebalancing events may hinder the Fund\u2019s ability to meet its investment objective",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-14T22:13:44.299527+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000768847",
-    "company_name": "VanEck Funds",
-    "accession_number": "0000768847-26-000166",
-    "filed_date": "2026-10-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/768847/000076884726000166/0000768847-26-000166-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/768847/000076884726000166/ck0000768847-20261014.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/768847/000076884726000166/ck0000768847-20261014.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: VanEck Funds\nETF Name: VanEck Pivotal Trends ETF\nStrategy: The VanEck Pivotal Trends ETF (the \u201cFund\u201d) seeks long-term capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "VanEck Funds",
-        "etf_name": "VanEck Pivotal Trends ETF",
-        "strategy": "The VanEck Pivotal Trends ETF (the \u201cFund\u201d) seeks long-term capital appreciation",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-14T22:13:47.052527+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001618627",
-    "company_name": "RBB Fund Trust",
-    "accession_number": "0001999371-26-022742",
-    "filed_date": "2026-10-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126022742/0001999371-26-022742-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1618627/000199937126022742/longview-485pos_101426.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1618627/000199937126022742/longview-485pos_101426.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: RBB Fund Trust\nETF Name: Longview Advantage Expected Return ETF\nStrategy: The investment objective of the Longview Advantage US Equity ETF (the \u201cFund\u201d) is to seek long-term capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "RBB Fund Trust",
-        "etf_name": "Longview Advantage Expected Return ETF",
-        "strategy": "The investment objective of the Longview Advantage US Equity ETF (the \u201cFund\u201d) is to seek long-term capital appreciation",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-14T19:01:24.093699+00:00",
-    "form_type": "485BPOS",
-    "cik": "0000768847",
-    "company_name": "VanEck Funds",
-    "accession_number": "0000768847-26-000163",
-    "filed_date": "2026-10-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/768847/000076884726000163/0000768847-26-000163-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/768847/000076884726000163/ck0000768847-20261014.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/768847/000076884726000163/ck0000768847-20261014.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: VanEck Funds\nETF Name: VanEck Wealth Builder ETF\nStrategy: The VanEck Wealth Builder ETF (the \u201cFund\u201d) seeks long-term capital appreciation and current income\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "VanEck Funds",
-        "etf_name": "VanEck Wealth Builder ETF",
-        "strategy": "The VanEck Wealth Builder ETF (the \u201cFund\u201d) seeks long-term capital appreciation and current income",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-14T19:01:31.866395+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001081400",
-    "company_name": "ALLSPRING FUNDS TRUST",
-    "accession_number": "0001081400-26-000500",
-    "filed_date": "2026-10-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1081400/000108140026000500/0001081400-26-000500-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1081400/000108140026000500/allspring-20261019.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1081400/000108140026000500/allspring-20261019.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: ALLSPRING FUNDS TRUST\nETF Name: This prospectus describes only the ETF\nStrategy: The Fund seeks high current income exempt from federal income tax, and capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "ALLSPRING FUNDS TRUST",
-        "etf_name": "This prospectus describes only the ETF",
-        "strategy": "The Fund seeks high current income exempt from federal income tax, and capital appreciation",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-14T19:01:36.441149+00:00",
-    "form_type": "485APOS",
-    "cik": "0001602508",
-    "company_name": "FundX Investment Trust",
-    "accession_number": "0000894189-26-029331",
-    "filed_date": "2026-10-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1602508/000089418926029331/0000894189-26-029331-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1602508/000089418926029331/fundx-thefuturefundlongshoe.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1602508/000089418926029331/fundx-thefuturefundlongshoe.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: FundX Investment Trust\nETF Name: The Future Fund\nStrategy: of the Future Fund Long/Short ETF (the \u201cFund\u201d) is to seek to provide capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "FundX Investment Trust",
-        "etf_name": "The Future Fund",
-        "strategy": "of the Future Fund Long/Short ETF (the \u201cFund\u201d) is to seek to provide capital appreciation",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-14T19:01:40.588292+00:00",
-    "form_type": "485APOS",
-    "cik": "0001655589",
-    "company_name": "Franklin Templeton ETF Trust",
-    "accession_number": "0001655589-26-001347",
-    "filed_date": "2026-10-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1655589/000165558926001347/0001655589-26-001347-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1655589/000165558926001347/c485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1655589/000165558926001347/c485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Franklin Templeton ETF Trust\nETF Name: FRANKLIN PAYDAY CORE ENHANCED EQUITY INCOME ETF FUND\nStrategy: Under normal market conditions, the Fund will pursue an enhanced equity income strategy by (1) investing primarily in equity securities and (2) \u201cenhancing\u201d income through the employment of an options overlay by writing (selling) U.S (Advisers), the Fund\u2019s investment manager, provides the day-to-day portfolio\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Franklin Templeton ETF Trust",
-        "etf_name": "FRANKLIN PAYDAY CORE ENHANCED EQUITY INCOME ETF FUND",
-        "strategy": "Under normal market conditions, the Fund will pursue an enhanced equity income strategy by (1) investing primarily in equity securities and (2) \u201cenhancing\u201d income through the employment of an options overlay by writing (selling) U.S (Advisers), the Fund\u2019s investment manager, provides the day-to-day portfolio",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-14T14:43:30.295971+00:00",
-    "form_type": "485APOS",
-    "cik": "0001810747",
-    "company_name": "Simplify Exchange Traded Funds",
-    "accession_number": "0001829126-26-011114",
-    "filed_date": "2026-10-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626011114/0001829126-26-011114-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1810747/000182912626011114/simplifyexchange_485apos.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1810747/000182912626011114/simplifyexchange_485apos.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Simplify Exchange Traded Funds\nETF Name: The Simplify Global Equity PLUS Aggregate Bond ETF\nStrategy: (the \u201cadviser\u201d) seeks to achieve the Fund\u2019s investment objective by employing two principal strategies 14 \u2013 Simplify Global Equity PLUS Aggregate Bond ETF Investment Objective: The Simplify Global Equity PLUS Aggregate Bond ETF seeks long-term capital appreciation\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Simplify Exchange Traded Funds",
-        "etf_name": "The Simplify Global Equity PLUS Aggregate Bond ETF",
-        "strategy": "(the \u201cadviser\u201d) seeks to achieve the Fund\u2019s investment objective by employing two principal strategies 14 \u2013 Simplify Global Equity PLUS Aggregate Bond ETF Investment Objective: The Simplify Global Equity PLUS Aggregate Bond ETF seeks long-term capital appreciation",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-14T14:43:32.960800+00:00",
-    "form_type": "485BPOS",
-    "cik": "0002078265",
-    "company_name": "Corgi ETF Trust I",
-    "accession_number": "0002078265-26-000443",
-    "filed_date": "2026-10-14",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000443/0002078265-26-000443-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/2078265/000207826526000443/cik0002078265-20261014.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/2078265/000207826526000443/cik0002078265-20261014.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Corgi ETF Trust I\nETF Name: Corgi Money Market ETF Investment Objective The Corgi Money Market ETF\nStrategy: The Fund's investment objective is not fundamental and may be changed by the Board of Trustees (the \"Board\") of Corgi ETF Trust I (the \"Trust\") upon 60 days' prior written notice to shareholders for the Fund General Investment Policies Under normal market conditions, the Fund is an actively managed exchange-traded fund (\"ETF\") Corgi Strategies, LLC (the \"Adviser\") manages the Fund's portfolio in accordance with the F\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Corgi ETF Trust I",
-        "etf_name": "Corgi Money Market ETF Investment Objective The Corgi Money Market ETF",
-        "strategy": "The Fund's investment objective is not fundamental and may be changed by the Board of Trustees (the \"Board\") of Corgi ETF Trust I (the \"Trust\") upon 60 days' prior written notice to shareholders for the Fund General Investment Policies Under normal market conditions, the Fund is an actively managed exchange-traded fund (\"ETF\") Corgi Strategies, LLC (the \"Adviser\") manages the Fund's portfolio in accordance with the F",
         "is_alert_worthy": "LOW"
       }
     ],
