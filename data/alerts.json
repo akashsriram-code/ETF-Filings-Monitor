@@ -1,5 +1,121 @@
 [
   {
+    "created_at": "2026-11-27T11:33:52.900931+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001390204",
+    "company_name": "Nuveen Managed Accounts Portfolios Trust",
+    "accession_number": "0001193125-26-479116",
+    "filed_date": "2026-11-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1390204/000119312526479116/0001193125-26-479116-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1390204/000119312526479116/d157753d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1390204/000119312526479116/d157753d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Nuveen Managed Accounts Portfolios Trust\nETF Name: Unknown\nStrategy: Under normal market conditions, the Portfolio invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in municipal bonds that pay interest that is exempt from regular federal personal income tax Portfolio shares may be purchased only by or on behalf of separately managed account clients where Nuveen Asset\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Nuveen Managed Accounts Portfolios Trust",
+        "etf_name": "Unknown",
+        "strategy": "Under normal market conditions, the Portfolio invests at least 80% of the sum of its net assets and the amount of any borrowings for investment purposes in municipal bonds that pay interest that is exempt from regular federal personal income tax Portfolio shares may be purchased only by or on behalf of separately managed account clients where Nuveen Asset",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-27T11:34:03.096249+00:00",
+    "form_type": "485BPOS",
+    "cik": "0001041673",
+    "company_name": "NUVEEN INVESTMENT TRUST II",
+    "accession_number": "0001193125-26-479110",
+    "filed_date": "2026-11-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1041673/000119312526479110/0001193125-26-479110-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1041673/000119312526479110/d107465d485bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1041673/000119312526479110/d107465d485bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: NUVEEN INVESTMENT TRUST II\nETF Name: Nuveen Dividend Growth Fund\nStrategy: Depending on market conditions, dividend paying securities that meet the Fund\u2019s investment objectives may not be widely available or may be concentrated in only a few market sectors. Depending on market conditions, dividend paying securities that meet the Fund\u2019s investment objectives may not be widely available or may be concentrated in only a few market sectors.\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "NUVEEN INVESTMENT TRUST II",
+        "etf_name": "Nuveen Dividend Growth Fund",
+        "strategy": "Depending on market conditions, dividend paying securities that meet the Fund\u2019s investment objectives may not be widely available or may be concentrated in only a few market sectors. Depending on market conditions, dividend paying securities that meet the Fund\u2019s investment objectives may not be widely available or may be concentrated in only a few market sectors.",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-27T11:34:14.308443+00:00",
+    "form_type": "485APOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-054342",
+    "filed_date": "2026-11-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226054342/0001493152-26-054342-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226054342/form485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226054342/form485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: Total Annual Fund\nStrategy: The Fund\u2019s secondary investment objective is to seek capital appreciation through raised exposure of approximately 150% to the price return of the common stock of Apple Inc\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "Total Annual Fund",
+        "strategy": "The Fund\u2019s secondary investment objective is to seek capital appreciation through raised exposure of approximately 150% to the price return of the common stock of Apple Inc",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
+    "created_at": "2026-11-27T11:34:21.476780+00:00",
+    "form_type": "486BPOS",
+    "cik": "0001939052",
+    "company_name": "Stone Ridge Trust VIII",
+    "accession_number": "0001193125-26-478801",
+    "filed_date": "2026-11-25",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1939052/000119312526478801/0001193125-26-478801-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1939052/000119312526478801/d130693d486bpos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1939052/000119312526478801/d130693d486bpos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: Stone Ridge Trust VIII\nETF Name: Stone Ridge Art Risk Premium Fund\nStrategy: The Fund pursues its investment objective by investing, primarily in paintings, sculptures or other artistic objects (\u201cArtwork\u201d) from the Post-War and Contemporary collecting periods (each as described further below), as well as other collecting periods, created by artists that have an established track record of public auction sales (typically at least three years of public auction results) In particular, you should\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "Stone Ridge Trust VIII",
+        "etf_name": "Stone Ridge Art Risk Premium Fund",
+        "strategy": "The Fund pursues its investment objective by investing, primarily in paintings, sculptures or other artistic objects (\u201cArtwork\u201d) from the Post-War and Contemporary collecting periods (each as described further below), as well as other collecting periods, created by artists that have an established track record of public auction sales (typically at least three years of public auction results) In particular, you should",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-11-26T02:02:45.529733+00:00",
     "form_type": "485BPOS",
     "cik": "0000769220",
@@ -14378,122 +14494,6 @@
         "filer": "Van Kampen Unit Trusts Taxable Income Series 331",
         "etf_name": "New Jersey Transportation Trust Fund",
         "strategy": "6 PORTFOLIO As of June 30, 2026, the Build America Bonds Income Trust, Series 80 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable In order to calculate estimated returns of a GNMA Income Portfolio and the estimated average life of the securities, an estimated prepayment rate for the remaining term of the Trust\u2019s mortgage pool must be determined",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-22T16:06:12.212775+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001503923",
-    "company_name": "Van Kampen Unit Trusts Taxable Income Series 303",
-    "accession_number": "0001528621-26-001116",
-    "filed_date": "2026-10-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1503923/000152862126001116/0001528621-26-001116-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1503923/000152862126001116/tis303_485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1503923/000152862126001116/tis303_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Van Kampen Unit Trusts Taxable Income Series 303\nETF Name: INVESTMENT GRADE INCOME TRUST\nStrategy: This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of June 30, 2026, the Investment Grade Income Trust, 20+ Year Series 1 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Van Kampen Unit Trusts Taxable Income Series 303",
-        "etf_name": "INVESTMENT GRADE INCOME TRUST",
-        "strategy": "This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of June 30, 2026, the Investment Grade Income Trust, 20+ Year Series 1 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-22T16:06:14.787242+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001482126",
-    "company_name": "Van Kampen Unit Trusts Taxable Income Series 266",
-    "accession_number": "0001528621-26-001115",
-    "filed_date": "2026-10-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1482126/000152862126001115/0001528621-26-001115-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1482126/000152862126001115/tis266_485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1482126/000152862126001115/tis266_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Van Kampen Unit Trusts Taxable Income Series 266\nETF Name: LLC as Evaluator. An investment in your Trust\nStrategy: This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of June 30, 2026, the Build America Bonds Income Trust, Series 43 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Van Kampen Unit Trusts Taxable Income Series 266",
-        "etf_name": "LLC as Evaluator. An investment in your Trust",
-        "strategy": "This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of June 30, 2026, the Build America Bonds Income Trust, Series 43 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-22T16:06:17.268249+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001172286",
-    "company_name": "VAN KAMPEN FOCUS PORTFOLIOS TAXABLE INCOME SERIES 41",
-    "accession_number": "0001528621-26-001114",
-    "filed_date": "2026-10-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1172286/000152862126001114/0001528621-26-001114-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1172286/000152862126001114/tis041_485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1172286/000152862126001114/tis041_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: VAN KAMPEN FOCUS PORTFOLIOS TAXABLE INCOME SERIES 41\nETF Name: December for the Long-Term Investment Grade Trust\nStrategy: This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "VAN KAMPEN FOCUS PORTFOLIOS TAXABLE INCOME SERIES 41",
-        "etf_name": "December for the Long-Term Investment Grade Trust",
-        "strategy": "This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-22T16:06:19.279041+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001802043",
-    "company_name": "Invesco Unit Trusts, Municipal Series 1363",
-    "accession_number": "0001528621-26-001113",
-    "filed_date": "2026-10-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1802043/000152862126001113/0001528621-26-001113-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1802043/000152862126001113/focus1363_485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1802043/000152862126001113/focus1363_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Invesco Unit Trusts, Municipal Series 1363\nETF Name: A State Intermediate Laddered Maturity Trust\nStrategy: vestment in a laddered portfolio of interest-bearing obligations with maturities ranging from approximately 10 to 30 years in which roughly 20% of the bonds mature every five years beginning in approximately the tenth year of the Trust A State Intermediate Laddered Maturity Trust has additional objectives of providing protection against changes in interest rates and investment flexibility through an investment in a l\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Invesco Unit Trusts, Municipal Series 1363",
-        "etf_name": "A State Intermediate Laddered Maturity Trust",
-        "strategy": "vestment in a laddered portfolio of interest-bearing obligations with maturities ranging from approximately 10 to 30 years in which roughly 20% of the bonds mature every five years beginning in approximately the tenth year of the Trust A State Intermediate Laddered Maturity Trust has additional objectives of providing protection against changes in interest rates and investment flexibility through an investment in a l",
         "is_alert_worthy": "LOW"
       }
     ],
