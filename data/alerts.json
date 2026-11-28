@@ -1,5 +1,34 @@
 [
   {
+    "created_at": "2026-11-28T02:52:53.563077+00:00",
+    "form_type": "485APOS",
+    "cik": "0001689873",
+    "company_name": "GraniteShares ETF Trust",
+    "accession_number": "0001493152-26-054510",
+    "filed_date": "2026-11-27",
+    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226054510/0001493152-26-054510-index.html",
+    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1689873/000149315226054510/form485apos.htm",
+    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1689873/000149315226054510/form485apos.htm",
+    "matched_keywords": [],
+    "is_crypto": false,
+    "synopsis": "Synopsis 1\nFiler: GraniteShares ETF Trust\nETF Name: Long Strategy other than changes in the price of the Underlying ETF\nStrategy: There is no guarantee that the Fund\u2019s investment strategy will be properly implemented, and an investor may lose some or all of its investment\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
+    "synopsis_items": [
+      {
+        "filer": "GraniteShares ETF Trust",
+        "etf_name": "Long Strategy other than changes in the price of the Underlying ETF",
+        "strategy": "There is no guarantee that the Fund\u2019s investment strategy will be properly implemented, and an investor may lose some or all of its investment",
+        "is_alert_worthy": "LOW"
+      }
+    ],
+    "wire_recommendation": "LOW",
+    "why_this_matters": [
+      "Captured for ETF desk triage and potential wire follow-up.",
+      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
+    ],
+    "email_sent": true,
+    "error": null
+  },
+  {
     "created_at": "2026-11-27T20:18:02.372801+00:00",
     "form_type": "485BPOS",
     "cik": "0001174610",
@@ -14465,35 +14494,6 @@
         "filer": "Van Kampen Unit Trusts Taxable Income Series 407",
         "etf_name": "INVESTMENT GRADE INCOME TRUST",
         "strategy": "This fee may be adjusted for increases in consumer prices for services under the category \u201cServices Less Rent of Shelter\u201d in the Consumer Price Index for All Urban Consumers 6 PORTFOLIO As of June 30, 2026, the Investment Grade Income Trust, 20+ Year Series 26 consists of issues which are payable from the income of a specific project, authority or corporation, as applicable",
-        "is_alert_worthy": "LOW"
-      }
-    ],
-    "wire_recommendation": "LOW",
-    "why_this_matters": [
-      "Captured for ETF desk triage and potential wire follow-up.",
-      "Escalate when the filing changes strategy, structure, exposure, or launch timing."
-    ],
-    "email_sent": true,
-    "error": null
-  },
-  {
-    "created_at": "2026-10-22T16:06:04.026691+00:00",
-    "form_type": "485BPOS",
-    "cik": "0001524303",
-    "company_name": "Van Kampen Unit Trusts Taxable Income Series 400",
-    "accession_number": "0001528621-26-001119",
-    "filed_date": "2026-10-22",
-    "sec_index_url": "https://www.sec.gov/Archives/edgar/data/1524303/000152862126001119/0001528621-26-001119-index.html",
-    "sec_filing_url": "https://www.sec.gov/ix?doc=/Archives/edgar/data/1524303/000152862126001119/tis400_485.htm",
-    "primary_document_url": "https://www.sec.gov/Archives/edgar/data/1524303/000152862126001119/tis400_485.htm",
-    "matched_keywords": [],
-    "is_crypto": false,
-    "synopsis": "Synopsis 1\nFiler: Van Kampen Unit Trusts Taxable Income Series 400\nETF Name: The original cost to the Trust\nStrategy: The portfolio is divided by purpose of issue as follows: Airport, (27%); Corporate Bonds, (21%); General Obligation, (7%); General Purpose, (24%); Transportation, (2%) and Utilities, (19%)\nIS ALERT WORTHY: LOW\n\nWhy this matters:\n- Captured for ETF desk triage and potential wire follow-up.\n- Escalate when the filing changes strategy, structure, exposure, or launch timing.",
-    "synopsis_items": [
-      {
-        "filer": "Van Kampen Unit Trusts Taxable Income Series 400",
-        "etf_name": "The original cost to the Trust",
-        "strategy": "The portfolio is divided by purpose of issue as follows: Airport, (27%); Corporate Bonds, (21%); General Obligation, (7%); General Purpose, (24%); Transportation, (2%) and Utilities, (19%)",
         "is_alert_worthy": "LOW"
       }
     ],
